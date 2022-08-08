@@ -1,0 +1,71 @@
+ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0_38511_004,ItemContextOffset
+1,,50,0,0,0,0
+2,Guarantee Haste,1,2915,1,0,0
+4,,3,2922,0,0,0
+5,Guarantee Critical Strike,6,2927,1,0,0
+6,Guarantee Versatility,7,2928,1,0,0
+7,Guarantee Mastery,5,2929,1,0,0
+8,Set the Item Level to 117 and the Required Level to 55.,29,3203,0,0,0
+9,Set the Item Level to 168 and the Required Level to 60.,46,3210,0,0,0
+10,Set the Item Level to 180 and the Required Level to 60.,8,3210,0,0,0
+11,Set the Item Level to 200.,8,3211,0,0,0
+12,Bonus Damage vs. Beasts,9,2934,0,0,0
+13,Bonus Damage vs. Humanoids,9,2935,0,0,0
+14,Bonus Damage vs. Undead,9,2936,0,0,0
+15,Bonus Damage vs. Aberrations,9,2937,0,0,0
+16,Chance on hit increase Frost damage taken,27,2938,0,0,0
+17,Flasks last longer,44,2939,0,0,0
+18,Chance to gain Agility temporarily,12,2940,0,0,0
+19,Chance to gain Strength temporarily,12,2941,0,0,0
+20,Chance to gain Intellect temporarily,12,2942,0,0,0
+21,Damage enemies that melee attack you,13,2945,0,0,0
+22,Chance to deal Frost damage,14,2950,0,0,0
+23,,15,2989,0,0,0
+24,,15,2990,0,0,0
+25,,15,2992,0,0,0
+26,,15,2991,0,0,0
+27,Well Fed lasts longer,11,3000,0,0,0
+28,,13,3003,0,0,0
+29,,16,3024,0,0,0
+30,Deal Fire damage to enemy,17,3070,0,0,0
+32,Set the Item Level to 19 and the Required Level to 14.,18,3204,0,0,0
+34,Set the Item Level to 28 and the Required Level to 23.,30,3205,0,0,0
+36,Set the Item Level to 39 and the Required Level to 32.,31,3206,0,0,0
+38,Set the Item Level to 48 and the Required Level to 41.,32,3207,0,0,0
+39,Set the Item Level to 54 and the Required Level to 47.,33,3208,0,0,0
+58,Reduce falling damage,41,3147,0,0,0
+59,Slightly increase move speed,42,3148,0,0,0
+60,Bonus Armor,26,3151,0,0,0
+61,Increase swim speed,40,3152,0,0,0
+62,Deal Frost damage to enemy,17,3153,0,0,0
+63,Periodically gain a shield that absorbs Fire damage,28,3154,0,0,0
+64,Retain Well Fed when slain in Arena or Battleground,38,3175,0,0,0
+65,Chance to get extra Skill Up when crafting,39,3176,0,0,0
+66,Add a socket,35,3177,0,0,0
+67,@spelldesc332950,11,169,0,0,0
+68,Completing World Quests increase Primary Stat,37,3178,0,0,0
+69,Increased duration of Shadowlands flask effects by 1 hour.,36,3181,0,0,0
+70,Set the Item Level to 129 and the Required Level to 53.,29,3203,0,0,0
+71,Set the Item Level to 200 and the Required Level to 60.,51,3211,0,0,0
+72,Set the Item Level to 165 and the Required Level to 57.,29,3209,0,0,0
+73,Set the Item Level to 165.,29,3210,0,0,0
+74,Set the Item Level to 54 and the Required Level to 47.,45,3208,0,0,0
+75,Set the Item Level to 56 and the Required Level to 45.,32,3207,0,0,0
+76,Set the Item Level to 43 and the Required Level to 35.,31,3206,0,0,0
+77,Set the Item Level to 33 and the Required Level to 25.,30,3205,0,0,0
+78,Set the Item Level to 23 and the Required Level to 15.,18,3204,0,0,0
+79,Set the Item Level to 87 and the Required Level to 50.,45,3265,0,100,0
+80,Increase the item level by the equivalent of 2 ranks.,50,0,0,0,2
+81,"Set the Item Level to 230, the Required Level to 60, and add Unique Equipped: Shadowlands Crafted.",52,3323,0,0,0
+82,Set the Item Level to 233 and the Required Level to 60.,53,3444,0,0,0
+83,"Set the Item Level to 262, the Required Level to 60, and add Unique Equipped: Shadowlands Crafted.",54,3445,0,0,0
+84,Increase the item level by the equivalent of 3 ranks.,55,0,0,0,3
+85,"Your abilities have a chance to create an Automa Core near the target, dealing damage and healing.",56,3448,0,0,0
+86,"Increases Avoidance, and taking damage has a chance to heal you.",56,3449,0,0,0
+87,You have a chance to acquire extra resources when you kill an enemy that yields experience or honor.,56,3450,0,0,0
+88,Your abilities have a chance to create a mote nearby. Collect it to gain primary stat for 15 sec.,56,3451,0,0,0
+89,"Increases Speed, and increases ground mount speed while in the Shadowlands.",56,3452,0,0,0
+90,"Taking damage builds sparks of power. At 5 stacks, the next attacker is shocked for Cosmic damage.",56,3453,0,0,0
+91,"When you kill an enemy, your highest secondary stat is increased for 20 sec stacking up to 5 times.",56,3454,0,0,0
+92,"Increases the duration of Flask, Elixir, and Well Fed effects by 50%.",56,3455,0,0,0
+107,Set the Item Level of a rank 1 recipe to 249.,83,0,0,0,4

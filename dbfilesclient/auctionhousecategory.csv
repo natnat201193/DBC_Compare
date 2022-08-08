@@ -1,0 +1,173 @@
+Field_9_2_7_44767_000_lang,Field_9_2_7_44767_001_lang,Field_9_2_7_44767_002,Field_9_2_7_44767_003,Field_9_2_7_44767_004,Field_9_2_7_44767_005,Field_9_2_7_44767_006,Field_9_2_7_44767_007,Field_9_2_7_44767_008
+Weapons,iLvl,1,3,0,13,10,0,0
+One-Handed,iLvl,2,0,0,0,10,0,1
+One-Handed Axes,iLvl,3,3,3,0,10,0,2
+One-Handed Maces,iLvl,4,3,7,0,20,0,2
+One-Handed Swords,iLvl,5,3,10,0,30,0,2
+Warglaives,iLvl,6,3,12,0,40,0,2
+Daggers,iLvl,7,3,18,0,50,0,2
+Fist Weapons,iLvl,8,3,16,0,60,0,2
+Wands,iLvl,9,3,56,0,70,0,2
+Two-Handed,iLvl,10,0,0,0,20,0,1
+Two-Handed Axes,iLvl,11,3,4,0,10,0,10
+Two-Handed Maces,iLvl,12,3,8,0,20,0,10
+Two-Handed Swords,iLvl,13,3,11,0,30,0,10
+Polearms,iLvl,14,3,9,0,40,0,10
+Staves,iLvl,15,3,13,0,50,0,10
+Ranged,iLvl,16,0,0,0,30,0,1
+Bows,iLvl,17,3,5,0,10,0,16
+Crossbows,iLvl,18,3,55,0,20,0,16
+Guns,iLvl,19,3,6,0,30,0,16
+Thrown,iLvl,20,3,34,0,40,0,16
+Miscellaneous,iLvl,21,0,0,0,40,0,1
+Fishing Poles,iLvl,22,3,57,0,10,0,21
+Other,iLvl,23,3,17,0,20,0,21
+Armor,iLvl,24,5,0,0,20,0,0
+Plate,iLvl,25,5,23,0,10,0,24
+Runecarving,iLvl,26,5,23,0,10,12,25
+Head,iLvl,27,5,23,1,20,0,25
+Shoulder,iLvl,28,5,23,3,30,0,25
+Chest,iLvl,29,5,23,5,40,0,25
+Waist,iLvl,30,5,23,6,50,0,25
+Legs,iLvl,31,5,23,7,60,0,25
+Feet,iLvl,32,5,23,8,70,0,25
+Wrist,iLvl,33,5,23,9,80,0,25
+Hands,iLvl,34,5,23,10,90,0,25
+Mail,iLvl,35,5,22,0,20,0,24
+Runecarving,iLvl,36,5,22,0,10,12,35
+Head,iLvl,37,5,22,1,20,0,35
+Shoulder,iLvl,38,5,22,3,30,0,35
+Chest,iLvl,39,5,22,5,40,0,35
+Waist,iLvl,40,5,22,6,50,0,35
+Legs,iLvl,41,5,22,7,60,0,35
+Feet,iLvl,42,5,22,8,70,0,35
+Wrist,iLvl,43,5,22,9,80,0,35
+Hands,iLvl,44,5,22,10,90,0,35
+Leather,iLvl,45,5,21,0,30,0,24
+Runecarving,iLvl,46,5,21,0,10,12,45
+Head,iLvl,47,5,21,1,20,0,45
+Shoulder,iLvl,48,5,21,3,30,0,45
+Chest,iLvl,49,5,21,5,40,0,45
+Waist,iLvl,50,5,21,6,50,0,45
+Legs,iLvl,51,5,21,7,60,0,45
+Feet,iLvl,52,5,21,8,70,0,45
+Wrist,iLvl,53,5,21,9,80,0,45
+Hands,iLvl,54,5,21,10,90,0,45
+Cloth,iLvl,55,5,20,0,40,0,24
+Runecarving,iLvl,56,5,20,0,10,12,55
+Head,iLvl,57,5,20,1,20,0,55
+Shoulder,iLvl,58,5,20,3,30,0,55
+Chest,iLvl,59,5,20,5,40,0,55
+Waist,iLvl,60,5,20,6,50,0,55
+Legs,iLvl,61,5,20,7,60,0,55
+Feet,iLvl,62,5,20,8,70,0,55
+Wrist,iLvl,63,5,20,9,80,0,55
+Hands,iLvl,64,5,20,10,90,0,55
+Miscellaneous,iLvl,65,5,19,0,50,0,24
+Runecarving,iLvl,66,5,19,0,10,12,65
+Neck,iLvl,67,5,19,2,20,0,65
+Cloak,iLvl,68,5,20,16,30,0,65
+Finger,iLvl,69,5,19,11,40,0,65
+Trinket,iLvl,70,5,19,12,50,0,65
+Held In Off-hand,iLvl,71,5,19,23,60,0,65
+Shields,iLvl,72,5,25,14,70,0,65
+Shirt,iLvl,73,5,19,4,80,0,65
+Head,iLvl,74,5,19,1,90,0,65
+Cosmetic,iLvl,75,5,24,0,60,0,24
+Containers,Slots,76,2,0,0,30,0,0
+Bag,Slots,77,2,2,0,10,0,76
+Mining Bag,Slots,78,2,118,0,20,0,76
+Tackle Box,Slots,79,2,171,0,30,0,76
+Inscription Bag,Slots,80,2,167,0,40,0,76
+Leatherworking Bag,Slots,81,2,149,0,50,0,76
+Herb Bag,Slots,82,2,109,0,60,0,76
+Enchanting Bag,Slots,83,2,110,0,70,0,76
+Engineering Bag,Slots,84,2,111,0,80,0,76
+Gem Bag,Slots,85,2,116,0,90,0,76
+Cooking Bag,Slots,86,2,179,0,100,0,76
+Gems,iLvl,87,4,0,0,40,0,0
+Artifact Relic,iLvl,88,4,187,0,10,0,87
+Intellect,iLvl,89,4,36,0,20,0,87
+Agility,iLvl,90,4,119,0,30,0,87
+Strength,iLvl,91,4,120,0,40,0,87
+Stamina,iLvl,92,4,121,0,50,0,87
+Critical Strike,iLvl,93,4,123,0,60,0,87
+Mastery,iLvl,94,4,124,0,70,0,87
+Haste,iLvl,95,4,125,0,80,0,87
+Versatility,iLvl,96,4,126,0,90,0,87
+Other,iLvl,97,4,169,0,100,0,87
+Multiple Stats,iLvl,98,4,170,0,110,0,87
+Item Enhancements,iLvl,99,9,0,0,50,0,0
+Chest,iLvl,100,9,191,0,10,0,99
+Wrist,iLvl,101,9,192,0,20,0,99
+Hands,iLvl,102,9,193,0,30,0,99
+Misc,iLvl,103,9,201,0,40,0,99
+Head,iLvl,104,9,48,0,50,0,99
+Two-Handed Weapon,iLvl,105,9,199,0,60,0,99
+Shield/Off-hand,iLvl,106,9,200,0,70,0,99
+Shoulder,iLvl,107,9,189,0,80,0,99
+Cloak,iLvl,108,9,190,0,90,0,99
+Weapon,iLvl,109,9,198,0,100,0,99
+Finger,iLvl,110,9,197,0,110,0,99
+Feet,iLvl,111,9,196,0,120,0,99
+Legs,iLvl,112,9,195,0,130,0,99
+Waist,iLvl,113,9,194,0,140,0,99
+Consumables,Level,114,1,0,0,60,0,0
+Vantus Runes,Level,115,1,184,0,10,0,114
+Flask,Level,116,1,131,0,20,0,114
+Explosives and Devices,Level,117,1,43,0,30,0,114
+Potion,Level,118,1,44,0,40,0,114
+Elixir,Level,119,1,45,0,50,0,114
+Food & Drink,Level,120,1,133,0,60,0,114
+Bandage,Level,121,1,135,0,70,0,114
+Other,Level,122,1,136,0,80,0,114
+Glyphs,,123,17,0,0,70,0,0
+Druid,,124,17,161,0,10,0,123
+Warlock,,125,17,160,0,20,0,123
+Mage,,126,17,159,0,30,0,123
+Shaman,,127,17,158,0,40,0,123
+Priest,,128,17,157,0,50,0,123
+Rogue,,129,17,156,0,60,0,123
+Hunter,,130,17,155,0,70,0,123
+Paladin,,131,17,154,0,80,0,123
+Death Knight,,132,17,162,0,90,0,123
+Monk,,133,17,177,0,100,0,123
+Warrior,,134,17,153,0,110,0,123
+Demon Hunter,,135,17,183,0,120,0,123
+Trade Goods,,136,8,0,0,80,0,0
+Cloth,,137,8,137,0,10,0,136
+Leather,,138,8,138,0,20,0,136
+Metal & Stone,,139,8,139,0,30,0,136
+Cooking,,140,8,140,0,40,0,136
+Herb,,141,8,141,0,50,0,136
+Enchanting,,142,8,148,0,50,0,136
+Inscription,,143,8,185,0,60,0,136
+Jewelcrafting,,144,8,115,0,70,0,136
+Parts,,145,8,38,0,80,0,136
+Elemental,,146,8,142,0,90,0,136
+Optional Reagents,,147,8,327,0,100,0,136
+Other,,148,8,143,0,110,0,136
+Recipes,Skill,149,10,0,0,90,0,0
+Inscription,Skill,150,10,168,0,10,0,149
+Tailoring,Skill,151,10,42,0,20,0,149
+Leatherworking,Skill,152,10,41,0,30,0,149
+Jewelcrafting,Skill,153,10,106,0,40,0,149
+Alchemy,Skill,154,10,102,0,50,0,149
+Blacksmithing,Skill,155,10,100,0,60,0,149
+Engineering,Skill,156,10,99,0,70,0,149
+Enchanting,Skill,157,10,104,0,80,0,149
+Cooking,Skill,158,10,101,0,90,0,149
+First Aid,Skill,159,10,103,0,100,0,149
+Fishing,Skill,160,10,105,0,110,0,149
+Book,Skill,161,10,40,0,120,0,149
+Battle Pets,Level,162,18,0,0,100,0,0
+Companion Pets,Level,163,16,145,0,1000,0,162
+Quest Items,,164,13,0,0,110,0,0
+Miscellaneous,,165,16,0,0,120,0,0
+Junk,,166,16,52,0,10,0,165
+Reagent,,167,16,144,0,20,0,165
+Holiday,,168,16,146,0,30,0,165
+Other,,169,16,147,0,40,0,165
+Mount,,170,16,152,0,50,0,165
+Mount Equipment,,171,16,326,0,60,0,165
+Neck,iLvl,212,9,188,0,45,0,99
