@@ -66,8 +66,20 @@ ID,Title_lang,GarrTypeID,ClassID,MaxTiers,UiOrder,Flags,UiTextureKitID,GarrTalen
 396,Revendreth - Covenant Abilities,111,0,2,0,0,5279,1,0,0,2,0
 397,Ardenweald - Covenant Abilities,111,0,2,0,0,5301,1,0,0,3,0
 461,The Box of Many Things,111,0,6,0,4,5400,1,0,0,0,1904
+463,Drake Mastery Progression,111,0,9,0,0,0,0,0,0,0,42
 465,Device Upgrade Console,111,0,3,0,0,253,1,0,0,0,1979
 466,Progenitor Core,111,0,4,0,0,5273,1,0,0,0,1979
+467,Drake Mastery Progression,111,0,3,0,0,0,1,0,0,0,0
 468,Progenitor Core JZB,9,0,7,0,0,5273,0,0,0,0,1979
 474,Cypher Research Console,111,0,7,0,12,5415,1,0,8,0,1979
 476,Pocopoc Customization,111,0,6,0,0,5419,0,0,0,0,0
+479,Thunder Lizard Effigy,111,0,3,0,0,5166,1,0,0,0,2011
+482,Dragonriding Skills,111,0,9,0,0,5273,1,0,0,0,0
+483,Monster Hunter's Gear Rack,111,0,5,0,0,5419,0,0,0,0,0
+484,Advanced Dragonriding,111,0,9,0,0,0,1,0,0,0,2045
+485,Shikaar Hunting Tactics,111,0,4,0,0,5415,1,0,0,0,2003
+486,Select Your Companion,111,0,2,0,0,5419,0,0,0,0,2003
+487,Clan Teerai Progression,111,0,4,0,0,5419,1,0,0,0,0
+488,Tuskarr Fishing Unlocks and Upgrades,111,0,2,0,0,5415,1,0,0,0,0
+489,Expedition Supplies,111,0,6,0,0,0,1,99463,0,0,2003
+491,Hunting Party Loadout,111,0,4,0,0,5419,0,0,0,0,2003

@@ -14,7 +14,10 @@ ID,RaceMask,Name_lang,Description_lang,Flags,ClassMask,SpellIconFileID
 103,-1,Pet Utility,A variety of tools to help you manage your pet.,0,4,132179
 106,-1,Hex Variants,"Alternate cosmetic variants of Hex, which transform your target into a variety of creatures.",0,64,538518
 217,-1,Kyrian Instruments,Play an instrument of the Kyrian.,0,0,454048
+219,-1,Adaptation,"Adapt yourself to a type of magic, changing your breath attack.",0,4096,254886
 220,-1,Hero's Path: Shadowlands,Teleport to the entrance of a Shadowlands Dungeon for which you have earned the Keystone Hero achievement. The cooldown of these spells will reset when you complete a Mythic Keystone Dungeon.,0,-1,519384
 222,-1,Hero's Path: Shadowlands Raids,Teleport to the entrance of a Shadowlands Raid. Only available after earning the Mythic: Fates of the Shadowlands Raids achievement.,0,-1,519384
 223,-1,Hero's Path: Battle for Azeroth,Teleport to the entrance of a Battle for Azeroth Dungeon for which you have earned the Keystone Hero achievement. The cooldown of these spells will reset when you complete a Mythic Keystone Dungeon.,0,-1,519384
 224,-1,Hero's Path: Legion,Teleport to the entrance of a Legion Dungeon for which you have earned the Keystone Hero achievement. The cooldown of these spells will reset when you complete a Mythic Keystone Dungeon.,0,-1,519384
+225,-1,Hunter Tracking,Shows the location of nearby creature types on the minimap.,0,4,132328
+226,-1,Track Gathering Profession Reagents,Shows the location of nearby gathering reagents on the minimap.,0,-1,134441

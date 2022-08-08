@@ -92,7 +92,7 @@ ID,OverrideNameString_lang,SlotMask,ItemNameDescriptionID
 176,Greaves of the Insatiable Hunger,256,13835
 179,Sinful Pauldrons,8,13837
 180,Breastplate of Glory,32,13836
-182,Grips of Sinful Hysteria,1024,13839
+182,Grips of Sinful Indulgence,1024,13839
 184,Spaulders of Kindred Affinity,8,13844
 185,Treads of Celestial Spirits,256,13846
 186,Chestguard of the Wrathful Swarm,32,13841
@@ -183,7 +183,7 @@ ID,OverrideNameString_lang,SlotMask,ItemNameDescriptionID
 286,Waistguard of the Abomination,64,13832
 287,Waistguard of Glory,64,13836
 288,Helm of the Sinful,2,13837
-289,Bindings of the Wrathful Swarm,512,13839
+289,Cord of Sinful Indulgence,64,13839
 290,Bindings of the Wrathful Swarm,512,13841
 291,Talisman of Kindred Affinity,4,13844
 292,Leggings of Celestial Spirits,128,13846

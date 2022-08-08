@@ -8976,7 +8976,10 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 16833,|cFFFFD200Profession:|r Shadowlands Jewelcrafting (100)|n|cFFFFD200Vendor:|r Ve'nari|n|cFFFFD200Zone:|r The Maw|n|cFFFFD200Faction:|r Ve'nari - Cordial|n|cFFFFD200Cost:|r 300|Hcurrency:1767|h|TInterface\ICONS\INV_Stygia.BLP:0|t|h,-1,-1,343696
 16834,|cFFFFD200Profession: |rShadowlands Jewelcrafting (45)|n|cFFFFD200Trainer: |rAppraiser Au'vesk|n|cFFFFD200Zone: |rOribos|n|cFFFFD200Cost: |r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t75|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,343697
 16838,|cFFFFD200Profession: |rShadowlands Tailoring (15)|n|cFFFFD200Trainer: |rStitcher Au'phes|n|cFFFFD200Zone: |rOribos|n|cFFFFD200Cost: |r50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,345985
-16839,|cFFFFD200Profession: |rShadowlands Tailoring (65)|n|cFFFFD200Trainer: |rStitcher Au'phes|n|cFFFFD200Zone: |rOribos|n|cFFFFD200Cost: |r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t75|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,345986
+16839,"|cFFFFD200Profession: |rShadowlands Tailoring (65)
+|cFFFFD200Trainer: |rStitcher Au'phes
+|cFFFFD200Zone: |rOribos
+|cFFFFD200Cost: |r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t75|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t",-1,3,345986
 16840,|cFFFFD200Vendor: |rGalissa Sundew|n|cFFFFD200Zone: |rDarkmoon Island|n|cFFFFD200Cost: |r25|Hitem:124669|h|TInterface\ICONS\INV_Misc_Fish_51.blp:0|t|h,-1,2,347176
 16841,|cFFFFD200Vendor: |rGalissa Sundew|n|cFFFFD200Zone: |rDarkmoon Island|n|cFFFFD200Cost: |r10|Hitem:124669|h|TInterface\ICONS\INV_Misc_Fish_51.blp:0|t|h,-1,2,347457
 16842,|cFFFFD200Vendor: |rGalissa Sundew|n|cFFFFD200Zone: |rDarkmoon Island|n|cFFFFD200Cost: |r50|Hitem:124669|h|TInterface\ICONS\INV_Misc_Fish_51.blp:0|t|h,-1,2,347509

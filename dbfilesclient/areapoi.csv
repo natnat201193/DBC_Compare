@@ -2672,5 +2672,66 @@ The Grand Design,,7030,-3825.1338,-2884.962,96.1555,0,0,6781,4484,67345,3,2052,0
 Domination's Grasp,,7031,-5448.2603,-3876.304,127.813,0,0,6784,4484,0,3,2050,0,2481,0,0,0,0,0,0,0
 Heart of Eternity,,7032,-6180.36,-4098.96,93.7285,0,0,6781,4484,66917,3,2051,0,2481,0,0,0,0,0,0,0
 The Grand Design,,7033,-6215.8228,-4120.363,85.20104,0,0,6784,4484,66916,3,2052,0,2481,0,0,0,0,0,0,0
-Great Vault,"Defeat bosses in Fated Shadowlands raids, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault.",7035,-1726.14,1175.9,5273.43,0,101180,11995,423,62179,0,0,0,2222,0,0,0,5397,0,0,0
+Great Vault,"Defeat bosses in the Sepulcher of the First Ones, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault.",7035,-1726.14,1175.9,5273.43,0,96140,11995,423,62179,0,0,0,2222,0,0,0,5397,0,0,0
 Between A Rock & A Rock,Available quest,7037,-2935.92,47.3058,-49.6318,0,96586,10038,131072,66370,0,0,0,2374,0,0,0,0,0,0,0
+Expeditionary Effort,The Dragonscale Expedition requires your assistance.,7038,970.338,883.564,127.574,0,96646,5616,524300,0,0,0,0,2444,0,0,0,0,0,0,0
+Primal Elements: Badlands,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!,7047,-6712.35,-2914.45,241.69,0,98719,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Vault of the Incarnates,Raid,7048,486.02777,-4459.866,1413.2786,0,0,6092,21158,67810,1,1200,0,2444,14095,0,0,0,0,0,0
+Grand Hunting Party,Maruuk Centaur,7053,436.314,569.127,341.445,0,98412,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Primal Elements: Badlands,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!,7058,-6712.35,-2914.45,241.69,0,98722,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Badlands,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!,7059,-6712.35,-2914.45,241.69,0,98723,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Badlands,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!,7060,-6712.35,-2914.45,241.69,0,98724,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Un'Goro,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!,7061,-6651.51,-1266.99,-271.571,0,98730,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Northern Barrens,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!,7062,266.516,-1830.43,91.6916,0,98848,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Tirisfal Glades,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!,7063,1861.91,-579.745,39.1823,0,98876,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Un'Goro,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!,7064,-6651.51,-1266.99,-271.571,0,98877,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Un'Goro,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!,7065,-6651.51,-1266.99,-271.571,0,98878,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Northern Barrens,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!,7066,266.516,-1830.43,91.6916,0,98889,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Tirisfal Glades,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!,7067,1861.91,-579.745,39.1823,0,98892,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Tirisfal Glades,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!,7068,1861.91,-579.745,39.1823,0,98896,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Primal Elements: Northern Barrens,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!,7069,321.24133,-1849.6997,91.8679,0,98913,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Un'Goro,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!,7070,-6651.51,-1266.99,-271.571,0,98916,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Northern Barrens,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!,7071,266.516,-1830.43,91.6916,0,98920,5643,4255,0,0,0,0,1,0,0,0,0,0,0,0
+Primal Elements: Tirisfal Glades,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!,7072,1861.91,-579.745,39.1823,0,98930,5643,4255,0,0,0,0,0,0,0,0,0,0,0,0
+Tuskarr Fishing Hole,The Tuskarr have noted that fish are very active in this area.,7086,1343.51,-419.785,-0.460051,0,99040,5622,266660,64864,0,0,0,2444,0,0,638,0,0,2,0
+The Vault of Tyr,,7087,340.654,-640.753,211.074,0,0,6783,4356,0,3,2072,0,2451,0,0,0,0,0,0,0
+Hall of the Keepers,,7088,344.795,-645.673,213.588,0,0,6782,4356,0,3,2071,0,2451,0,0,0,0,0,0,0
+Grand Hunting Party,Hunting Party 002,7089,-1237.25,2159.38,407.02,0,99171,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 003,7090,-1088.41,652.401,407.327,0,99172,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 004,7091,484.805,2697.32,201.537,0,99173,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 005,7092,1887.05,-856.477,37.2591,0,99174,11323,266660,66315,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 006,7093,1189.65,1321.81,31.2606,0,99175,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 007,7094,-3448.79,1307.36,617.437,0,99176,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 008,7095,-2851.7,-1942.03,944.893,0,99177,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 009,7096,-4762.91,-1964.43,544.678,0,99178,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 010,7097,-294.553,-381.48,450.286,0,99179,11323,266660,0,0,0,0,2444,0,0,633,5275,0,2,0
+Grand Hunting Party,Hunting Party 011,7098,550.087,615.667,346.693,0,99180,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Grand Hunting Party,Hunting Party 012,7099,1057.71,-2002.9,416.427,0,99181,11323,266660,0,0,0,0,2444,0,0,619,5275,0,2,0
+Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7101,-1777.05,1481,418.645,0,99990,7226,266660,0,0,0,0,2444,0,0,0,0,0,2,0
+Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7102,-171.721,1415.38,343.603,0,99991,7226,266660,0,0,0,0,2444,0,0,0,0,0,2,0
+Aylaag Camp,Clan Aylaag has stopped at this location for the time being.,7103,-1218.46,2613.8,427.258,0,99992,7226,266660,0,0,0,0,2444,0,0,0,0,0,2,0
+Siege on Dragonbane Keep,Sabellion and Wrathion's forces are attempting to take Dragonbane Keep. Assistance is requested.,7104,1645.59,2239.53,90.0601,0,100358,7226,393636,0,0,0,0,2444,0,0,0,0,0,2,0
+The Burning Cauldron,,7105,-123.32,-500.79,108.251,0,0,6781,4356,67601,3,2080,0,2519,0,0,0,0,0,0,0
+Chamber of Flames,,7106,-131.232,-503.683,106.061,0,0,6784,4356,67601,3,2081,0,2519,0,0,0,0,0,0,0
+Ruby Lifeshrine,,7107,1535.31,-263.941,126.015,0,0,6784,0,67860,3,2094,0,2521,0,0,0,0,0,0,0
+Infusion Chambers,,7108,1569.03,-221.611,311.532,0,0,6781,0,67861,3,2095,0,2521,0,0,0,0,0,0,0
+Crystal Chambers,,7109,-5079.271,1202.8785,556.27423,0,0,6781,0,67459,3,2074,0,2515,0,0,0,0,0,0,0
+The Arcane Conservatory,,7110,-5071.29,1193.59,555.926,0,0,6784,0,67794,3,2073,0,2515,0,0,0,0,0,0,0
+Mausoleum of Legends,,7111,-5350.13,1017.86,508,0,0,6781,0,67794,3,2075,0,2515,0,0,0,0,0,0,0
+Crystal Chambers,,7112,-5336.75,1127.82,425.59,0,0,6784,0,67737,3,2074,0,2515,0,0,0,0,0,0,0
+The Infinity Seal,,7113,-5243.23,733.702,430.803,0,0,6781,0,67456,3,2076,0,2515,0,0,0,0,0,0,0
+Mausoleum of Legends,,7114,-5271.79,804.271,388.81,0,0,6784,0,67639,3,2075,0,2515,0,0,0,0,0,0,0
+Sindragosa's Lament,,7115,-5318.85,1097.99,339.549,0,0,6781,0,67739,3,2077,0,2515,0,0,0,0,0,0,0
+The Arcane Conservatory,,7116,-5364.33,1035.76,157.717,0,0,6784,0,67571,3,2073,0,2515,0,0,0,0,0,0,0
+Den of Decay,,7117,-3351.97,3781.87,111.124,0,0,6783,0,66998,3,2106,0,2520,0,0,0,0,0,0,0
+Den of Decay,,7118,-3432.31,3746.87,108.483,0,0,6783,0,66998,3,2106,0,2520,0,0,0,0,0,0,0
+Brackenhide Hollow,,7119,-3407.64,3735.49,112.487,0,0,6782,0,66999,3,2106,0,2520,0,0,0,0,0,0,0
+Brackenhide Hollow,,7120,-3356.73,3761.57,113.56,0,0,6782,0,66999,3,2106,0,2520,0,0,0,0,0,0,0
+Brackenhide Hollow,Dungeon,7209,-4472.92,4239.95,2.5823,0,0,6091,21158,0,1,1196,0,2444,13646,0,0,0,0,0,0
+Halls of Infusion,Dungeon,7210,440.58,-2969.34,1402.35,0,0,6091,21158,0,1,1204,0,2444,13647,0,0,0,0,0,0
+Neltharus,Dungeon,7211,2376.7,2603.48,230.099,0,0,6091,21158,0,1,1199,0,2444,13644,0,0,0,0,0,0
+Ruby Life Pools,Dungeon,7212,1344.28,-139.057,138.126,0,0,6091,21158,0,1,1202,0,2444,13644,0,0,0,0,0,0
+Taz'algeth Academy,Dungeon,7213,1347.5,-2781.46,731.558,0,0,6091,21158,0,1,1201,0,2444,13647,0,0,0,0,0,0
+The Azure Vault,Dungeon,7214,-5615.5,1258.95,807.088,0,0,6091,21158,0,1,1203,0,2444,13646,0,0,0,0,0,0
+The Nokhud Offensive,Dungeon,7215,-750.725,2126.51,465.489,0,0,6091,21158,0,1,1198,0,2444,13645,0,0,0,0,0,0
+Uldaman: Legacy of Tyr,Dungeon,7216,-6064.9,-3164.91,282.051,0,0,6091,21158,0,1,1197,0,0,3,0,0,0,0,0,0

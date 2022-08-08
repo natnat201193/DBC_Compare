@@ -701,5 +701,10 @@ ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActi
 1055,The Jailer's Gauntlet,Layer 6,113,0,283,162,0,96523,2162,167,0,5,4,0,0
 1056,The Jailer's Gauntlet,Layer 7,113,0,283,162,0,96523,2162,167,0,5,4,0,0
 1057,The Jailer's Gauntlet,Layer 8,113,0,283,162,0,96523,2162,167,0,5,4,0,0
+1058,The Waking Shores,The Waking Shores,1,0,284,258,0,0,0,0,13644,0,4,0,0
+1059,Ohn'ahran Plains,Ohn'ahran Plains,1,0,284,258,0,0,0,0,13645,0,4,0,0
+1060,The Azure Span,The Azure Span,1,0,284,258,0,0,0,0,13646,0,4,0,0
+1061,Thaldraszus,Thaldraszus,1,0,284,258,0,0,0,0,13647,0,4,0,0
 1062,Zereth Mortis,Zereth Mortis,1,0,270,258,0,0,0,0,13536,0,4,0,0
 1063,Korthia,Korthia,1,0,270,258,0,0,0,0,13570,0,4,0,0
+1146,World Bosses (Dragonflight),World Bosses,3,0,0,803,0,99866,2444,0,0,40,0,0,0

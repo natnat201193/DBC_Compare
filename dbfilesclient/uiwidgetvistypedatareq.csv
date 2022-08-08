@@ -338,6 +338,12 @@ UnitPowerBar: Flash Moment Type,549,0,1225,0,23
 StatusBar: Bar Text Color,551,0,905,3,2
 StatusBar: Bar Text Font Type,552,0,1127,1,2
 StatusBar: Bar Text Size Type,553,0,923,4,2
+SpellDisplay: Text Font Type,563,0,1127,1,13
+SpellDisplay: Text Size Type,564,0,923,0,13
 SpellDisplay: Text Font Type,565,0,1127,1,13
 SpellDisplay: Text Size Type,566,0,923,0,13
 SpellDisplay: Horizontal Alignment,567,0,1161,0,13
+TextureAndTextRow: Fixed Width,568,0,0,0,15
+TextureAndTextRow: Group 6 Shown State,569,0,903,0,15
+TextureAndTextRow: Group 6 Text,570,1,0,0,15
+TextureAndTextRow: Group 6 Tooltip,571,1,0,0,15

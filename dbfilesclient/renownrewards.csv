@@ -509,3 +509,162 @@ ID,Name_lang,Description_lang,ToastDescription_lang,CovenantID,Level,Icon,Flags,
 618,World Quest Rewards,The item level of your World Quest rewards is increased.,World Quest Max Item Level Increased,2,75,236668,0,1,0,0,0,0,0,0,0,0,64069,92127
 619,Soulbind Upgrade: Mikanikos,You may access Mikanikos's ninth row of Soulbind traits.,Mikanikos Soulbind Row Unlocked,1,41,3684894,2,0,0,0,0,0,0,0,0,0,64508,0
 620,Soulbind Upgrade: Pelagos,You may access Pelagos's tenth row of Soulbind traits.,Pelagos Soulbind Row Unlocked,1,46,3684898,2,0,0,0,0,0,0,0,0,0,64508,0
+621,Among the Maruuk Centaur,Joined forces with the Maruuk centaur on the Ohn'ahran Plains.,,12,1,3012071,0,0,0,0,0,0,0,0,0,0,0,0
+622,Maruuk Supply Satchel,A satchel full of supplies you can use to aid the various Maruuk Centaur clans.,,12,2,133669,0,0,189765,0,0,0,0,0,0,0,0,0
+623,Maruuk Supply Satchel,A satchel full of supplies you can use to aid the various Maruuk Centaur clans.,,12,3,133669,0,0,189765,0,0,0,0,0,0,0,0,0
+624,Maruuk Supply Satchel,A satchel full of supplies you can use to aid the various Maruuk Centaur clans.,,12,4,133669,0,0,189765,0,0,0,0,0,0,0,0,0
+625,Path of the Trapper,Allows you to unlock the Path of the Trapper with Clan Shikaar.,,12,5,461122,0,0,0,0,0,0,0,0,0,0,0,0
+626,The Dragonscale Expedtion,Begin your adventures with the Dragonscale Expedition.,,13,1,4553783,0,0,0,0,0,0,0,0,0,0,0,0
+627,Expedition Scout Packs,Information on finding Expedition Scout packs around the Dragon Isles.,,13,2,130716,0,0,0,0,0,0,0,0,0,0,0,0
+628,Activity Unlock - Climbing Backpack,"Earn a Dragonscale Expedition Backpack, allowing you to take part in special clmbing activities across the Dragon Isles.",,13,7,4562583,0,0,0,0,0,0,0,0,0,0,0,0
+629,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,8,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+630,Simple Archaeology Tools,Purchase simple archaeology tool transmogs in the Dragonscale Basecamp from Rae'ana.,,13,3,133054,0,0,0,0,0,0,0,0,0,0,0,0
+631,Expedition Equipment 1,Purchase a pair of Expedition gloves that are item level 382 in the Dragonscale Basecamp from Pathfinder Jeb.,,13,14,4291725,0,0,0,0,0,0,0,0,0,0,0,0
+632,Magic Bound Chests,"Ability to open Magic Bound Chests as long as you possess an Enchanted Lockpicks, purchaseable at the Dragonscale Expedition base camp.",,13,18,2201832,0,0,0,0,0,0,0,0,0,0,0,0
+634,Formula: Enduring Enchanted Lockpicks,Purchase the Enchanting Formula: Enduring Enchanted Lockpicks in the Dragonscale Basecamp from Boss Magor.,,13,18,1392955,0,0,0,0,0,0,0,0,0,0,0,96831
+635,Additional Ancient,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,11,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+636,Activity Unlock - Photography Tours,Unlock your Expedition Camera and gain access to the Photography Expedition activities in various places across the Dragon Isles.,,13,9,1109101,0,0,0,0,0,0,0,0,0,0,0,0
+637,Buried Treasures,"Ability to find and dig through Disturbed Dirt mounds as long as you possess a Expedition Shovel, purchaseable at the Dragonscale Expedition base camp from Pathfinder Jeb.",,13,5,2201832,0,0,0,0,0,0,0,0,0,0,0,0
+639,Plans: Enduring Shovel,Purchase the Blacksmithing Plans: Enduring Shovel in the Dragonscale Basecamp from Boss Magor.,,13,5,1392955,0,0,0,0,0,0,0,0,0,0,0,96828
+640,Bonus Supplies,Increase the amount of supplies you discover from treasures by 25%.,,13,10,1397630,0,0,0,0,0,0,0,0,0,0,0,0
+641,Wayfinder's Compass,Receive the Wayfinder's Compass Toy in the Dragonscale Basecamp from Pathfinder Jeb.,,13,9,4635197,0,0,0,0,0,0,0,0,0,0,0,0
+642,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,14,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+643,Expedition Animal Specialist,Purchase the Marmoset or Black Skitterbug pet in the Dragonscale Basecamp from Granpap Whiskers.,,13,13,2991181,0,0,0,0,0,0,0,0,0,0,0,0
+644,Technique: Illusion Parchments: Magma Missile,Purchase the Technique: Illusion Parchments: Magma Missile in the Dragonscale Basecamp at Boss Magor.,,13,25,134941,0,0,0,0,0,0,0,0,0,0,0,96832
+646,Designs: Gems,"Purchase the designs for Radiant Kalecite, Energized Kalecite, Sensei's Neltharite and Keen Neltharite in the Dragonscale Basecamp from Boss Magor.",,13,10,1500870,0,0,0,0,0,0,0,0,0,0,0,96833
+647,Jewelcrafting Trinkets,Purchase the Design: Idol of the Earthwarder and Design: Idol of the Lifebinder in the Dragonscale Basecamp at Boss Magor.,,13,15,1500870,0,0,0,0,0,0,0,0,0,0,0,0
+648,Quest Line: Dragonscale Expedition Chapter 1,Gain access to the first chapter of the Dragon Expedition's continued adventures.,,13,15,236669,0,0,0,0,0,0,0,0,0,0,0,0
+649,Dragonscale Expedition Ensembles,Purchase Dragonscale Expedition Ensembles in the Dragonscale Expedition basecamp from Pathfinder Jeb.,,13,16,4291724,0,0,0,0,0,0,0,0,0,0,0,0
+650,,"Purchase Expedition Metal Detectors in the Dragonscale Basecamp from Pathfinder Jebb, that grants you the ability to track treasures on your mini-map for a short time.",,13,25,0,0,0,191552,0,0,0,0,0,0,0,0,0
+652,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,17,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+653,Crafter's Gear Patterns,Purchase the Pattern: Master's Wildercloth Fishing Cap and Pattern: Master's Wildercloth Chef's Hat in the Dragonscale Basecamp from Boss Magor.,,13,17,4549162,0,0,0,0,0,0,0,0,0,0,0,96826
+654,Pattern: Throw Pillow and Pattern: Exlorer's Tent,Purchase the Tailoring Pattern: Throw Pillow and the Pattern: Exlorer's Tent in the Dragonscale Basecamp from Boss Magor.,,13,20,1392955,0,0,0,0,0,0,0,0,0,0,0,96826
+655,Researching in Comfort,Purchase various pillow toys in the Dragonscale Basecamp from Rae'ana.,,13,20,1392559,0,0,0,0,0,0,0,0,0,0,0,0
+656,Explosive Archaeology,Ability to purchase Expedition Explosives at the Dragonscale Basecamp from Pathfinder Jeb.,,13,19,133713,0,0,0,0,0,0,0,0,0,0,0,0
+657,Schematic: Primal Deconstruction Charge,Purchase the Engineering Schematic: Primal Deconstruction Charge in the Dragonscale Basecamp from Boss Magor.,,13,10,1392955,0,0,0,0,0,0,0,0,0,0,0,96829
+658,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,20,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+659,Bonus Supplies II,Increase the chance to find double Dragon Isles Supplies in treasure chests to 50%.,,13,21,1397630,0,0,0,0,0,0,0,0,0,0,0,0
+660,Expert Archaeology Tools,Purchase expert archaeology toys in the Dragonscale Basecamp from Rae'ana.,,13,24,1391897,0,0,0,0,0,0,0,0,0,0,0,0
+661,Pattern: Azureweave Adventurer's Pack,Purchase the Azureweave Adventurer's Pack in the Dragonscale Basecamp from Boss Magor.,,13,22,4549162,0,0,0,0,0,0,0,0,0,0,0,96826
+662,Mech-a-Duck Treasure Tracker,"Purchase the Mech-A-Duck Tracker Core in the Expedition Basecamp from Boss Magor, a crucial component in having the Mech-a-Duck pet crafted, which can help you find treasures around the Dragon Isles.",,13,25,4048816,0,0,0,0,0,0,0,0,0,0,0,0
+663,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,23,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+664,Technique: Dragonscale Expedition Contract,Purchase Technique: Dragonscale Expedition Contract in the Dragonscale Basecamp from Boss Magor.,,13,22,4549174,0,0,0,0,0,0,0,0,0,0,0,0
+665,Dragonscale Expedition Tabard,Unlock the Dragonscale Expedition Tabard from the Dragonscale Basecamp from Cataloger Jakes.,,13,22,514262,0,0,0,0,0,0,0,0,0,0,0,0
+666,Schematic: Enduring Tool Box,Purchase the Schematic: Enduring Toolbox profession recipe in the Dragonscale Basecamp from Boss Magor.,,13,25,1392955,0,0,0,0,0,0,0,0,0,0,0,96829
+669,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to pursue additional Ancient Waygates across the Dragon Isles.,,13,26,4578411,0,0,0,0,0,0,0,0,0,0,66584,0
+670,Dragonfly Riding,"Unlock the ability to find and tame dragonfly mounts, purchase some dragonfly mounts in the Dragonscale Basecamp from Granpap Whiskers.",,13,30,3995641,0,0,0,0,0,0,0,0,0,0,0,0
+671,Quest Line: Dragonscale Expedition Chapter 2,Gain access to the second chapter of the Dragon Expedition's continued adventures.,,13,29,236669,0,0,0,0,0,0,0,0,0,0,0,0
+673,Mount Customizations I,"Purchase brow, crest and jaw mount customizations for your Dragon Isle drakes in the Dragonscale Basecamp from Rae'ana.",,13,8,4622499,0,0,0,0,0,0,0,0,0,0,0,0
+674,Schematic: Gravity Bomb,Purchase the Schematic: Gravity Bomb in the Dragonscale Basecamp from Boss Magor.,,13,10,1392955,0,0,0,0,0,0,0,0,0,0,0,96829
+675,Crafter's Gear Patterns,Purchase the Design: Scribes Magnifier in the Dragonscale Basecamp from Boss Magor.,,13,17,1500870,0,0,0,0,0,0,0,0,0,0,0,96833
+676,Crafter's Gear Patterns,Purchase the Schematic: Ore Pack and Schematic: Tailor's Shears in the Dragonscale Basecamp from Boss Magor.,,13,17,1392955,0,0,0,0,0,0,0,0,0,0,0,96829
+677,Technique: Renewed Proto-Drake: Spined Hair Manuscript,Purchase the Technique: Renewed Proto-Drake: Spined Hair Manuscript in the Dragonscale Basecamp from Boss Magor.,,13,19,4549162,0,0,0,0,0,0,0,0,0,0,0,96832
+678,Mount Customizations II,"Purchase tail, horn and pattern mount customizations for your Dragon Isle drakes in the Dragonscale Basecamp from Rae'ana.",,13,19,4622499,0,0,0,0,0,0,0,0,0,0,0,0
+679,Mount Customizations III,Purchase mount customizations that unlock the Red Skin Color for your Dragon Isle drakes in the Dragonscale Basecamp from Rae'ana.,,13,27,4622499,0,0,0,0,0,0,0,0,0,0,0,0
+680,Schematic: Mech-a-Duck,Purchase the Schematic: Mech-a-Duck in the Dragonscale Basecamp from Boss Magor.,,13,25,4048816,0,0,0,0,0,0,0,0,0,0,0,96829
+681,Banners of the United Factions,Purchase the banners for the Reliquary and Explorer's League that now are united in the Dragonscale Expedtion in the Dragonscale Basecamp from Cataloger Jakes.,,13,22,132487,0,0,0,0,0,0,0,0,0,0,0,0
+682,Pattern: Duck Stuffed Duck Lovie,Purchase the Pattern: Duck Stuffed Duck Lovie in the Dragonscale Basecamp from Boss Magor.,,13,25,4549162,0,0,0,0,0,0,0,0,0,0,0,96829
+683,Jeweled Whelpling Treasure Maps,"Unlocks the ability to find Treasure Maps leading to Jeweled Whelpling materials and patterns, speak to Boss Magor in the Dragonscale Basecamp for your first Treasure Map.",,13,25,237387,0,0,0,0,0,0,0,0,0,0,0,0
+684,Advanced Archaeology Tools,Purchase larger archaeology tool transmogs in the Dragonscale Basecamp from Rae'ana.,,13,7,4202228,0,0,0,0,0,0,0,0,0,0,0,0
+685,Expedition Equipment II,Purchase a pair of Expedition pants that are item level 398 in the Dragonscale Basecamp from Pathfinder Jeb.,,13,28,4291727,0,0,0,0,0,0,0,0,0,0,0,0
+686,Ancient Waygate,Seek out Thaelin Darkanvil at the Dragonscale Basecamp to research the Ancient Waygate.,,13,6,4578411,0,0,0,0,0,0,0,0,0,0,0,0
+687,,,,13,4,0,0,0,198863,0,0,0,0,0,0,0,0,0
+688,,,,13,26,0,0,0,198865,0,0,0,0,0,0,0,0,0
+689,Referrel Bonus II,Increase the Dragonscale Expedition reputation gain of characters on your account under Renown 20 by 50%.,,13,23,413570,0,0,0,0,0,0,0,0,0,0,0,0
+690,,,,13,20,0,0,0,198865,0,0,0,0,0,0,0,0,0
+691,,,,13,17,0,0,0,198865,0,0,0,0,0,0,0,0,0
+692,Referrel Bonus I,Increase the Dragonscale Expedition reputation gain of characters on your account under Renown 10 by 25%.,,13,12,413570,0,0,0,0,0,0,0,0,0,0,0,0
+693,,,,13,11,0,0,0,198863,0,0,0,0,0,0,0,0,0
+694,The Iskaara Tuskarr,Begin to build a relationship with the Iskaara Tuskarr.,,14,1,4566513,0,0,0,0,0,0,0,0,0,0,0,0
+695,Sacred Tuskarr Totems,Information on identifying Sacred Tuskarr totems that have been stolen.,,14,2,442741,0,0,0,0,0,0,0,0,0,0,0,0
+696,Meal Time,"Unlock Meal Time, allowing you to contribute to the great Tuskarr feast and get buffs.",,14,3,2066013,0,0,0,0,0,0,0,0,0,0,0,0
+697,Cooking Supplies,Purchase simple cooking toys in Iskaara from _____.,,14,4,644380,0,0,0,0,0,0,0,0,0,0,0,0
+698,Highlands Fishing,Unlock fishing nodes in the highest pools and lakes of the Dragon Isles.,,14,5,4672495,0,0,0,0,0,0,0,0,0,0,0,0
+699,Fishing Nets,Unlock the ability to set Fishing Nets around the Dragon Isles.,,14,6,2159817,0,0,0,0,0,0,0,0,0,0,0,0
+700,Fishing Harpoon,Unlock the ability to Harpoon large sea creatures of the Dragon Isles.,,14,7,1911518,0,0,0,0,0,0,0,0,0,0,0,0
+701,Ice Fishing,Unlock fishing nodes in the ice of the Dragon Isles.,,14,10,236801,0,0,0,0,0,0,0,0,0,0,0,0
+702,Fishing Nets II,Upgrade your Fishing Nets.,,14,13,2159815,0,0,0,0,0,0,0,0,0,0,0,0
+703,Lava Fishing,Unlock fishing nodes in the lava of the Dragon Isles.,,14,17,514278,0,0,0,0,0,0,0,0,0,0,0,0
+704,Fishing Harpoon II,Upgrade your fishing Harpoon.,,14,21,1376040,0,0,0,0,0,0,0,0,0,0,0,0
+705,Meal Time II,"Upgrade Meal Time, increasing your buffs and streamlining your experience.",,14,27,2066011,0,0,0,0,0,0,0,0,0,0,0,0
+706,Fishing Caches,Allows you to find Fishing Caches along coasts or near fishing holes.,,14,29,294477,0,0,0,0,0,0,0,0,0,0,0,0
+707,Fishing Tackle,Purchase a Fishing Tackle box that you can stock to give your friends and yourself bonus fishing skill.,,14,32,1529273,0,0,0,0,0,0,0,0,0,0,0,0
+708,Mount Customization I,"Purchase brow, crest and jaw mount customizations for your Dragon Isle drakes in Iskaara from ____.",,14,6,4622497,0,0,0,0,0,0,0,0,0,0,0,0
+709,Mount Customization II,"Purchase tail, horn and pattern mount customizations for your Dragon Isle drakes in Iskaara from ____.",,14,19,4622497,0,0,0,0,0,0,0,0,0,0,0,0
+710,Mount Customization III,Purchase mount customizations that unlock the Blue Skin Color for your Dragon Isle drakes in Iskaara from _____.,,14,31,4622497,0,0,0,0,0,0,0,0,0,0,0,0
+711,Tuskarr Headwear,Purchase warm headwear in Iskaara from _____.,,14,7,4620974,0,0,0,0,0,0,0,0,0,0,0,0
+712,Tuskarr Backpacks,Purchase hearty backpacks in Iskaara from _____.,,14,18,4620163,0,0,0,0,0,0,0,0,0,0,0,0
+713,Tuskarr Shoulderpads,Purchase Tuskarr crafted shoulderpads in Iskaara from _____.,,14,30,4621334,0,0,0,0,0,0,0,0,0,0,0,0
+714,Tuskarr Weaponry,Purchase Tuskarr weaponry in Iskaara from _____.,,14,26,4183251,0,0,0,0,0,0,0,0,0,0,0,0
+715,Gnoll Backpacks,Purchase Gnoll Backpacks in Iskaara from _____.,,14,33,4562569,0,0,0,0,0,0,0,0,0,0,0,0
+716,Stable Master in Training,Purchase the Purple Ottuk Pup or Blue Timbertooth Pup pets in Iskaara from ____.,,14,9,3751919,0,0,0,0,0,0,0,0,0,0,0,0
+717,Tuskarr Ensemble,Unlock the Tuskarr Tracker's Ensemble in Iskaara from _____.,,14,12,4095088,0,0,0,0,0,0,0,0,0,0,0,0
+718,Snow Fun,Purchase fun snow themed toys in Iskaara from _____.,,14,28,1247304,0,0,0,0,0,0,0,0,0,0,0,0
+719,Bean Bags,Purchase Bean Bags in Iskaara from _____.,,14,25,1519423,0,0,0,0,0,0,0,0,0,0,0,0
+720,Fisherman's Folly,Purchase the Fisherman's Folly toys in Iskaara from _____.,,14,20,533422,0,0,0,0,0,0,0,0,0,0,0,0
+721,Tuskarr Tabard,Unlock the Iskaara Tuskarr Tabard in Iskaara from _____.,,14,23,4566513,0,0,0,0,0,0,0,0,0,0,0,0
+722,Unknown Toys,Purchase the ____ Toys in Iskaara from _____.,,14,15,939375,0,0,0,0,0,0,0,0,0,0,0,0
+723,Tuskarr Equipment II,Purchase a pair of Insulated Shoulderpads that are item level 398 in Iskaara from _______.,,14,34,4095092,0,0,0,0,0,0,0,0,0,0,0,0
+724,Tuskarr Equipment I,Purchase a pair of Wooly Bracers that are item level 385 in Iskaara from _______.,,14,16,4095086,0,0,0,0,0,0,0,0,0,0,0,0
+725,Ottuk Riding,Unlock the ability to purchase and ride Ottuk in Iskaara from ____.,,14,35,4093849,0,0,0,0,0,0,0,0,0,0,0,0
+726,Grand Expeditioner,Unlock the title Grand Expeditioner.,,13,30,4553783,0,0,0,0,0,0,0,0,0,0,0,0
+727,Honorary Tuskarr,Unlock the title Honorary Tuskarr.,,14,35,4186580,0,0,0,0,0,0,0,0,0,0,0,0
+728,Tuskarr Relics I,Learn of stolen Tuskarr Relics taken by their enemies.,,14,5,442740,0,0,0,0,0,0,0,0,0,0,0,0
+729,Tuskarr Relics II,Learn of stolen Tuskarr Relics taken into Dragon Isles dungeons.,,14,17,442740,0,0,0,0,0,0,0,0,0,0,0,0
+730,Referrel Bonus I,Increase the Iskaara Tuskarr reputation gain of characters on your account under Renown 10 by 25%.,,14,14,413570,0,0,0,0,0,0,0,0,0,0,0,0
+731,Referrel Bonus II,Increase the Iskaara Tuskarr reputation gain of characters on your account under Renown 20 by 50%.,,14,24,413570,0,0,0,0,0,0,0,0,0,0,0,0
+732,Referrel Bonus III,Increase the Iskaara Tuskarr reputation gain of characters on your account under Renown 30 by 75%.,,14,32,413570,0,0,0,0,0,0,0,0,0,0,0,0
+733,Bonus Supplies II,Increase the chance to gather double Dragon Isles Supplies from plantlife to 50%.,,14,22,133651,0,0,0,0,0,0,0,0,0,0,0,0
+734,Bonus Supplies I,Gain a 25% chance to gather double Dragon Isles Supplies from plantlife.,,14,8,133651,0,0,0,0,0,0,0,0,0,0,0,0
+735,,,,14,3,0,0,0,198866,0,0,0,0,0,0,0,0,0
+736,,,,14,10,0,0,0,198866,0,0,0,0,0,0,0,0,0
+737,,,,14,13,0,0,0,198866,0,0,0,0,0,0,0,0,0
+738,,,,14,21,0,0,0,198867,0,0,0,0,0,0,0,0,0
+739,,,,14,27,0,0,0,198867,0,0,0,0,0,0,0,0,0
+740,,,,14,33,0,0,0,198867,0,0,0,0,0,0,0,0,0
+741,Jewelcrafting Trinkets,Purchase the Design: Idol of the Spellweaver and Design: Idol of the Dreamweaver in Iskaara at ______.,,14,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,Technique: Black Haired Hilghland Drake Manuscript,Purchase the Technique: Black Haired Hilghland Drake Manuscript in Iskaara at ______.,,14,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,Crafter's Gear Patterns,"Purchase the Pattern: Magnificent Engineer's Pinch-Proof Handguards, Pattern: Lavish Herbalist's Botany Pack, Pattern: Master Jeweler's Tool Holster, Pattern: Respelendent Skinner's Trapping Cap in Iskaara at ______.",,14,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,Crafter's Gear Patterns,Purchase the Pattern: Finished Prototype Regal Barding in Iskaara at ______.,,14,34,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,Technique: Iskaara Tuskarr Contract,Purchase the Technique: Iskaara Tuskarr Contract in Iskaara at ______.,,14,28,0,0,0,0,0,0,0,0,0,0,0,0,0
+746,Pattern: Simple Tuskarr Bean Bag,Purchase the Pattern: Simple Tuskarr Bean Bag in Iskaara at ______.,,14,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,Quest Line: The Lost Tribe,Gain access to the Lost Tribe Tuskarr questline.,,14,11,4672500,0,0,0,0,0,0,0,0,0,0,0,0
+748,The Valdrakken Accord,Begin to gain renown with the Valdrakken Accord.,,15,1,4569780,0,0,0,0,0,0,0,0,0,0,0,0
+749,Ancient Dragon Treasures,Unlock the ability to open Ancient Dragon treasures.,,15,2,3753262,0,0,0,0,0,0,0,0,0,0,0,0
+750,Dragon Cooking,Purchase cooking toys and utensils in Valdrakken from ______.,,15,3,2264901,0,0,0,0,0,0,0,0,0,0,0,0
+751,Toy ???,Purchase unknown toy in Valdrakken from ______.,,15,15,2264901,0,0,0,0,0,0,0,0,0,0,0,0
+752,Toy ???,Purchase unknown toy in Valdrakken from ______.,,15,27,2264901,0,0,0,0,0,0,0,0,0,0,0,0
+753,Dragon Banners,Purchase Dragon Banner toys in Valdrakken from ______.,,15,30,4624619,0,0,0,0,0,0,0,0,0,0,0,0
+754,Gardening Tools,Purchase gardening tools in Valdrakken from Gryrmpech.,,15,5,794468,0,0,0,0,0,0,0,0,0,0,0,0
+755,Basic Dragonspawn Shoulders,Purchase Basic Dragonspawn Shoulders in Valdrakken from _______.,,15,10,3447989,0,0,0,0,0,0,0,0,0,0,0,0
+756,Bladed Drakonid Shoulders,Purchase Bladed Drakonid Shoulders in Valdrakken from _______.,,15,25,2901593,0,0,0,0,0,0,0,0,0,0,0,0
+757,Elaborate Dragonspawn Shoulders,Purchase Elaborate Dragonspawn Shoulders in Valdrakken from _______.,,15,32,3395748,0,0,0,0,0,0,0,0,0,0,0,0
+758,Drakonid Helms,Purchase Drakonid Helms in Valdrakken from _______.,,15,16,2906599,0,0,0,0,0,0,0,0,0,0,0,0
+759,Titan Weaponry,Purchase Titan Weaponry in Valdrakken from _______.,,15,22,4331966,0,0,0,0,0,0,0,0,0,0,0,0
+760,Dragon Weaponry,Purchase Dragon Weaponry in Valdrakken from _______.,,15,33,4181037,0,0,0,0,0,0,0,0,0,0,0,0
+761,Valdrakken Accord Tabard,Unlock the Valdrakken Accord Tabard in Valdrakken from _______.,,15,25,4569780,0,0,0,0,0,0,0,0,0,0,0,0
+762,Valdrakken Civilian Ensembles,Purchase Valdrakken Civilian Ensembles in Valdrakken from _______.,,15,13,4464849,0,0,0,0,0,0,0,0,0,0,0,0
+763,Ally of the Dragonflights,Unlock the Ally of the Dragonflights title.,,15,35,4569780,0,0,0,0,0,0,0,0,0,0,0,0
+764,Mount Customization I,"Purchase brow, crest and jaw mount customizations for your Dragon Isle drakes in Valdrakken from ____.",,15,9,4622502,0,0,0,0,0,0,0,0,0,0,0,0
+765,Mount Customization II,"Purchase tail, horn and pattern mount customizations for your Dragon Isle drakes in Valdrakken from ____.",,15,20,4622502,0,0,0,0,0,0,0,0,0,0,0,0
+766,Mount Customization III,Purchase mount customizations that unlock the Bronze Skin Color for your Dragon Isle drakes in Valdrakken from ____.,,15,29,4622502,0,0,0,0,0,0,0,0,0,0,0,0
+767,Mount Customization IV,Unlock the Silver and Purple armor for your Dragon Isle drakes as well as the ability to set other armor colors you unlock in Valdrakken from ____.,,15,35,4571779,0,0,0,0,0,0,0,0,0,0,0,0
+768,Quest Line: Valdrakken Quest Line 1,Gain access to the first chapter of the Valdrakken Accord's efforts in the Dragon Isles.,,15,12,236669,0,0,0,0,0,0,0,0,0,0,0,0
+769,Quest Line: Valdrakken Quest Line 2,Gain access to the second chapter of the Valdrakken Accord's efforts in the Dragon Isles.,,15,21,236669,0,0,0,0,0,0,0,0,0,0,0,0
+770,Valdrakken Equipment I,Purchase Jeweled Titan Belts that are item level 385 in Iskaara from _______.,,15,19,4182955,0,0,0,0,0,0,0,0,0,0,0,0
+771,Valdrakken Equipment II,Purchase Valdrakken Helms that are item level 398 in Iskaara from _______.,,15,34,4182961,0,0,0,0,0,0,0,0,0,0,0,0
+772,Siege on Dragonbane Keep,Unlock the Siege on Dragonbane Keep scenarion in the Waking Shores.,,15,6,1380676,0,0,0,0,0,0,0,0,0,0,0,0
+773,Advanced Dragonriding Races,Unlock the Advanced Drgonriding Races in the Dragon Isles.,,15,8,1100022,0,0,0,0,0,0,0,0,0,0,0,0
+774,Bonus Supplies I,Gain a 25% chance to gather double Dragon Isles Supplies from Supply Laden humanoids.,,15,11,133652,0,0,0,0,0,0,0,0,0,0,0,0
+775,Bonus Supplies II,Increase the chance to gather double Dragon Isles Supplies from Supply Laden humanoids to 50%.,,15,26,133652,0,0,0,0,0,0,0,0,0,0,0,0
+776,Referrel Bonus I,Increase the Valdrakken Accord reputation gain of characters on your account under Renown 10 by 25%.,,15,14,413570,0,0,0,0,0,0,0,0,0,0,0,0
+777,Referrel Bonus II,Increase the Valdrakken Accord reputation gain of characters on your account under Renown 20 by 50%.,,15,23,413570,0,0,0,0,0,0,0,0,0,0,0,0
+778,Referrel Bonus III,Increase the Valdrakken Accord reputation gain of characters on your account under Renown 30 by 75%.,,15,31,413570,0,0,0,0,0,0,0,0,0,0,0,0
+779,,,,15,4,0,0,0,198868,0,0,0,0,0,0,0,0,0
+780,,,,15,7,0,0,0,198868,0,0,0,0,0,0,0,0,0
+781,,,,15,15,0,0,0,198868,0,0,0,0,0,0,0,0,0
+782,,,,15,18,0,0,0,198869,0,0,0,0,0,0,0,0,0
+783,,,,15,24,0,0,0,198869,0,0,0,0,0,0,0,0,0
+784,,,,15,30,0,0,0,198869,0,0,0,0,0,0,0,0,0
+785,Whelp Rescue,Purchase the Red and Blue Rescued Proto-Whelp pets in Valdrakken from ____.,,15,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,Schematic: Mech,Purchase the Schematic: Mechanical Dragonling Tinker in Valdrakken from ______.,,15,12,236669,0,0,0,0,0,0,0,0,0,0,0,0

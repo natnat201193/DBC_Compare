@@ -53,3 +53,6 @@ ID,Title_lang,Description_lang,WorldPosition[0],WorldPosition[1],Type,PlayerCond
 175,Revendreth,"Revendreth is home to the venthyr, the harvesters of sin. Wretched souls arrive here to find redemption... and avoid eternal torment within the Maw.",-2500,7000,1,87726,62279,0,0,0,0,2222,0
 176,Torghast,"Torghast is the seat of power for the Jailer. Once a prison for the most dangerous souls of the cosmos, it now houses many innocents doomed to be tortured for all eternity.",3500,7000,1,93245,64846,0,0,0,0,2222,0
 177,Battlegrounds,"The brokers of Oribos are recruiting eager competitors to fight each other in the battlegrounds of conflict, so that they may observe and learn.",-2100,1300,1,93585,65031,0,0,0,0,2222,0
+178,The Waking Shores,[PLACEHOLDER] Insert cool zone summary here.,2453,113,1,0,0,0,0,0,0,2444,0
+179,Emerald Gardens Waygate,Find Emerald Gardens Waygate and empower it with Azure Crystal,-1382.45,4498.73,1,0,66583,0,0,0,0,2444,0
+180,Brackenhide Outskirts Waygate,Find Brackenhide Outskirts Waygate and empower it with Azure Crystal,-3621.34,3051.12,1,97226,66592,0,0,0,0,2444,0

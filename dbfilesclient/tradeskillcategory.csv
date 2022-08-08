@@ -1032,8 +1032,8 @@ ID,Name_lang,HordeName_lang,ParentTradeSkillCategoryID,SkillLineID,OrderIndex,Fl
 1391,Shadowlands Fishing,,1390,2754,920,1
 1392,Bait,,1391,356,10,0
 1393,Fishing Poles,,1391,356,20,0
-1394,Shadowlands Tailoring - Header,,0,197,0,0
-1395,Shadowlands Patterns,,1394,2759,0,1
+1394,Shadowlands Tailoring - Header,,0,197,920,0
+1395,Shadowlands Patterns,,1394,2759,920,1
 1396,Armor,,1395,197,50,0
 1397,Kyrian Armor,,1395,197,31,0
 1398,Fae Armor,,1395,197,32,0
@@ -1056,7 +1056,7 @@ ID,Name_lang,HordeName_lang,ParentTradeSkillCategoryID,SkillLineID,OrderIndex,Fl
 1417,Shadowlands Designs - Header,,0,755,920,0
 1418,Shadowlands Designs,,1417,2757,920,1
 1419,Gems,,1418,755,10,0
-1420,Mass Prospecting,,1418,755,20,0
+1420,Prospecting,,1418,755,1,0
 1421,Optional Reagents,,1418,755,30,0
 1422,Necklaces,,1418,755,40,0
 1423,Reagents,,1418,755,50,0
@@ -1153,5 +1153,175 @@ ID,Name_lang,HordeName_lang,ParentTradeSkillCategoryID,SkillLineID,OrderIndex,Fl
 1559,Tarachnids,,1548,2819,120,0
 1560,Vespoids,,1548,2819,130,0
 1561,Viperids,,1548,2819,140,0
+1562,Arcane Manipulation,,0,2821,0,0
+1563,Magical Trinkets,,1562,2821,50,0
 1564,Raptora,,1548,2819,100,0
+1565,Dragon Isles Blacksmithing - Header,,0,164,910,0
+1566,Dragon Isles Plans,,1565,2822,910,1
+1567,Armor,,1566,164,10,0
+1570,Dragon Isles Alchemy - Header,,0,171,910,0
+1571,Dragon Isles Mining - Header,,0,186,910,0
+1572,Dragon Isles Cuisine - Header,,0,185,910,0
+1573,Dragon Isles Skinning - Header,,0,393,910,0
+1574,Dragon Isles Designs - Header,,0,755,910,0
+1575,Dragon Isles Leatherworking - Header,,0,165,910,0
+1576,Dragon Isles Tailoring - Header,,0,197,910,0
+1577,Dragon Isles Enchanting - Header,,0,333,910,0
+1578,Dragon Isles Engineering - Header,,0,202,910,0
+1579,Dragon Isles Fishing - Header,,0,356,910,0
+1580,Dragon Isles Inscription - Header,,0,773,910,0
+1581,Dragon Isles Herbalism - Header,,0,182,910,0
+1582,Dragon Isles Recipes,,1570,2823,910,1
+1584,Dragon Isles Mining,,1571,2833,910,1
+1585,Dragon Isles Cuisine,,1572,2824,910,1
+1586,Dragon Isles Skinning,,1573,2834,910,1
+1587,Dragon Isles Patterns,,1575,2830,910,1
+1588,Dragon Isles Formulas,,1577,2825,910,1
+1590,Dragon Isles Fishing,,1579,2826,910,1
+1591,Dragon Isles Patterns,,1576,2831,910,1
+1592,Dragon Isles Techniques,,1580,2828,910,1
+1593,Dragon Isles Designs,,1574,2829,910,1
+1594,Dragon Isles Herbalism,,1581,2832,910,1
+1595,Dragon Isles Schematics,,1578,2827,910,1
 1597,Lupines,,1548,2819,75,0
+1602,Air Potions,,1582,171,30,0
+1603,Air Phials,,1582,171,40,0
+1604,Transmutations,,1582,171,50,0
+1605,Trinkets,,1582,171,80,0
+1606,Profession Garments,,1591,197,30,0
+1607,Experimentation,,1582,171,10,0
+1608,Finishing Reagents,,1582,171,60,0
+1609,Optional Reagents,,1582,171,60,0
+1610,Incense,,1582,171,70,0
+1611,Reagents,,1582,171,15,0
+1612,Cauldrons,,1582,171,35,0
+1614,Dragon Isles Inscription,,1580,773,0,0
+1628,Gems,,1593,755,10,0
+1629,Miscellaneous,,1593,755,24,0
+1630,Reagents,,1593,755,5,0
+1631,Trinkets,,1593,755,40,0
+1632,Jewelry,,1593,755,50,0
+1633,Statues & Carvings,,1593,755,60,0
+1634,Battle Pets,,1593,755,70,0
+1635,Extravagent Glasswares,,1593,755,150,0
+1636,Rudimentary Gems,,1593,755,11,0
+1637,Air Gems,,1593,755,13,0
+1638,Earth Gems,,1593,755,14,0
+1639,Fire Gems,,1593,755,17,0
+1640,Frost Gems,,1593,755,19,0
+1641,Primalist Gems,,1593,755,21,0
+1642,Profession Equipment,,1593,755,110,0
+1643,Novelties,,1593,755,75,0
+1644,Frost Phials,,1582,171,45,0
+1645,Frost Potions,,1582,171,35,0
+1646,Elemental Phials and Potions,,1582,171,37,0
+1648,Weapons,,1587,165,40,0
+1649,Optional Reagents,,1587,165,40,0
+1650,Finishing Reagents,,1587,165,40,0
+1651,Armor Kits,,1587,165,40,0
+1652,Toys,,1587,165,40,0
+1653,Trinkets,,1587,165,40,0
+1654,Reagents,,1587,165,40,0
+1655,Drums,,1587,165,40,0
+1656,Profession Equipment,,1587,165,40,0
+1657,Leather Armor,,1587,165,30,0
+1658,Mail Armor,,1587,165,30,0
+1660,DI Gems (placeholder/bugged?),,1593,755,8,0
+1662,Garments,,1591,197,15,0
+1665,Azureweave Garments,,1591,197,20,0
+1666,Chronocloth Garments,,1591,197,25,0
+1667,Experiments,,1591,197,55,0
+1668,Unraveling,,1591,197,5,0
+1669,Woven Cloth,,1591,197,10,0
+1670,Assorted Embroidery,,1591,197,50,0
+1671,Finishing Reagents,,1591,197,12,0
+1672,Spellthread,,1591,197,31,0
+1673,Optional Reagents,,1591,197,11,0
+1674,Embroidered Bags,,1591,197,45,0
+1675,Weapons,,1566,164,15,0
+1676,Finishing Reagents,,1566,164,7,0
+1677,Profession Tools and Acessories,,1566,164,20,0
+1678,Smelting,,1566,164,5,0
+1679,Optional Reagents,,1566,164,6,0
+1680,Pets,,1566,164,40,0
+1681,Reclaiming,,1582,171,5,0
+1682,Consumable Tools,,1566,164,25,0
+1683,Dragon Riding,,1566,164,45,0
+1684,Stonework,,1566,164,26,0
+1685,Prospecting,,1593,755,1,0
+1686,Quest Designs,,1593,755,0,0
+1687,Quest Recipes,,1582,171,0,0
+1688,Quest Plans,,1566,164,0,0
+1689,Quest Techniques,,1594,182,0,0
+1690,Quest Formulas,,1588,333,0,0
+1691,Quest Schematics,,1595,202,0,0
+1692,Quest Techniques,,1592,773,0,0
+1693,Quest Patterns,,1587,165,0,0
+1694,Quest Techniques,,1584,186,0,0
+1695,Quest Techniques,,1586,393,0,0
+1696,Quest Patterns,,1591,197,0,0
+1698,Tracking,,0,186,0,0
+1699,Tracking,,0,182,0,0
+1700,Tracking,,0,356,0,0
+1702,Ingredients,,1585,185,10,0
+1704,Snacks,,1585,185,20,0
+1705,Desserts,,1585,185,30,0
+1706,Meat Meals,,1585,185,40,0
+1707,Deluxe Fish Dishes,,1585,185,50,0
+1708,Great Feasts,,1585,185,60,0
+1709,Beverages,,1585,185,25,0
+1710,Devices,,1595,202,120,0
+1711,Fireworks,,1595,202,95,0
+1712,Scopes & Ammo,,1595,202,90,0
+1713,Tinkers,,1595,202,40,0
+1714,Profession Equipment,,1595,202,130,0
+1715,Goggles,,1595,202,50,0
+1716,Weapons,,1595,202,70,0
+1717,Finishing Reagents,,1595,202,20,0
+1718,Parts,,1595,202,10,0
+1719,Robotics,,1595,202,140,0
+1720,Cogwheels,,1595,202,80,0
+1721,Explosives,,1595,202,100,0
+1722,Optional Reagents,,1595,202,30,0
+1723,Armor,,1595,202,60,0
+1724,Milling,,765,773,1,0
+1725,Prospecting,,811,755,1,0
+1726,Milling,,415,773,1,0
+1727,Prospecting,,372,755,1,0
+1728,Milling,,410,773,1,0
+1729,Prospecting,,373,755,1,0
+1730,Milling,,1592,773,1,0
+1731,Milling,,759,773,1,0
+1732,Prospecting,,805,755,1,0
+1733,Milling,,450,773,1,0
+1734,Prospecting,,464,755,1,0
+1735,Milling,,767,773,1,0
+1736,Prospecting,,813,755,1,0
+1737,Milling,,769,773,1,0
+1738,Prospecting,,815,755,1,0
+1739,Milling,,763,773,1,0
+1740,Prospecting,,809,755,1,0
+1741,Milling,,1406,773,1,0
+1744,Bait,,1586,393,0,0
+1745,Fishing Lures,,1586,393,0,0
+1746,Refinement,,1586,393,0,0
+1747,Simple Fish Dishes,,1585,185,48,0
+1748,Trinkets,,1592,773,25,0
+1750,Dragon Isles Test Enchanting [DNT],,1588,333,910,0
+1752,Dragon Isles Reagents,,1592,2828,10,0
+1753,Refinement,,1584,186,0,0
+1754,Dragon Isles Inks,,1592,773,10,0
+1755,Profession Equipment,,1592,773,30,0
+1756,Dragon Isles Missives,,1592,773,20,0
+1757,Profession Specialization,,1592,773,50,0
+1758,Weapons,,1592,773,25,0
+1759,Contracts,,1592,773,45,0
+1760,Dragon Riding,,1592,773,55,0
+1761,Runes and Sigils,,1592,773,25,0
+1762,Dragon Isles Mysteries,,1592,773,40,0
+1763,Scrolls,,1592,773,30,0
+1764,Draconium Deposits,,1584,186,2,0
+1765,Tyrivite Deposits,,1584,186,1,0
+1766,Minable Creatures,,1584,186,3,0
+1767,Dragon Isles Reagents,,1592,773,11,0
+1768,Recrafting,,1566,164,1,0

@@ -53,5 +53,20 @@ ID,Name_lang,ResourceName_lang,Verb_lang,CursorName,EnumID
 159,Covenant: Kyrian,Unlocked Items,Open,,51
 160,Covenant: Necrolord,Unlocked Items,Open,,52
 161,Profession: Engineering,,Deactivate,,53
+162,Herbalism,Herbs,Gather,GatherHerbs,54
+163,Mining,Ore Deposits,Mine,Mine,55
 166,Herbalism,Herbs,Gather,GatherHerbs,56
 167,Mining,Ore Deposits,Mine,Mine,57
+169,Enchanting,Enchanted Items,Disenchant,,58
+170,Dragon Isles Treasures,Treasures,Open,Open,59
+172,Dragon Isles Alchemy 25,Unlocked Items,Open,,60
+173,Dragon Isles Blacksmithing 25,Unlocked Items,Open,,61
+174,Dragon Isles Enchanting 25,Unlocked Items,Open,,62
+175,Dragon Isles Engineering 25,Unlocked Items,Open,,63
+176,Dragon Isles Herbalism 25,Unlocked Items,Open,,64
+177,Dragon Isles Inscription 25,Unlocked Items,Open,,65
+178,Dragon Isles Jewelcrafting 25,Unlocked Items,Open,,66
+179,Dragon Isles Leatherworking 25,Unlocked Items,Open,,67
+180,Dragon Isles Mining 25,Unlocked Items,Open,,68
+181,Dragon Isles Skinning 25,Unlocked Items,Open,,69
+182,Dragon Isles Tailoring 25,Unlocked Items,Open,,70

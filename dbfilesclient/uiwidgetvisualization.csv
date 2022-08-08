@@ -284,4 +284,14 @@ ID,Name,VisType,TextureKit,FrameTextureKit,SizeSetting,InAnimType,OutAnimType,Wi
 1678,Status Bar: Cosmic Energy Bar,2,5326,5424,244,0,0,0,0,0
 1679,9.2 ZM - Campaign - Ch 6 - Unstable Desert - Progenitor Rune BG,12,5426,0,0,0,0,1,0,0
 1682,9.2 Challenge Mode - Encrypted Relic Tracking Widget,13,5426,0,0,0,0,0,0,0
+1690,10.0 Obsidian Citadel - Turn In Location,2,5111,5425,0,0,0,0,0,0
 1691,Torghast Reward Star Icon,0,5218,0,0,0,0,0,0,0
+2086,10.0 Centaur - Hunt - Steps Remaining Scenario Tracker - IconTextBackground (OJF),11,0,5351,0,0,0,0,0,0
+2087,10.0 Tuskarr - Fishing - Waking Shores River - Net Status Bar Timer (LJS),2,5111,5425,0,0,0,3,0,0
+2088,Dragonriding Vigor Segments,15,0,5392,6,0,0,0,141,1
+2089,Dragonriding Vigor Segments Empty,15,0,5393,6,0,0,0,0,0
+2090,10.0 Tuskarr - Fishing Hole - Location 01 - Fish Remaining - 01 Rich (LJS),2,5113,5425,0,0,0,0,0,0
+2092,10.0 Raid - Primalist - Raszageth - Barrier Reinforcement - Energy Tracking,2,235,235,33,1,1,0,0,2
+2093,10.0 Tuskarr Feast - Aroma - PRK,2,5169,5425,0,0,0,3,0,0
+2094,10.0 Tuskarr - Fishing Hole - Location 01 - Fish Remaining - 02 Good (LJS),2,5111,5425,0,0,0,0,0,0
+2095,10.0 Tuskarr - Fishing Hole - Location 01 - Fish Remaining - 03 Moderate (LJS),2,5326,5425,0,0,0,0,0,0

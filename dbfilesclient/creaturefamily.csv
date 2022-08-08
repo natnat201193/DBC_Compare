@@ -56,7 +56,7 @@ ID,Name_lang,MinScale,MinScaleLevel,MaxScale,MaxScaleLevel,PetFoodMask,PetTalent
 108,Infernal,0.25,1,0.3,60,0,-1,0,206,0
 116,Fire Elemental,1,1,1.01,60,0,-1,135790,962,0
 117,Earth Elemental,1,1,1.01,60,0,-1,136024,963,0
-125,Crane,0.2,1,0.7,50,138,1,877479,984,270
+125,Waterfowl,0.2,1,0.7,50,138,1,877479,984,270
 126,Water Strider,0.3,1,0.5,50,48,2,643423,985,270
 127,Rodent,0.6,1,1,50,16,2,644001,983,270
 128,Stone Hound,0.7,1,1.1,50,195,1,625905,986,270

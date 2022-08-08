@@ -581,3 +581,31 @@ ID,Reaction_lang,FriendshipRepID,ReactionThreshold,OverrideColor
 1274,Tier 4,393,14000,0
 1275,Tier 5,393,25000,0
 1276,Tier 6,393,41000,0
+1293,Champion,396,0,0
+1294,Trusted Champion,396,8400,0
+1295,Ally,396,16800,0
+1296,Close Ally,396,25200,0
+1297,Friend,396,33600,0
+1298,True Friend,396,42000,0
+1299,Acquaintance,397,0,0
+1300,Devotee,397,8400,0
+1301,Cohort,397,16800,0
+1302,Ally,397,25200,0
+1303,Fang,397,33600,0
+1304,Friend,397,42000,0
+1305,Neutral,398,0,0
+1306,Preferred,398,3000,0
+1307,Respected,398,9000,0
+1308,Valued,398,21000,0
+1309,Esteemed,398,42000,0
+1316,Low,400,3000,0
+1317,Medium,400,9000,0
+1318,High,400,21000,0
+1319,Maximum,400,42000,0
+1322,Empty,400,0,0
+1323,Acquaintance,397,0,0
+1324,Acquaintance,397,0,0
+1325,Acquaintance,397,0,0
+1326,Champion,396,0,0
+1327,Champion,396,0,0
+1328,Champion,396,0,0

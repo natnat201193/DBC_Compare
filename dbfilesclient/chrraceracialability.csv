@@ -58,20 +58,20 @@ ID,Name_lang,Description_lang,DescriptionShort_lang,Icon,Order,ChrRacesID
 151,Nose For Trouble,Take less damage the first time an enemy hits you.,Take less damage the first time you're hit,3193419,2,35
 152,Alpaca Saddlebags,Your backpack has 8 additional slots.,Your backpack has 8 additional slots,3193421,3,35
 153,Fire Resistance,Reduces Fire damage taken.,Resistant to Fire damage,3193417,4,35
-192,Unburden,"Dissolve into pure anima, dramatically increasing your movement speed, slowing your falling speed, and propelling you forward.
+248,Unburden,"Dissolve into pure anima, dramatically increasing your movement speed, slowing your falling speed, and propelling you forward.
 
 Reduces the radius at which enemies will detect you for the duration.",,298642,0,15
-193,Divine Toll,"Instantly cast an empowered Holy Shock, Avenger's Shield, or Judgment, that strikes all nearby targets.",,133706,1,15
-194,Amalgamate,"Fuse yourself into an enemy or ally. You become untargetable by enemies, but are unable to attack or cast spells.
+249,Divine Toll,"Instantly cast an empowered Holy Shock, Avenger's Shield, or Judgment, that strikes all nearby targets.",,133706,1,15
+250,Amalgamate,"Fuse yourself into an enemy or ally. You become untargetable by enemies, but are unable to attack or cast spells.
 
 If the enemy is your level or lower, take control of them for the duration.",,237147,0,16
-195,Blood Oath,"Swear an oath in blood, immediately removing most harmful effects from yourself and causing your abilities to deal additional damage or healing equal to the health spent on this ability.",,133523,0,16
-196,Patronus Form,"Turn into a Spirit Fox, increasing your movement speed and causing enemies to ignore you.",,797544,0,17
-197,Invoke Lightgrove,"Create a Lightgrove at the targeted area, restoring health to you and an injured ally every 3 sec.
+251,Blood Oath,"Swear an oath in blood, immediately removing most harmful effects from yourself and causing your abilities to deal additional damage or healing equal to the health spent on this ability.",,133523,0,16
+252,Patronus Form,"Turn into a Spirit Fox, increasing your movement speed and causing enemies to ignore you.",,797544,0,17
+253,Invoke Lightgrove,"Create a Lightgrove at the targeted area, restoring health to you and an injured ally every 3 sec.
 
 Judgment has a chance to not incur its cooldown when cast against an enemy within the Lightgrove.",,135931,0,17
-198,Door of Shadows,"Bend through the shadows, appearing at the targeted location.",,134430,0,18
-199,Ashen Sunset,"Draw the Light into you, draining health from nearby enemies to restore yourself.
+254,Door of Shadows,"Bend through the shadows, appearing at the targeted location.",,134430,0,18
+255,Ashen Sunset,"Draw the Light into you, draining health from nearby enemies to restore yourself.
 
 Draining at least one enemy causes your next ability to be a guaranteed critical strike.",,461857,0,18
 490,Shadowmeld,May fade into the shadows.,Can fade into the shadows,132089,0,4
@@ -120,3 +120,13 @@ Draining at least one enemy causes your next ability to be a guaranteed critical
 533,Pack Hobgoblin,Can periodically summon a personal bank.,Summon a personal bank,370211,3,9
 534,Time is Money,Haste increased.,Haste increased,369214,4,9
 535,Better Living Through Chemistry,Alchemy skill and potion healing increased.,Alchemy skill and potion healing increased,370670,5,9
+606,Soar / Glide,"Use your wings to glide through the air, and soar from high places.","Use your wings to glide through the air, and soar from high places",4622485,0,52
+607,Familiar Skies,Fully explore a continent to increase your maximum soaring speed.,Fully explore a continent to increase your maximum soaring speed,4622483,1,52
+608,Tail Swipe / Wing Buffet,Knock enemies away with your wings and tail.,Knock enemies away with your wings and tail,4622486,2,52
+609,Awakened,Increased Mastery.,Increased Mastery,4622481,3,52
+610,Discerning Eye,Find additional rare reagents when gathering.,Find additional rare reagents when gathering,4630415,4,52
+611,Soar / Glide,"Use your wings to glide through the air, and soar from high places.","Use your wings to glide through the air, and soar from high places",4622485,0,70
+612,Familiar Skies,Fully explore a continent to increase your maximum soaring speed.,Fully explore a continent to increase your maximum soaring speed,4622483,1,70
+613,Tail Swipe / Wing Buffet,Knock enemies away with your wings and tail.,Knock enemies away with your wings and tail,4622486,2,70
+614,Awakened,Increased Mastery.,Increased Mastery,4622481,3,70
+615,Discerning Eye,Find additional rare reagents when gathering.,Find additional rare reagents when gathering,4630415,4,70

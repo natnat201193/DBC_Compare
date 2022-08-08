@@ -338,7 +338,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local swingTime = 4000; -- in milliseconds
@@ -380,7 +380,7 @@ end
 end
 
 
-",Jared Gillis,0,46
+",Ronald Leask,0,46
 62165,9.0 Maw - Jailer's Tower - Swinging Axe Trap Lower Angle - (STM),"function maw_jailerstower_trap_swingingaxe_large_lowerangle_stm(elapsedMs, x, y, z, roll, pitch, yaw)
 	------------------------------------
 	-- Area Trigger Movement Script:  --
@@ -518,7 +518,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local totalTime = 6000 -- in milliseconds
@@ -571,7 +571,11 @@ end
 end
 
 
-",Jared Gillis,0,46
+",Ronald Leask,0,46
+67515,Candlemancer - All - Core - Shifting Sands - Area Trigger Movement,"function candlemancer_all_core_shifting_sands_area_trigger_movement(elapsedMs, x, y, z, roll, pitch, yaw)
+	return 0, 0, -5, 0, 0, 0
+
+end",Graham Berger,0,46
 67699,CharlesTest - Orbit Trigger,"function charles_test_orbit_trigger(elapsedMs, x, y, z, roll, pitch, yaw)
 	print(x .. "" "" .. y .. "" "" .. z .. "" "" .. roll .. "" "" .. pitch .. "" "" .. yaw)
 	return 0, 0, 0, 0, 0, 0
@@ -704,7 +708,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local totalTime = 10000 -- in milliseconds
@@ -726,7 +730,7 @@ end
 end
 
 
-",Jared Gillis,0,46
+",Ronald Leask,0,46
 69308,9.1 Toy - Top Movement,"function toy_top_trigger(elapsedMs, x, y, z, roll, pitch, yaw)
 	------------------------------------
 	-- Area Trigger Movement Script:  --
@@ -774,7 +778,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local totalTime = 10000 -- in milliseconds
@@ -799,7 +803,7 @@ end
 	
 	return xOffset, yOffset, zOffset, zRotate, yRotate, 0
 end
-",Jared Gillis,0,46
+",Ronald Leask,0,46
 70219,9.2 Raid - Progenitor - Terrestrial Keeper - Orb Movement,"function TerrestrialKeeper_OrbMovement(elapsedMs, x, y, z, roll, pitch, yaw)
 	------------------------------------
 	-- Area Trigger Movement Script:  --
@@ -820,7 +824,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local totalTime = 10000 -- in milliseconds
@@ -842,7 +846,7 @@ end
 end
 
 
-",Jared Gillis,0,46
+",Ronald Leask,0,46
 71005,9.2 Raid - Progenitor - Terrestrial Keeper - Mines 0 Precast,"function terrestrial_keeper_mines_move_script(elapsedMs, x, y, z, roll, pitch, yaw)
 	------------------------------------
 	-- Area Trigger Movement Script:  --
@@ -863,7 +867,7 @@ end
 	--
 	--
 
-	--printsep(elapsedMs, x, y, z, roll, pitch, yaw)
+	--prints(elapsedMs, x, y, z, roll, pitch, yaw)
 
 	-- Constants
 	local totalTime = 1900 -- in milliseconds
@@ -886,4 +890,41 @@ end
 end
 
 
-",Jared Gillis,0,46
+",Ronald Leask,0,46
+76017,(BAD) 10.0 Primalist - Wind Elemental - Add's Raging Tempest - Spawn Spiral Area Triggers,"function Raid_Primalist_WindElemental_AddRagingTempest_SpawnSpiralAreaTriggers_MoveScript(elapsedMs, x, y, z, roll, pitch, yaw)
+	local function GenerateSmoothSpiralModded(direction,growth,points,pointsPerCircle)
+		local output = {{0,0,0},}
+		local rotation = Random(0,360)
+
+		for i=0,points do
+			rotation = rotation+(360/pointsPerCircle)
+			if rotation>=360 then rotation=rotation-360 end
+			local OffsetVector = GetSavedC3Vector({i*growth,0,0})
+			OffsetVector = C3Vector_2DRotate(OffsetVector,math.rad(math.floor(rotation))*direction)
+			table.insert(output,SaveC3Vector(OffsetVector))
+		end
+		return output
+	end
+	
+	local vortexDirection = (Random(1,2)*2)-3	-- Gets 1 or -1
+	local vortexGrowth = Random(15,25) / 100		-- Gets a decimal
+	local vortexPoints = Random(15,25)
+	local vortexPointsPerCircle = Random(10,15)
+
+	for k,v in pairs(GenerateSmoothSpiralModded(vortexDirection,vortexGrowth,vortexPoints,vortexPointsPerCircle)) do
+		pathContainer:add(C3Vector_add(GetSavedC3Vector(v),position))
+	end
+
+
+end
+
+
+",Matt Nemiah,0,46
+77239,Trampling Hooves Dummy Animation Trigger,"function moveForward(elapsedMs, x, y, z, roll, pitch, yaw)
+
+
+
+end
+
+
+",Alan Castle,0,46

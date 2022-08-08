@@ -1,0 +1,10 @@
+ID,Name_lang,Description_lang,EnumID,Field_10_0_0_44649_003,ProfessionRatingType
+1,Inspiration,You have a $rv% chance to craft this recipe with $csv bonus skill. (DNT),0,0,0
+2,Resourcefulness,You have $rv% chance to use fewer tradeable reagents. (DNT),1,1,0
+3,Gather Extra,You have a $rv% chance to gather extra materials. (DNT),2,2,1
+4,Gather Time Decrease,Gathering time is decreased by $rv%.(DNT),3,3,1
+5,Gather Discover,You have a $rv% chance to discover rare materials.(DNT),4,4,1
+6,Craft Time Decrease,Crafting time decreased by $rv%.(DNT),5,5,0
+7,Craft Extra,Chance to craft extra materials increased by $rv%.(DNT),6,6,0
+8,Gather Time Increase,You can spend $rv% more time gathering materials.(DNT),7,7,1
+9,Gather Range,You are able to detect materials at $rv% greater range.(DNT),8,8,1
