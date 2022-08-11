@@ -776,4 +776,34 @@ Mythic Dungeon International: Shadowlands Season 2,1164,187959,2,-1
 ,1187,191925,2,-1
 |cFFFFD200Vendor: |rJepetto Joybuzz|n|cFFFFD200Cost: |r50|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1188,192099,0,-1
 ,1189,192485,2,-1
+|cFFFFD200Profession:|r Dragon Isles Engineering,1190,192495,0,3
+|cFFFFD200Profession:|r Dragon Isles Jewelcrafting|n,1191,193032,0,3
 |cFFFFD200Promotion:|r Dragonflight Epic Edition,1192,193588,0,7
+|cFFFFD200Profession:|r Dragon Isles Jewelcrafting|n,1193,193033,0,3
+|cFFFFD200Profession:|r Leatherworking|n,1194,193478,0,3
+|cFFFFD200Profession:|r Leatherworking|n,1195,193476,0,3
+|cFFFFD200Profession:|r Leatherworking,1196,197719,0,3
+[PH] |cFFFFD200Vendor: |rDragon Day Care Attendant,1197,197961,0,2
+|cFFFFD200Achievement: |rThe Joy of Toy|n|cFFFFD200Category: |rToy Box,1198,197986,0,5
+|cFFFFD200Quest: |rAnimal Cruelty|n|cFFFFD200Zone: |rOhn'ahran Plains,1199,198039,0,-1
+|cFFFFD200Quest:|r One Bad Apple|n|cFFFFD200Zone:|r Azure Span,1200,198090,0,0
+|cFFFFD200Faction: |rMaruuk Centaur - Renown 3,1201,198402,4,-1
+|cFFFFD200Drop: |rSunscale Behemoth|n|cFFFFD200Zone: |rOhn'ahran Plains,1202,198409,0,-1
+|cFFFFD200Achievement:|r River Rapids Wrangler,1203,198428,0,0
+|cFFFFD200Profession:|r Tailoring|n,1204,194052,0,3
+|cFFFFD200Quest:|r <Insert Quest Name Here>,1205,198474,0,0
+|cFFFFD200Quest: |rTaivan's Purpose|n|cFFFFD200Zone: |rOhn'ahran Plains,1206,198537,0,-1
+|cFFFFD200Profession: |rDragon Isles Engineering,1207,198227,0,-1
+|cFFFFD200Vendor: |rEmilia Bellocq|n|cFFFFD200Zone: |rThe Waking Shores|n|cFFFFD200Cost: |r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1208,198646,0,2
+|cFFFFD200Source:|r Tuskarr Reputation,1209,198827,0,0
+|cFFFFD200Profession:|r Tailoring|n,1210,194060,0,3
+|cFFFFD200Profession: |rDragon Isles Engineering,1211,198264,0,-1
+|cFFFFD200Profession: |rDragon Isles Engineering,1212,198206,0,-1
+|cFFFFD200Quest: |rFriend on the Lend|n|cFFFFD200Zone: |rWaking Shores,1213,198857,0,1
+|cFFFFD200Profession:|r Tailoring|n,1214,194056,0,3
+|cFFFFD200Profession: |rDragon Isles Engineering,1215,198156,2,-1
+|cFFFFD200Zone:|r Dragon Isles|n|cFFFFD200Zone:|r Pandaria|n,1216,199111,0,-1
+|cFFFFD200Profession:|r Tailoring|n,1217,194057,0,3
+|cFFFFD200Profession:|r Tailoring|n,1218,194058,0,3
+|cFFFFD200Profession:|r Tailoring|n,1219,194059,0,3
+|cFFFFD200Profession:|r Dragon Isles Engineering|n,1220,199554,0,3

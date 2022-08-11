@@ -49,3 +49,6 @@ ID,TutorialText_lang,SpellID,ActionBarOverrideSpellID,SpellLabel,UiTextureKitID,
 51,Pocopoc summon unlocked!|n|nYou can drag this to your action bar.,360078,362639,0,5421,100
 52,[PH] Reuse ME,0,0,0,5303,100
 53,,0,0,0,5428,90
+54,Shikaar ability unlocked!|n|nYou can drag this to your action bar.,376280,0,1533,5469,100
+55,Shikaar ability unlocked!|n|nYou can drag this to your action bar.,384522,0,1758,5469,100
+57,Throw the ball into a goal.,385265,0,1779,5428,1

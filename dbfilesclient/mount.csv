@@ -505,8 +505,8 @@ Llothien Prowler,|cFFFFD200Quest:|r Volpin the Elusive|n|cFFFFD200Zone:|r Surama
 Garn Nighthowl,|cFFFFD200Drop:|r Nok-Karosh|n|cFFFFD200Location:|r Frostfire Ridge,"The garn are the most fierce predators on Draenor, and always hunt in packs.",657,230,0,0,171851,0,0,4,0,0
 Bloodfang Widow,|cFFFFD200Vendor:|r The Mad Merchant|n,"Its long, serrated limbs drip with the blood of its enemies and/or mate.",663,230,0,2,213115,0,0,4,0,0
 Emerald Drake,|cFFFFD200Achievement:|r Drake Collector|n|cFFFFD200Category:|r Mounts,"""Is the emerald drake rare?  You have no idea.  If I had a silver for every time someone asked me about one, I could have retired years ago."" --Mei Francis",664,248,128,5,175700,0,0,4,0,0
-Chauffeured Mechano-Hog,|cFFFFD200Achievement:|r Heirloom Hoarder|n,Why drive yourself around when you can hire someone to do it for you?,678,284,4100,5,179244,0,0,4,0,0
-Chauffeured Mekgineer's Chopper,|cFFFFD200Achievement:|r Heirloom Hoarder,Transportation is a precise business.,679,284,4100,5,179245,0,0,4,0,0
+Chauffeured Mechano-Hog,|cFFFFD200Achievement:|r Heirloom Hoarder|n,Why drive yourself around when you can hire someone to do it for you?,678,284,4100,5,179244,99525,0,4,0,0
+Chauffeured Mekgineer's Chopper,|cFFFFD200Achievement:|r Heirloom Hoarder,Transportation is a precise business.,679,284,4100,5,179245,99525,0,4,0,0
 Voidtalon of the Dark Star,|cFFFFD200Drop: |rVoidtalon Egg,"Corrupted by the presence of the Dark Star in Draenor, the Voidtalons resisted being broken by the Shadowmoon Clan and were ultimately destroyed by Ner'zhul. Only a single egg remains, lost in the void.",682,230,0,0,179478,0,0,4,0,0
 Mystic Runesaber,|cFFFFD200In-Game Shop|r,"Infused with arcane power, the Mystic Runesaber has long been hidden by chaotic nether energies. Recently they have emerged from the shadows in search of ley lines to sate their thirst for magic.",741,248,0,9,180545,0,1.5,4,0,0
 Felsteel Annihilator,|cFFFFD200Drop: |rArchimonde|n|cFFFFD200Location:|r Hellfire Citadel|n|cFFFFD200Difficulty:|r Mythic|n,"Forged deep within Hellfire Citadel by a mad blacksmith, the Felsteel Annihilator combines the metalworking knowledge of the Iron Horde with the chaotic fel energies of the Burning Legion into an unholy union of steel and flame.",751,248,0,0,182912,0,0,45,0,0
@@ -933,10 +933,13 @@ Vicious War Gorm,|cFFFFD200PvP:|r Shadowlands: Season 2|nRated Arena and Rated B
 Vicious War Gorm,|cFFFFD200PvP:|r Shadowlands: Season 2|nRated Arena and Rated Battleground Season Reward,"The gorm love eating the corpses of your enemies, so this seemed like a natural fit.",1460,230,4,5,348770,0,0,4,0,0
 Vicious Warstalker,|cFFFFD200PvP:|r Shadowlands: Season 4|nRated Arena and Rated Battleground Season Reward,Trample the Horde to dust while riding a majestic protoform wolf! For the Alliance!,1465,230,4,0,349824,0,0,4,0,0
 Vicious Warstalker,|cFFFFD200PvP:|r Shadowlands: Season 4|nRated Arena and Rated Battleground Season Reward,Trample the Alliance to dust while riding a majestic protoform wolf! For the Horde!,1466,230,4,0,349823,0,0,4,0,0
+Noble Elderhorn,PH,PH,1467,230,0,-1,349935,0,0,4,0,0
+Magmashell,PH,PH,1469,230,0,-1,350219,0,0,4,0,0
 Vengeance,|cFFFFD200Drop:|r Lady Sylvanas Windrunner|n|cFFFFD200Zone:|r Sanctum of Domination|n|cFFFFD200Difficulty:|r Mythic,"Sylvanas lost a part of herself the day Arthas took her life, and the darkness within her grew to fill the void.",1471,248,128,6,351195,0,0,4,0,0
 Hand of Bahmethra,|cFFFFD200Drop:|r Tormentors of Torghast|n|cFFFFD200Zone:|r The Maw|n,"The most wicked and cruel of her kin, Bahmethra endured the full measure of the Banished One's punishments before her fall.",1475,230,0,0,352309,0,0,43,0,0
 Wild Hunt Legsplitter,|cFFFFD200Drop:|r War Chest of the Wild Hunt|n|cFFFFD200Zone:|r The Maw,"Integrated into the depleted forces of the Wild Hunt, the fawn riders quickly found that the gorm's powerful mandibles were perfect for cutting down close enemy ranks.",1476,230,0,0,352441,0,0,4,0,0
 Undying Darkhound,|cFFFFD200Drop:|r War Chest of the Undying Army|n|cFFFFD200Zone:|r The Maw ,"The Undying Darkhound's parts have graced many battlefields, yet this latest battle may have been the first time they all fought together.",1477,230,0,0,352742,0,0,4,0,0
+Skyskin Hornstrider,PH,PH,1478,230,0,-1,352926,0,0,4,0,0
 Unchained Gladiator's Soul Eater,|cFFFFD200Achievement: |rGladiator: Shadowlands Season 2|n|cFFFFD200Category: |rPlayer vs. Player,This soul eater's gaze unnerves you. Best not meet its eyes for too long.,1480,248,192,5,353036,0,0,4,0,0
 Cartel Master's Gearglider,"|cFFFFD200Drop:|r So'leah|n|cFFFFD200Zone:|r Tazavesh, the Veiled Market|n",Only the richest cartel leaders are able to afford the metals required to craft the Cartel Master's Gearglider.,1481,248,1024,0,353263,0,0,4,0,0
 Ardenweald Wilderling,|cFFFFD200Covenant: |rNight Fae|n|cFFFFD200Zone: |rArdenweald,"As anima flows to the distant wealds of Ardenweald once more, the wilderlings awaken and cautiously emerge from their canopy burrows.",1484,248,128,-1,353856,93649,0,4,0,0
@@ -989,11 +992,15 @@ Genesis Crawler,|cFFFFD200Profession: |rProtoform Synthesis,The Enlightened who 
 Tarachnid Creeper,|cFFFFD200Profession: |rProtoform Synthesis,"These tarachnids make their home in the darkest corners of Zereth Mortis, coming out only to hunt (or, sometimes, carry a rider around).",1542,230,0,3,359402,0,0,4,0,0
 Ineffable Skitterer,|cFFFFD200Profession: |rProtoform Synthesis,"These tarachnids move with a purpose unknown to others, answering only to a higher calling. Whatever that may be, it appears to include routine assistance to mortals who need a ride. For now.",1543,230,0,3,359403,0,0,4,0,0
 Wastewarped Deathwalker,|cFFFFD200Achievement: |rShadowlands Keystone Master: Season Three|n|cFFFFD200Category: |rDungeons,"Raw swirling energy bound together into a cohesive form, it will only bend to the will of those strong enough to bind it.",1544,248,0,-1,359407,0,0,45,0,0
+Divine Kiss of Ohn'ahra,|cFFFFD200Drop:|r PH|n,PH,1545,248,0,0,359408,0,0,4,0,0
+Iskaara Trader's Ottuk,|cFFFFD200Drop:|r PH|n,PH,1546,230,0,0,359409,0,0,4,0,0
 Goldplate Bufonid,|cFFFFD200Profession: |rProtoform Synthesis,"This armored bufonid is always ready to leap into battle... as long as that battle is really, really close. In a pinch, it can leap multiple times and eventually reach the battle.",1547,230,0,3,359413,0,0,4,0,0
 Shimmering Aurelid,|cFFFFD200Achievement: |rGlory of the Sepulcher Raider|n|cFFFFD200Category: |rDungeons & Raids,"Though it was once created to defend the Sepulcher of the First Ones, with its primary function now completed, it now obediently follows your command.",1549,407,2192,5,359379,0,0,44,0,0
 Cryptic Aurelid,|cFFFFD200Achievement: |rFrom A to Zereth|n|cFFFFD200Category: |rShadowlands,"The Cyphers of the First Ones are beyond any mortal understanding. A curious effect of the language is that, for reasons unknown, some aurelids are drawn to mortals who aspire to unlock its mystery.",1551,407,2192,5,359381,0,0,44,0,0
 Carcinized Zerethsteed,|cFFFFD200Quest:|r Leading Motives,"The few of these mysterious creatures that remain appear to be impossibly old, almost timeless. Perhaps they were created by the First Ones, because no schematic to synthesize these has yet been discovered.",1552,248,0,1,359545,0,0,4,0,0
+Liberated Slyvern,|cFFFFD200Drop:|r PH|n,PH,1553,248,0,0,359622,0,0,4,0,0
 Tangled Dreamweaver,|cFFFFD200Promotion:|r Dragonflight Heroic Edition|n,"The last of the sleepers are finally awakening, bringing the dreams of the dragons back to the lands.",1556,248,0,7,359843,0,0,4,0,0
+Highland Drake,|cFFFFD200Achievement:|r Dragon Isles: Highland Drake|n,[PH] Zone 3 Drake,1563,402,512,5,360954,0,0,4,0,0
 Colossal Soulshredder Mawrat,|cFFFFD200Achievement:|r Flawless Master (Layer 16)|n|cFFFFD200Category:|r Torghast|n,"The incredible prowess you have demonstrated within the Jailer's Tower has instilled sufficient respect into this fearsome creature, enabling its use as a mount.",1564,230,0,5,363297,0,0,4,0,0
 Colossal Umbrahide Mawrat,|cFFFFD200Drop:|r Torghast Layers 13 or higher|n|cFFFFD200Location:|r Torghast|n,This disturbingly large Mawrat is an anomaly amongst its species. These Colossal Mawrats lurk only in the most distant and darkest reaches of Torghast.,1565,230,0,5,363178,0,0,4,0,0
 Colossal Ebonclaw Mawrat,|cFFFFD200Achievement:|r The Jailer's Gauntlet: Layer 4|n|cFFFFD200Category:|r Torghast|n,"This vicious and cunning creature has grown to its astonishing size by not only feasting upon the weakened souls in the Jailer's Tower, but also vulnerable Mawsworn.",1566,230,0,5,363136,0,0,4,0,0
@@ -1010,6 +1017,32 @@ Heartbond Lupine,|cFFFFD200Profession: |rProtoform Synthesis,"From the moment of
 Colossal Plaguespew Mawrat,"|cFFFFD200Drop:|r Rhuv, Gorger of Ruin|n","These rodents became Iska's infamous sentries, scouting and carrying her plague across the Maw. Their presence is only followed by ruin.",1584,230,0,5,368105,0,0,4,0,0
 Colossal Wraithbound Mawrat,|cFFFFD200Drop:|r Mawsworn Supply Chest|n,"Infused by the energies of tormented souls, these creatures have adopted ghostlike abilities that make them quite elusive.",1585,230,0,5,368128,0,0,4,0,0
 Zereth Overseer,|cFFFFD200Drop: |rThe Jailer|n|cFFFFD200Zone: |rSepulcher of the First Ones|n|cFFFFD200Difficulty: |rMythic,"Enigmatic and aloof, this construct of the First Ones flies on a graceful stream of perfect geometric understanding.",1587,248,0,-1,368158,0,0,4,0,0
+Winding Slitherdrake,,[PH],1588,402,576,-1,368893,0,0,4,0,0
+Renewed Proto-Drake,|cFFFFD200Achievement:|r Dragon Isles: A New Friend,[PH] Zone 1 Drake,1589,402,576,5,368896,0,0,4,0,0
+Windborne Velocidrake,|cFFFFD200Achievement:|r Dragon Isles: Windborne Velocidrake,[PH] Zone 2 Drake,1590,402,576,5,368899,0,0,4,0,0
+Cliffside Wylderdrake,|cFFFFD200Achievement:|r Dragon Isles: Cliffside Wylderdrake,[PH] Zone 4 Drake,1591,402,576,5,368901,0,0,4,0,0
 Grimhowl,|cFFFFD200Quest: |rGood Fiery Boy|n|cFFFFD200Zone: |rBlackrock Depths,"Otherwise known as The Flame Woof, the Fetcher of the Igneous, Molten Core's Best Friend, Forgehound Maximus, the Best Fiery Boy, and ""oh no is that an AXE on his face!?""",1597,230,0,1,369666,61660,0,4,0,0
 Eternal Gladiator's Soul Eater,|cFFFFD200Achievement: |rGladiator: Shadowlands Season 4|n|cFFFFD200Category: |rPlayer vs. Player,This soul eater's gaze unnerves you. Best not meet its eyes for too long.,1599,248,192,5,370346,0,0,4,0,0
 Elusive Emerald Hawkstrider,|cFFFFD200Quest: |rBlood Knight|n|cFFFFD200Zone: |rGhostlands|n|n|cFFFFD200Quest: |rVictory for the Sin'dorei|n|cFFFFD200Zone: |rGhostlands,"Unseen for many years, this brightly hued hawkstrider emerged from hiding to help defend the Ghostlands from the Scourge. Its prowess shines as brilliantly as its feathers.",1600,230,0,-1,370620,0,0,44,0,0
+Dragon Isles Drake Model Test,|cFFFFD200Achievement:|r Dragon Isles Drake|n,NYI,1605,402,512,5,371571,0,0,4,0,0
+Swift Spectral Drake,|cFFFFD200Legacy|r,Even the dead need a lift every now and then.,1607,242,64,5,372995,0,0,4,0,0
+Dracthyr Flight Test,,Flap your wings!,1608,409,7298,-1,373646,0,0,4,0,0
+Loyal Magmammoth,[PH],[PH],1612,230,0,1,373859,0,0,4,0,0
+Tamed Skitterfly,|cFFFFD200Drop:|r PH|n,PH,1615,248,0,0,374032,0,0,4,0,0
+Azure Skitterfly,|cFFFFD200Drop:|r PH|n,PH,1616,248,0,0,374034,0,0,4,0,0
+Skitterfly Verdant,|cFFFFD200Drop:|r PH|n,PH,1617,248,0,0,374048,0,0,4,0,0
+Stormhide Salamanther,PH,PH,1622,230,0,-1,374098,0,0,4,0,0
+Scorchpath,PH,PH,1623,230,0,-1,374138,0,0,4,0,0
+Plainswalker Bearer,PH,PH,1635,230,0,2,374196,0,0,45,0,0
+Thunderspine Behemoth,PH,PH,1639,230,4,2,374247,0,0,45,0,0
+Restless Hornstrider,PH,PH,1643,230,0,-1,374263,0,0,4,0,0
+Carrier Ottuk,|cFFFFD200Achievement: |rThanks for the Carry!|n|cFFFFD200Category: |rMounts|n,[PH],1654,230,0,5,376912,0,0,4,0,0
+Splish-Splash,|cFFFFD200Drop:|r PH|n,PH,1656,230,0,0,376873,0,0,4,0,0
+Scouting Ottuk,|cFFFFD200Drop:|r PH|n,PH,1657,230,0,0,376875,0,0,4,0,0
+Ivory Trader's Ottuk,|cFFFFD200Drop:|r PH|n,PH,1658,230,0,0,376879,0,0,4,0,0
+[PH] Gladiator Drake,[PH],[PH] Swoop de loop and murder other players in style.,1660,230,0,0,377071,0,0,4,0,0
+Swift Vorquin,|cFFFFD200Drop:|r PH|n,PH,1665,230,0,0,385134,0,0,4,0,0
+Vorquin Leystrider,|cFFFFD200Drop:|r PH|n,PH,1667,230,0,0,385131,0,0,4,0,0
+Majestic Vorquin,|cFFFFD200Drop:|r PH|n,PH,1668,230,0,0,385115,0,0,4,0,0
+Zenet Hatchling,|cFFFFD200Drop:|r PH|n,PH,1672,248,0,0,385266,0,0,4,0,0
+[PH] Wind Proto-Drake,[PH],[PH] wheeeeeee wind!,1682,409,0,0,387948,0,0,4,0,0

@@ -132,7 +132,7 @@ The faction which earns the most credit today may hang their banners by the Scar
 1598,Tortollan Seekers,Grants reputation with the Tortollan Seekers.,142,2032598,0,0,0,0,1,2163,0,0,0,0,8,0
 1599,7th Legion,Grants reputation with the 7th Legion.,142,2032591,0,0,0,0,1,2159,0,0,0,0,8,0
 1600,Honorbound,Grants reputation with the Honorbound.,142,2032593,0,0,0,0,1,2157,0,0,0,0,8,0
-1602,Conquest,Earned from Rated PvP activites. Spend to acquire equipment in Oribos.,2,1523630,0,0,0,0,4,0,14,0,85559,20084,2097546,1
+1602,Conquest,Earned from Rated PvP activites. Spend to acquire equipment in Oribos.,2,1523630,0,0,0,0,4,0,14,0,85559,21865,2097546,1
 1703,PVP Season Rated Participation Currency,,142,1060986,0,0,900000,0,1,0,0,0,0,0,19398656,0
 1704,Spirit Shard,The shard pulses with energy.,23,133286,0,0,200,0,1,0,0,0,0,0,3145730,0
 1705,Warfronts - Personal Tracker - Iron in Chest (Hidden),,142,0,0,0,200,0,0,0,0,0,0,0,1639424,0
@@ -313,5 +313,119 @@ Bonesmith Heirmir in Korthia can use these to improve Shards of Domination.",245
 1982,The Enlightened,Grants reputation with The Enlightened.,142,4217591,0,0,0,0,1,2478,0,0,0,0,10,0
 1997,Archivists' Codex,Grants progress with the Archivists' Codex.,142,457654,0,0,0,0,1,2472,0,0,0,0,10,0
 2000,Motes of Fate,,142,237016,0,0,0,0,0,0,0,0,0,0,68681728,0
+2002,Renown-Maruuk Centaur,It's Renown,142,3012071,0,0,25,0,6,0,0,0,0,0,262146,0
+2003,Dragon Isles Supplies,Various resources and building materials that can assist the friendly factions of the Dragon Isles in their fight against the Primalists.,250,2065578,0,0,0,0,1,0,12,0,0,0,134217730,0
+2005,Druid Talent Points (DNT),,1,132136,0,0,0,0,1,0,0,0,0,0,0,0
+2006,Restoration Talent Points (DNT),,1,136041,0,0,0,0,1,0,0,0,0,0,0,0
 2009,Cosmic Flux,"Swirling fragments of creation energy that enable transformation, Cosmic Flux can be used to empower equipment at the Creation Catalyst in Zereth Mortis or fuel the Runecarver's Chamber in Torghast.",245,4381149,0,0,0,0,5,0,14,0,0,0,2,0
 2010,[DNT] Byron Test Currency,A currency used to test currencies.,245,463447,0,0,1500,0,4,0,0,0,0,0,2105794,1
+2011,Effigy Adornments,"Crafted by the Shikaar, these adornments can enhance Major Hunt effigies.",250,454064,0,0,0,0,3,0,12,0,0,0,34603010,0
+2012,Death Knight Talent Points (DNT),,1,135771,0,0,0,0,1,0,0,0,0,0,0,0
+2013,Frost Talent Points (DNT),,1,135773,0,0,0,0,1,0,0,0,0,0,0,0
+2014,Unholy Talent Points (DNT),,1,135775,0,0,0,0,1,0,0,0,0,0,0,0
+2015,Blood Talent Points (DNT),,1,135770,0,0,0,0,1,0,0,0,0,0,0,0
+2016,Dragon Racing - Scoreboard - Race Complete Time,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2017,Dragon Racing - Scoreboard - Race Complete Time - Fraction,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2018,Dragon Racing - Scoreboard - Race Quest ID,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2019,Dragon Racing - Scoreboard - Race Complete Time - Silver,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2020,Dragon Racing - Scoreboard - Race Complete Time - Gold,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2021,Renown-Dragonscale Expedition,It's Renown,142,456568,0,0,25,0,6,0,0,0,0,0,262146,0
+2022,Dragon Racing - Multiplayer Race Placement,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2023,Dragon Isles Blacksmithing Knowledge,,250,136241,0,0,0,0,3,0,8,0,0,0,0,0
+2024,Dragon Isles Alchemy Knowledge,,250,1385152,0,0,0,0,3,0,17,0,0,0,0,0
+2025,Dragon Isles Leatherworking Knowledge,,250,136247,0,0,0,0,3,0,7,0,0,0,0,0
+2026,Dragon Isles Tailoring Knowledge,,250,136249,0,0,0,0,3,0,7,0,0,0,0,0
+2027,Dragon Isles Engineering Knowledge,,250,136243,0,0,0,0,3,0,10,0,0,0,0,0
+2028,Dragon Isles Inscription Knowledge,,250,237171,0,0,0,0,3,0,20,0,0,0,0,0
+2029,Dragon Isles Jewelcrafting Knowledge,,250,133256,0,0,0,0,3,0,24,0,0,0,0,0
+2030,Dragon Isles Enchanting Knowledge,,250,463529,0,0,0,0,3,0,21,0,0,0,0,0
+2031,Dragonscale Expedition,Grants Reputation with the Dragonscale Expedition.,142,456566,0,0,0,0,1,2507,0,0,0,0,10,0
+2033,Dragon Isles Skinning Knowledge,,250,2032174,0,0,0,0,3,0,7,0,0,0,0,0
+2034,Dragon Isles Herbalism Knowledge,,250,136246,0,0,0,0,3,0,7,0,0,0,0,0
+2035,Dragon Isles Mining Knowledge,,250,136248,0,0,0,0,3,0,7,0,0,0,0,0
+2036,Ancient Waygate Energy,Ancient Waygate Energy,142,254116,0,0,7,0,1,0,0,0,0,0,74973184,0
+2037,Dragon Racing - Scoreboard - Race Complete Time -Silver Fraction,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2038,Dragon Racing - Scoreboard - Race Complete Time - Gold Fraction,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2039,Dragon Racing - Scoreboard - Personal Best - Waking Shores 1,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2040,Dragon Racing - Scoreboard - Personal Best Time,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2041,Dragon Racing - Scoreboard - Personal Best Time - Fraction,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2042,Dragon Racing - Personal Best Record - Waking Shores 01 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2043,Dragon Racing - Personal Best Record - Waking Shores 01 Medium,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2044,Dragon Racing - Personal Best Record - Waking Shores 01 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2045,Dragon Glyph Embers,Proof of being bathed in the dragonfire of Dragon Glyphs. Can be turned in to Dragonrider trainers for enhanced training.,250,441141,0,0,0,0,3,0,12,0,0,0,34603010,0
+2046,Dragon Racing - Personal Best Record - Waking Shores 07 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2047,Dragon Racing - Personal Best Record - Waking Shores 07 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2048,Dragon Racing - Personal Best Record - Waking Shores 02 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2049,Dragon Racing - Personal Best Record - Waking Shores 02 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2050,Dragon Racing - Personal Best Record - Waking Shores 08 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2051,Dragon Racing - Personal Best Record - Waking Shores 08 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2052,Dragon Racing - Personal Best Record - Waking Shores 03 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2053,Dragon Racing - Personal Best Record - Waking Shores 03 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2054,Dragon Racing - Personal Best Record - Waking Shores 04 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2055,Dragon Racing - Personal Best Record - Waking Shores 04 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2056,Dragon Racing - Personal Best Record - Waking Shores 05 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2057,Dragon Racing - Personal Best Record - Waking Shores 05 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2058,Dragon Racing - Personal Best Record - Waking Shores 06 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2059,Dragon Racing - Personal Best Record - Waking Shores 06 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2060,Dragon Racing - Personal Best Record - Ohn'ahran Plains 01 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2061,Dragon Racing - Personal Best Record - Ohn'ahran Plains 01 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2062,Dragon Racing - Personal Best Record - Ohn'ahran Plains 02 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2063,Dragon Racing - Personal Best Record - Ohn'ahran Plains 02 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2064,Dragon Racing - Personal Best Record - Ohn'ahran Plains 03 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2065,Dragon Racing - Personal Best Record - Ohn'ahran Plains 03 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2066,Dragon Racing - Personal Best Record - Ohn'ahran Plains 04 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2067,Dragon Racing - Personal Best Record - Ohn'ahran Plains 04 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2069,Dragon Racing - Personal Best Record - Ohn'ahran Plains D05 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2070,Dragon Racing - Personal Best Record - Ohn'ahran Plains D06 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2073,[AC] Major Faction Test Currency,,250,413589,0,0,80000,0,6,0,0,0,0,0,1343488,0
+2074,Dragon Racing - Personal Best Record - Azure Span 01 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2075,Dragon Racing - Personal Best Record - Azure Span 01 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2076,Dragon Racing - Personal Best Record - Azure Span 02 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2077,Dragon Racing - Personal Best Record - Azure Span 02 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2078,Dragon Racing - Personal Best Record - Azure Span 03 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2079,Dragon Racing - Personal Best Record - Azure Span 03 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2080,Dragon Racing - Personal Best Record - Thaldraszus 01 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2081,Dragon Racing - Personal Best Record - Thaldraszus 01 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2082,Dragon Racing - Personal Best Record - Waking Shores MP 1,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2083,Dragon Racing - Personal Best Record - Azure Span 04 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2084,Dragon Racing - Personal Best Record - Azure Span 04 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2085,Dragon Racing - Personal Best Record - Azure Span 05 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2086,Dragon Racing - Personal Best Record - Azure Span 05 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2087,Renown-Tuskarr,It's Renown,142,4566513,0,0,30,0,6,0,0,0,0,0,262146,0
+2088,Renown-Valdrakken,It's Renown,142,4569780,0,0,30,0,6,0,0,0,0,0,262146,0
+2089,Dragon Racing - Personal Best Record - Azure Span 06 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2090,Dragon Racing - Personal Best Record - Azure Span 06 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2091,Dragon Racing - Tracking [DNT],,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2092,Dragon Racing - Personal Best Record - Thaldraszus 02 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2093,Dragon Racing - Personal Best Record - Thaldraszus 02 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2094,[DNT] AC Major Faction Test Renown,It's Renown,142,3012071,0,0,80,0,6,0,0,0,0,0,262146,0
+2095,Dragon Racing - Personal Best Record - Thaldraszus MP 1,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2096,Dragon Racing - Personal Best Record - Thaldraszus 03 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2097,Dragon Racing - Personal Best Record - Thaldraszus 03 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2098,Dragon Racing - Personal Best Record - Thaldraszus 04 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2099,Dragon Racing - Personal Best Record - Thaldraszus 04 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2100,Dragon Racing - Versioning [DNT],,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2101,Dragon Racing - Personal Best Record - Thaldraszus 05 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2102,Dragon Racing - Personal Best Record - Thaldraszus 05 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2103,Dragon Racing - Personal Best Record - Thaldraszus 06 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2104,Dragon Racing - Personal Best Record - Thaldraszus 06 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2105,Purified Arcane Energy,This arcane energy has been stabilized and can be used throughout the Cobalt Assembly.,250,132860,0,0,500,0,4,0,0,0,0,0,2,0
+2106,Valdrakken Accord,Grants Reputation with the Valdrakken Accord.,142,4569780,0,0,0,0,1,2510,0,0,0,0,10,0
+2107,Artisan's Consortium,Grants Reputation with the Artisan's Consortium.,142,4557373,0,0,0,0,1,2544,0,0,0,0,10,0
+2108,Maruuk Centaur,Grants Reputation with the Maruuk Centaur.,142,4566591,0,0,0,0,1,2503,0,0,0,0,10,0
+2109,Iskaara Tuskarr,Grants Reputation with the Iskaara Tuskarr.,142,4566513,0,0,0,0,1,2511,0,0,0,0,10,0
+2110,Dragon Racing - Personal Best Record - Ohn'ahran Plains MP 1,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2111,Dragon Racing - Personal Best Record - Azure Span MP 1,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2113,Tuskarr - Fishing Net - Location 01 - Net 01 - Loot,,252,0,0,0,1,0,0,0,0,0,0,0,68682752,0
+2114,Tuskarr - Fishing Net - Location 01 - Net 04 (Quest) - Loot,,252,0,0,0,1,0,0,0,0,0,0,0,68682752,0
+2115,Tuskarr - Fishing Net - Location 01 - Net 02 - Loot,,252,0,0,0,1,0,0,0,0,0,0,0,68682752,0
+2116,Tuskarr - Fishing Net - Location 01 - Net 03 - Loot,,252,0,0,0,1,0,0,0,0,0,0,0,68682752,0
+2118,Elemental Overflow,"The essence of fallen foes imbued with the power of a primal storm.
+
+Used to procure items from [NPC Name] in [NPC spawn]",250,134388,0,0,0,0,2,0,0,0,0,0,2,0
+2119,Dragon Racing - Personal Best Record - Ohn'ahran Plains 07 Easy,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2120,Dragon Racing - Personal Best Record - Ohn'ahran Plains 07 Hard,,251,0,0,0,0,0,0,0,0,0,0,0,68682752,0
+2122,Storm Sigil,"A symbol of recognition for the brave adventurers who quelled the primal storms. 
+
+Used to procure items from [NPC Name] in [NPC Spawn]",250,651737,0,0,0,0,3,0,0,0,0,0,0,0
+2123,Bloody Tokens,Obtained from the bloody battles of the Dragon Isles.,2,4638431,0,0,0,0,1,0,8,0,0,0,10,0

@@ -1,44 +1,215 @@
-ID,DisplayName_lang,Description_lang,Field_9_0_1_33978_001
-1,Specify Haste,Shadowlands recipes for Rare and Legendary armor and accessories.,0
-3,TEST ONLY,,1
-5,Specify Mastery,Shadowlands recipes for Rare and Legendary armor and accessories.,0
-6,Specify Critical Strike,Shadowlands recipes for Rare and Legendary armor and accessories.,0
-7,Specify Versatility,Shadowlands recipes for Rare and Legendary armor and accessories.,0
-8,Increase Item Level,,0
-9,ModifiedCraftingCategory.DisplayName,,1
-11,Loosened Belt,,0
-12,Primary Stat,,1
-13,Thorns,,1
-14,Bonus Damage,,1
-15,Specify Suit,,0
-16,Test,,1
-17,Use,,1
-18,Increase Item Level,Many pre-Shadowlands equipment recipes.,0
-25,Miscellaneous,,0
-26,Bonus Armor,,1
-27,Vulnerability,,1
-28,Absorb Shield,,1
-29,Set Item Level,Most Shadowlands equipment recipes.,0
-30,Increase Item Level,Many pre-Shadowlands equipment recipes.,0
-31,Increase Item Level,Many pre-Shadowlands equipment recipes.,0
-32,Increase Item Level,Many pre-Shadowlands equipment recipes.,0
-33,Increase Item Level,Many pre-Shadowlands equipment recipes.,0
-35,Elethium Setting,,0
-36,Display text here.,,1
-37,Necrostatic Micro Capacitor,,0
-38,Reinforced Girdle,,0
-39,Craftman's Pouch,,0
-40,Hydrodynamic Accelerators,,0
-41,Luxurios Feather,,0
-42,Shadowy Rabbit's Foot,,0
-44,Alchemist's Pouch,,0
-45,Set Item Level,Most Shadowlands armor and accessory recipes.,0
-46,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0
-50,Set Item Level,Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0
-51,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0
-52,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0
-53,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0
-54,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0
-55,Set Item Level,Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0
-56,Add Progenitor Core,Shadowlands recipes for Rare (blue) armor and accessories.,0
-83,Set Item Level,Rank 1 Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0
+ID,DisplayName_lang,Description_lang,Field_9_0_1_33978_001,Field_10_0_0_44649_003,Field_10_0_0_44649_004
+1,Specify Haste,Shadowlands recipes for Rare and Legendary armor and accessories.,0,0,0
+3,TEST ONLY,,1,0,0
+5,Specify Mastery,Shadowlands recipes for Rare and Legendary armor and accessories.,0,0,0
+6,Specify Critical Strike,Shadowlands recipes for Rare and Legendary armor and accessories.,0,0,0
+7,Specify Versatility,Shadowlands recipes for Rare and Legendary armor and accessories.,0,0,0
+8,Increase Item Level,,0,0,0
+11,Loosened Belt,,0,0,0
+15,Specify Suit,,0,0,0
+17,Use,,1,0,0
+18,Increase Item Level,Many pre-Shadowlands equipment recipes.,0,0,0
+25,Miscellaneous,,0,0,0
+29,Set Item Level,Most Shadowlands equipment recipes.,0,0,0
+30,Increase Item Level,Many pre-Shadowlands equipment recipes.,0,0,0
+31,Increase Item Level,Many pre-Shadowlands equipment recipes.,0,0,0
+32,Increase Item Level,Many pre-Shadowlands equipment recipes.,0,0,0
+33,Increase Item Level,Many pre-Shadowlands equipment recipes.,0,0,0
+35,Elethium Setting,,0,0,0
+36,Display text here.,,1,0,0
+37,Necrostatic Micro Capacitor,,0,0,0
+38,Reinforced Girdle,,0,0,0
+39,Craftman's Pouch,,0,0,0
+40,Hydrodynamic Accelerators,,0,0,0
+41,Luxurios Feather,,0,0,0
+42,Shadowy Rabbit's Foot,,0,0,0
+44,Alchemist's Pouch,,0,0,0
+45,Set Item Level,Most Shadowlands armor and accessory recipes.,0,0,0
+46,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+50,Set Item Level,Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0,0,0
+51,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+52,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+53,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+54,Increase Item Level,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+55,Set Item Level,Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0,0,0
+56,Add Progenitor Core,Shadowlands recipes for Rare (blue) armor and accessories.,0,0,0
+57,Test Ore,,1,20,1
+59,Draconium Ore,,0,3,1
+60,Titanicium Ore,,0,5,1
+61,Tyrivite Ore,,0,1,1
+62,Primal Molten Alloy,,0,10,1
+63,Frostfire Alloy,,0,10,1
+64,Black Dragon Seared Alloy,,0,15,1
+65,Bloody Alloy,,0,5,1
+66,Test Optional Reagent with Quality 01,,0,0,0
+67,Test Optional Reagent with Quality 02,,0,0,0
+68,Test Finishing Reagent,Test finishing reagent slot (DNT),0,0,2
+69,Test Finishing Reagent with Quality 01,Test finishing reagent slot (DNT),0,0,2
+71,Common Herb,,0,1,1
+72,Draconic Vial,,0,1,1
+73,Saxifrage,,0,3,1
+74,Bubble Poppy,,0,3,1
+75,Writhebark,,0,3,1
+76,Elemental Potion of Power,,0,0,1
+77,Omnium Draconis,,0,10,1
+78,Primal Convergent,,0,10,1
+79,Phial of Tepid Versatility,,0,0,1
+80,Phial of Primal Chaos,,0,0,1
+81,Potion of Frozen Focus,,0,0,1
+83,Set Item Level,Rank 1 Shadowlands recipes for armor and accessories worthy of becoming Legendaries.,0,0,0
+84,10.0 Optional Reagent - End Game Upgrade,Dragon Touched crafting recipes. (DNT),0,0,0
+85,Reinforced Plating,Used with Dragon Isles crafted gear for Cantrip. (DNT),0,0,0
+87,Armor Spikes,,0,10,0
+88,10.0 Optional Reagent - Outdoor Upgrade Leveling - Non Weapon,Dragon Isles recipes formost Rare (blue) armor and accessories.,0,0,0
+89,Fleeting Elemental Potion of Power,,0,0,1
+90,Suspiciously Fuzzy Drink,,0,0,1
+91,Cauldron of the Pooka,,0,0,1
+92,Phial of the Eye in the Storm,,0,0,1
+93,Phial of Still Air,,0,0,1
+94,Phial of Icy Preservation,,0,0,1
+95,Iced Phial of Corrupting Rage,,0,0,1
+96,Phial of Charged Isolation,,0,0,1
+97,Refreshing Phial of Preparation,,0,0,1
+98,Phial of Static Empowerment,,0,0,1
+99,Aerated Phial of Deftness,,0,0,1
+100,Aerated Phial of Deftness,,0,0,1
+101,Charged Phial of Alacrity,,0,0,1
+102,Potion of Frozen Fatality,,0,0,1
+103,Crystaline Phial of Perception,,0,0,1
+104,Bottled Putrescence,,0,0,1
+105,Potion of Frozen Focus,,0,0,1
+106,Potion of Chilled Clarity,,0,0,1
+107,Potion of Withering Vitality,,0,0,1
+108,Residual Neural Channeling Agent,,0,0,1
+109,Delicate Suspension of Spores,,0,0,1
+110,Steaming Healing Potion,,0,0,1
+111,Elemental Potion of Ultimate Power,,0,0,1
+112,Aerated Mana Potion,,0,0,1
+113,Frostfire Potion of Draconic Vigor,,0,0,1
+114,Potion of the Hushed Zephyr,,0,0,1
+115,Potion of Gusts,,0,0,1
+116,Potion of Shocking Disclosure,,0,0,1
+117,Potion of Burning Purification,,0,0,1
+118,Potion Cauldron of Power,,0,0,1
+119,Potion Cauldron of Ultimate Power,,0,0,1
+120,Sagacious Incense,,0,0,1
+121,Somniferous Incense,,0,0,1
+122,Exultant Incense,,0,0,1
+123,Fervid Incense,,0,0,1
+124,Fleeting Elemental Potion of Ultimate Power,,0,0,1
+125,Stable Fluidic Draconium,,0,0,2
+126,Brood Salt,Many Dragon Isles Alchemy and Leather Armor recipes.,0,0,2
+127,Writhefire Oil,,0,0,2
+128,Agitating Potion Augmentation,,0,0,2
+129,Reactive Phial Embelishment,,0,0,2
+130,Potion Absorption Inhibitor,,0,0,0
+131,Alchemical Flavor Pocket,,0,0,0
+133,Essence of Tyr,Dragon Isles crafting recipes for major items such as gear.,0,0,2
+134,Wisp of Tyr,Dragon Isles crafting recipes for small and simple items.,0,0,2
+135,Specify Critical Strike and Haste,Many Dragon Isles equipment recipes.,0,0,0
+137,Queen's Ruby,,0,0,1
+138,Mystic Sapphire,,0,0,1
+139,Vibrant Emerald,,0,0,1
+140,Sundered Onyx,,0,0,1
+141,Eternity Amber,,0,0,1
+142,Alexstraszite,,0,0,1
+143,Kalecite,,0,0,1
+144,Ysemerald,,0,0,1
+145,Onyxium,,0,0,1
+146,Nozdorite,,0,0,1
+147,Illimited Diamond,,0,0,1
+149,Frameless Lens,,0,0,1
+151,Polished Stone,,0,0,1
+152,Blotting Sand,,0,0,2
+153,Pounce,,0,0,2
+154,Shimmering Clasp,,0,0,1
+155,Projection Prism,,0,0,1
+156,Resilient Leather,,0,1,1
+157,Adamant Scales,,0,1,1
+158,Dense Hide,,0,5,1
+159,Lustrous Hide,,0,5,1
+160,Bloodsoaked Hide,,0,0,1
+161,Bloodwaxed Scales,,0,0,1
+162,Deathchill Hide,,0,0,1
+163,Drygrate Scales,,0,0,1
+170,Earthshine Scales,,0,0,1
+171,Frostbite Scales,,0,0,1
+172,Mireslush Hide,,0,0,1
+173,Stonecrust Hide,,0,0,1
+175,Finely-Ground Gemstones,,0,0,1
+176,Elemental Harmony,,0,0,1
+364,Abrasive Polishing Cloth,,0,0,2
+365,Vibrant Polishing Cloth,,0,0,2
+366,Blazing Embroidery Thread,,0,0,2
+367,Chromatic Embroidery Thread,,0,0,2
+368,Shimmering Embroidery Thread,,0,0,2
+369,Vibrant Spellthread,,0,10,1
+370,Frozen Spellthread,,0,10,1
+371,Temporal Spellthread,,0,10,1
+372,Blue Silken Lining,,0,0,0
+373,Bloody Patch,,0,0,0
+374,Bronzed Grip Wrappings,,0,0,0
+375,Wildercloth Bolt,,0,10,1
+376,Azureweave Bolt,,0,10,1
+377,Chronocloth Bolt,,0,10,1
+378,Vibrant Wildercloth Bolt,,0,10,1
+379,Bloody Wildercloth Bolt,,0,10,1
+380,Spool of Wilderthread,,0,10,1
+388,Specify Versatility and Mastery,Many Dragon Isles equipment recipes.,0,0,0
+389,Specify Mastery and Haste,Many Dragon Isles equipment recipes.,0,0,0
+390,Specify Versatility and Haste,Many Dragon Isles equipment recipes.,0,0,0
+391,Specify Crit and Mastery,Many Dragon Isles equipment recipes.,0,0,0
+392,Specify Versatility and Crit,Many Dragon Isles equipment recipes.,0,0,0
+393,Ball of Toxic Gunk,Used with Dragon Isles crafted gear to imbue it with the powers of decay. (DNT),0,0,0
+394,Fang Adornments,Used with Dragon Isles crafted weapons to increase physical damage. (DNT),0,0,0
+395,Passion of the Earth,,0,5,1
+396,Ooey-Gooey Chocolate,,0,0,2
+398,Aerated Phial of Quick Hands,,0,0,1
+399,Prismatic Ore,,0,0,1
+400,10.0 Optional Reagent - Outdoor Upgrade Dungeon - All,Dragon Isles recipes for most Rare (blue) equipment.,0,0,0
+401,DEPRECATED [DNT],,0,0,2
+402,Serene Ink,,0,2,1
+403,Impossibly Sharp Cutting Knife,,0,0,2
+404,Salad on the Side,,0,0,2
+405,Flourishing Ink,,0,10,1
+406,Cosmic Ink,,0,10,1
+407,Flaming Ink,,0,10,1
+408,Serene Ink,,0,10,1
+409,Burnished Ink,,0,10,1
+410,Serene Pigment,,0,10,1
+411,Inferno Pigment,,0,10,1
+412,Flourishing Pigment,,0,10,1
+413,Shimmering Pigment,,0,10,1
+414,Handful of Tyrivite Bolts,,0,0,1
+415,Shock-Spring Coil,,0,0,1
+416,Ever-Burning Blasting Powder,,0,0,1
+417,Greased-Up Gears,,0,0,1
+418,Arclight Capacitor,,0,0,1
+419,Reinforced Machine Chassis,,0,0,1
+420,Assorted Safety Fuses,,0,0,1
+421,Primal Deconstruction Charge,,0,0,1
+422,10.0 Inscription - Optional Reagent - Azurescale Sigil,Darkmoon Decks. (DNT),0,0,0
+423,Creature Combustion Canister,,0,0,1
+424,Draconic Gunshoes,,0,0,1
+425,Gravitational Displacer,,0,0,1
+426,Warm Rune,,0,10,1
+427,Runed Writhebark,,0,10,1
+428,Potion of the Hushed Zephyr,,0,0,1
+429,Specify Inspiration,Dragon Isles crafting tool recipes.,0,0,0
+430,Creature Combustion Canister,,0,0,1
+431,Primal Deconstruction Charge,,0,0,1
+432,Tinker Safety Fuses,,0,0,0
+433,Critical Failure Prevention Unit,,0,0,0
+434,Spring-Loaded Capacitor Casing,,0,0,0
+435,Razor-Sharp Gear,,0,0,0
+436,Rapidly Ticking Gear,,0,0,0
+437,Meticulously-Tuned Gear,,0,0,0
+438,One-Size-Fits-All Gear,,0,0,0
+439,Haphazardly Tethered Wires,,0,0,2
+440,Overcharged Overclocker,,0,0,2
+441,Magazine of Healing Darts,,0,0,0
+442,10.0 Inscription - Optional Reagent - Emberscale Sigil,Darkmoon Decks. (DNT),0,0,0
+443,10.0 Inscription - Optional Reagent - Bronzescale Sigil,Darkmoon Decks. (DNT),0,0,0
+444,10.0 Inscription - Optional Reagent - Sagescale Sigil,Darkmoon Decks. (DNT),0,0,0
+445,10.0 Inscription - Optional Reagent - Jetscale Sigil,Darkmoon Decks. (DNT),0,0,0
+446,10.0 Inscription - Required Reagent - Darkmoon Card: Fire,Darkmoon Decks. (DNT),0,0,1

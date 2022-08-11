@@ -327,6 +327,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 40624,Celestial Dragon,,,,0,12,0,3,31956,0,0,0,1,1,1,1,0,0,0
 40703,Lil' XT,,,,0,12,0,0,32031,0,0,0,1,1,1,1,0,0,0
 40721,Murkimus the Gladiator,,,,0,12,0,0,28734,0,0,0,1,1,1,1,0,0,0
+40920,Elendri Goldenbrow,,,,1,7,0,0,32199,0,0,0,1,1,1,1,0,0,0
 40955,Goldrinn,,,,1,1,1,0,32208,0,0,0,1,0,0,0,0,0,0
 41200,Generic Bunny - PRK,,,,0,10,0,3,22903,11686,0,0,0,1,0,0,0,0,0
 42078,Mini Thor,,The Destroyer,,0,12,0,0,32670,0,0,0,1,1,1,1,0,0,0
@@ -1439,7 +1440,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 67524,Riddoh,,,,1,7,0,0,30418,0,0,0,1,1,1,1,0,0,0
 67525,Fran,,,,1,7,0,0,46295,0,0,0,1,1,1,1,0,0,0
 67560,King Varian Wrynn,,King of Stormwind,,1,7,0,0,47029,0,0,0,1,1,1,1,45899,0,0
-67573,Meatball,,,,1,7,0,0,46798,0,0,0,1,1,1,1,0,0,0
+67573,Meatball,,,,1,7,0,0,501,0,0,0,1,1,1,1,0,0,0
 67579,Vian the Volatile,,,,1,7,0,0,41230,0,0,0,1,1,1,1,89144,0,0
 67588,Akama,,,,1,7,0,0,47188,0,0,0,0,1,1,1,30699,30699,0
 67591,Millie Watt,,Ultra-Master Engineeress,,1,7,0,0,46332,0,0,0,1,1,1,1,0,0,91901
@@ -2820,7 +2821,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 79804,Purified,,,,1,9,0,3,169,38795,0,0,0,1,0,0,0,0,0
 79838,Baros Alexston,,Garrison Architect,,0,7,0,0,1357,0,0,0,1,1,1,1,12742,0,0
 79841,Rezlak,,Garrison Architect,,0,7,0,0,7129,0,0,0,1,0,0,0,1911,0,0
-79846,Doug Test - Imp,,,,0,3,23,0,55346,58640,0,0,1,1,1,1,0,0,0
+79846,Doug Test - Imp,,,,0,3,23,0,46293,46293,0,0,1,1,1,1,0,0,0
 79847,Draenei Refugee,,,,0,7,0,0,54761,0,0,0,1,0,0,0,0,0,0
 79853,Pleasure-Bot 8000,,,,0,9,0,0,57057,0,0,0,1,0,0,0,0,0,0
 79870,Ziz Fizziks,,,,0,7,0,0,55353,0,0,0,1,0,0,0,1911,0,0
@@ -3196,7 +3197,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 82405,Pale Devourer,,,,0,7,0,0,54700,0,0,0,1,0,0,0,0,0,0
 82406,Bitey,,,,0,14,0,0,47731,0,0,0,1,1,1,1,0,0,0
 82407,"Gyrexle, the Eternal Mechanic",,,,0,12,0,0,36211,0,0,0,1,0,0,0,0,0,0
-82408,Wombie,,,,0,14,0,0,42737,0,0,0,1,0,0,0,0,0,0
+82408,Wombie,,,,0,14,0,0,42737,0,0,0,1,1,1,1,0,0,0
 82409,Lunarfall Raven,,,,0,1,26,0,59726,0,0,0,1,0,0,0,0,0,0
 82410,Corrupted Toad,,,,0,1,0,0,53782,0,0,0,1,1,1,1,0,0,0
 82412,Flames,,,,0,10,0,0,60775,21072,0,0,1,0,0,0,0,0,0
@@ -4136,7 +4137,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 86097,Corporal Thukmar,,,,0,7,0,0,57984,0,0,0,1,0,0,0,0,0,0
 86109,Gardul Venomshiv,,,,0,7,0,0,59549,0,0,0,1,1,1,1,104551,0,0
 86121,Nascent Brawler,,,,0,7,0,0,58482,58483,0,0,1,1,1,1,0,0,0
-86152,Meatball,,,,0,7,0,0,37621,0,0,0,1,0,0,0,0,0,0
+86152,Meatball,,,,0,7,0,0,501,0,0,0,1,1,1,1,0,0,0
 86158,Goblin Garden Deforester,,,,0,12,0,0,59399,0,0,0,1,1,1,1,0,0,0
 86160,Burghy Blackheart,,,,0,7,0,0,36699,0,0,0,1,0,0,0,54825,54825,0
 86162,Fargo Flintlocke,,,,0,7,0,0,34116,0,0,0,1,0,0,0,1727,9458,0
@@ -4722,7 +4723,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 88311,Aeda Brightdawn,,,,0,7,0,0,59874,0,0,0,1,0,0,0,29716,0,0
 88312,Soulbinder Tuulani,,,,1,7,0,0,54040,0,0,0,1,0,0,0,94665,0,0
 88313,Admiral Taylor,,,,0,7,0,0,60858,0,0,0,1,0,0,0,54825,0,0
-88315,Meatball,,,,0,7,0,0,37621,0,0,0,1,0,0,0,0,0,0
+88315,Meatball,,,,0,7,0,0,501,0,0,0,1,1,1,1,0,0,0
 88317,Nat Pagle,,Master Fisherman,,0,7,0,0,13099,0,0,0,1,0,0,0,0,0,0
 88318,Alexi Barov,,Barov Industries,,0,7,0,0,10456,0,0,0,1,0,0,0,0,0,0
 88319,Weldon Barov,,Barov Industries,,0,7,0,0,10457,0,0,0,1,0,0,0,0,0,0
@@ -5341,6 +5342,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 94175,Vindicator Boros,,Triumvirate of the Hand,,1,7,0,0,63585,0,0,0,1,0,0,0,105940,126759,0
 94178,Moira's Hammer,,,,0,9,0,0,63895,0,0,0,1,0,0,0,0,0,0
 94202,Cannon Barrage Bunny,,,,6,10,0,3,11686,0,0,0,1,0,0,0,0,0,0
+94209,Stormwind Knight,,,,0,7,0,0,73090,73089,0,0,2,1,1,1,1899,117413,0
 94229,Karabor Citizen,,,,0,7,0,0,59941,59943,59938,59940,1,1,1,1,0,0,0
 94243,Sound Test Creature,,,,0,7,0,0,94012,94009,94010,94020,1,1,1,1,0,0,0
 94244,Sound Test Creature,,,,0,7,0,0,93168,0,0,0,1,1,1,1,179382,0,0
@@ -6015,7 +6017,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 98445,Mudshell Conch,,,,0,8,0,0,45883,0,0,0,1,1,1,1,0,0,0
 98446,Mudshell Conch,,,,0,14,0,0,45883,0,0,0,1,0,0,0,0,0,0
 98463,Broot,,,,0,12,0,0,65813,0,0,0,1,0,0,0,0,0,0
-98489,Shipwrecked Captive,,Grand Master Pet Tamer,,0,7,0,0,66129,0,0,0,1,1,1,0,0,0,0
+98489,Shipwrecked Captive,,Grand Master Pet Tamer,,0,7,0,0,714,0,0,0,1,1,1,1,0,0,0
 98498,Bilgefin Invader,,,,0,7,0,0,486,0,0,0,1,1,1,1,127346,0,0
 98503,Grrvrgull the Conqueror,,Champion of the Bilgefin,,4,7,0,0,5293,0,0,0,0,0,0,0,42920,77408,0
 98506,Dust Bunny,,,,0,14,0,0,65854,0,0,0,1,1,1,1,0,0,0
@@ -7152,6 +7154,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 109573,Tiger Master,,,,0,7,0,0,68994,69181,68996,69184,1,1,1,1,0,0,0
 109575,Valakar the Thirsty,,,,2,7,0,0,70161,0,0,0,1,0,0,0,0,0,0
 109589,Royal Dreadguard,,,,1,6,0,0,63603,64273,64274,64275,1,1,1,1,108925,0,107953
+109592,Felguard Legionnaire,,,,0,3,0,0,5047,0,0,0,1,1,1,1,138756,0,0
 109595,Training Dummy,,,,0,9,0,0,16074,0,0,0,1,1,1,1,0,0,0
 109600,Tianji,,Ox Troop Trainer,,1,7,0,0,42003,0,0,0,1,1,1,1,85680,0,0
 109604,Felguard Legionnaire,,,,0,3,0,0,70533,0,0,0,1,0,0,0,138755,0,0
@@ -9615,6 +9618,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 122662,General Jakra'zet,,Zanchuli Council,,1,7,0,0,78436,0,0,0,1,0,0,0,0,0,0
 122669,King Rastakhan,,,,1,7,0,0,77461,0,0,0,1,1,1,1,161023,0,0
 122688,Bwonsamdi,,,,1,7,0,3,75961,0,0,0,1,1,1,1,0,0,0
+122701,Examiner Alerinda,,Archaeology Trainer,,0,7,0,0,81869,0,0,0,1,1,1,1,0,0,0
+122702,Enchantress Quinni,,Enchanting Trainer,,0,7,0,0,81830,0,0,0,1,1,1,1,0,0,0
 122743,DELETE ME,,,,0,7,0,0,80742,0,0,0,1,0,0,0,0,0,0
 122744,Prophet Velen,,,,1,7,0,0,17822,0,0,0,1,0,0,0,35714,0,0
 122767,Vulpera Male,,,,0,7,0,0,39468,0,0,0,1,0,0,0,0,0,0
@@ -12968,7 +12973,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 153658,Shiz'narasz the Consumer,,,,2,1,42,0,91870,0,0,0,1,1,1,1,0,0,0
 153677,Merithra of the Dream,,Daughter of Ysera,,1,2,0,0,91239,0,0,0,1,1,1,1,0,0,0
 153678,Gilnean Elite,,,,1,7,0,0,72903,0,0,0,1,1,1,1,0,0,0
-153679,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,40055,0,0,0,1,1,1,1,0,0,0
+153679,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,0,0,0,1,1,1,1,0,0,0
 153680,Farstrider Elite,,,,1,7,0,0,92675,0,0,0,1,1,1,1,0,0,0
 153681,Chromie,,Emissary of the Bronze Dragonflight,,1,2,0,0,24877,0,0,0,1,1,1,1,0,0,0
 153693,Nazjatar Wolf Eel,,,,1,7,0,3,91881,0,0,0,1,1,1,1,0,0,0
@@ -14149,7 +14154,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 163996,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
 163999,Banewood Devourer,,,,0,10,0,0,39810,0,0,0,1,1,1,1,0,0,0
 164009,9.0 Revendreth - Stalker - Cosmetic Siphon - PAS,,,,0,10,0,0,47647,11686,0,0,0,1,1,1,0,0,0
-164011,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,40055,0,0,0,1,1,1,1,0,0,0
+164011,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,0,0,0,1,1,1,1,0,0,0
 164017,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
 164020,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
 164032,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
@@ -14642,6 +14647,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 168879,Attentive Child,,,,0,7,0,0,87011,0,0,0,1,1,1,1,0,0,0
 168898,Prince Renathal,,,,1,7,0,0,94910,0,0,0,1,1,1,1,0,0,0
 168923,Grubby,,,,6,1,42,0,45097,0,0,0,1,1,1,1,0,0,0
+168925,Droman Tashmur,,Court of Night,,0,4,0,0,93379,0,0,0,1,1,1,1,0,0,0
 168927,Droman Dawnblossom,,,,0,7,0,0,95748,0,0,0,1,1,1,1,0,0,0
 168928,Ysera,,,,1,2,0,0,35253,0,0,0,1,1,1,1,0,0,0
 168937,Z'rali,,,,1,10,0,0,96448,0,0,0,1,1,1,1,0,0,0
@@ -15759,6 +15765,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 176282,Maw Anduin,,,,0,7,0,0,99093,0,0,0,1,1,1,1,183938,0,0
 176283,Rubble Pile,,,,1,9,0,0,55382,55383,55384,0,1,1,1,1,0,0,0
 176284,Rubble Pile,,,,1,9,0,0,100395,0,0,0,1,1,1,1,0,0,0
+176292,Gnoll Kid,,,,0,7,0,0,101429,0,0,0,1,1,1,1,0,0,0
 176309,Grappling Hook Bunny,,,,0,10,0,0,328,38497,0,0,0,1,1,1,0,0,0
 176310,Rubble Pile,,,,1,9,0,0,55382,55383,55384,0,1,1,1,1,0,0,0
 176317,Grappling Hook Bunny,,,,0,10,0,0,328,38497,0,0,0,1,1,1,0,0,0
@@ -15802,11 +15809,21 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 176730,Dredger Butler,,,,0,12,0,0,100582,0,0,0,1,1,1,1,0,0,0
 176731,Dredger Butler,,,,0,12,0,0,100583,0,0,0,1,1,1,1,0,0,0
 176740,Darkmoon Carnie,,Dance Master,,0,7,0,0,14890,14912,14913,14914,25,25,25,25,0,0,0
+176741,Tuskarr Construction Site - OLD DO NOT USE,,,,0,10,0,0,100584,0,0,0,1,1,1,1,0,0,0
+176745,Tuskarr Fishing Raft,,,,0,10,0,0,100585,0,0,0,1,1,1,1,0,0,0
 176754,Spell Target,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+176776,Tuskarr Construction Site - OLD DO NOT USE,,,,0,10,0,0,100592,0,0,0,1,1,1,1,0,0,0
+176777,Fishing Dock - OLD DO NOT USE,,,,0,10,0,0,100593,0,0,0,1,1,1,1,0,0,0
+176778,Fishing Dock - OLD DO NOT USE,,,,0,10,0,0,100584,0,0,0,1,1,1,1,0,0,0
+176785,Wood Bundle - OLD DO NOT USE,,,,0,10,0,0,100598,0,0,0,1,1,1,1,0,0,0
+176786,Coiled Rope - OLD DO NOT USE,,,,0,10,0,0,100596,100597,0,0,1,1,1,1,0,0,0
+176787,Tuskarr Tacklebox - OLD DO NOT USE,,,,0,10,0,0,100595,0,0,0,1,1,1,1,0,0,0
 176893,Broker Travel Point,,,,0,10,0,0,100879,0,0,0,1,1,1,1,0,0,0
 176919,Spell Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+176985,Gnoll Construction Site,,,,0,10,0,0,100584,0,0,0,1,1,1,1,0,0,0
 177042,Flynn Fairwind,,,,0,7,0,0,76222,0,0,0,1,1,1,1,155766,155766,0
 177050,Mosher,,,,0,7,0,0,59619,42385,78921,78320,1,1,1,1,0,0,0
+177061,Prisoner Cages,,,,0,10,0,0,100673,0,0,0,1,1,1,1,0,0,0
 177079,Prime Shieldguard,,,,1,7,0,0,95511,95948,0,0,1,1,1,1,178918,176720,176576
 177103,Kael'thas Sunstrider,,Lord of the Blood Elves,,1,7,0,0,20023,0,0,0,1,1,1,1,0,0,0
 177105,Spell Target,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
@@ -15884,6 +15901,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 177632,Stygia Residue,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
 177635,Baroness Vashj,,Matron of Spies,,1,7,0,0,96138,0,0,0,1,1,1,1,0,0,156712
 177644,Prince Renathal,,,,1,7,0,0,94910,0,0,0,1,1,1,1,0,0,0
+177664,Kalecgos,,,,0,2,0,0,105921,0,0,0,1,1,1,1,0,0,0
 177679,Valkyra Shieldmaiden,,,,0,7,0,0,74391,74392,74393,74394,1,1,1,1,124548,34590,0
 177697,Kyrian Ascendant,,,,1,7,0,0,93232,95557,95081,94586,1,1,1,1,0,0,0
 177698,Venthyr Aristocrat,,,,0,7,0,0,94611,94613,94614,94612,1,1,1,1,0,0,0
@@ -16042,6 +16060,9 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 178966,Mawsworn Warden,,,,1,7,0,3,94390,0,0,0,1,1,1,1,179726,0,0
 179008,Lil'Abom,,,,0,12,0,0,101229,101230,101231,0,1,1,1,1,0,0,0
 179020,Dawnkeep Dredger,,,,0,3,0,0,101236,0,0,0,1,1,1,1,0,0,0
+179022,Max,,,,0,12,0,0,74486,0,0,0,0,1,1,1,0,0,0
+179023,Max,,,,0,12,0,0,74486,0,0,0,0,1,1,1,0,0,0
+179024,Mischa,,,,0,12,0,0,101235,0,0,0,0,1,1,1,0,0,0
 179025,Infused Etherwyrm,,,,0,12,0,3,101234,0,0,0,1,1,1,1,0,0,0
 179038,Infused Etherwyrm,,,,0,14,0,3,101234,0,0,0,1,1,1,1,0,0,0
 179045,Surging Power,,,,0,10,0,0,70903,0,0,0,1,1,1,1,0,0,0
@@ -16244,7 +16265,6 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 179997,Shardhide Alpha,,,,0,1,156,0,100418,0,0,0,1,1,1,1,0,0,0
 179998,Razorwing Gnasher,,,,1,1,0,0,100249,0,0,0,1,1,1,1,0,0,0
 179999,Frenzied Razorwing,,,,0,1,0,0,100247,0,0,0,1,1,1,1,0,0,0
-180000,Owen Test Faction Enemy,,,,0,1,0,0,100247,0,0,0,1,1,1,1,0,0,0
 180001,Ravenous Scavenger,,,,0,15,0,0,100364,0,0,0,1,1,1,1,0,0,0
 180002,Stygian Bombardier,,,,1,4,0,0,101334,0,0,0,1,1,1,1,0,0,0
 180022,Clone,,,,0,8,0,0,21955,0,0,0,1,1,1,1,0,0,0
@@ -16333,6 +16353,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 180344,Tranquil Soul,,,,0,7,0,0,98638,98639,0,0,1,1,1,1,0,0,0
 180356,Ceridwyn,,Flight Master,,0,7,0,0,95857,0,0,0,1,1,1,1,0,0,0
 180357,Blodwyn,,Envoy of the Queen,,0,7,0,0,96425,0,0,0,1,1,1,1,0,0,0
+180382,Podling,,,,0,4,0,0,55416,55414,57545,0,1,1,1,1,0,0,0
+180383,Mayla Highmountain,,,,1,7,0,0,73318,0,0,0,1,1,1,1,34058,0,0
 180401,Dactylis,,,,0,9,0,0,92191,0,0,0,1,1,1,1,0,0,0
 180402,Dutiful Attendant,,,,0,7,0,0,91896,91896,92915,96577,1,1,1,1,0,0,0
 180403,Celebrating Ascended,,,,0,7,0,0,97216,95163,96316,96142,1,1,1,1,0,0,0
@@ -16361,6 +16383,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 180716,Tyrande Whisperwind,,The Night Warrior,,1,7,0,0,101941,0,0,0,1,1,1,1,0,0,0
 180733,Uther,,,,0,7,0,0,100392,0,0,0,1,1,1,1,173905,0,0
 180734,Mawsworn Destructor,,,,0,7,0,0,92780,92412,92414,0,1,1,1,1,0,0,0
+180735,Dragon Companion,,,,0,2,0,3,25836,0,0,0,1,1,1,1,0,0,0
 180788,Lafwyn,,Repairs,,0,7,0,0,99155,0,0,0,1,1,1,1,0,0,0
 180789,Kewarin,,Innkeeper,,0,7,0,0,95932,0,0,0,1,1,1,1,0,0,0
 180790,Aithlyn,,Wild Hunt Quartermaster,,0,7,0,0,99153,0,0,0,1,1,1,1,0,0,0
@@ -16388,7 +16411,18 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 180944,Progenitor Snake,,[BESTIARY CREATURE - CHANGE ME],,0,14,0,0,101997,0,0,0,1,1,1,1,0,0,0
 180945,Progenitor Bot,,[BESTIARY CREATURE - CHANGE ME],,0,14,0,0,102003,0,0,0,1,1,1,1,0,0,0
 180950,Avna,,,,0,7,0,0,100731,105241,105242,105243,1,1,1,1,0,0,0
+180960,Obisidian Commander's Tent,,,,0,10,0,0,102006,0,0,0,1,1,1,1,0,0,0
 180961,Bud,,,,0,1,127,0,101214,0,0,0,1,1,1,1,0,0,0
+180975,Obisidian Siege Forge,,,,0,10,0,0,102006,0,0,0,1,1,1,1,0,0,0
+180976,Obisidian Challenge,,,,0,10,0,0,102006,0,0,0,1,1,1,1,0,0,0
+180983,Djaradin Summoning Ritual,,,,0,10,0,0,102013,0,0,0,1,1,1,1,0,0,0
+180987,Djaradin Summoning Ritual,,,,0,10,0,0,102013,0,0,0,1,1,1,1,0,0,0
+181038,Rock Climber's Camp - OLD DO NOT USE,,,,0,10,0,0,102020,0,0,0,1,1,1,1,0,0,0
+181050,Teleport Tether,,,,0,10,0,0,102006,0,0,0,1,1,1,1,0,0,0
+181053,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+181054,Scalecommander Emberthal,,,,0,7,0,0,102031,0,0,0,1,1,1,1,0,0,0
+181055,Scalecommander Cindrethresh,,The Dark Talons,,0,7,0,0,102033,107101,0,0,1,0,1,1,0,0,0
+181056,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,107028,0,0,1,0,1,1,191694,0,0
 181077,Ambient Sound Controller,,,,6,10,0,3,90874,11686,0,0,0,1,1,1,0,0,0
 181089,Kettle of Unfinished Stone Soup,,,,0,10,0,0,102058,0,0,0,1,1,1,1,0,0,0
 181097,Simon Sezdans,,Dance Master,,0,7,0,0,102044,0,0,0,1,1,1,1,0,0,0
@@ -16421,12 +16455,16 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 181164,Jianyu,,Resolution,,0,7,0,0,102096,0,0,0,1,1,1,1,0,0,0
 181183,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 181203,Mal'Ganis,,,,1,3,0,0,99100,0,0,0,1,1,1,1,0,0,0
+181217,Sansok Khan,,,,1,7,0,0,102115,0,0,0,1,1,1,1,0,0,0
+181218,Basran,,,,0,1,52,0,101603,0,0,0,1,1,1,1,0,0,0
+181220,Balakar Khan,,,,0,7,0,0,102116,0,0,0,1,1,1,1,0,0,0
 181228,Lady Jaina Proudmoore,,,,1,7,0,0,104817,0,0,0,1,1,1,1,153575,0,0
 181229,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 181230,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
 181231,Calia Menethil,,,,0,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
 181232,Thrall,,,,1,7,0,0,104820,0,0,0,1,1,1,1,168268,0,0
 181250,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
+181276,Wrathion,,The Black Prince,,1,2,0,3,107146,107945,0,0,0,1,1,1,0,0,0
 181277,Lady Jaina Proudmoore,,,,1,7,0,0,104817,0,0,0,1,1,1,1,153575,0,0
 181279,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
 181280,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
@@ -16442,6 +16480,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 181362,Bufonid Croaker,,,,0,14,0,0,103756,103751,0,0,1,1,1,1,0,0,0
 181367,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 181372,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
+181378,Kurog Grimtotem,,The Grand Summoner,,1,7,0,2,106792,0,0,0,1,1,1,1,0,0,0
 181379,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 181388,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
 181390,Lady Jaina Proudmoore,,,,1,7,0,0,104817,0,0,0,1,1,1,1,153575,0,0
@@ -16449,13 +16488,17 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 181393,Sylvanas Windrunner,,,,0,7,0,0,102134,0,0,0,1,1,1,1,0,0,0
 181394,Thrall,,,,1,7,0,0,104820,0,0,0,1,1,1,1,168268,0,0
 181429,Injured Ranger,,,,0,7,0,0,97355,97600,97598,95771,1,1,1,1,179503,0,176022
+181432,Vorquin,,,,0,2,0,0,104647,0,0,0,1,1,1,1,0,0,0
+181454,Roc Hatchling,,,,0,8,0,0,68719,0,0,0,1,1,1,1,0,0,0
 181461,The Stonewright,,Harvester of Wrath,,1,7,0,0,104819,0,0,0,1,1,1,1,0,0,0
 181462,Controlled Automa Shell,,,,1,9,0,0,101803,0,0,0,1,1,1,1,0,0,0
 181463,Controlled Automa Shell,,,,1,9,0,0,105024,0,0,0,1,1,1,1,0,0,0
 181486,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 181488,Archetype of Discovery,,,,0,12,0,0,102174,0,0,0,1,1,1,1,0,0,0
+181494,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
 181535,Murkastrasza,,,,0,12,0,0,102298,0,0,0,1,1,1,1,0,0,0
 181540,Confused Automa,,,,0,9,0,0,101949,0,0,0,1,1,1,1,0,0,0
+181541,Ebyssian,,,,1,2,0,0,63690,105532,0,0,0,1,1,1,0,0,0
 181547,Tunneling Vombata,,,,0,12,0,0,98969,0,0,0,1,1,1,1,0,0,0
 181550,Automa Servitor,,,,0,9,0,0,100129,0,0,0,1,1,1,1,0,0,0
 181555,Motivated Servitor,,,,0,9,0,0,100128,0,0,0,1,1,1,1,0,0,0
@@ -16515,9 +16558,11 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182140,Trub'ul,,,,0,12,0,0,103091,0,0,0,1,1,1,1,0,0,0
 182151,Saezurah,,,,1,9,0,3,102301,0,0,0,1,1,1,1,0,0,0
 182153,Firim,,,,0,9,0,0,100915,0,0,0,1,1,1,1,0,0,0
+182170,Dracthyr Talon,,<TEMP MODEL>,,0,7,0,0,102136,0,0,0,1,1,1,1,0,0,0
 182171,Kleia,,,,0,7,0,0,97487,0,0,0,1,1,1,1,171132,0,0
 182182,Oracle Voraxxi,,,,1,7,0,3,103099,0,0,0,1,1,1,1,185379,0,0
 182183,Archetype of Multiplicity,,,,0,12,0,0,100376,0,0,0,1,1,1,1,0,0,0
+182184,Creche Seal,,,,0,10,0,0,94431,0,0,0,1,1,1,1,0,0,0
 182188,Secutor Mevix,,,,1,7,0,0,96754,0,0,0,1,1,1,1,176543,176718,0
 182192,Hunt-Captain Korayn,,,,0,7,0,0,95248,0,0,0,1,1,1,1,180024,0,176024
 182200,Progenitor Snake,,[BESTIARY CREATURE - CHANGE ME],,0,14,0,0,101997,0,0,0,1,1,1,1,0,0,0
@@ -16527,6 +16572,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182234,Timid Leporid,,,,0,14,0,0,100377,100379,0,0,1,1,1,1,0,0,0
 182244,Hunt-Captain Korayn,,,,0,7,0,0,95248,0,0,0,1,1,1,1,180024,0,176024
 182245,Timid Leporid,,,,0,8,0,0,100377,100379,0,0,1,1,1,1,0,0,0
+182248,Dimensional Anchor,,,,0,11,0,0,11686,0,0,0,1,1,1,1,0,0,0
 182255,Sylvari Ranger,,,,0,7,0,0,97355,97600,97598,95771,1,1,1,1,179503,0,176022
 182257,Vilo,,Enlightened Quartermaster,,0,7,0,0,101775,0,0,0,1,1,1,1,0,0,0
 182259,Proto Avian Fledgling,,,,0,8,0,3,105557,105558,0,0,1,1,1,1,0,0,0
@@ -16536,6 +16582,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182266,Sinfall Warrior,,,,0,7,0,0,96747,94616,94024,94015,1,1,1,1,0,0,0
 182267,Grove Hunter,,,,0,7,0,0,95866,95880,95747,95742,1,1,1,1,180024,0,0
 182268,Undying Blademaster,,,,0,6,0,0,96060,96196,96210,0,1,1,1,1,176549,0,0
+182274,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,0,0,0,1,1,1,1,0,0,0
 182283,Droman Aliothe,,Court of Night,,1,7,0,0,102021,0,0,0,1,1,1,1,0,0,0
 182294,Scarlet Proto Avian,,,,0,14,0,3,105568,0,0,0,1,1,1,1,0,0,0
 182295,Scarlet Proto Avian,,,,0,8,0,3,105568,0,0,0,1,1,1,1,0,0,0
@@ -16544,6 +16591,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182340,Anduin Wrynn,,PHASED NPC,,1,7,0,0,99092,0,0,0,1,1,1,1,183938,0,0
 182346,Tamra,,,,0,7,0,0,103135,0,0,0,1,1,1,1,0,0,0
 182347,E'rnee,,,,0,1,0,0,105201,0,0,0,1,1,1,1,0,0,0
+182349,Injured Talon,,The Healing Wings,,0,7,0,0,104834,104835,104836,104837,1,1,1,1,0,0,0
 182355,Basal Raptora,,,,0,1,26,3,98828,98829,0,0,1,1,1,1,0,0,0
 182361,Automa Forge,,,,0,10,0,0,103521,0,0,0,1,1,1,1,0,0,0
 182393,Archetype of Predation,,,,0,12,0,0,104061,0,0,0,1,1,1,1,0,0,0
@@ -16551,11 +16599,14 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182438,Tarachnid Stalker,,,,0,8,0,0,104015,104016,0,0,1,1,1,1,0,0,0
 182473,Tarachnid Ambusher,,,,0,14,0,0,104063,0,0,0,1,1,1,1,0,0,0
 182474,Tarachnid Ambusher,,,,0,8,0,0,104062,0,0,0,1,1,1,1,0,0,0
+182488,Windscourge Dragon,,,,1,2,26,3,105198,0,0,0,1,1,1,1,0,0,0
+182492,Raszageth,,The Storm-Eater,,1,2,0,3,103255,0,0,0,1,1,1,1,0,0,0
 182504,Archetype of Survival,,,,0,12,0,0,104587,0,0,0,1,1,1,1,0,0,0
 182568,Metallic Scarabid,,,,0,14,0,0,100375,104583,104586,0,1,1,1,1,0,0,0
 182569,Metallic Scarabid,,,,0,8,0,0,104586,100375,104583,0,1,1,1,1,0,0,0
 182589,Injured Blademaster,,,,0,7,0,0,96060,96196,96210,0,1,1,1,1,176549,0,0
 182596,Injured Aspirant,,,,0,7,0,0,94108,99348,99290,99229,1,1,1,1,0,0,0
+182611,Scalecommander Sarkareth,,The Ebon Scales,,0,7,0,0,104904,0,0,0,1,1,1,1,0,0,0
 182617,Prime Bladeguard,,,,0,7,0,0,95968,0,0,0,1,1,1,1,178918,176724,0
 182618,Prime Bladeguard,,,,0,7,0,0,95395,0,0,0,1,1,1,1,176551,0,0
 182619,Prime Gatecrasher,,,,1,6,0,0,96292,0,0,0,2,1,1,1,0,0,0
@@ -16577,6 +16628,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182691,Emerald Scarabid,,,,0,14,0,0,104584,0,0,0,1,1,1,1,0,0,0
 182692,Emerald Scarabid,,,,0,8,0,0,104584,0,0,0,1,1,1,1,0,0,0
 182712,Baine Bloodhoof,,High Chieftain,,1,7,0,0,81646,0,0,0,1,1,1,1,0,0,0
+182725,Shikaar Preyseeker,,,,0,7,0,0,104114,104115,0,0,1,1,1,1,0,0,198358
+182727,Shikaar Beastmaster,,,,0,7,0,0,104154,104155,0,0,1,1,1,1,198363,0,0
 182735,Archetype of Cunning,,,,0,12,0,0,101994,0,0,0,1,1,1,1,0,0,0
 182758,Red Viperid,,,,0,14,0,0,101998,101992,0,0,1,1,1,1,0,0,0
 182759,Red Viperid,,,,0,8,0,0,101998,101992,0,0,1,1,1,1,0,0,0
@@ -16589,7 +16642,18 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 182769,Green Viperid,,,,0,8,0,0,101990,101996,0,0,1,1,1,1,0,0,0
 182773,Black Skeletal Warhorse,,,,0,6,0,0,70481,0,0,0,1,1,1,1,0,0,0
 182775,Shrieker,,,,0,12,0,0,10723,0,0,0,1,1,1,1,0,0,0
+182800,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182802,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182803,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 182840,Archetype of Malice,,,,0,12,0,3,105485,0,0,0,1,1,1,1,0,0,0
+182847,Target,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182861,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182862,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182865,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182866,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182867,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182868,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+182869,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 182876,Bloodsucker Vespoid,,,,0,14,0,3,100558,105486,105488,0,1,1,1,1,0,0,0
 182877,Bloodsucker Vespoid,,,,0,8,0,3,100558,105486,105488,0,1,1,1,1,0,0,0
 182878,Uther the Lightbringer,,,,0,7,0,0,105509,0,0,0,1,1,1,1,173369,0,0
@@ -16619,13 +16683,26 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 183455,Huntress Laikeer,,,,0,7,0,0,95256,0,0,0,1,1,1,1,180024,0,0
 183458,Ava'zer,,,,0,7,0,0,96861,0,0,0,1,1,1,1,0,0,0
 183465,Alonis,,,,0,7,0,0,95158,0,0,0,1,1,1,1,0,0,0
+183517,Boulder,,,,0,10,0,2,69306,0,0,0,1,1,1,1,0,0,0
 183527,General Draven,,,,0,7,0,0,104814,0,0,0,1,1,1,1,174639,0,0
+183547,Obsidian Warder,,,,0,7,0,0,104843,104844,104845,104846,1,1,1,1,0,0,0
+183549,Dark Talon,,,,0,7,0,0,104839,104840,104841,104842,1,1,1,1,0,0,0
+183550,Ebon Scale,,,,0,7,0,0,104727,104726,104831,104833,1,1,1,1,0,0,0
+183551,Healing Wing,,<Temp Model>,,0,7,0,0,104834,104835,104836,104836,1,1,1,1,0,0,0
+183552,Senegos,,,,1,2,0,0,66481,0,0,0,1,1,1,1,0,0,0
+183555,Emmigosa,,,,0,2,0,0,108192,0,0,0,1,1,1,1,0,0,0
+183556,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,23998,0,0
 183557,Archetype of Satisfaction,,,,0,12,0,0,101984,0,0,0,1,1,1,1,0,0,0
 183560,Mysterious Automa,,,,0,9,0,0,102001,0,0,0,1,1,1,1,0,0,0
 183561,Firim,,,,0,7,0,0,100915,0,0,0,1,1,1,1,0,0,0
 183564,Saezurah,,,,1,9,0,0,98800,0,0,0,1,1,1,1,0,0,0
+183567,Ancient Primalist,,,,0,7,0,0,102970,102969,102958,102957,1,1,1,1,0,0,0
+183568,Ancient Giant,,,,0,5,0,0,100214,0,0,0,1,1,1,1,0,0,0
+183570,Ancient Proto-Dragon,,,,1,2,0,3,103252,0,0,0,1,1,1,1,0,0,0
+183576,Vorquin Foal,,,,0,8,0,0,104723,0,0,0,1,1,1,1,0,0,0
 183607,Knight of the Ebon Blade,,,,1,7,0,0,96328,0,0,0,1,1,1,1,117049,0,0
 183608,Knight of the Ebon Blade,,,,1,7,0,0,96327,0,0,0,1,1,1,1,117049,0,0
+183623,Vorquin Foal,,,,0,8,0,0,104723,0,0,0,1,1,1,1,0,0,0
 183639,Watchful Servitor,,,,0,9,0,0,101049,0,0,0,1,1,1,1,0,0,0
 183640,Nadjia the Mistblade,,,,0,7,0,0,93210,0,0,0,1,1,1,1,175847,0,0
 183644,Tactician Sakaa,,,,0,7,0,0,95536,0,0,0,1,1,1,1,0,0,0
@@ -16642,19 +16719,50 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 183720,Tal-Inara,,Honored Voice,,0,7,0,0,98194,0,0,0,1,1,1,1,0,0,0
 183724,Lady Jaina Proudmoore,,,,1,7,0,0,104817,0,0,0,1,1,1,1,153575,0,0
 183741,Sylvanas Windrunner,,,,0,7,0,0,104802,0,0,0,1,1,1,1,0,0,42775
+183757,General Scorxia,,,,1,2,0,3,105592,0,0,0,1,1,1,1,0,0,0
 183759,Kyrian Avenger,,,,0,7,0,3,93631,93631,0,0,0,0,1,1,176074,176818,0
+183761,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,0,0,0,1,1,1,1,0,0,0
+183766,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
 183772,Lightless Tormentor,,,,0,12,0,0,98523,0,0,0,1,1,1,1,0,0,0
+183794,Mage Talon,,The Ebon Scales,,0,7,0,0,104726,104833,104727,104831,1,1,1,1,0,0,0
+183821,Siaszerathel,,The Timewalkers,,0,7,0,0,104861,0,0,0,1,1,1,1,197837,192169,0
+183829,Awakening Tarasek,,,,0,7,0,0,105726,0,0,0,1,1,1,1,0,0,0
 183830,Arbiter Pelagos,,,,1,7,0,0,104789,0,0,0,1,1,1,1,0,0,0
 183831,Great-father Winter,,,,0,7,0,0,13370,0,0,0,100,1,1,1,12856,0,0
 183833,The Abominable Greench,,,,1,7,0,0,39021,0,0,0,0,1,1,1,0,0,0
+183842,Burrow Stalker,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+183849,Deathwingurlugull,,,,1,2,0,0,36896,0,0,0,1,1,1,1,0,0,0
+183851,Alliance Footsoldier,,,,0,7,0,0,73351,0,0,0,1,1,1,1,115802,0,0
+183852,Horde Footsoldier,,,,0,7,0,0,73352,0,0,0,1,1,1,1,115802,0,0
+183854,Varian Wryngrrlgulgll,,,,0,7,0,0,73351,0,0,0,1,1,1,1,0,0,0
+183855,Thrallgrulgulgul,,,,0,7,0,0,73352,0,0,0,1,1,1,1,0,0,0
+183856,Murloc You,,,,0,7,0,0,73351,0,0,0,1,1,1,1,0,0,0
+183858,Andantenormu,,The Timewalkers,,0,2,0,0,106950,0,0,0,1,1,1,1,0,0,0
 183859,Pocopoc,,,,0,9,0,0,102001,0,0,0,1,1,1,1,0,0,0
+183860,Soridormi,,,,1,2,0,0,108314,0,0,0,1,1,1,1,0,0,0
+183862,Infinite Dragon,,,,1,7,0,0,27813,0,0,0,1,1,1,1,0,0,0
+183863,Mogu Overlord,,,,0,7,0,0,42524,43506,40802,41175,1,1,1,1,0,0,0
+183864,Pandaren Freedomfighter,,,,0,7,0,0,69004,68999,69005,66082,1,1,1,1,0,0,0
+183865,Mogu Overlord,,,,0,7,0,0,103271,0,0,0,1,1,1,1,0,0,0
+183866,Stormwind Defender,,,,0,7,0,0,99951,99950,99949,99947,1,1,1,1,0,0,0
 183880,Attendant Protector,,Shield of the Arbiter,,1,7,0,0,95660,0,0,0,1,1,1,1,180611,0,0
 183882,Venerable Denizen,,,,0,7,0,0,96737,93979,94489,94485,1,1,1,1,0,0,0
 183885,Apprentice Ritualist,,,,0,7,0,0,94992,95769,95991,97668,1,1,1,1,0,0,0
 183887,Angry Soul,,,,0,7,0,0,97529,97533,97530,97534,1,1,1,1,0,0,0
+183922,Stormwind Footsoldier,,,,0,7,0,0,99389,99389,3257,3167,1,1,1,1,4991,0,0
+183923,Gnoll Invader,,,,0,7,0,0,103186,103204,103268,103296,1,1,1,1,0,0,0
 183937,Skolex,,The Insatiable Ravener,,1,15,0,0,101983,0,0,0,1,1,1,1,0,0,0
 183938,Mawsworn Val'kyr,,,,0,7,0,3,94399,0,0,0,1,1,1,1,179726,0,0
+183939,Primal Fire Elemental,,(T1) CASTER:FIRE,,0,4,0,0,102504,0,0,0,1,1,1,1,0,0,0
+183940,Silithid Ravager,,,,0,4,0,0,75707,75704,0,0,1,1,1,1,0,0,0
+183941,Ragnaros,,,,1,4,0,0,38630,0,0,0,0,1,1,1,0,0,0
+183942,Primal Water Elemental,,,,0,4,0,0,102376,0,0,0,1,1,1,1,0,0,0
+183943,Primal Earth Elemental,,,,0,4,0,0,102508,0,0,0,1,1,1,1,0,0,0
+183944,Therazane,,,,1,4,0,0,69270,0,0,0,0,1,1,1,0,0,0
 183955,Your Shadow,,,,0,15,0,0,93157,0,0,0,1,1,1,1,0,0,0
+183979,Zip Line Camp,,,,0,10,0,0,102020,0,0,0,1,1,1,1,0,0,0
+183982,Zip Line Anchor,,,,0,10,0,0,104865,104866,0,0,1,0,1,1,0,0,0
+183994,Kaldorei Starcaller,,,,0,7,0,0,92852,92853,92854,92855,1,1,1,1,162986,0,0
 184000,Pelagos,,,,0,7,0,0,97681,0,0,0,1,1,1,1,0,0,0
 184008,Captive Wyrmtongue,,,,0,3,0,0,104895,0,0,0,1,1,1,1,0,0,0
 184035,Elder Ara,,,,0,7,0,0,104562,0,0,0,1,1,1,1,0,0,0
@@ -16666,6 +16774,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184112,Calia Menethil,,,,0,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
 184116,Trapdoor Controller,,,,6,10,0,3,92725,104903,0,0,1,0,1,1,0,0,0
 184129,The Primus,,,,1,7,0,0,99095,0,0,0,1,1,1,1,0,185955,0
+184152,Bluefeather Hatchling,,,,0,1,26,0,68923,0,0,0,1,1,1,1,0,0,0
 184183,Ambystan Darter,,,,0,12,0,0,100454,0,0,0,1,1,1,1,0,0,0
 184184,Fierce Scarabid,,,,0,12,0,0,104582,0,0,0,1,1,1,1,0,0,0
 184186,Archetype of Renewal,,,,0,12,0,2,104730,0,0,0,1,1,1,1,0,0,0
@@ -16700,33 +16809,46 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184276,Lady Moonberry,,Court of Night,,1,7,0,0,94286,0,0,0,1,1,1,1,0,0,0
 184277,Baroness Vashj,,Matron of Spies,,1,7,0,0,96138,0,0,0,1,1,1,1,0,0,156712
 184278,Dori'thur,,Tyrande's Companion,,1,1,46,3,90230,0,0,0,1,1,1,1,0,0,0
+184283,Scalecommander Cindrethresh,,The Dark Talons,,0,7,0,0,102033,0,0,0,1,1,1,1,0,0,0
 184292,Heart of the Aspects,,,,0,1,0,0,40029,0,0,0,0,1,1,1,0,0,0
 184293,Sylverian Dreamer,,,,0,1,0,0,90396,0,0,0,1,1,1,1,0,0,0
 184294,Steamscale Incinerator,,,,0,1,0,0,96554,0,0,0,1,1,1,1,0,0,0
 184295,Brusier Gor,,,,4,7,0,0,86425,0,0,0,1,1,1,1,41185,37681,0
+184299,Vikthrus Crafting Area,,,,0,10,0,0,102006,0,0,0,1,1,1,1,0,0,0
+184308,Scalecommander Sarkareth,,The Ebon Scales,,0,7,0,0,104904,0,0,0,1,1,1,1,0,0,0
+184309,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,0,0,0,1,1,1,1,0,0,0
+184310,Scalecommander Viridia,,The Healing Wings,,0,7,0,0,104555,0,0,0,1,1,1,1,0,0,0
 184313,Cervid Grazer,,,,0,1,151,0,100976,0,0,0,1,1,1,1,0,0,0
 184316,Timid Leporid,,,,0,8,0,0,100379,0,0,0,1,1,1,1,0,0,0
 184321,Guardian Centurion,,,,0,9,0,0,92191,0,0,0,1,1,1,1,0,0,0
 184322,Injured Aspirant,,,,0,9,0,0,99248,0,0,0,1,1,1,1,0,0,0
+184374,Umbrastrasz,,,,0,7,0,0,105018,0,0,0,1,1,1,1,0,0,0
 184381,General Draven,,,,0,7,0,3,104814,0,0,0,1,1,1,1,174639,0,0
 184405,Honored Aspirant,,,,0,7,0,0,94108,99348,99290,99229,1,1,1,1,0,0,0
 184406,Enlightened Pilgrim,,,,0,7,0,0,100731,105241,105242,105243,1,1,1,1,0,0,0
 184417,Dreadlord Infiltrator,,,,0,3,0,0,100797,100798,0,0,1,1,1,1,0,0,0
+184420,Azuresworn Drakonid,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,192519,0,0
 184423,Latif,,,,0,7,0,0,102043,0,0,0,1,1,1,1,0,0,0
 184427,Mysterious Core,,,,1,9,0,0,105152,0,0,0,1,1,1,1,0,0,0
+184428,Neltharion,,,,1,2,0,0,105639,0,0,0,0,1,1,1,0,0,0
 184458,Elder Ara,,,,0,7,0,0,104562,0,0,0,1,1,1,1,0,0,0
 184460,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
 184468,Latif,,,,0,7,0,0,102043,0,0,0,1,1,1,1,0,0,0
+184473,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+184476,Neltharion,,,,1,2,0,0,21063,0,0,0,0,1,1,1,0,0,0
+184477,Proto-dragon,,,,1,2,0,3,104142,0,0,0,1,1,1,1,0,0,0
 184486,Tamra,,,,0,7,0,0,103135,0,0,0,1,1,1,1,0,0,0
 184487,E'rnee,,,,0,1,0,0,100453,0,0,0,1,1,1,1,0,0,0
 184488,E'rnee,,,,0,1,0,0,105200,0,0,0,1,1,1,1,0,0,0
 184492,The Oracle,,,,1,9,0,0,103099,0,0,0,1,1,1,1,0,0,0
 184529,Dausegne - IGC,,The Fallen Oracle,,1,9,0,0,101913,0,0,0,1,1,1,1,0,0,0
 184531,Cosmic Core,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+184536,The Oathmaker,,,,1,10,0,3,39449,21342,0,0,0,1,1,1,0,0,0
 184575,Background,,,,0,10,0,0,105103,0,0,0,1,1,1,1,0,0,0
 184589,Firim,,,,0,7,0,0,100915,0,0,0,1,1,1,1,185331,0,0
 184593,E'rnee,,,,0,1,0,0,105121,0,0,0,1,1,1,1,0,0,0
 184594,Curious Bufonid,,,,0,1,0,0,105126,0,0,0,1,1,1,1,0,0,0
+184595,Ohn Seshteng,,,,0,7,0,0,105127,0,0,0,1,1,1,1,187992,0,0
 184597,Lady Jaina Proudmoore,,,,1,7,0,0,80015,0,0,0,1,1,1,1,153575,0,0
 184599,Thrall,,,,1,7,0,0,100684,0,0,0,1,1,1,1,168268,0,0
 184600,Incubus,,,,0,3,302,0,105009,0,0,0,1,1,1,1,190185,0,0
@@ -16734,6 +16856,10 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184602,Concubus,,,,0,3,17,0,105009,0,0,0,1,1,1,1,0,0,0
 184605,Sylvanas Windrunner,,,,1,7,0,0,102134,0,0,0,1,1,1,1,0,0,0
 184631,Lilian Voss,,,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
+184656,Loyal Bakar,,,,0,1,52,0,101603,101602,0,0,1,1,1,1,0,0,0
+184657,Shikaar Hunter,,,,0,7,0,0,103855,103856,108412,108413,1,1,1,1,0,0,198358
+184688,Sindragosa,,,,0,2,0,0,104535,38398,0,0,0,1,1,1,0,0,0
+184689,Malygos,,The Spell-Weaver,,1,2,0,0,26761,0,0,0,1,1,1,1,0,0,0
 184698,Highlord Bolvar Fordragon,,Knights of the Ebon Blade,,1,7,0,0,95194,0,0,0,1,1,1,1,177838,0,0
 184714,Lady Jaina Proudmoore,,,,1,7,0,0,104817,0,0,0,1,1,1,1,153575,0,0
 184722,Baine Bloodhoof,,High Chieftain,,1,7,0,0,81646,0,0,0,1,1,1,1,0,0,0
@@ -16742,6 +16868,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184743,Onlooker,,,,0,7,0,0,94504,94506,94507,94508,1,1,1,1,0,0,0
 184744,Stoneborn Legionnaire,,,,1,7,0,3,97039,0,0,0,1,1,1,1,0,0,0
 184745,Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
+184765,Ebyssian,,,,1,2,0,3,63690,105532,0,0,0,1,1,1,0,0,0
+184766,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,0,1,1,1,0,0,0
 184794,Protector Captain,,Shield of the Arbiter,,1,7,0,0,97347,0,0,0,1,1,1,1,180610,0,0
 184802,Uther the Lightbringer,,,,0,7,0,0,105509,0,0,0,1,1,1,1,173369,0,0
 184828,Winged Soul Eater,,,,1,1,0,3,97315,0,0,0,1,1,1,1,0,0,0
@@ -16750,6 +16878,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184833,Enlightened Guardian,,,,0,7,0,0,105239,100732,0,0,1,1,1,1,185590,0,0
 184839,Tyrande Whisperwind,,The Night Warrior,,1,7,0,0,101941,0,0,0,1,1,1,1,164726,0,0
 184850,Mawsworn Warden,,,,1,7,0,3,104594,94392,0,0,1,1,1,1,179726,0,0
+184870,Naleidea Rivergleam,,,,0,7,0,0,105169,0,0,0,1,1,1,1,0,0,0
 184882,Mawsworn Warden,,,,1,7,0,3,104594,94392,0,0,1,1,1,1,179726,0,0
 184884,Mawsworn Warden,,,,1,7,0,3,104594,94392,0,0,1,1,1,1,179726,0,0
 184898,Productive Servitor,,,,0,9,0,0,100128,0,0,0,1,1,1,1,0,0,0
@@ -16762,15 +16891,22 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184979,Onlooker,,,,0,7,0,0,94992,95769,95991,97668,1,1,1,1,0,0,0
 184980,Onlooker,,,,0,7,0,0,95904,95906,95918,95916,1,1,1,1,0,0,0
 184981,Onlooker,,,,0,7,0,0,96737,93979,94489,94485,1,1,1,1,0,0,0
+184995,Caravan Wagon,,,,0,10,0,0,108985,0,0,0,1,1,1,1,0,0,0
 185090,E'deero,,,,0,8,2,0,98508,0,0,0,1,1,1,1,0,0,0
 185145,Uther the Lightbringer,,,,1,7,0,0,105509,0,0,0,1,1,1,1,173369,0,0
 185156,Overgrown Bulwark,,,,1,9,0,0,100116,0,0,0,1,1,1,1,0,0,0
 185157,Uther,,,,0,7,0,0,105509,0,0,0,1,1,1,1,0,0,0
 185167,Sylvanas Windrunner,,,,0,7,0,0,102134,0,0,0,1,1,1,1,0,0,0
+185172,Obsidian Warder,,,,0,7,0,0,104843,104844,104845,104846,1,1,1,1,0,0,0
 185305,Grimhowl,,,,0,1,52,0,8181,0,0,0,1,1,1,1,0,0,0
 185405,Niena Bladeleaf,,,,0,7,0,0,105324,0,0,0,1,1,1,1,171490,0,0
 185406,Synthanos Wintersong,,,,0,7,0,0,105325,0,0,0,1,1,1,1,38632,0,0
+185411,Raszageth,,The Storm-Eater,,1,2,0,0,103255,0,0,0,1,1,1,1,0,0,0
+185419,Ebyssian,,,,1,2,0,3,63690,105532,0,0,0,1,1,1,0,0,0
 185421,The Jailer,,,,1,7,0,0,100456,0,0,0,1,1,1,1,185436,0,0
+185431,Ebyssian,,,,1,2,0,3,63690,102299,0,0,0,1,1,1,0,0,0
+185437,Neltharion,,The Earth Warder,,1,2,0,0,21063,0,0,0,0,1,1,1,0,0,0
+185454,Fishing Shack,,,,0,10,0,0,75120,0,0,0,1,1,1,1,0,0,0
 185475,Tezpet,Test Pet,,,0,14,0,0,92261,0,0,0,1,1,1,1,0,0,0
 185477,Pocopoc,,,,0,12,0,0,102001,0,0,0,1,1,1,1,0,0,0
 185503,Pocopoc,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
@@ -16784,11 +16920,18 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185520,Captain Amalia Stone,,,,0,7,0,0,86073,0,0,0,1,1,1,1,0,0,0
 185522,Derek Proudmoore,,,,1,7,0,0,89429,0,0,0,1,1,1,1,0,0,0
 185523,Calia Menethil,,,,1,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
+185524,Snatched Hatchling,,,,0,1,26,3,68923,0,0,0,1,1,1,1,0,0,0
 185541,Enlightened Pilgrim,,,,0,7,0,0,100731,105241,105242,105243,1,1,1,1,0,0,0
+185572,Vekkalis,,Junior Assistant Banker,,0,2,0,0,105401,0,0,0,1,1,1,1,0,0,0
 185584,Blasphemy,,,,0,3,108,0,105407,0,0,0,1,1,1,1,0,0,0
 185586,Lil' Ursoc,,,,0,12,0,0,105408,0,0,0,1,1,1,1,0,0,0
 185587,Rafiq,,Relic Seeker,,0,7,0,0,101775,0,0,0,1,1,1,1,0,0,0
+185599,Masud the Wise,,,,0,7,0,0,105421,0,0,0,1,1,1,1,0,0,0
+185602,Cataloger's Camp,,,,0,10,0,0,102020,0,0,0,1,1,1,1,0,0,0
+185603,Glania of the Blessed Ones,,,,0,7,0,0,105422,0,0,0,1,1,1,1,0,0,0
+185608,Khuri,,Fishing Trainer,,0,7,0,0,105424,0,0,0,1,1,1,1,0,0,0
 185613,Grimhowl,,,,0,1,52,0,105428,0,0,0,1,1,1,1,0,0,0
+185625,Kalecgos,,,,1,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
 185635,RTC Watched - Kill Credit,,,,1,7,0,0,98196,0,0,0,1,1,1,1,0,0,0
 185674,Pelagos,,,,0,7,0,0,105457,0,0,0,1,1,1,1,0,0,0
 185676,Tyrande Whisperwind,,,,0,7,0,0,105462,0,0,0,1,1,1,1,0,0,0
@@ -16799,6 +16942,8 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185702,E'ko,,,,0,8,2,0,98508,0,0,0,1,1,1,1,0,0,0
 185713,Hadja,,Enlightened Provisioner,,0,7,0,0,105245,0,0,0,1,1,1,1,0,0,0
 185750,Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
+185754,Talon Mender,,The Healing Wings,,0,7,0,0,104834,104835,104836,104836,1,1,1,1,0,0,0
+185775,Unstable Arcane Energy,,,,0,4,0,0,97174,0,0,0,1,1,1,1,0,0,0
 185792,Dark Ranger Velonara,,,,1,7,0,0,105389,0,0,0,1,1,1,1,45085,45085,166783
 185793,Lilian Voss,,,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
 185794,Master Apothecary Faranell,,,,1,7,0,0,90372,0,0,0,1,1,1,1,2199,3695,0
@@ -16821,12 +16966,22 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185851,Dark Ranger Velonara,,,,1,7,0,0,105389,0,0,0,1,1,1,1,45085,45085,166783
 185852,Lilian Voss,,,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
 185857,Sylvanas Windrunner,,,,0,7,0,0,102134,0,0,0,1,1,1,1,0,0,186414
+185871,Frosty Woodpecker,,,,0,8,0,3,100834,100836,0,0,1,1,1,1,0,0,0
+185876,Containment Field,,,,0,7,0,0,104834,104835,104836,104836,0,0,0,0,0,0,0
+185882,Scout Tomul,,,,0,7,0,0,105533,0,0,0,1,1,1,1,0,0,189505
+185883,Blazing Proto-Dragon,,,,1,2,0,0,106024,0,0,0,1,1,1,1,0,0,0
 185884,Cosmic Core,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
 185893,Calia Menethil,,,,1,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
 185895,Lilian Voss,,,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
+185905,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,92146,0,0,1,0,1,1,189547,0,0
+185908,Containment Field,,,,0,7,0,0,104834,104835,104836,104836,0,0,0,0,0,0,0
 185910,Calia Menethil,,,,1,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
+185915,Andantenormu,,The Timewalkers,,0,2,0,0,105538,0,0,0,1,1,1,1,0,0,0
+185920,Okir,,Interpreter to the Khan,,0,7,0,0,105539,0,0,0,1,1,1,1,189523,0,0
 185950,Dori'thur,,,,0,7,0,0,105473,0,0,0,1,1,1,1,0,0,0
 185951,Anduin Wrynn,,,,0,7,0,0,82047,0,0,0,1,1,1,1,0,0,0
+186051,Koresath,,,,0,2,0,0,105565,0,0,0,1,1,1,1,94830,0,0
+186052,Reth,,,,0,2,0,0,105569,0,0,0,1,1,1,1,94830,0,0
 186090,Calia Menethil,,The Pallid Lady,,1,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
 186091,Lilian Voss,,Desolate Council,,1,7,0,0,85799,0,0,0,1,1,1,1,160500,160501,0
 186092,Master Apothecary Faranell,,Desolate Council,,1,7,0,0,90372,0,0,0,1,1,1,1,2199,3695,0
@@ -16835,10 +16990,119 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 186100,Captain Amalia Stone,,,,0,7,0,0,86073,0,0,0,1,1,1,1,0,0,0
 186101,Derek Proudmoore,,Champion of the Pallid Lady,,1,7,0,0,89429,0,0,0,1,1,1,1,0,0,0
 186104,Aelthalyste,,,,0,7,0,0,105390,0,0,0,1,1,1,1,0,0,0
+186126,Big Kinook,,Stew Brewer,,0,7,0,0,105782,0,0,0,1,1,1,1,0,0,0
+186129,Wrathion,,The Black Prince,,1,2,0,0,107146,93870,0,0,1,0,1,1,0,0,0
+186132,Ebyssian,,,,1,2,0,3,63690,105532,0,0,0,1,1,1,0,0,0
+186134,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,0,1,1,1,0,0,0
+186145,Ebyssian,,,,1,2,0,3,63690,105532,0,0,0,1,1,1,0,0,0
+186157,Ruriq,,,,0,7,0,0,105616,0,0,0,1,1,1,1,157585,0,0
+186175,Belika,,,,0,7,0,0,105625,0,0,0,1,1,1,1,0,0,189502
+186176,Aru,,,,0,7,0,0,105626,0,0,0,1,1,1,1,0,0,189502
+186177,Kalecgos,,,,1,2,0,0,75614,23487,0,0,1,0,1,1,197918,197919,0
+186179,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+186181,Norukk,,,,0,7,0,0,105628,0,0,0,1,1,1,1,0,0,0
 186182,Alonsus Faol,,Bishop of Secrets,,1,7,0,0,67043,0,0,0,1,1,1,1,0,0,0
+186186,Hanu,,,,0,7,0,0,105635,0,0,0,1,1,1,1,192798,192091,0
+186188,Sindragosa,,Arcane Simulacrum,,0,2,0,0,104535,0,0,0,1,1,1,1,0,0,0
+186194,Twisted Ancient,,,,1,4,0,0,106287,0,0,0,1,1,1,1,0,0,0
+186197,Popoak,,,,0,7,0,0,105658,0,0,0,1,1,1,1,0,0,0
 186205,Calia Menethil,,,,1,7,0,0,92900,0,0,0,1,1,1,1,0,0,0
+186210,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+186212,Wayun,,,,0,7,0,0,105903,0,0,0,1,1,1,1,45120,0,0
+186218,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+186223,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+186228,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+186230,Wizened Stormrider,,Primalists,,1,2,0,3,105198,0,0,0,1,1,1,1,0,0,0
+186231,Vexalgos,,,,0,2,0,0,105701,0,0,0,1,1,1,1,0,0,0
+186232,Tharkago,,,,0,2,0,0,105702,0,0,0,1,1,1,1,0,0,0
+186233,Stellagosa,,,,1,2,0,0,61799,105227,0,0,1,0,1,1,0,0,0
+186240,Senegos,,,,0,2,0,0,105703,65851,0,0,1,0,1,1,0,0,0
+186263,Chromie,,,,1,2,0,0,96559,0,0,0,1,1,1,1,0,0,0
+186274,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,107055,0,1,0,0,1,0,0,0
+186276,Eragosa,,,,0,2,0,0,105709,0,0,0,1,1,1,1,0,0,0
+186280,Kalecgos,,,,1,2,0,0,75614,23487,0,0,1,0,1,1,197918,197919,0
+186283,Windscourge Drake,,Primalists,,1,2,0,3,107561,0,0,0,1,1,1,1,0,0,0
+186301,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,23998,0,0
+186322,Greski,,,,0,7,0,0,105902,0,0,0,1,1,1,1,118206,0,0
+186361,Rotting Treant,,,,0,4,0,0,107351,107352,107353,107354,1,1,1,1,0,0,0
+186362,Brackenhide Rotflinger,,,,0,7,0,0,103406,103405,103404,103403,1,1,1,1,0,0,0
+186363,Brackenhide Putrifier,,,,0,7,0,0,103166,103167,103169,103168,1,1,1,1,0,0,0
+186386,Kauj,,Kauriq Chieftain,,0,7,0,0,105850,0,0,0,1,1,1,1,192159,0,0
 186389,Night Elf Soul,,,,0,6,0,0,105741,105743,105744,105745,1,1,1,1,0,0,0
+186395,Kauriq the Gleamfisher,,,,0,7,0,3,105751,0,0,0,1,1,1,1,0,0,0
+186405,Vorquin,,,,0,2,0,0,104648,0,0,0,1,1,1,1,0,0,0
+186419,Eternus,,,,1,2,0,0,106055,0,0,0,1,1,1,1,0,0,0
+186432,Chromie,,,,1,2,0,0,96559,107733,107134,0,1,0,0,1,0,0,0
+186446,Elder Nappa,,Innkeeper,,0,7,0,0,105777,0,0,0,1,1,1,1,0,0,0
+186448,Elder Poa,,Weaver of Tales,,0,7,0,0,105778,0,0,0,1,1,1,1,0,0,0
+186449,Arvik,,Repairs,,0,7,0,0,105763,0,0,0,1,1,1,1,116918,0,0
+186455,Black Dragon,,,,1,2,0,3,105527,0,0,0,1,1,1,1,0,0,0
 186459,Night Elf Soul,,,,0,6,0,0,105795,105796,105797,105798,1,1,1,1,0,0,0
+186462,Tatto,,Stable Master,,0,7,0,0,105793,0,0,0,1,1,1,1,0,0,0
+186463,Frostmaul,,Hunter Tame,,4,1,4,0,101247,0,0,0,1,1,1,1,0,0,0
+186480,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+186499,Chromie,,,,1,2,0,0,105811,0,0,0,1,1,1,1,0,0,0
+186538,Iskaara Fisher,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,34784,0,0
+186547,Lil Ki,,Stew Assistant,,0,7,0,0,105831,0,0,0,1,1,1,1,0,0,0
+186554,Nunvuq,,Fishing Trainer,,0,7,0,0,105834,0,0,0,1,1,1,1,34784,0,0
+186556,Elder Kinaa,,Cooking Trainer,,0,7,0,0,105835,0,0,0,1,1,1,1,0,0,0
+186558,Junnik,,Fish Vendor,,0,7,0,0,105836,0,0,0,1,1,1,1,0,0,0
+186568,Bukarakikk,,The Carver,,0,7,0,0,105839,0,0,0,1,1,1,1,10772,0,0
+186571,Wood Duckling,,,,0,8,0,0,104673,104675,0,0,1,1,1,1,0,0,0
+186574,Brightail Butterfly,,,,0,8,0,3,104043,104040,0,0,1,1,1,1,0,0,0
+186578,Garden Widow,,,,0,8,0,0,105840,107817,0,0,1,1,1,1,0,0,0
+186587,Tarasek Scavenger,,,,0,2,0,0,105752,105728,105725,0,1,1,1,1,0,0,0
+186688,Archmage Khadgar,,,,1,7,0,0,106239,0,0,0,1,1,1,1,0,0,0
+186706,Black Drake,,,,1,2,0,3,105866,105867,105868,0,1,1,1,1,0,0,0
+186707,Flying Squirrel,,,,6,8,0,0,100353,0,0,0,1,1,1,1,0,0,0
+186709,Proto-whelp,,,,0,8,0,0,28345,0,0,0,1,1,1,1,0,0,0
+186711,Chromie,,,,1,2,0,0,107733,0,0,0,1,1,1,1,0,0,0
+186717,Baby Thunder Lizard,,,,0,8,0,0,100951,0,0,0,1,1,1,1,0,0,0
+186718,Baby Primal Beaver,,,,0,8,0,0,102824,102825,102826,102827,1,1,1,1,0,0,0
+186734,Norukk,,,,0,7,0,0,105628,0,0,0,1,1,1,1,0,0,0
+186767,Majordomo Selistra,,,,1,2,0,0,107040,108032,108822,0,1,0,0,1,0,0,0
+186779,Archmage Khadgar,,,,1,7,0,0,106239,0,0,0,1,1,1,1,0,0,0
+186790,Animated Mountain,,,,1,5,0,0,107013,0,0,0,1,1,1,1,0,0,0
+186844,Jeweled Onyx Whelpling,,,,0,12,0,0,105904,0,0,0,1,1,1,1,0,0,0
+186854,Lapisagos,,The Spellsworn,,1,2,0,0,105529,0,0,0,1,1,1,1,0,0,0
+186884,Test Beetle,,,,0,14,0,0,100375,0,0,0,1,1,1,1,0,0,0
+186886,Test Beetle,,,,0,8,0,0,100375,0,0,0,1,1,1,1,0,0,0
+186930,Nozdormu,,,,1,2,0,0,105959,0,0,0,1,1,1,1,0,0,0
+186931,Nozdormu,,,,1,2,0,0,38754,0,0,0,1,1,1,1,0,0,0
+186992,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186993,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186994,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186995,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186996,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186997,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186998,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+186999,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187000,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187001,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187002,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187003,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187004,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187005,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187006,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187007,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187008,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187009,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187010,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187011,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187034,Kalecgos,,,,1,2,0,0,75614,0,0,0,1,1,1,1,0,0,0
+187131,Drakonid Crechebound,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,192514,0,0
+187136,Examiner Rowe,,,,0,7,0,0,106063,0,0,0,1,1,1,1,0,0,0
+187138,Drakonid Crechebound,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,0,0,0
+187156,Aelnara,,,,0,7,0,0,106065,0,0,0,1,1,1,1,0,0,0
+187163,Dark Widow,,,,0,8,0,0,38585,0,0,0,1,1,1,1,0,0,0
+187164,Invasive Salamanther,,,,0,8,0,0,104666,0,0,0,1,1,1,1,0,0,0
+187165,Dark Talon,,,,0,7,0,0,104839,104840,104841,104842,1,1,1,1,0,0,0
+187167,Obsidian Warder,,,,0,7,0,0,104843,104844,104845,104846,1,1,1,1,0,0,0
+187198,LOU-C Fitzcog,,,,0,7,0,0,106067,0,0,0,1,1,1,1,126938,0,0
+187223,Kodethi,,Dark Talons,,0,7,0,0,104821,102030,0,0,1,0,1,1,0,0,0
+187251,Toddy Whiskers,,,,0,7,0,0,105170,0,0,0,1,1,1,1,194962,0,0
+187296,Jump,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187344,Andantenormu,,The Timewalkers,,0,2,0,0,105538,0,0,0,1,1,1,1,0,0,0
 187354,Night Elf Soul,,,,0,7,0,0,33363,0,0,0,1,1,1,1,0,0,0
 187364,Mawsworn Binder,,,,0,7,0,0,92780,0,0,0,1,1,1,1,179725,0,0
 187365,Mawsworn Binder,,,,0,7,0,0,92781,0,0,0,1,1,1,1,179725,0,0
@@ -16855,6 +17119,830 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 187380,Night Elf Soul,,,,0,7,0,0,2212,0,0,0,1,1,1,1,0,0,0
 187381,Night Elf Soul,,,,0,7,0,0,2218,0,0,0,1,1,1,1,0,0,0
 187382,Night Elf Soul,,,,0,7,0,0,74959,0,0,0,1,1,1,1,0,0,0
+187420,Gleamfish,,,,6,8,0,0,100953,0,0,0,1,1,1,1,0,0,0
+187435,Andantenormu,,The Timewalkers,,0,2,0,0,105538,0,0,0,1,1,1,1,0,0,0
+187437,Mythrax,,,,1,4,0,0,84615,0,0,0,0,1,1,1,0,0,0
+187439,Bubbled Duckling,,,,6,8,0,3,104672,0,0,0,1,1,1,1,0,0,0
+187453,Slyvern Pup,,,,0,8,0,3,102067,102069,102068,102066,1,1,1,1,0,0,0
+187458,Copse Hopskipper,,,,0,8,0,0,100271,100358,100359,100360,1,1,1,1,0,0,0
+187460,Vibrant Mudhopper,,,,0,8,0,0,28501,78834,78835,14932,2,2,2,1,0,0,0
+187471,Trapped Turtle Hatchling,,,,6,8,0,3,104009,104012,104011,0,1,1,1,1,0,0,0
+187485,Nurtured Duckling,,,,0,8,0,0,104673,104675,0,0,1,1,1,1,0,0,0
+187491,Duckling,,,,6,8,0,0,104672,0,0,0,1,1,1,1,0,0,0
+187492,Dragonfly,,,,6,8,0,3,103842,0,0,0,1,1,1,1,0,0,0
+187524,Obsidian Bladewing,,,,1,2,0,3,100197,0,0,0,1,1,1,1,0,0,0
+187530,Evorian,,,,1,2,0,3,106199,0,0,0,1,1,1,1,0,0,0
+187569,Fledgling,,,,0,8,0,0,102067,0,0,0,1,1,1,1,0,0,0
+187621,Jump,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187658,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,0,0,0,1,1,1,1,0,0,0
+187669,Nozdormu,,,,1,2,0,0,38754,108926,107130,0,0,1,0,1,0,0,0
+187671,Tufted Flying Squirrel,,,,0,8,0,0,100350,100353,0,0,1,1,1,1,0,0,0
+187674,Neelo,,,,0,7,0,0,106220,0,0,0,1,1,1,1,0,0,0
+187676,Kalecgos,,,,1,2,0,0,75614,105921,108281,0,0,1,0,1,0,0,0
+187678,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,92146,107052,0,0,1,0,1,0,0,0
+187679,Nau,,,,0,7,0,0,106221,0,0,0,1,1,1,1,0,0,0
+187680,Scaps,,,,0,7,0,0,106222,0,0,0,1,1,1,1,0,0,0
+187683,Waking Duck,,,,6,1,125,0,104678,0,0,0,1,1,1,1,0,0,0
+187695,Race Controller,,,,0,7,0,0,21955,23767,0,0,0,1,1,1,0,0,0
+187718,Archmage Khadgar,,,,1,7,0,0,106239,0,0,0,1,1,1,1,0,0,0
 187719,Avian Fledgling,,,,0,8,0,3,105558,0,0,0,1,1,1,1,0,0,0
+187720,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,0,0,0
 187734,Taelia Fordragon,,,,0,7,0,0,104818,0,0,0,1,1,1,1,166781,0,0
+187738,Boost,,,,0,10,0,3,21955,108199,0,0,0,1,1,1,0,0,0
+187755,Nurtured Duckling,,,,0,8,0,0,104673,104675,0,0,1,1,1,1,0,0,0
+187757,Rustpine Rabbit,,,,0,8,0,0,100358,0,0,0,1,1,1,1,0,0,0
+187789,Energy,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+187799,Reed Skimmer,,,,0,8,0,3,103843,103841,0,0,1,1,1,1,0,0,0
+187818,Baby Scalebiter,,,,0,8,0,0,104664,104665,104667,0,2,2,1,1,0,0,0
+187864,Ysera,,,,1,2,0,0,105956,0,0,0,1,1,1,1,0,0,0
+187869,Tikukk,,,,0,7,0,0,105647,0,0,0,1,1,1,1,0,0,0
+187870,Tika,,,,0,7,0,0,102843,0,0,0,1,1,1,1,0,0,0
+187871,Oopa,,,,0,1,300,0,100386,0,0,0,1,1,1,1,0,0,0
+187873,Kalecgos,,Mirror Image,,1,2,0,0,105430,23487,0,0,1,0,1,1,0,0,0
+187891,Ohn'ahra,,,,1,1,0,3,106285,0,0,0,1,1,1,1,0,0,0
+187904,Injured Drakonid,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,0,0,0
 187929,Winter Queen,,,,1,7,0,0,95678,0,0,0,1,1,1,1,0,0,0
+187974,Geoscanner 289-07,,,,0,10,0,0,328,27823,0,0,0,1,1,1,0,0,0
+187990,Niqu,,,,0,7,0,0,104919,0,0,0,1,1,1,1,0,0,0
+187992,Kirin Tor Mage,,,,0,7,0,0,107299,106319,106320,106321,1,1,1,1,0,0,0
+187995,Random,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+188029,Sprightly Butterfly,,,,0,8,0,3,104040,104042,104041,0,1,1,1,1,0,0,0
+188076,Kill Credit Vines,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+188094,Meadowhoof Musken,,,,0,1,157,0,106586,106584,106583,0,1,1,1,1,0,0,0
+188133,Narsysix,,,,1,2,0,3,106199,0,0,0,0,1,1,1,0,0,0
+188135,Zepharion,,,,1,2,0,0,107875,107873,107874,0,1,0,0,1,0,0,0
+188136,Exadria,,,,1,2,0,3,106199,0,0,0,0,1,1,1,0,0,0
+188141,Malasarin,,,,1,2,0,3,106199,0,0,0,0,1,1,1,0,0,0
+188143,Myridian,,,,1,2,0,3,106199,0,0,0,0,1,1,1,0,0,0
+188158,Baskilan,,,,1,2,0,0,107533,107214,107215,0,1,1,0,1,0,0,0
+188191,Kirin Tor Mage,,,,0,7,0,0,106319,0,0,0,1,1,1,1,0,0,0
+188192,Kirin Tor Mage,,,,0,7,0,0,106324,0,0,0,1,1,1,1,0,0,0
+188193,Kirin Tor Mage,,,,0,7,0,0,106322,0,0,0,1,1,1,1,0,0,0
+188194,Kirin Tor Mage,,,,0,7,0,0,107299,0,0,0,1,1,1,1,0,0,0
+188195,Kirin Tor Mage,,,,0,7,0,0,106320,0,0,0,1,1,1,1,0,0,0
+188196,Kirin Tor Mage,,,,0,7,0,0,106325,0,0,0,1,1,1,1,0,0,0
+188201,Healing Wing,,,,0,7,0,0,104834,104835,104836,104836,1,1,1,1,0,0,0
+188266,Cowering Crab,,,,6,8,0,0,103847,103846,103850,103852,1,1,1,1,0,0,0
+188267,Unsettled Seagull,,,,6,8,0,3,103904,0,0,0,1,1,1,1,0,0,0
+188278,Garden Filly,,,,0,8,0,0,104722,104723,0,0,1,1,1,1,0,0,0
+188280,Excited Vorquin,,,,0,8,0,0,104722,104723,0,0,1,1,1,1,0,0,0
+188290,Arcane Energy,,,,6,10,0,0,106425,0,0,0,1,1,1,1,0,0,0
+188332,Mythexthia,,,,1,2,0,3,106199,0,0,0,0,1,1,1,0,0,0
+188438,Balakar Khan,,,,1,7,0,0,102116,0,0,0,1,1,1,1,0,0,0
+188441,Barrel Bomb,,,,0,10,0,0,21955,23767,0,0,0,1,1,1,0,0,0
+188621,Injured Talon,,The Healing Wings,,0,7,0,0,104834,104835,104836,104837,1,1,1,1,0,0,0
+188652,Atrenosh Hailstone,,,,1,2,0,0,104293,0,0,0,1,1,1,1,0,0,0
+188653,Atrenosh Hailstone,,,,1,2,0,0,104293,0,0,0,1,1,1,1,0,0,0
+188663,Flittering Flutterwing,,,,6,8,0,3,103845,103844,103843,103842,1,1,1,1,0,0,0
+188690,Decaying Animal,,,,0,8,0,0,100271,70447,100353,0,1,1,1,1,0,0,0
+188709,[PH] Brown Shaggy Rabbit,,,,0,12,0,0,106517,0,0,0,1,1,1,1,0,0,0
+188756,Lesser Potion Cauldron of Ultimate Power,,,,0,10,0,0,106568,0,0,0,1,1,1,1,0,0,0
+188792,[PH] White Flying Squirrel,,,,0,14,0,0,106597,0,0,0,1,1,1,1,0,0,0
+188819,Atrenosh Hailstone,,,,1,2,0,0,104293,0,0,0,1,1,1,1,191687,0,0
+188821,[PH] Blue Baby Phoenix,,,,0,12,0,0,106642,0,0,0,1,1,1,1,0,0,0
+188839,Potion Cauldron of Ultimate Power,,,,0,10,0,0,106568,0,0,0,1,1,1,1,0,0,0
+188841,Greater Potion Cauldron of Ultimate Power,,,,0,10,0,0,106568,0,0,0,1,1,1,1,0,0,0
+188849,Violet Violence,,,,0,12,0,0,106676,0,0,0,1,1,1,1,0,0,0
+188853,Lutokk,,,,0,7,0,0,106381,0,0,0,1,1,1,1,0,0,0
+188854,Kaqiata,,,,0,7,0,0,106337,0,0,0,1,1,1,1,0,0,0
+188855,Tuyuki,,,,0,7,0,0,105768,0,0,0,1,1,1,1,0,0,0
+188856,Nomurok,,,,0,7,0,0,105856,0,0,0,1,1,1,1,0,0,0
+188861,Secretive Frogduck,,,,0,12,0,0,106677,0,0,0,1,1,1,1,0,0,0
+188878,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,3,92146,0,0,0,1,1,1,1,189547,0,0
+188882,Raszageth,,The Storm-Eater,,1,2,0,3,103255,0,0,0,1,1,1,1,0,0,0
+188885,Crystalline Mini-Monster,,,,0,12,0,0,106690,0,0,0,1,1,1,1,0,0,0
+188901,Mister Muskoxeles,,,,0,12,0,0,106681,0,0,0,1,1,1,1,0,0,0
+188955,Lesser Cauldron of the Pooka,,,,0,10,0,0,106726,0,0,0,1,1,1,1,0,0,0
+188997,Cauldron of the Pooka,,,,0,10,0,0,106726,0,0,0,1,1,1,1,0,0,0
+188998,Greater Cauldron of the Pooka,,,,0,10,0,0,106726,0,0,0,1,1,1,1,0,0,0
+189004,Elemental Proto-Drake,,,,0,2,0,3,100190,0,0,0,1,1,1,1,0,0,0
+189064,Waddles the Rescued Duckling,,,,6,8,0,3,104672,0,0,0,1,1,1,1,0,0,0
+189071,Jadzigeth,,,,1,2,0,3,107575,0,0,0,1,1,1,1,0,0,0
+189072,Erzigeth,,,,1,2,0,3,107440,0,0,0,1,1,1,1,0,0,0
+189075,Seagull,,,,6,8,0,3,103903,0,0,0,1,1,1,1,0,0,0
+189093,Pricklefury Hare,,,,0,14,0,0,106594,106595,106596,0,69,30,1,1,0,0,0
+189094,Magma Slug,,,,0,14,0,0,108234,0,0,0,1,1,1,1,0,0,0
+189095,Alvin the Anvil,,,,0,12,0,0,108279,0,0,0,1,1,1,1,0,0,0
+189096,[PH] Chestnut Flying Squirrel,,,,0,12,0,0,106604,0,0,0,1,1,1,1,0,0,0
+189097,Treeflitter,,,,0,14,0,0,106609,106608,106605,0,80,19,1,1,0,0,0
+189098,[PH] Gold Flying Squirrel,,,,0,12,0,0,106606,0,0,0,1,1,1,1,0,0,0
+189099,[PH] Pistachio Flying Squirrel,,,,0,12,0,0,106607,0,0,0,1,1,1,1,0,0,0
+189101,Bronze Race Enthusiast,,,,0,12,0,3,109095,0,0,0,1,1,1,1,0,0,0
+189102,Dragonshy,,,,0,14,0,3,109132,0,0,0,1,1,1,1,0,0,0
+189103,Scruffy Ottuk,,,,0,14,0,0,106610,106614,106611,0,75,20,5,1,0,0,0
+189104,Swoglet,,,,0,14,0,0,108296,108297,0,0,1,1,1,1,0,0,0
+189105,[PH] Purple Baby Ottuk,,,,0,12,0,0,106612,0,0,0,1,1,1,1,0,0,0
+189106,[PH] Red Baby Ottuk,,,,0,12,0,0,106613,0,0,0,1,1,1,1,0,0,0
+189107,Snowlemental,,,,0,14,0,0,108315,0,0,0,1,1,1,1,0,0,0
+189108,[PH] Blue Baby Mammoth,,,,0,12,0,0,106615,0,0,0,1,1,1,1,0,0,0
+189110,Trunkalumpf,,,,0,14,0,0,106617,106616,106618,0,60,39,1,1,0,0,0
+189111,[PH] Grey Baby Mammoth,,,,0,12,0,0,106617,0,0,0,1,1,1,1,0,0,0
+189112,[PH] Green Baby Mammoth,,,,0,14,0,0,106618,0,0,0,1,1,1,1,0,0,0
+189113,[PH] Orange Baby Mammoth,,,,0,12,0,0,106619,0,0,0,1,1,1,1,0,0,0
+189115,[PH] Yellow Baby Mammoth,,,,0,12,0,0,106620,0,0,0,1,1,1,1,0,0,0
+189117,[PH] Orange Baby Phoenix,,,,0,12,0,3,106643,0,0,0,1,1,1,1,0,0,0
+189118,[PH] Red Baby Phoenix,,,,0,12,0,3,106644,0,0,0,1,1,1,1,0,0,0
+189119,[PH] Yellow Baby Phoenix,,,,0,12,0,0,106645,0,0,0,1,1,1,1,0,0,0
+189120,[PH] Blue Baby Water Salamander (no frills),,,,0,12,0,0,106621,0,0,0,1,1,1,1,0,0,0
+189121,Igneoid,,,,0,14,0,0,108322,0,0,0,1,1,1,1,0,0,0
+189122,Palamanther,,,,0,14,0,0,106623,106622,106626,0,78,20,2,1,0,0,0
+189123,[PH] Orange Baby Salamanther,,,,0,12,0,0,106624,0,0,0,1,1,1,1,0,0,0
+189124,[PH] Pink Baby Water Salamander (no frills),,,,0,12,0,0,106625,0,0,0,1,1,1,1,0,0,0
+189125,[PH] Purple Baby Water Salamander (no frills),,,,0,12,0,0,106626,0,0,0,1,1,1,1,0,0,0
+189126,[PH] Green Baby Water Salamander (has frills),,,,0,12,0,0,106627,0,0,0,1,1,1,1,0,0,0
+189127,[PH] Orange Baby Water Salamander (has frills),,,,0,12,0,0,106628,0,0,0,1,1,1,1,0,0,0
+189128,[PH] Pink Baby Water Salamanther,,,,0,12,0,0,106629,0,0,0,1,1,1,1,0,0,0
+189130,[PH] Purple Baby Salamanther,,,,0,14,0,0,106630,0,0,0,1,1,1,1,0,0,0
+189131,Ironbeak Duck,,,,0,14,0,0,106632,106634,106631,0,49,49,2,1,0,0,0
+189132,[PH] Brown Duck,,,,0,14,0,0,106632,0,0,0,1,1,1,1,0,0,0
+189133,[PH] Green Duck,,,,0,12,0,3,106633,0,0,0,1,1,1,1,0,0,0
+189134,[PH] White Duck,,,,0,14,0,0,106634,0,0,0,1,1,1,1,0,0,0
+189135,[PH] Yellow Duck,,,,0,12,0,0,106635,0,0,0,1,1,1,1,0,0,0
+189136,Wild Duckling,,,,0,14,0,0,106636,0,0,0,1,1,1,1,0,0,0
+189137,Arcane Missile,,,,1,10,0,0,106809,0,0,0,1,1,1,1,0,0,0
+189138,Pilot,,,,0,12,0,0,106637,0,0,0,1,1,1,1,0,0,0
+189140,[PH] Mallard Baby Duck,,,,0,12,0,0,106638,0,0,0,1,1,1,1,0,0,0
+189142,Quack-E,,,,0,12,0,0,106639,0,0,0,1,1,1,1,0,0,0
+189144,[PH] White Baby Duck,,,,0,14,0,0,106640,0,0,0,1,1,1,1,0,0,0
+189145,[PH] Yellow Baby Duck,,,,0,12,0,0,106641,0,0,0,1,1,1,1,0,0,0
+189150,[PH] Blue Baby Thunder Lizard,,,,0,12,0,0,106649,0,0,0,1,1,1,1,0,0,0
+189152,Lubbins,,,,0,12,0,3,108969,0,0,0,1,1,1,1,0,0,0
+189153,Grassland Stomper,,,,0,14,0,0,106651,0,0,0,1,1,1,1,0,0,0
+189154,[PH] Green Baby Thunder Lizard,,,,0,12,0,0,106652,0,0,0,1,1,1,1,0,0,0
+189155,[PH] Light Baby Thunder Lizard,,,,0,14,0,0,106653,0,0,0,1,1,1,1,0,0,0
+189156,[PH] Black Woodpecker,,,,0,12,0,3,106654,0,0,0,1,1,1,1,0,0,0
+189157,Woodbiter Piculet,,,,0,14,0,3,106655,106657,0,0,98,1,1,1,0,0,0
+189158,[PH] Red Woodpecker,,,,0,12,0,3,106656,0,0,0,1,1,1,1,0,0,0
+189159,[PH] White Woodpecker,,,,0,14,0,3,106657,0,0,0,1,1,1,1,0,0,0
+189160,[PH] Black Baby Slyvern,,,,0,14,0,3,106658,0,0,0,1,1,1,1,0,0,0
+189204,Yipper,,,,0,12,0,3,106659,0,0,0,1,1,1,1,0,0,0
+189209,[PH] White Baby Slyvern,,,,0,14,0,3,106660,0,0,0,1,1,1,1,0,0,0
+189211,[PH] Yellow Baby Slyvern,,,,0,12,0,3,106661,0,0,0,1,1,1,1,0,0,0
+189216,Sludge,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189264,Blade Wall,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189271,Funeral Boat,,,,0,10,0,0,107929,0,0,0,0,1,1,1,0,0,0
+189272,Boat,,,,0,10,0,0,106019,0,0,0,0,1,1,1,0,0,0
+189273,Ponoliak,,,,0,7,0,0,106867,0,0,0,1,1,1,1,0,0,0
+189275,Moona,,,,0,8,0,0,102067,0,0,0,1,1,1,1,0,0,0
+189311,Toddy Whiskers,,,,0,7,0,0,105170,0,0,0,1,1,1,1,0,0,0
+189317,Wyrmrest Protector,,,,1,7,0,0,26747,26749,26748,26741,1,1,1,1,73423,0,0
+189322,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,1,0,1,1,0,0,0
+189324,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,107028,0,0,1,0,1,1,0,0,0
+189325,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+189330,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,0,1,1,1,0,0,0
+189376,Swog,,,,0,14,0,0,106894,0,0,0,1,1,1,1,0,0,0
+189386,Spiritwalker Ebonhorn,,,,1,2,0,0,63690,105532,0,0,1,0,1,1,0,0,0
+189389,Scalecommander Cindrethresh,,The Dark Talons,,0,7,0,0,102033,107101,0,0,1,0,1,1,0,0,0
+189390,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+189393,Baine Bloodhoof,,High Chieftain,,1,7,0,0,30272,0,0,0,1,1,1,1,58367,0,0
+189396,Mayla Highmountain,,High Chieftain,,1,7,0,0,63703,0,0,0,1,1,1,1,34058,0,0
+189397,Brookfly,,,,0,8,0,3,103845,103844,0,0,1,1,1,1,0,0,0
+189398,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+189425,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189426,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189427,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189428,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189429,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189430,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189431,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189432,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189433,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189434,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+189458,Kalecgos,,,,1,2,0,0,105921,0,0,0,1,1,1,1,0,0,0
+189483,Frenzied Tarasek,,,,1,2,0,0,106213,0,0,0,1,1,1,1,0,0,0
+189484,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+189498,Basket of Fish,,,,0,10,0,0,106909,0,0,0,1,1,1,1,0,0,0
+189502,Naleidea Rivergleam,,,,0,7,0,0,105169,0,0,0,1,1,1,1,0,0,0
+189506,Race Controller,,,,0,7,0,0,21955,23767,0,0,0,1,1,1,0,0,0
+189509,Primalist Ideologue,,,,0,7,0,0,108627,0,0,0,1,1,1,1,0,0,0
+189518,Koroleth,,,,1,7,0,0,107111,0,0,0,1,1,1,1,0,0,0
+189523,Tuskarr,,,,0,7,0,0,105777,0,0,0,1,1,1,1,0,0,0
+189524,Shikaar Ranger,,Tier 1 Melee,,0,7,0,0,103522,103520,0,0,1,1,1,1,110458,0,0
+189534,Spell Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+189538,Magmatalon,,,,0,2,0,0,106933,106933,0,0,1,0,1,1,0,0,0
+189540,Nozdormu,,,,1,2,0,0,105959,0,0,0,1,1,1,1,0,0,0
+189584,Kalecgos,,,,1,2,0,0,75614,0,0,0,1,1,1,1,0,0,0
+189586,Nunvuq,,Fishing Trainer,,0,7,0,0,105834,0,0,0,1,1,1,1,0,0,0
+189599,Merithra,,,,1,2,0,0,91233,0,0,0,1,1,1,1,0,0,0
+189600,High Exarch Turalyon,,Lord Commander of Alliance Forces,,1,7,0,0,100074,0,0,0,1,1,1,1,150577,0,0
+189606,Juvenile Proto-Drake,,,,0,2,0,0,100190,0,0,0,1,1,1,1,0,0,0
+189619,Tragically Deceased Crab,,,,6,8,0,0,103847,103846,103850,103852,1,1,1,1,0,0,0
+189642,Hanu,,,,0,7,0,0,105635,0,0,0,1,1,1,1,192798,192091,0
+189649,Spell Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+189655,[PH] Blue Baby Timbertooth,,,,0,12,0,0,106663,0,0,0,1,1,1,1,0,0,0
+189657,[PH] Brown Baby Timbertooth,,,,0,14,0,0,106664,0,0,0,1,1,1,1,0,0,0
+189658,Tiny Timbertooth,,,,0,14,0,0,106665,106666,0,0,85,15,1,1,0,0,0
+189660,[PH] Light Baby Timbertooth,,,,0,14,0,0,106666,0,0,0,1,1,1,1,0,0,0
+189661,[PH] Yellow Baby Timbertooth,,,,0,12,0,0,106667,0,0,0,1,1,1,1,0,0,0
+189662,Elder Poa,,Weaver of Tales,,0,7,0,0,105778,0,0,0,1,1,1,1,156974,0,0
+189663,[PH] Blue Frillfish,,,,0,12,0,3,106668,0,0,0,1,1,1,1,0,0,0
+189694,[PH] Green Fillfish,,,,0,12,0,3,106669,0,0,0,1,1,1,1,0,0,0
+189695,Jean's Lucky Fish,,,,0,12,0,3,106670,0,0,0,1,1,1,1,0,0,0
+189696,[PH] Purple Frillfish,,,,0,12,0,3,106671,0,0,0,1,1,1,1,0,0,0
+189702,Elder Poa,,Weaver of Tales,,0,7,0,0,105778,0,0,0,1,1,1,1,156974,0,0
+189704,Norukk,,,,0,7,0,0,105628,0,0,0,1,1,1,1,0,0,0
+189705,Hanu,,,,0,7,0,0,105635,0,0,0,1,1,1,1,192798,192091,0
+189708,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+189713,Blacktalon Avenger,,,,0,7,0,0,102434,102433,102432,102431,1,1,1,1,108925,0,0
+189714,Blacktalon Assassin,,,,0,7,0,0,102377,102378,102379,102370,1,1,1,1,152426,152426,0
+189754,Kill Credit Carcass,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+189761,Kill Credit Carcass,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+189769,Dying Mage,,,,0,7,0,0,107299,106319,106320,106321,1,1,1,1,0,0,0
+189776,Qalashi Bonebreakers,,,,1,7,0,0,106990,106993,0,0,1,1,1,1,163608,0,0
+189777,Djaradin Wallcrasher,,,,1,7,0,0,102482,102481,102480,102479,1,1,1,1,108970,0,0
+189778,Lava Burst,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+189790,Green Dragon,,,,1,2,0,3,106714,106872,105511,0,0.75,1,1,1,0,0,0
+189793,Kalecgos,,,,1,2,0,0,75614,23487,0,0,1,0,1,1,0,0,0
+189804,Firefly,,,,0,8,0,3,108081,108080,108079,0,1,1,1,1,0,0,0
+189805,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,92146,0,0,1,0,1,1,189547,0,0
+189807,Bronze Dragon,,,,1,2,0,3,106713,105893,105525,0,0.75,1,1,1,0,0,0
+189843,Fire Elemental,,,,1,4,0,0,102563,0,0,0,1,1,1,1,0,0,0
+189851,Ritual Scout,,,,1,2,0,0,107014,0,0,0,1,1,1,1,0,0,0
+189854,Red Dragon,,,,1,2,0,3,106715,107057,105528,106938,0.75,1,1,1,0,0,0
+189855,Black Dragon,,,,1,2,0,3,106711,105527,106199,0,0.75,1,1,1,0,0,0
+189856,Blue Dragon,,,,1,2,0,3,106214,105526,105529,106712,1,1,1,0.75,0,0,0
+189860,Fire Blast,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+189862,Electrical Disturbance,,,,0,8,0,3,107088,0,0,0,1,1,1,1,0,0,0
+189867,Fire Blast,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+189869,Valdrakken Citizen,,,,0,2,0,0,102202,104178,103828,104323,0.25,1,1,1,0,0,0
+189895,Valdrakken Citizen,,,,0,7,0,0,107023,107024,107025,107026,1,1,1,0.5,0,0,0
+189902,Kalecgos,,The Spellweaver,,0,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
+189914,Kurog Grimtotem,,The Grand Summoner,,1,7,0,2,106356,0,0,0,1,1,1,1,0,0,0
+189929,Blacktalon Sentry,,,,0,2,0,0,102198,102199,102200,102201,1,1,1,1,56912,0,0
+189934,Ebon Scale,,,,0,7,0,0,104727,104726,104831,104833,1,1,1,1,0,0,0
+189938,Raszageth,,The Storm-Eater,,1,2,0,3,103255,0,0,0,1,1,1,1,0,0,0
+189952,Custodian Cynegos,,,,0,7,0,0,107042,0,0,0,1,1,1,1,0,0,0
+189984,Grateful Gull,,,,6,8,0,0,103904,0,0,0,1,1,1,1,0,0,0
+189988,Thing From Beyond,,,,0,15,0,0,90740,0,0,0,1,1,1,1,0,0,0
+189991,Kalecgos,,,,1,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
+189996,Archmage Khadgar,,,,0,8,0,3,32546,0,0,0,1,1,1,1,0,0,0
+189997,Kalecgos,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+189998,Senegos,,,,0,2,0,0,65851,0,0,0,0,1,1,1,0,0,0
+189999,Stellagosa,,,,1,2,0,0,105227,0,0,0,1,1,1,1,0,0,0
+190000,Kalecgos,,,,1,2,0,0,75614,0,0,0,1,1,1,1,197918,197919,0
+190001,Caddy Scattershot,,,,0,7,0,0,107761,0,0,0,1,1,1,1,169863,0,0
+190073,Primal Proto-Dragon,,,,0,2,0,3,104140,0,0,0,1,1,1,1,0,0,0
+190081,Ruriq,,,,0,7,0,0,105616,0,0,0,1,1,1,1,157585,0,0
+190096,Shikaar Fighter,,,,0,7,0,0,105145,105146,0,0,1,1,1,1,0,0,108491
+190100,Pack Musken,,,,0,1,157,0,65866,65863,65774,0,1,1,1,1,0,0,0
+190109,Majordomo Selistra,,,,1,2,0,0,104141,0,0,0,1,1,1,1,0,0,0
+190114,Magmasworn Trueborn,,,,0,2,0,3,107660,107645,0,0,1,1,1,1,0,0,0
+190118,Winds of the Isles,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+190132,Shikaar Ohuna,,,,0,1,26,0,100537,102071,0,0,1,1,1,1,0,0,0
+190159,[DNT][PH] Kill Credit Hunting,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+190177,Ruby Shrineguard,,,,1,2,0,0,102765,102764,102763,102762,1,1,1,1,94830,0,0
+190200,Electrical Disturbance,,,,0,8,0,3,107088,0,0,0,1,1,1,1,0,0,0
+190230,Windscourge Drake,,Primalists,,1,2,0,0,107770,0,0,0,1,1,1,1,0,0,0
+190236,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+190238,Hanu,,,,0,7,0,0,105635,0,0,0,1,1,1,1,192798,192091,0
+190250,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+190254,Murloc You,,,,0,7,0,0,73352,0,0,0,1,1,1,1,115802,0,0
+190255,Divo Songscale,,,,0,7,0,0,107345,0,0,0,1,1,1,1,0,0,0
+190263,"""Captain"" Cookie",,,,0,7,0,0,1305,0,0,0,1,1,1,1,5197,0,0
+190264,Old Murk-Eye,,,,0,7,0,0,5243,0,0,0,1,1,1,1,3368,0,0
+190265,Scalecommander Cindrethresh,,The Dark Talons,,0,7,0,0,102033,0,0,0,1,1,1,1,0,0,0
+190268,Murkdeep,,,,0,7,0,0,1079,0,0,0,1,1,1,1,1983,0,0
+190270,Mmmrrrggglll,,,,0,7,0,0,1773,0,0,0,1,1,1,1,5747,0,0
+190271,Sir Finley Mrrgglton,,,,0,7,0,0,31,0,0,0,1,1,1,1,109636,0,0
+190272,Grrvrgull the Conqueror,,,,0,7,0,0,5293,0,0,0,1,1,1,1,42920,77408,0
+190274,Azuresworn Drakonid,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,192519,0,0
+190276,Sefin,,,,0,7,0,0,96258,0,0,0,1,1,1,1,157017,157017,0
+190277,Baine Blrrgfin,,,,0,7,0,0,105017,0,0,0,1,1,1,1,0,0,0
+190287,Ruriq,,,,0,7,0,0,105616,0,0,0,1,1,1,1,157585,0,0
+190303,Murloc You,,,,0,7,0,0,73352,0,0,0,1,1,1,1,115802,0,0
+190305,Murloc You,,,,0,7,0,0,73351,0,0,0,1,1,1,1,115802,0,0
+190314,Broodmother Dracasia,,,,1,2,0,0,107104,0,0,0,0,1,1,1,0,0,0
+190356,Alliance Footsoldier,,,,0,7,0,0,73351,0,0,0,1,1,1,1,115802,0,0
+190357,Horde Footsoldier,,,,0,7,0,0,73352,0,0,0,1,1,1,1,115802,0,0
+190367,Finduin Wryngrrlgulgll,,,,0,7,0,0,74831,0,0,0,1,1,1,1,147378,0,0
+190369,Gillvanas,,,,0,7,0,0,93312,0,0,0,1,1,1,1,146114,0,0
+190383,Solethus,,,,1,2,0,0,108675,0,0,0,1,1,1,1,0,0,0
+190437,Dreamtail Nymph,,,,0,8,0,3,104044,104045,0,0,1,1,1,1,0,0,0
+190439,Nozdormu,,,,1,2,0,0,38754,105959,107130,0,1,1,1,1,0,0,0
+190448,Chromie,,,,1,2,0,0,96559,105811,107134,0,1,0,0,1,0,0,0
+190480,Atrenosh Hailstone,,,,1,2,0,0,104293,0,0,0,1,1,1,1,191687,0,0
+190494,Dracthyr Talon,,,,0,7,0,0,104841,104839,104840,104842,1,1,1,1,0,0,0
+190506,Horde Footsoldier,,,,0,7,0,0,73352,0,0,0,1,1,1,1,115802,0,0
+190507,Alliance Footsoldier,,,,0,7,0,0,73351,0,0,0,1,1,1,1,115802,0,0
+190515,Kalecgos,,,,1,2,0,0,107150,0,0,0,1,1,1,1,0,0,0
+190529,Tactical Mender,,The Healing Wings,,0,7,0,0,104834,104835,104836,104837,1,1,1,1,0,0,0
+190534,Majordomo Selistra,,,,1,2,0,0,107040,0,0,0,1,1,1,1,0,0,0
+190552,Tyrggrln Webbedring,,,,0,7,0,0,51990,0,0,0,1,1,1,1,115802,0,0
+190554,Vrglrok Saurfin,,,,0,7,0,0,61127,0,0,0,1,1,1,1,115802,0,0
+190578,Flame Spout,,,,0,8,0,3,107166,0,0,0,1,1,1,1,0,0,0
+190591,Wardruid Loti,,Zanchuli Council,,1,7,0,0,78971,0,0,0,1,1,1,1,128100,0,0
+190600,Bubbled Duckling,,,,6,8,0,3,104672,0,0,0,1,1,1,1,0,0,0
+190619,Wardruid Loti,,Zanchuli Council,,1,7,0,0,80063,0,0,0,1,1,1,1,0,0,0
+190740,Sabellian,,,,1,2,0,0,104559,104558,0,0,1,0,1,1,0,0,0
+190754,Wrathion,,The Black Prince,,1,2,0,0,93216,0,0,0,1,1,1,1,171194,0,0
+190765,Mysterious Apparition,,,,0,7,0,0,107254,0,0,0,1,1,1,1,0,0,0
+190775,[DNT] Spell Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+190826,Nokhud Dragonslayer,,,,0,7,0,0,100207,0,0,0,1,1,1,1,118363,0,0
+190837,Kill Credit River,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+190842,Andantenormu,,The Timewalkers,,0,2,0,0,105538,0,0,0,1,1,1,1,0,0,0
+190871,Dragon,,,,1,2,0,3,106715,107057,105528,106938,0.75,1,1,1,0,0,0
+190889,Amella,,Head Egg-Tender,,0,2,0,0,107296,0,0,0,1,1,1,1,0,0,0
+190893,Nokhud Swiftrider,,,,0,7,0,0,101657,101656,0,0,1,1,1,1,157856,0,0
+190896,Nokhud Spearthrower,,,,0,7,0,0,102303,102302,0,0,1,1,1,1,60765,0,0
+190901,Commander Lethanak,,Leader of the Shrineguard,,0,2,0,0,107112,0,0,0,1,1,1,1,0,0,0
+190903,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,92146,0,0,0,1,1,1,1,0,0,0
+190905,Meadowhoof Musken,,,,0,1,157,0,106586,106584,106583,0,1,1,1,1,0,0,0
+190910,Evorian,,,,1,2,0,0,107303,107304,107305,0,1,1,1,1,0,0,0
+190970,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,1,0,1,1,0,0,0
+191007,Maruu,,,,0,7,0,0,107319,0,0,0,1,1,1,1,0,0,0
+191008,Oon,,,,0,1,300,0,100386,0,0,0,1,1,1,1,0,0,0
+191026,Tata,,,,0,7,0,0,102834,0,0,0,1,1,1,1,0,0,0
+191072,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+191102,Shikaar Ohuna,,,,0,1,26,0,102070,101439,101442,0,1,1,1,1,0,0,0
+191112,Kaldorei Defender,,,,0,7,0,0,92852,92853,92854,92855,1,1,1,1,165348,165352,0
+191116,Guardian Velomir,,2.2/1.2,,0,2,0,0,107067,0,0,0,1,1,1,1,89897,0,0
+191117,Commander Eranog,,,,1,2,0,0,106198,105614,0,0,1,0,1,1,169757,0,0
+191118,Commander Eranog,,,,1,2,0,0,105614,0,0,0,1,1,1,1,169757,0,0
+191119,zz[PH] Brown Duck,,,,0,12,0,0,106632,0,0,0,1,1,1,1,0,0,0
+191146,Wind Resistance,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+191186,Pyroclasmic Flamestone,,,,0,10,0,0,92243,0,0,0,1,1,1,1,0,0,0
+191187,Savage Wasp,,,,0,1,0,3,57451,0,0,0,1,1,1,1,0,0,0
+191204,Pleasant Yearling,,,,0,2,0,0,104647,104648,0,0,1,1,1,1,0,0,0
+191205,Hemet Nesingwary,,Retired,,0,7,0,0,107387,0,0,0,1,1,1,1,0,0,0
+191234,Lookout Tower Door,,,,0,10,0,0,107421,0,0,0,1,1,1,1,0,0,0
+191248,Ohn'ahra,,,,1,1,0,3,106285,0,0,0,1,1,1,1,0,0,0
+191249,Sansok Khan,,,,1,7,0,0,102115,0,0,0,1,1,1,1,0,0,189505
+191283,Sansok Khan,,,,1,7,0,0,102115,0,0,0,1,1,1,1,0,0,0
+191287,[PH] Blue Baby Vorquin,,,,0,12,0,0,106672,0,0,0,1,1,1,1,0,0,0
+191288,Basran,,,,0,1,52,0,101603,0,0,0,1,1,1,1,0,0,0
+191290,Mogu Overlord,,,,0,7,0,0,42524,43506,40802,41175,1,1,1,1,0,0,0
+191294,Okir,,Interpreter to the Khan,,0,7,0,0,105539,0,0,0,1,1,1,1,189523,0,0
+191298,[PH] Bronze Baby Vorquin,,,,0,12,0,0,106673,0,0,0,1,1,1,1,0,0,0
+191300,Kurog Grimtotem,,The Grand Summoner,,1,7,0,2,106356,0,0,0,1,1,1,1,0,0,0
+191314,Okir,,Interpreter to the Khan,,0,7,0,0,105539,0,0,0,1,1,1,1,189523,0,0
+191316,[PH] Pale Baby Vorquin,,,,0,14,0,0,106675,0,0,0,1,1,1,1,0,0,0
+191323,Vorquin Runt,,,,0,14,0,0,106674,0,0,0,1,1,1,1,0,0,0
+191326,[PH] Flowered Porcupine - Blue,,,,0,12,0,0,106682,0,0,0,1,1,1,1,0,0,0
+191343,Ohn Seshteng,,,,0,7,0,0,105127,0,0,0,1,1,1,1,187992,0,0
+191372,Avatar of the Storm,,,,1,4,0,0,107145,0,0,0,1,1,1,1,0,0,0
+191377,[PH] Black Dragon Whelp,,,,0,12,0,3,107459,0,0,0,1,1,1,1,0,0,0
+191379,[PH] Blue Dragon Whelp,,,,0,12,0,3,107460,0,0,0,1,1,1,1,0,0,0
+191380,[PH] Red Dragon Whelp,,,,0,12,0,3,107464,0,0,0,1,1,1,1,0,0,0
+191381,Spyragos,,,,0,12,0,3,107463,0,0,0,1,1,1,1,0,0,0
+191382,[PH] Bronze Dragon Whelp,,,,0,12,0,3,107461,0,0,0,1,1,1,1,0,0,0
+191383,Jeweled Sapphire Whelpling,,,,0,12,0,3,107455,0,0,0,1,1,1,1,0,0,0
+191384,Jeweled Amber Whelpling,,,,0,12,0,3,107456,0,0,0,1,1,1,1,0,0,0
+191385,Jeweled Ruby Whelpling,,,,0,12,0,3,107458,0,0,0,1,1,1,1,0,0,0
+191386,Jeweled Emerald Whelpling,,,,0,12,0,3,107457,0,0,0,1,1,1,1,0,0,0
+191387,Primal Stormling,,,,0,12,0,0,108961,0,0,0,1,1,1,1,0,0,0
+191402,Healing Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+191411,Debuff Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+191420,Injured Imbu Waterseer,,,,0,7,0,0,107245,0,0,0,1,1,1,1,0,0,0
+191435,[PH] Blue Crystalspine,,,,0,12,0,0,106682,0,0,0,1,1,1,1,0,0,0
+191458,Brightail Monarch,,,,0,1,26,3,104051,104047,104046,104048,1,1,1,0.1,0,0,0
+191470,Gerithus,,Son of the Dream,,1,2,0,0,106968,0,0,0,1,1,1,1,0,0,0
+191477,Gral,,,,0,1,0,0,12209,0,0,0,1,1,1,1,0,0,0
+191478,Meadowhoof Calf,,,,6,1,157,0,107545,0,0,0,1,1,1,1,0,0,0
+191485,Scout Tomul,,,,0,7,0,0,105533,0,0,0,1,1,1,1,0,0,189505
+191495,Gerithus,,Son of the Dream,,1,2,0,0,106968,0,0,0,1,1,1,1,0,0,0
+191500,Avatar of the Storm,,,,1,4,0,0,107145,101201,0,0,0,1,1,1,0,0,0
+191516,Frost Shackler,,,,0,7,0,0,102896,102897,102898,102899,1,1,1,1,0,0,0
+191519,Emerald Scaleguard,,,,0,7,0,0,104417,104418,104419,104421,1,1,1,1,189518,0,0
+191531,Raszageth,,The Storm-Eater,,1,2,0,0,103255,0,0,0,1,1,1,1,0,0,0
+191533,Avvara,,,,0,7,0,3,102071,0,0,0,1,1,1,1,0,0,0
+191542,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,0,0,0
+191586,Atrenosh Hailstone,,,,1,2,0,0,104293,0,0,0,1,1,1,1,0,0,0
+191595,Ohn Seshteng,,,,0,7,0,0,105127,0,0,0,1,1,1,1,187992,0,0
+191599,Beetle,,,,6,8,0,0,7511,15467,8971,15468,1,1,1,1,0,0,0
+191601,Brena,,Iskaara Chieftain,,0,7,0,0,107555,0,0,0,1,1,1,1,0,0,0
+191627,Lord Basilton,,,,0,12,0,0,106686,0,0,0,1,1,1,1,0,0,0
+191633,Kill Credit Ravine,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+191634,Kill Credit Plains,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+191636,Tome of Spellflinging,,,,0,10,154,0,102040,0,0,0,1,1,1,1,0,0,0
+191638,Tome of Spellflinging,,,,0,10,154,0,102040,0,0,0,1,1,1,1,0,0,0
+191644,Musken Calf,,,,6,1,157,0,107545,0,0,0,1,1,1,1,0,0,0
+191685,Ebyssian,,,,1,2,0,0,63690,105532,0,0,0,1,1,1,0,0,0
+191689,Majordomo Selistra,,,,1,2,0,0,107040,0,0,0,1,1,1,1,0,0,0
+191691,Brena,,Iskaara Chieftain,,0,7,0,0,104719,0,0,0,1,1,1,1,0,0,0
+191692,Norukk,,,,0,7,0,0,105628,0,0,0,1,1,1,1,0,0,0
+191737,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,107055,0,1,0,0,1,0,0,0
+191741,Mysterious Apparition,,,,0,2,0,0,107254,0,0,0,1,1,1,1,0,0,0
+191748,Burnished Ledgehopper,,,,0,2,151,0,104647,0,0,0,1,1,1,1,0,0,0
+191750,Spell Bunny,,,,0,10,0,0,1126,11686,0,0,0,1,1,1,0,0,0
+191751,Arvik,,Repairs,,0,7,0,0,105763,0,0,0,1,1,1,1,116918,0,0
+191764,Andantenormu,,The Timewalkers,,0,2,0,0,105538,0,0,0,1,1,1,1,0,0,0
+191769,Ebyssian,,,,1,2,0,0,63690,105532,0,0,0,1,1,1,0,0,0
+191776,Tikukk,,,,0,7,0,0,105647,0,0,0,1,1,1,1,0,0,0
+191782,Kill Credit Proof of Might,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+191783,Kill Credit Proof of Cunning,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+191863,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,0,1,1,1,0,0,0
+191875,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,1,0,1,1,0,0,0
+191906,Proto-Drake,,,,1,2,0,3,107174,107173,107172,107171,1,1,1,1,0,0,0
+191916,Drakonid Hero,,,,0,2,0,0,107254,0,0,0,1,1,1,1,0,0,0
+191923,Ancient Dreadsquall,,,,1,1,26,3,104574,0,0,0,1,1,1,1,0,0,0
+191989,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192004,Tuskarr Fisher,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,34784,0,0
+192008,Funeral Boat,,,,0,10,0,0,107929,0,0,0,0,1,1,1,0,0,0
+192013,Wild Duckling,,,,0,8,0,0,106636,0,0,0,1,1,1,1,0,0,0
+192014,[PH] White Baby Duck,,,,0,8,0,0,106640,0,0,0,1,1,1,1,0,0,0
+192017,[PH] Black Baby Slyvern,,,,0,8,0,3,106658,0,0,0,1,1,1,1,0,0,0
+192019,[PH] White Baby Slyvern,,,,0,8,0,3,106660,0,0,0,1,1,1,1,0,0,0
+192028,Trunkalumpf,,,,0,8,0,0,106617,106616,106618,0,60,39,1,1,0,0,0
+192029,[PH] Green Baby Mammoth,,,,0,8,0,0,106618,0,0,0,1,1,1,1,0,0,0
+192031,Generic Bunny,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+192035,Garden Filly,,,,0,8,0,0,104722,104723,0,0,1,1,1,1,0,0,0
+192042,[PH] Brown Baby Timbertooth,,,,0,8,0,0,106664,0,0,0,1,1,1,1,0,0,0
+192044,Tiny Timbertooth,,,,0,8,0,0,106665,106666,0,0,85,15,1,1,0,0,0
+192046,[PH] Light Baby Timbertooth,,,,0,8,0,0,106666,0,0,0,1,1,1,1,0,0,0
+192047,Scruffy Ottuk,,,,0,8,0,0,106610,106614,106611,0,75,20,5,1,0,0,0
+192049,Swoglet,,,,0,8,0,0,108296,108297,0,0,1,1,1,1,0,0,0
+192050,Snowlemental,,,,0,8,0,0,108315,0,0,0,1,1,1,1,0,0,0
+192058,Igneoid,,,,0,8,0,0,108322,0,0,0,1,1,1,1,0,0,0
+192059,Palamanther,,,,0,8,0,0,106623,106622,106626,0,78,20,2,1,0,0,0
+192064,[PH] Purple Baby Salamanther (has frills),,,,0,8,0,0,106630,0,0,0,1,1,1,1,0,0,0
+192065,Grassland Stomper,,,,0,8,0,0,106651,0,0,0,1,1,1,1,0,0,0
+192067,REUSE ME,,,,0,8,0,0,106650,0,0,0,1,1,1,1,0,0,0
+192068,[PH] Light Baby Thunder Lizard,,,,0,8,0,0,106653,0,0,0,1,1,1,1,0,0,0
+192069,Vorquin Runt,,,,0,8,0,0,106674,0,0,0,1,1,1,1,0,0,0
+192070,[PH] Pale Baby Vorquin,,,,0,8,0,0,106675,0,0,0,1,1,1,1,0,0,0
+192082,Tuskarr Child,,,,0,7,0,0,106221,102846,102832,106408,1,1,1,1,0,0,0
+192091,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,0,0,0
+192095,Ironbeak Duck,,,,0,8,0,0,106632,106634,106631,0,49,49,2,1,0,0,0
+192097,[PH] Brown Duck,,,,0,8,0,0,106632,0,0,0,1,1,1,1,0,0,0
+192098,[PH] White Duck,,,,0,8,0,0,106634,0,0,0,1,1,1,1,0,0,0
+192099,Treeflitter,,,,0,8,0,0,106609,106608,106605,0,80,19,1,1,0,0,0
+192100,[PH] Silver Flying Squirrel,,,,0,8,0,0,106608,0,0,0,1,1,1,1,0,0,0
+192101,Dragonshy,,,,0,8,0,3,109132,0,0,0,1,1,1,1,0,0,0
+192102,[PH] White Flying Squirrel,,,,0,8,0,0,106597,0,0,0,1,1,1,1,0,0,0
+192103,Pricklefury Hare,,,,0,8,0,0,106594,106595,106596,0,69,30,1,1,0,0,0
+192104,Magma Slug,,,,0,8,0,0,108234,0,0,0,1,1,1,1,0,0,0
+192106,[PH] White Shaggy Rabbit,,,,0,8,0,0,106596,0,0,0,1,1,1,1,0,0,0
+192107,Woodbiter Piculet,,,,0,8,0,3,106655,106657,0,0,1,1,1,1,0,0,0
+192108,[PH] White Woodpecker,,,,0,8,0,3,106657,0,0,0,1,1,1,1,0,0,0
+192110,Narsysix,,,,1,2,0,0,107704,107705,107703,0,1,0,0,1,0,0,0
+192190,Target Bunny,,,,0,10,0,3,65939,11686,0,0,0,1,1,1,0,0,0
+192203,Master Mathias Shaw,,Leader of SI:7,,1,7,0,0,72253,0,0,0,1,1,1,1,47104,47104,0
+192232,Windscourge Dragon,,,,0,2,0,3,107754,0,0,0,1,1,1,1,0,0,0
+192241,Scalecommander Azurathel,,Obsidian Warders,,0,7,0,0,102032,107028,0,0,1,0,1,1,0,0,0
+192242,Steward Portos,,,,0,7,0,0,107764,0,0,0,1,1,1,1,0,0,0
+192245,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+192246,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+192249,Grizzlefur Cub,,,,0,8,0,0,107767,0,0,0,1,1,1,1,0,0,0
+192251,[PH] Red Primal Bear Cub,,,,0,14,0,0,107768,0,0,0,1,1,1,1,0,0,0
+192252,[PH] Red Primal Bear Cub,,,,0,8,0,0,107768,0,0,0,1,1,1,1,0,0,0
+192254,Stoneshell,,,,0,14,0,0,107772,107773,107769,0,70,25,5,1,0,0,0
+192255,Stoneshell,,,,0,8,0,0,107772,107773,107769,0,70,25,5,1,0,0,0
+192256,[PH]Green Baby Turtle,,,,0,14,0,0,107772,0,0,0,1,1,1,1,0,0,0
+192257,[PH]Green Baby Turtle,,,,0,8,0,0,107772,0,0,0,1,1,1,1,0,0,0
+192258,[PH] Orange Baby Turtle,,,,0,14,0,0,107773,0,0,0,1,1,1,1,0,0,0
+192259,[PH] Orange Baby Turtle,,,,0,8,0,0,107773,0,0,0,1,1,1,1,0,0,0
+192260,[PH] White Baby Turtle,,,,0,14,0,0,107774,0,0,0,1,1,1,1,0,0,0
+192261,[PH] White Baby Turtle,,,,0,8,0,0,107774,0,0,0,1,1,1,1,0,0,0
+192265,Azure Crystalspine,,,,0,14,0,0,107776,0,0,0,1,1,1,1,0,0,0
+192267,Azure Crystalspine,,,,0,8,0,0,107776,0,0,0,1,1,1,1,0,0,0
+192268,[PH] Red Crystalspine,,,,0,14,0,0,107778,0,0,0,1,1,1,1,0,0,0
+192269,[PH] Red Crystalspine,,,,0,8,0,0,107778,0,0,0,1,1,1,1,0,0,0
+192308,Azuresworn Drakonid,,,,0,2,0,0,105787,105788,0,0,1,1,1,1,192519,0,0
+192310,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,191694,0,0
+192311,Dark Talon,,,,0,7,0,0,104839,104840,104841,104842,1,1,1,1,0,0,0
+192312,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+192322,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,0,0,0
+192323,Trapped Whelpling,,,,1,2,0,3,100197,0,0,0,1,1,1,1,0,0,0
+192335,Arch Enchanter Celeste,,,,0,7,0,0,107809,0,0,0,1,1,1,1,43617,0,0
+192338,Fire Elemental,,,,0,4,0,0,102504,0,0,0,1,1,1,1,0,0,0
+192342,Race Disrupting Fire Elemental,,,,0,4,0,0,102504,0,0,0,1,1,1,1,0,0,0
+192343,[PH] White Primal Bear Cub,,,,0,12,0,0,107812,0,0,0,1,1,1,1,0,0,0
+192349,Carrion Widow,,,,0,8,0,0,105841,77652,0,0,1,1,1,1,0,0,0
+192350,[PH] Teal Baby Turtle,,,,0,12,0,0,107818,0,0,0,1,1,1,1,0,0,0
+192354,Obsidian Warder,,,,0,7,0,0,104843,104844,104845,104846,1,1,1,1,0,0,0
+192355,Dark Talon,,,,0,7,0,0,104841,104842,104839,104840,1,1,1,1,0,0,0
+192363,[PH] Bling Crab (Diamond),,,,0,12,0,0,107825,0,0,0,1,1,1,1,0,0,0
+192365,[PH] Bling Crab (Sapphire),,,,0,12,0,0,107826,0,0,0,1,1,1,1,0,0,0
+192366,[PH] Bling Crab (Truesilver),,,,0,12,0,0,107827,0,0,0,1,1,1,1,0,0,0
+192368,[PH] Striped Light Ferret,,,,0,12,0,0,107830,0,0,0,1,1,1,1,0,0,0
+192369,[PH] Pink Frog,,,,0,12,0,0,107831,0,0,0,1,1,1,1,0,0,0
+192403,Soridormi,,,,1,2,0,0,106009,0,0,0,1,1,1,1,0,0,0
+192404,Siaszerathel,,The Timewalkers,,0,7,0,0,104861,0,0,0,1,1,1,1,197837,192169,0
+192406,Scalecommander Emberthal,,,,0,7,0,0,102031,0,0,0,1,1,1,1,0,0,0
+192409,Scalecommander Emberthal,,,,0,7,0,0,102031,0,0,0,1,1,1,1,0,0,0
+192474,Zepharion,,,,1,2,0,0,107875,107873,107874,0,1,0,0,1,0,0,0
+192478,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192479,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192502,Fallen Iskaara Tuskarr,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,0,0,0
+192528,Winds of the Isles,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192535,Stormwind City Guard,,,,0,7,0,0,3167,0,0,0,1,1,1,1,1899,143,2551
+192545,Stormwind Gryphon Rider,,,,0,7,0,3,37310,0,0,0,50,1,1,1,1899,143,2551
+192552,Steward Saphos,,,,0,7,0,0,107910,0,0,0,1,1,1,1,0,0,0
+192564,Myridian,,,,1,2,0,0,107921,107919,107920,0,1,0,0,1,0,0,0
+192576,Grasstail Butterfly,,,,0,8,0,3,104044,104041,0,0,1,1,1,1,0,0,0
+192577,Grove Widow,,,,0,8,0,0,45908,87862,0,0,1,1,1,1,0,0,0
+192579,Mother Elion,,The Last Eggtender,,1,2,0,0,102348,0,0,0,1,1,1,1,0,0,0
+192585,Hungry Eft,,,,0,8,0,0,106630,0,0,0,1,1,1,1,0,0,0
+192593,Azure Defender,,,,0,7,0,0,107935,107932,107933,107934,1,1,1,1,162006,0,0
+192602,Arch Instructor Celeste,,,,0,7,0,0,107809,0,0,0,1,1,1,1,43617,0,0
+192604,Custodian Cynegos,,,,0,7,0,0,107042,0,0,0,1,1,1,1,0,0,0
+192605,Steward Portos,,,,0,7,0,0,107764,0,0,0,1,1,1,1,0,0,0
+192606,Steward Saphos,,,,0,7,0,0,107910,0,0,0,1,1,1,1,0,0,0
+192607,Caddy Scattershot,,,,0,7,0,0,107761,0,0,0,1,1,1,1,169863,0,0
+192615,Iskaara Fisher,,,,0,7,0,0,105828,0,0,0,1,1,1,1,0,0,0
+192616,Iskaara Fisher,,,,0,7,0,0,105759,0,0,0,1,1,1,1,0,0,0
+192638,Vorquin Filly,,,,0,8,0,0,104722,104723,0,0,1,1,1,1,0,0,0
+192661,Evorian,,,,1,2,0,0,107947,107304,107305,0,1,1,1,1,0,0,0
+192691,Race Disrupting Air Elemental,,,,0,4,0,0,102511,0,0,0,1,1,1,1,0,0,0
+192724,Aru,,,,0,7,0,0,105626,0,0,0,1,1,1,1,0,0,189502
+192746,Generic Bunny,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
+192750,Miva Star-Eye,,,,0,7,0,0,107963,0,0,0,1,1,1,1,0,0,0
+192751,Julk,,,,0,7,0,0,105827,0,0,0,1,1,1,1,0,0,0
+192752,Arcane Detector,,,,0,4,0,0,57522,0,0,0,1,1,1,1,0,0,0
+192753,Toolk,,,,0,7,0,0,102846,0,0,0,1,1,1,1,0,0,0
+192756,Toolk,,,,0,7,0,0,102846,0,0,0,1,1,1,1,0,0,0
+192757,Toolk,,,,0,7,0,0,102846,0,0,0,1,1,1,1,0,0,0
+192758,Palv,,,,0,7,0,0,107964,0,0,0,1,1,1,1,0,0,0
+192760,Shala,,,,0,7,0,0,105829,0,0,0,1,1,1,1,0,0,0
+192793,Hungry Hatchling,,,,0,12,0,0,107818,0,0,0,1,1,1,1,0,0,0
+192804,Hungry Slyvern Kit,,,,0,8,0,0,106660,0,0,0,1,1,1,1,0,0,0
+192808,Hungry Otter Pup,,,,0,8,0,0,106610,0,0,0,1,1,1,1,0,0,0
+192810,Hungry Swoglet,,,,6,2,0,0,102559,0,0,0,1,1,1,1,0,0,0
+192819,Timewalker Warden,,The Timewalkers,,1,7,0,0,106125,106124,106122,106121,1,1,1,1,178670,107158,0
+192823,Kalecgos,,,,1,2,0,0,105921,0,0,0,1,1,1,1,197918,197919,0
+192893,Kodethi,,Dark Talons,,0,7,0,0,102030,104821,0,0,0,1,1,1,0,0,0
+192904,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192905,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192906,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192907,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192908,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192909,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192910,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192911,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192912,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192913,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192958,Lightning Strike,,,,0,10,0,3,91578,11686,0,0,0,1,1,1,0,0,0
+192970,Despondent Duckling,,,,0,12,0,0,106641,0,0,0,1,1,1,1,0,0,0
+192971,Stormwind City Guard,,,,0,7,0,0,99391,0,0,0,1,1,1,1,1899,143,2551
+192974,Obsidian Warder,,,,0,7,0,0,104843,0,0,0,1,1,1,1,0,0,0
+192975,Obsidian Warder,,,,0,7,0,0,104844,0,0,0,1,1,1,1,0,0,0
+192976,Obsidian Warder,,,,0,7,0,0,104846,0,0,0,1,1,1,1,0,0,0
+192987,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192988,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192989,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192990,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192991,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192992,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192993,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192994,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192995,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+192996,Ring,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+193000,Kindlet,,,,0,14,0,0,108033,108034,0,0,5,1,1,1,0,0,0
+193001,Kindlet,,,,0,8,0,0,108033,108034,0,0,5,1,1,1,0,0,0
+193002,Fire Sphere,,,,0,4,0,0,108035,0,0,0,1,1,1,1,0,0,0
+193003,Proto-Drake,,,,1,2,0,3,107378,107377,107380,107381,1,1,1,1,0,0,0
+193024,Emberling,,,,0,14,0,0,108050,0,0,0,1,1,1,1,0,0,0
+193026,Emberling,,,,0,8,0,0,108050,0,0,0,1,1,1,1,0,0,0
+193033,Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
+193045,Orgrimmar Grunt,,,,0,7,0,0,4260,0,0,0,1,1,1,1,5289,0,2507
+193046,Orgrimmar Grunt,,,,0,7,0,0,99451,0,0,0,1,1,1,1,5289,0,2507
+193047,Orgrimmar Grunt,,,,0,7,0,0,4259,0,0,0,1,1,1,1,5289,0,2507
+193048,Orgrimmar Grunt,,,,0,7,0,0,99452,0,0,0,1,1,1,1,5289,0,2507
+193050,Darkspear Headhunter,,,,0,7,0,0,48528,0,0,0,1,1,1,1,13631,0,0
+193051,Darkspear Headhunter,,,,0,7,0,0,48526,0,0,0,1,1,1,1,13631,0,0
+193055,Dark Talon,,,,0,7,0,0,104841,0,0,0,1,1,1,1,0,0,0
+193056,Dark Talon,,,,0,7,0,0,104842,0,0,0,1,1,1,1,0,0,0
+193057,Dark Talon,,,,0,7,0,0,104839,0,0,0,1,1,1,1,0,0,0
+193058,Dark Talon,,,,0,7,0,0,104840,0,0,0,1,1,1,1,0,0,0
+193168,Biryuk,,Hunter Tame,,2,1,52,0,108100,0,0,0,1,1,1,1,0,0,0
+193177,Beakers,,,,4,1,12,0,108103,108104,0,0,1,3,1,1,0,0,0
+193254,Bloodgullet,,Hunter Tame,,2,1,46,0,108129,0,0,0,1,1,1,1,0,0,0
+193272,Nalrusza,,,,4,1,7,0,107364,0,0,0,1,1,1,1,0,0,0
+193289,Injured Mage,,,,0,7,0,0,107299,106319,106320,106321,1,1,1,1,0,0,0
+193316,Race Disrupting Storm Elemental,,,,0,4,0,0,100212,0,0,0,1,1,1,1,0,0,0
+193334,Ekrazathal,,Brood of the Incarnate,,1,2,0,0,107315,0,0,0,1,1,1,1,0,0,0
+193335,Scalecommander Sarkareth,,The Ebon Scales,,0,7,0,0,104904,0,0,0,1,1,1,1,0,0,0
+193343,Kurog Grimtotem,,The Grand Summoner,,1,7,0,2,106356,0,0,0,1,1,1,1,0,0,0
+193351,Snowball,,,,0,4,0,0,108191,0,0,0,1,1,1,1,0,0,0
+193362,Sendrax,,,,0,2,0,0,107673,0,0,0,1,1,1,1,191706,193841,0
+193363,Sendrax,,,,0,2,0,0,107673,0,0,0,1,1,1,1,191706,193841,0
+193365,Toddy Whiskers,,,,0,7,0,0,105170,0,0,0,1,1,1,1,194962,0,0
+193366,Naleidea Rivergleam,,,,0,7,0,0,105169,0,0,0,1,1,1,1,0,0,0
+193371,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,107055,0,1,0,0,1,0,0,0
+193372,Majordomo Selistra,,,,1,2,0,0,108032,107040,108822,0,1,0,0,1,0,0,0
+193377,Alexstrasza the Life-Binder,,Queen of the Dragons,,1,2,0,0,28227,92146,0,0,1,0,1,1,189547,0,0
+193432,Trueborn Rainmaker,,Primalist,,0,2,0,0,106883,0,0,0,1,1,1,1,0,0,0
+193435,Kyrakka,,,,1,2,0,0,107137,0,0,0,1,1,1,1,0,0,0
+193436,Ruby Mallard,,,,6,1,125,0,104680,104676,0,0,1,1,1,1,0,0,0
+193439,Sendrax,,,,0,2,0,0,107673,0,0,0,1,1,1,1,191706,193841,0
+193440,Molten Primalist,,,,0,7,0,0,102963,102964,102965,102966,1,1,1,1,0,0,0
+193528,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+193561,Oopa,,,,0,1,300,0,100386,0,0,0,1,1,1,1,0,0,0
+193580,Overwrought Otter,,,,0,8,0,0,106610,0,0,0,1,1,1,1,0,0,0
+193596,Scavenging Hullripper,,,,1,1,8,0,108237,0,0,0,1,1,1,1,0,0,0
+193601,Despondent Duckling,,,,0,12,0,0,106641,0,0,0,1,1,1,1,0,0,0
+193610,Player,,,,0,10,0,0,100014,0,0,0,1,1,1,1,0,0,0
+193628,Anxious Eft,,,,0,8,0,0,106630,0,0,0,1,1,1,1,0,0,0
+193630,Qualashi Magmammoth,,,,1,7,0,0,102633,0,0,0,1,1,1,1,0,0,0
+193635,Polymorphed Sheep,,,,0,8,0,0,856,857,0,0,2,1,1,1,0,0,0
+193637,Jinkutuk,,Fish Vendor,,0,7,0,0,108246,0,0,0,1,1,1,1,0,0,0
+193638,Sorrowful Slyvern,,,,0,8,0,0,106660,0,0,0,1,1,1,1,0,0,0
+193641,Qalashi Wallcrasher,,,,1,7,0,0,102482,102461,102492,102457,1,1,1,1,192105,192138,0
+193642,Ancient Dreadsquall,,,,1,1,26,3,104574,0,0,0,1,1,1,1,0,0,0
+193646,Qalashi Bonebreakers,,,,1,7,0,0,102498,102462,0,0,1,1,1,1,192045,0,0
+193701,Bark Moth,,,,0,8,0,3,36953,36955,0,0,1,1,1,1,0,0,0
+193742,Jump,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+193779,Baby Scalebiter,,,,0,8,0,0,104667,104666,0,0,1,1,1,1,0,0,0
+193831,Soridormi,,,,1,2,0,0,108314,0,0,0,1,1,1,1,0,0,0
+193837,Archmage Khadgar,,,,1,7,0,0,107041,0,0,0,1,1,1,1,23998,0,0
+193844,Iskaara Fisher,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,34784,0,0
+193877,Lukoturukk,,Catch Counter,,0,7,0,0,108325,0,0,0,1,1,1,1,0,0,0
+193878,Iristella,,Fishmonger's Assistant,,0,7,0,0,108356,0,0,0,1,1,1,1,0,0,0
+193879,Iristimat,,,,0,7,0,0,108358,0,0,0,1,1,1,1,0,0,0
+193903,Winds of the Isles,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+193905,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,0,1,1,1,0,0,0
+193909,Raszageth,,The Storm-Eater,,1,2,0,3,103255,0,0,0,1,1,1,1,0,0,0
+193910,Kalecgos,,,,1,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
+193929,Bunny,,,,0,10,0,3,100007,13069,0,0,0,1,1,1,0,0,0
+193930,Kalecgos,,,,1,2,0,3,105921,0,0,0,1,1,1,1,0,0,0
+193935,Bunny,,,,0,10,0,3,100007,13069,0,0,0,1,1,1,0,0,0
+193954,Dervishian,,Obsidian Warders,,0,7,0,0,102175,102176,0,0,1,0,1,1,0,0,0
+193964,Baine Bloodhoof,,High Chieftain,,1,7,0,0,30272,0,0,0,1,1,1,1,0,0,0
+193977,Jakkerittua,,Catch Counter,,0,7,0,0,108326,0,0,0,1,1,1,1,10772,0,0
+194004,Shiverweb Broodling,,,,0,12,0,0,100535,0,0,0,1,1,1,1,0,0,0
+194010,Wrathion,,The Black Prince,,1,2,0,0,107146,0,0,0,1,1,1,1,0,0,0
+194011,Wrathion,,The Black Prince,,1,2,0,3,107945,0,0,0,1,1,1,1,0,0,0
+194012,Majordomo Selistra,,,,1,2,0,0,108032,0,0,0,1,1,1,1,0,0,0
+194013,Majordomo Selistra,,,,1,2,0,3,107040,0,0,0,1,1,1,1,0,0,0
+194022,Wrathion,,The Black Prince,,1,2,0,0,107146,107945,0,0,1,0,1,1,0,0,0
+194029,Zahkrana,,,,1,2,0,0,102719,0,0,0,1,1,1,1,0,0,0
+194030,Ruby Tender,,,,0,2,0,0,102657,102655,102654,102656,1,1,1,1,0,0,0
+194031,Hanu,,,,0,7,0,0,105635,0,0,0,1,1,1,1,0,0,0
+194032,Captain Drine,,First Talon of Valdrakken,,1,2,0,0,104938,0,0,0,1,1,1,1,0,0,0
+194033,Khanam Matra Sarest,,,,0,7,0,0,102101,0,0,0,1,1,1,1,0,0,0
+194034,Watcher Koranos,,,,1,9,0,0,105551,0,0,0,1,1,1,1,0,0,0
+194037,Unpiat,,Catch Counter,,0,7,0,0,108323,0,0,0,1,1,1,1,0,0,0
+194059,Rokkutuk,,Lead Craftsman,,0,7,0,0,105859,0,0,0,1,1,1,1,0,0,0
+194090,Elder Tunipital,,,,0,7,0,0,108384,0,0,0,1,1,1,1,0,0,0
+194126,Naleidea Rivergleam,,,,0,7,0,0,105169,0,0,0,1,1,1,1,0,0,0
+194127,Toddy Whiskers,,,,0,7,0,0,105170,0,0,0,1,1,1,1,194962,0,0
+194129,Sendrax,,,,0,2,0,0,107673,0,0,0,1,1,1,1,191706,193841,0
+194136,Eraleshk,,,,0,7,0,0,108452,0,0,0,1,1,1,1,0,0,0
+194137,Dracthyr's Wheelchair,,,,0,10,0,0,36356,0,0,0,1,1,1,1,0,0,0
+194141,Growing Hoard of Draconic Delicacies,,,,0,10,0,0,108655,0,0,0,1,1,1,1,0,0,0
+194148,Tuskarr Snow Head,,,,0,10,0,0,108398,0,0,0,0,1,1,1,0,0,0
+194189,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+194237,Malicia,,,,1,2,0,0,108418,0,0,0,1,1,1,1,0,0,0
+194271,Kirin Tor Mage,,,,0,7,0,0,106322,0,0,0,1,1,1,1,0,0,0
+194323,Hudson,,,,0,7,0,0,108449,0,0,0,1,1,1,1,0,0,0
+194327,Tempomancer Phosildral,,,,0,7,0,0,108454,0,0,0,1,1,1,1,0,0,0
+194328,Scout Tomul,,,,0,7,0,0,105533,0,0,0,1,1,1,1,0,0,189505
+194340,Spell Bunny,,,,0,10,0,3,1126,11686,0,0,0,1,1,1,0,0,0
+194394,Sibrit Clacketpage,,,,0,7,0,0,108548,0,0,0,1,1,1,1,0,0,0
+194442,Aru,,,,0,7,0,0,105626,0,0,0,1,1,1,1,0,0,198358
+194443,Belika,,,,0,7,0,0,105625,0,0,0,1,1,1,1,198361,0,0
+194479,Sprightly Butterfly,,,,0,8,0,3,104040,104042,104041,0,1,1,1,1,0,0,0
+194543,Magmasworn Trueborn,,,,0,2,0,3,107377,0,0,0,1,1,1,1,0,0,0
+194571,Dracthyr's Wheelchair Wheel,,,,0,10,0,0,36355,0,0,0,0,1,1,1,0,0,0
+194574,Primalist Ideologue,,,,0,7,0,0,102947,0,0,0,1,1,1,1,0,0,0
+194579,Dracthyr's Wheelchair,,,,0,10,0,0,36356,0,0,0,1,1,1,1,0,0,0
+194596,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+194616,Crannog Wildhammer,,,,0,7,0,0,108649,0,0,0,1,1,1,1,0,0,0
+194617,Scratchy,,,,0,7,0,0,108650,0,0,0,1,1,1,1,0,0,0
+194619,Qalashi Scaleripper,,,,1,7,0,0,102486,102485,102484,102483,1,1,1,1,192073,192073,0
+194620,Kill Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+194628,[NYI],,,,0,9,0,0,65761,0,0,0,1,1,1,1,0,0,0
+194636,Khanam Matra Sarest,,,,0,7,0,0,102101,0,0,0,1,1,1,1,0,0,0
+194637,Bronze Worker,,,,0,2,0,0,107025,0,0,0,1,1,1,1,0,0,0
+194639,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194640,Tigari Khan,,,,0,7,0,0,102113,0,0,0,1,1,1,1,0,0,0
+194641,Nokhud Brute,,,,0,7,0,0,107540,107541,0,0,1,1,1,1,118363,0,0
+194669,Mistvale Physician,,,,0,2,0,0,104859,105084,0,0,1,1,1,1,0,0,0
+194674,Expedition Provisioner,,,,0,7,0,0,84092,78478,88547,82693,1,1,1,1,0,0,0
+194695,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194709,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194720,Grizzlefur Cub,,,,0,14,0,0,107767,0,0,0,1,1,1,1,0,0,0
+194746,Pinkee Rizzo,,,,0,7,0,0,108676,0,0,0,1,1,1,1,0,0,0
+194754,Wind Eagle,,T1 Melee,,0,1,26,3,101438,0,0,0,1,1,1,1,0,0,0
+194774,Majordomo Selistra,,,,1,2,0,0,107040,108032,108822,0,1,0,0,1,0,0,0
+194796,Ohn'ahra,,,,1,1,0,3,106285,0,0,0,1,1,1,1,0,0,0
+194818,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194819,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194820,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194821,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194822,Maruukai Villager,,,,0,7,0,0,108225,108226,108227,108229,1,1,1,1,0,0,0
+194823,Hearthkeeper Berulan,,Innkeeper,,0,7,0,0,107427,0,0,0,1,1,1,1,0,0,0
+194893,Gray Marmoni,,,,0,1,0,0,108710,0,0,0,1,1,1,1,0,0,0
+194927,Gemisath,,Emerald Emissary,,0,2,0,0,108716,0,0,0,1,1,1,1,0,0,0
+194929,Pack Musken,,,,0,1,157,0,65866,65863,65774,0,1,1,1,1,0,0,0
+194958,Boku,,,,0,7,0,0,106250,0,0,0,1,1,1,1,0,0,189505
+194972,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194982,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+194984,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195017,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195020,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195021,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195023,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195025,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195028,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195029,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195030,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195031,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195034,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195044,Scout Tomul,,,,0,7,0,0,105533,0,0,0,1,1,1,1,0,0,189505
+195065,Zooti Fizzlefury,,Kirin Tor,,0,7,0,0,60074,0,0,0,1,1,1,1,0,0,0
+195066,Scrollsage Nola,,,,0,7,0,0,87378,0,0,0,1,1,1,1,0,0,0
+195067,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195068,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195069,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195070,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195071,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195073,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195075,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195076,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195077,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195078,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195080,Chief Telemancer Oculeth,,,,0,7,0,0,73853,0,0,0,1,1,1,1,0,0,0
+195100,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195102,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195105,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195106,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195109,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195110,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195111,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195112,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195113,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195114,Dragon Glyph,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195153,Merithra,,,,1,2,0,0,91239,0,0,0,1,1,1,1,0,0,0
+195169,Windsage Garuman,,,,0,7,0,0,108789,0,0,0,1,1,1,1,0,0,0
+195185,Grasslands Calf,,,,6,1,157,0,107545,107547,107544,0,1,1,1,1,0,0,0
+195203,Baby Scalebiter,,,,0,8,0,0,104664,104665,104667,0,2,2,1,1,0,0,0
+195287,Swoglet,,,,0,14,0,0,108297,0,0,0,1,1,1,1,0,0,0
+195295,Chromie,,,,1,2,0,3,105811,0,0,0,1,1,1,1,0,0,0
+195317,Tuskarr,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,0,0,0
+195321,Caged Tuskarr,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,0,0,0
+195325,Acequian,,,,0,4,0,0,102546,0,0,0,1,1,1,1,0,0,0
+195326,Tiny Drop,,,,6,8,0,0,104531,104530,0,0,1,1,1,1,0,0,0
+195327,Nascent Stream,,,,6,4,0,2,102523,0,0,0,1,1,1,1,0,0,0
+195350,Eager Freshscale,,,,0,7,0,0,108879,108881,108882,108883,1,1,1,1,0,0,0
+195455,Avvara,,,,0,7,0,0,102071,0,0,0,1,1,1,1,0,0,0
+195468,Eager Freshscale,,,,0,7,0,0,108879,108881,108882,108883,1,1,1,1,0,0,0
+195484,Cavalier Drakerider,,,,0,2,0,0,108426,108427,108428,108431,1,1,1,1,0,0,0
+195505,Grotesque Bulwark,,,,0,4,0,0,92767,0,0,0,0,1,1,1,0,0,0
+195507,Aqir Harbinger,,,,0,15,0,0,91910,0,0,0,0,1,1,1,0,0,0
+195510,Winged Ruin,,,,6,15,0,3,91809,0,0,0,0,1,1,1,0,0,0
+195519,Cavalier Drakerider,,,,0,2,0,0,105268,0,0,0,1,1,1,1,0,0,0
+195520,Cavalier Drakerider,,,,0,2,0,0,107056,0,0,0,1,1,1,1,0,0,0
+195522,Cavalier Drakerider,,,,0,2,0,0,106003,0,0,0,1,1,1,1,0,0,0
+195551,Eager Freshscale,,,,0,7,0,0,104187,103820,104321,0,1,1,1,1,0,0,0
+195561,Race Controller,,,,0,7,0,0,21955,23767,0,0,0,1,1,1,0,0,0
+195570,Dragonrider,,,,0,6,0,0,82305,0,0,0,1,1,1,1,0,0,0
+195585,Stormbound Protodrake,,,,0,1,0,3,106434,0,0,0,1,1,1,1,0,0,0
+195588,Salted Fish Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195589,Koroleth,,,,1,7,0,0,107111,0,0,0,1,1,1,1,115649,0,0
+195590,Instructions Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195626,Race Controller,,,,0,7,0,0,21955,23767,0,0,0,1,1,1,0,0,0
+195675,Tuskarr,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,0,0,0
+195689,Peppersmelt Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195690,Dried Wyldermane Kelp Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195691,Hunk o' Blubber Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195692,Nappa's Famous Tea Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195693,Piping-Hot Orca Milk Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195694,Ancheevy Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195695,Tiny Leviathan Bone Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195745,Initiate Boku,,,,0,7,0,0,106250,0,0,0,1,1,1,1,0,0,0
+195750,Jump,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
+195811,Sansok Khan,,,,1,7,0,0,102115,0,0,0,1,1,1,1,0,0,0
+195812,Gerithus,,Son of the Dream,,1,2,0,0,106968,0,0,0,1,1,1,1,0,0,0
+195829,Majordomo Selistra,,,,1,2,0,0,107040,108032,108822,0,0,1,0,1,0,0,0
+195835,Scruffy Ottuk,,,,0,14,0,0,106614,106611,0,0,60,40,1,1,0,0,0
+195856,Clubfish Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195857,Grungle Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195858,Iceback Sculpin Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195859,Lakkamuk Blenny Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195860,Manasucker Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195861,Rubbery Fish Head Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195862,Not-So-Tender Morsel Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195863,Tough Carp Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195864,Stirring Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195865,Tasting Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195866,Supervising Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195867,Escaped Fish Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195868,Bittershell Hermit Credit,,,,0,10,0,0,11686,0,0,0,1,1,1,1,0,0,0
+195896,Chip,,,,0,12,0,0,109025,0,0,0,1,1,1,1,0,0,0
+195899,Storm Huntress Suhrakka,,Storm Vendor,,0,7,0,0,72325,0,0,0,1,1,1,1,0,0,0
+195912,Storm Hunter William,,Storm Vendor,,0,7,0,0,71246,0,0,0,1,1,1,1,0,0,0
+195978,Darkglare,,,,0,3,19,0,109045,0,0,0,0,1,1,1,0,0,0
+195982,Watcher Koranos,,,,1,9,0,0,105551,0,0,0,1,1,1,1,0,0,0
+195996,Mythexthia,,,,1,2,0,0,107198,109047,0,0,0,1,1,1,0,0,0
+196016,Lontupit,,Leatherworking,,0,7,0,0,109054,0,0,0,1,1,1,1,0,0,0
+196018,Omapurita,,Clothcrafter,,0,7,0,0,109055,0,0,0,1,1,1,1,0,0,0
+196099,Night Elf Mother,,,,0,7,0,0,98616,0,0,0,1,1,1,1,0,0,0
+196104,Goblin Gyrocopter,,,,0,9,0,0,84846,0,0,0,1,1,1,1,0,0,0
+196108,Goblin Gyrocopter,,,,0,7,0,3,89712,0,0,0,1,1,1,1,0,0,0
+196142,Shikaar Ohuna,,,,0,1,26,3,100537,102071,0,0,1,1,1,1,0,0,0
+196146,Fallen Imbu Tuskarr,,,,0,7,0,0,105760,105759,105762,105640,1,1,1,1,0,0,0
+196156,Baskilan,,,,1,2,0,0,107533,107214,107215,0,1,1,0,1,0,0,0
+196157,Evorian,,,,1,2,0,0,107303,107304,107305,0,1,1,1,1,0,0,0
+196159,Loyal Bakar,,,,0,1,52,0,101603,101602,0,0,1,1,1,1,0,0,0
+196160,Quilius,,Spa Manager's Manager,,0,2,0,0,101643,0,0,0,1,1,1,1,0,0,0
+196177,Artifact Locator,,,,1,10,0,0,102045,0,0,0,1,1,1,1,0,0,0
+196197,Grasstail Butterfly,,,,0,8,0,3,104044,104041,0,0,1,1,1,1,0,0,0
+196206,Gwosh,,,,0,14,0,0,109107,0,0,0,1,1,1,1,0,0,0
+196213,Narsysix,,,,1,2,0,0,107704,107705,107703,0,1,0,0,1,0,0,0
+196219,Masud the Wise,,,,0,7,0,0,105421,0,0,0,1,1,1,1,0,0,0
+196229,Ohn'ir Villager,,,,0,7,0,0,108843,108044,0,0,1,1,1,1,0,0,0
+196283,Iskaaran Fishmonger,,,,0,7,0,0,105759,0,0,0,1,1,1,1,0,0,0
+196284,Iskaara Fisher,,,,0,7,0,0,105828,0,0,0,1,1,1,1,34784,0,0
+196304,Magic Nibbler,,,,0,12,0,3,109140,0,0,0,1,1,1,1,0,0,0
+196305,Crimson Proto-Whelp,,,,0,12,0,3,109141,0,0,0,1,1,1,1,0,0,0

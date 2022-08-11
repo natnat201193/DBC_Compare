@@ -3649,3 +3649,34 @@ Ursoc's titansteel claws lay waste to the enemy, dealing [StandardDamage(1, 1)] 
 2471,Rend Flesh,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Razor sharp teeth and claws tear into the enemy, dealing [StandardDamage(1,1)] [School()] damage.",132278,7,4,0,0
+2472,Thundertongue,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Swog lashes out with her massive tongue, dealing [StandardDamage(1,1)] [School()] damage
+
+Deals [StandardDamage(1,2)] additional damage if Swog attacks first.",350575,8,0,0,0
+2473,Otter Breath,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Overwhelms the enemy with otter breath, dealing [StandardDamage(1,1)] [School()] damage. 
+
+Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30*AttackBonus())] [School()] damage.",651096,8,0,0,0
+2474,Ottest Breath,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [petTypeName(abilityPetType())] damage instantly. The enemy continues to 
+|cFFFF2020Burn|r for [StandardDamage(1,1,500)] additional [petTypeName(abilityPetType())] damage per round for [duration(1,2)] |4round:rounds.",135808,6,3,0,0
+2475,Ott Breath,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Breathes Otter fire on to the enemy, dealing [StandardDamage(1,1)] [School()] damage.",840199,1,0,0,0
+2476,Icy Web,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Flings an icy |cffffffffWeb|r at the target, dealing [StandardDamage(1,1)] [School()] damage and making it impossible to flee for [duration(1,2)] |4round:rounds;.",237430,6,0,0,0
+2477,Shiverweb Swarm,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Swarms the enemy with ice spiders, dealing [FormatDamage(SimpleDamage(1,1)*2)] [School()] damage. 
+
+Deals double damage if the target is |cffffffffWebbed|r.",1387708,6,3,0,0
+2478,Frostbite Webbing,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Deals [StandardDamage(1,1)] [School()] damage and coats the target in frozen |cffffffffWebbing|r, causing them to take [StandardDamage(1,1,381)] [School()] damage each time they attack. Lasts [duration(1,2)] |4round:rounds;.",236227,6,0,0,0
+2479,Venomsleet Spit,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Instantly deals [StandardDamage(1,1)] [School()] damage and |cFF1EFF00Poisons|r the target for [StandardDamage(1,1,379)] additional [School(379)] damage per round for [duration(1,2)] |4round:rounds.",135781,6,0,0,0

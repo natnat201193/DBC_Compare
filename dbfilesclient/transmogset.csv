@@ -1,7 +1,7 @@
 Name_lang,ID,ClassMask,TrackingQuestID,Flags,TransmogSetGroupID,ItemNameDescriptionID,ParentTransmogSetID,Field_8_1_0_28294_008,ExpansionID,PatchIntroduced,UiOrder,ConditionID
 ,2,128,0,1,1,0,0,1,0,0,590,0
 ,3,0,0,1,0,0,0,1,0,0,1591,0
-,4,4095,42729,1,0,0,0,1,0,60002,1000,0
+,4,0,42729,3,0,0,0,1,0,60002,1000,0
 ,5,68,0,3,0,0,0,1,0,0,360,0
 ,6,35,0,3,0,0,0,1,0,0,390,0
 Wild Combatant's Chain Armor,13,4,42975,20,12,13302,80,1,5,60100,6700,0
@@ -152,7 +152,7 @@ Felforged Armor,157,35,43278,2,48,0,0,1,6,70001,100,0
 Fel-Chain Armor,158,68,43279,2,48,0,0,1,6,70001,100,0
 Felshroud Armor,159,3592,43280,2,48,0,0,1,6,70001,100,0
 Fel-Infused Armor,160,400,43281,2,48,0,0,1,6,70001,100,0
-,162,4095,0,3,0,0,0,1,0,0,10,0
+,162,0,0,3,0,0,0,1,0,0,10,0
 ,163,4,0,3,0,0,0,1,0,0,750,0
 ,164,16,0,3,0,0,0,1,0,0,750,0
 ,167,0,42778,3,0,0,0,1,0,0,200,0
@@ -1391,7 +1391,7 @@ Riftscarred Vestments,1459,3592,47923,2,59,13193,0,1,6,70205,8551,0
 ,1461,0,0,1,0,0,0,1,0,60200,10,0
 ,1462,0,0,1,0,0,0,1,0,0,10,0
 ,1463,0,0,1,0,0,0,1,0,30100,10,0
-Weapons of the Lightforged,1464,4095,48316,3,0,0,0,1,6,70300,9050,0
+Weapons of the Lightforged,1464,0,48316,3,0,0,0,1,6,70300,9050,0
 ,1465,0,0,1,0,0,0,1,0,30200,10,0
 ,1466,0,0,1,0,0,0,1,0,30200,10,0
 ,1467,0,0,1,0,0,0,1,0,0,10,0
@@ -1788,10 +1788,10 @@ Garb of the Selfless,2019,3592,60595,0,181,13590,0,1,8,90001,3600,93647
 Garb of the Harmonious,2020,3592,60595,0,181,13591,2019,1,8,90001,3600,93647
 Garb of the Reverent,2021,3592,60595,0,181,13813,2019,1,8,90001,3600,93647
 Garb of the Discordant,2022,3592,63019,0,181,13813,2019,1,8,90001,3600,93647
-Chain of the Selfless,2023,68,60595,0,181,13590,0,1,8,90001,3600,93647
-Chain of the Discordant,2024,68,63020,0,181,13813,2023,1,8,90001,3600,93647
-Chain of the Harmonious,2025,68,60595,0,181,13591,2023,1,8,90001,3600,93647
-Chain of the Reverent,2026,68,60595,0,181,13813,2023,1,8,90001,3600,93647
+Chain of the Selfless,2023,4164,60595,0,181,13590,0,1,8,90001,3600,93647
+Chain of the Discordant,2024,4164,63020,0,181,13813,2023,1,8,90001,3600,93647
+Chain of the Harmonious,2025,4164,60595,0,181,13591,2023,1,8,90001,3600,93647
+Chain of the Reverent,2026,4164,60595,0,181,13813,2023,1,8,90001,3600,93647
 Warplate of the Reverent,2027,35,60595,0,181,13813,2029,1,8,90001,3600,93647
 Warplate of the Discordant,2028,35,63021,0,181,13813,2029,1,8,90001,3600,93647
 Warplate of the Selfless,2029,35,60595,0,181,13590,0,1,8,90001,3600,93647
@@ -1804,10 +1804,10 @@ Sight of Maldraxxus,2035,3592,62008,0,180,13590,0,1,8,90001,3600,93648
 Guile of Maldraxxus,2036,3592,62004,0,180,13591,2035,1,8,90001,3600,93648
 Warflesh of Maldraxxus,2037,3592,62013,0,180,13594,2035,1,8,90001,3600,93648
 Zeal of Maldraxxus,2038,3592,62036,0,180,13595,2035,1,8,90001,3600,93648
-Heart of Maldraxxus,2039,68,62028,0,180,13595,2041,1,8,90001,3600,93648
-Shambler of Maldraxxus,2040,68,62012,0,180,13594,2041,1,8,90001,3600,93648
-Will of Maldraxxus,2041,68,62007,0,180,13590,0,1,8,90001,3600,93648
-Alacrity of Maldraxxus,2042,68,62003,0,180,13591,2041,1,8,90001,3600,93648
+Heart of Maldraxxus,2039,4164,62028,0,180,13595,2041,1,8,90001,3600,93648
+Shambler of Maldraxxus,2040,4164,62012,0,180,13594,2041,1,8,90001,3600,93648
+Will of Maldraxxus,2041,4164,62007,0,180,13590,0,1,8,90001,3600,93648
+Alacrity of Maldraxxus,2042,4164,62003,0,180,13591,2041,1,8,90001,3600,93648
 Might of Maldraxxus,2043,35,62006,0,180,13590,0,1,8,90001,3600,93648
 Authority of Maldraxxus,2044,35,62002,0,180,13591,2043,1,8,90001,3600,93648
 Abomination of Maldraxxus,2045,35,62011,0,180,13594,2043,1,8,90001,3600,93648
@@ -1820,10 +1820,10 @@ Oakheart Raiment,2051,3592,61901,0,178,13590,0,1,8,90001,3600,93649
 Conservator's Raiment,2052,3592,61910,0,178,13592,2051,1,8,90001,3602,93649
 Winterborn Raiment,2053,3592,61914,0,178,13787,2051,1,8,90001,3603,93649
 Night Courtier's Raiment,2054,3592,61906,0,178,13591,2051,1,8,90001,3601,93649
-Runewarden's Guise,2055,68,61902,0,178,13590,0,1,8,90001,3600,93649
-Conservator's Guise,2056,68,61909,0,178,13592,2055,1,8,90001,3602,93649
-Night Courtier's Guise,2057,68,61905,0,178,13591,2055,1,8,90001,3601,93649
-Winterborn Guise,2058,68,61913,0,178,13787,2055,1,8,90001,3603,93649
+Runewarden's Guise,2055,4164,61902,0,178,13590,0,1,8,90001,3600,93649
+Conservator's Guise,2056,4164,61909,0,178,13592,2055,1,8,90001,3602,93649
+Night Courtier's Guise,2057,4164,61905,0,178,13591,2055,1,8,90001,3601,93649
+Winterborn Guise,2058,4164,61913,0,178,13787,2055,1,8,90001,3603,93649
 Queensguard Warbark,2059,35,61903,0,178,13590,0,1,8,90001,3600,93649
 Night Courtier's Warbark,2060,35,61904,0,178,13591,2059,1,8,90001,3601,93649
 Winterborn Warbark,2061,35,61912,0,178,13787,2059,1,8,90001,3603,93649
@@ -1836,10 +1836,10 @@ Crimson Death Shroud Armor,2067,3592,62032,0,179,13591,2070,1,8,90001,3600,93650
 Court Death Shroud Armor,2068,3592,62031,0,179,13584,2070,1,8,90001,3601,93650
 Burnished Death Shroud Armor,2069,3592,62030,0,179,13596,2070,1,8,90001,3602,93650
 Ebony Death Shroud Armor,2070,3592,62029,0,179,13590,0,1,8,90001,3603,93650
-Fearstalker's Ebony Battlegear,2071,68,62024,0,179,13590,0,1,8,90001,3600,93650
-Fearstalker's Court Battlegear,2072,68,62026,0,179,13584,2071,1,8,90001,3600,93650
-Fearstalker's Burnished Battlegear,2073,68,62025,0,179,13596,2071,1,8,90001,3600,93650
-Fearstalker's Crimson Battlegear,2074,68,62027,0,179,13591,2071,1,8,90001,3600,93650
+Fearstalker's Ebony Battlegear,2071,4164,62024,0,179,13590,0,1,8,90001,3600,93650
+Fearstalker's Court Battlegear,2072,4164,62026,0,179,13584,2071,1,8,90001,3600,93650
+Fearstalker's Burnished Battlegear,2073,4164,62025,0,179,13596,2071,1,8,90001,3600,93650
+Fearstalker's Crimson Battlegear,2074,4164,62027,0,179,13591,2071,1,8,90001,3600,93650
 Dread Sentinel's Ebony Battleplate,2075,35,62016,0,179,13590,0,1,8,90001,3600,93650
 Dread Sentinel's Burnished Battleplate,2076,35,62022,0,179,13596,2075,1,8,90001,3600,93650
 Dread Sentinel's Court Battleplate,2077,35,62018,0,179,13584,2075,1,8,90001,3600,93650
@@ -1856,9 +1856,9 @@ Night Courtier's Regalia,2089,400,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Raiment,2090,3592,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Raiment,2091,3592,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Raiment,2092,3592,0,65,0,0,0,1,8,90001,3601,93649
-Night Courtier's Guise,2093,68,0,65,0,0,0,1,8,90001,3601,93649
-Night Courtier's Guise,2094,68,0,65,0,0,0,1,8,90001,3601,93649
-Night Courtier's Guise,2095,68,0,65,0,0,0,1,8,90001,3601,93649
+Night Courtier's Guise,2093,4164,0,65,0,0,0,1,8,90001,3601,93649
+Night Courtier's Guise,2094,4164,0,65,0,0,0,1,8,90001,3601,93649
+Night Courtier's Guise,2095,4164,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Warbark,2096,35,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Warbark,2097,35,0,65,0,0,0,1,8,90001,3601,93649
 Night Courtier's Warbark,2098,35,0,65,0,0,0,1,8,90001,3601,93649
@@ -1868,9 +1868,9 @@ Soulbreaker's Crimson Vestments,2101,400,0,65,0,0,0,1,8,90001,3600,93650
 Crimson Death Shroud Armor,2102,3592,0,65,0,0,0,1,8,90001,3600,93650
 Crimson Death Shroud Armor,2103,3592,0,65,0,0,0,1,8,90001,3600,93650
 Crimson Death Shroud Armor,2104,3592,0,65,0,0,0,1,8,90001,3600,93650
-Fearstalker's Crimson Battlegear,2105,68,0,65,0,0,0,1,8,90001,3600,93650
-Fearstalker's Crimson Battlegear,2106,68,0,65,0,0,0,1,8,90001,3600,93650
-Fearstalker's Crimson Battlegear,2107,68,0,65,0,0,0,1,8,90001,3600,93650
+Fearstalker's Crimson Battlegear,2105,4164,0,65,0,0,0,1,8,90001,3600,93650
+Fearstalker's Crimson Battlegear,2106,4164,0,65,0,0,0,1,8,90001,3600,93650
+Fearstalker's Crimson Battlegear,2107,4164,0,65,0,0,0,1,8,90001,3600,93650
 Dread Sentinel's Crimson Battleplate,2108,35,0,65,0,0,0,1,8,90001,3600,93650
 Dread Sentinel's Crimson Battleplate,2109,35,0,65,0,0,0,1,8,90001,3600,93650
 Dread Sentinel's Crimson Battleplate,2110,35,0,65,0,0,0,1,8,90001,3600,93650
@@ -1880,9 +1880,9 @@ Rationale of Maldraxxus,2113,400,0,65,0,0,0,1,8,90001,3600,93648
 Guile of Maldraxxus,2114,3592,0,65,0,0,0,1,8,90001,3600,93648
 Guile of Maldraxxus,2115,3592,0,65,0,0,0,1,8,90001,3600,93648
 Guile of Maldraxxus,2116,3592,0,65,0,0,0,1,8,90001,3600,93648
-Alacrity of Maldraxxus,2117,68,0,65,0,0,0,1,8,90001,3600,93648
-Alacrity of Maldraxxus,2118,68,0,65,0,0,0,1,8,90001,3600,93648
-Alacrity of Maldraxxus,2119,68,0,65,0,0,0,1,8,90001,3600,93648
+Alacrity of Maldraxxus,2117,4164,0,65,0,0,0,1,8,90001,3600,93648
+Alacrity of Maldraxxus,2118,4164,0,65,0,0,0,1,8,90001,3600,93648
+Alacrity of Maldraxxus,2119,4164,0,65,0,0,0,1,8,90001,3600,93648
 Authority of Maldraxxus,2120,35,0,65,0,0,0,1,8,90001,3600,93648
 Authority of Maldraxxus,2121,35,0,65,0,0,0,1,8,90001,3600,93648
 Authority of Maldraxxus,2122,35,0,65,0,0,0,1,8,90001,3600,93648
@@ -1893,9 +1893,9 @@ Vestments of the Harmonious,2126,400,0,65,0,0,0,1,8,90001,3600,93647
 Garb of the Harmonious,2127,3592,0,65,0,0,0,1,8,90001,3600,93647
 Garb of the Harmonious,2128,3592,0,65,0,0,0,1,8,90001,3600,93647
 Garb of the Harmonious,2129,3592,0,65,0,0,0,1,8,90001,3600,93647
-Chain of the Harmonious,2130,68,0,65,0,0,0,1,8,90001,3600,93647
-Chain of the Harmonious,2131,68,0,65,0,0,0,1,8,90001,3600,93647
-Chain of the Harmonious,2132,68,0,65,0,0,0,1,8,90001,3600,93647
+Chain of the Harmonious,2130,4164,0,65,0,0,0,1,8,90001,3600,93647
+Chain of the Harmonious,2131,4164,0,65,0,0,0,1,8,90001,3600,93647
+Chain of the Harmonious,2132,4164,0,65,0,0,0,1,8,90001,3600,93647
 Warplate of the Harmonious,2133,35,0,65,0,0,0,1,8,90001,3600,93647
 Warplate of the Harmonious,2134,35,0,65,0,0,0,1,8,90001,3600,93647
 Warplate of the Harmonious,2135,35,0,65,0,0,0,1,8,90001,3600,93647
@@ -1917,10 +1917,10 @@ Grand Sentinel's Greatplate,2150,35,0,0,183,13193,0,1,8,90002,200,0
 Grand Sentinel's Greatplate,2151,35,0,0,183,1641,2150,1,8,90002,100,0
 Grand Sentinel's Greatplate,2152,35,0,0,183,2015,2150,1,8,90002,300,0
 Grand Sentinel's Greatplate,2153,35,0,0,183,13145,2150,1,8,90002,400,0
-Inexorable Castigator's Guise,2154,68,0,0,183,13193,0,1,8,90002,200,0
-Inexorable Castigator's Guise,2155,68,0,0,183,1641,2154,1,8,90002,100,0
-Inexorable Castigator's Guise,2156,68,0,0,183,2015,2154,1,8,90002,300,0
-Inexorable Castigator's Guise,2157,68,0,0,183,13145,2154,1,8,90002,400,0
+Inexorable Castigator's Guise,2154,4164,0,0,183,13193,0,1,8,90002,200,0
+Inexorable Castigator's Guise,2155,4164,0,0,183,1641,2154,1,8,90002,100,0
+Inexorable Castigator's Guise,2156,4164,0,0,183,2015,2154,1,8,90002,300,0
+Inexorable Castigator's Guise,2157,4164,0,0,183,13145,2154,1,8,90002,400,0
 Depraved Beguiler's Visage,2158,400,0,0,183,13193,0,1,8,90002,200,0
 Depraved Beguiler's Visage,2159,400,0,0,183,1641,2158,1,8,90002,100,0
 Depraved Beguiler's Visage,2160,400,0,0,183,2015,2158,1,8,90002,300,0
@@ -2013,10 +2013,10 @@ Soulforged Dreadplate,2250,35,0,0,190,13193,0,1,8,90100,2261,0
 Soulforged Dreadplate,2251,35,0,0,190,1641,2250,1,8,90100,2260,0
 Soulforged Dreadplate,2252,35,0,0,190,2015,2250,1,8,90100,2262,0
 Soulforged Dreadplate,2253,35,0,0,190,13145,2250,1,8,90100,2263,0
-Tower Ascendant's Battlegear,2254,68,0,0,190,13193,0,1,8,90100,2261,0
-Tower Ascendant's Battlegear,2255,68,0,0,190,1641,2254,1,8,90100,2260,0
-Tower Ascendant's Battlegear,2256,68,0,0,190,2015,2254,1,8,90100,2262,0
-Tower Ascendant's Battlegear,2257,68,0,0,190,13145,2254,1,8,90100,2263,0
+Tower Ascendant's Battlegear,2254,4164,0,0,190,13193,0,1,8,90100,2261,0
+Tower Ascendant's Battlegear,2255,4164,0,0,190,1641,2254,1,8,90100,2260,0
+Tower Ascendant's Battlegear,2256,4164,0,0,190,2015,2254,1,8,90100,2262,0
+Tower Ascendant's Battlegear,2257,4164,0,0,190,13145,2254,1,8,90100,2263,0
 Sanctum Assailant's Trappings,2258,3592,0,0,190,13193,0,1,8,90100,2261,0
 Sanctum Assailant's Trappings,2259,3592,0,0,190,1641,2258,1,8,90100,2260,0
 Sanctum Assailant's Trappings,2260,3592,0,0,190,2015,2258,1,8,90100,2262,0
@@ -2072,85 +2072,110 @@ Stormheart Raiment,2310,1024,64925,3,0,0,0,1,6,90105,8904,0
 Vestments of Blind Absolution,2312,16,64930,3,0,0,0,1,6,90105,8904,0
 Regalia of the Skybreaker,2313,64,64932,3,0,0,0,1,6,90105,8904,0
 Diabolic Raiment,2314,256,64933,3,0,0,0,1,6,90105,8904,0
-Cosmic Aspirant's Vestment,2316,400,0,16,191,13303,0,1,8,90200,1580,0
-Cosmic Aspirant's Leathers,2317,3592,0,16,191,13303,0,1,8,90200,1580,0
-Cosmic Aspirant's Chain,2318,68,0,16,191,13303,0,1,8,90200,1580,0
-Cosmic Aspirant's Plate,2319,35,0,16,191,13303,0,1,8,90200,1580,0
+Cosmic Aspirant's Vestment,2316,400,0,19,191,13303,0,1,8,90200,1580,0
+Cosmic Aspirant's Leathers,2317,3592,0,19,191,13303,0,1,8,90200,1580,0
+Cosmic Aspirant's Chain,2318,68,0,19,191,13303,0,1,8,90200,1580,0
+Cosmic Aspirant's Plate,2319,35,0,19,191,13303,0,1,8,90200,1580,0
+Fel-Automaton Exoplate,2320,35,65502,2,0,0,0,1,5,0,1640,0
+Vestment of the Honored Valarjar,2321,400,65533,2,0,0,0,1,6,0,1640,0
+Blades of Elune,2322,0,65568,1,0,0,0,1,8,90002,1670,0
+Twisted Arcanum Regalia,2323,400,65569,2,0,0,0,1,6,0,1640,0
+Vagabond's Midnight Threads,2324,4095,65570,67,0,0,0,1,8,0,1640,0
 Cosmic Gladiator's Vestment,2325,0,0,19,0,0,0,1,8,90200,10,0
+Wanderer's Midnight Trappings,2326,4095,65648,67,0,0,0,1,8,0,1640,0
+Darkmoon Harlequin's Bells,2327,4095,65671,2,0,0,0,1,8,0,1640,0
+Vagabond's Violet Threads,2328,4095,65672,67,0,0,0,1,8,0,1640,0
+Wanderer's Violet Trappings,2329,4095,65673,67,0,0,0,1,8,0,1640,0
+Olive Huntsman's Munitions,2330,4,65675,67,0,0,0,1,8,0,1640,0
+Chains of the Honored Valarjar,2331,68,65676,2,0,0,0,1,6,70100,10,0
+Vagabond's Azure Threads,2332,4095,65678,67,0,0,0,1,8,0,1640,0
+Wanderer's Azure Trappings,2333,4095,65677,67,0,0,0,1,8,0,1640,0
+Battlewraps of the Honored Valarjar,2334,1544,65696,2,0,0,0,1,6,70100,10,0
 Cosmic Gladiator's Prestigious Cloak,2335,0,0,19,0,0,0,1,8,90200,1550,0
-Weapons of Glorious Domination,2336,4095,65715,3,0,0,0,1,8,90200,9050,0
+Weapons of Glorious Domination,2336,0,65715,3,0,0,0,1,8,90200,9050,0
+Vestments of the Nightmare Forest,2337,1544,65716,2,0,0,0,1,4,0,10,0
+Slumbering Caldera Regalia,2338,68,65718,2,33,0,0,1,3,0,10,0
+Bones of the Bloodhunter,2339,4095,65719,2,0,0,0,1,8,0,1640,0
+Swashbuckling Buccaneer's Slops,2340,4095,65720,2,0,0,0,1,8,0,1640,0
+Wanderer's Crimson Trappings,2341,4095,65721,67,0,0,0,1,8,0,1640,0
+Vagabond's Crimson Threads,2342,4095,65723,67,0,0,0,1,8,0,1640,0
+Battleplate of the Honored Valarjar,2343,35,65734,2,0,0,0,1,6,0,1640,0
+Wanderer's Snowy Trappings,2344,4095,65736,67,0,0,0,1,8,0,1640,0
+Vagabond's Snowy Threads,2345,4095,65737,67,0,0,0,1,8,0,1640,0
+Dashing Buccaneer's Slops,2346,4095,65738,2,0,0,0,1,8,0,1640,0
+Ruby Felfire Armaments,2347,0,65740,1,0,0,0,1,8,90002,1670,0
 The First Eidolon's Soulsteel,2348,32,0,0,192,13193,0,1,8,90200,2521,0
 The First Eidolon's Soulsteel,2349,32,0,0,192,1641,2348,1,8,90200,2520,0
 The First Eidolon's Soulsteel,2350,32,0,0,192,2015,2348,1,8,90200,2522,0
 The First Eidolon's Soulsteel,2351,32,0,0,192,13145,2348,1,8,90200,2523,0
-Cosmic Gladiator's Dreadplate Armor,2352,32,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Dreadplate Armor,2353,32,0,48,191,3859,2352,1,8,90200,2521,0
+Cosmic Gladiator's Dreadplate Armor,2352,32,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Dreadplate Armor,2353,32,0,51,191,3859,2352,1,8,90200,2521,0
 Mercurial Punisher's Painweave,2354,2048,0,0,192,13193,0,1,8,90200,2521,0
 Mercurial Punisher's Painweave,2355,2048,0,0,192,1641,2354,1,8,90200,2520,0
 Mercurial Punisher's Painweave,2356,2048,0,0,192,2015,2354,1,8,90200,2522,0
 Mercurial Punisher's Painweave,2357,2048,0,0,192,13145,2354,1,8,90200,2523,0
-Cosmic Gladiator's Felskin Armor,2358,2048,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Felskin Armor,2359,2048,0,48,191,3859,2358,1,8,90200,2521,0
+Cosmic Gladiator's Felskin Armor,2358,2048,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Felskin Armor,2359,2048,0,51,191,3859,2358,1,8,90200,2521,0
 Tapestry of the Fixed Stars,2360,1024,0,0,192,13193,0,1,8,90200,2521,0
 Tapestry of the Fixed Stars,2361,1024,0,0,192,1641,2360,1,8,90200,2520,0
 Tapestry of the Fixed Stars,2362,1024,0,0,192,2015,2360,1,8,90200,2522,0
 Tapestry of the Fixed Stars,2363,1024,0,0,192,13145,2360,1,8,90200,2523,0
-Cosmic Gladiator's Dragonhide Armor,2364,1024,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Dragonhide Armor,2365,1024,0,48,191,3859,2364,1,8,90200,2521,0
+Cosmic Gladiator's Dragonhide Armor,2364,1024,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Dragonhide Armor,2365,1024,0,51,191,3859,2364,1,8,90200,2521,0
 Godstalker's Battlegear,2366,4,0,0,192,13193,0,1,8,90200,2521,0
 Godstalker's Battlegear,2367,4,0,0,192,1641,2366,1,8,90200,2520,0
 Godstalker's Battlegear,2368,4,0,0,192,2015,2366,1,8,90200,2522,0
 Godstalker's Battlegear,2369,4,0,0,192,13145,2366,1,8,90200,2523,0
-Cosmic Gladiator's Chain Armor,2370,4,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Chain Armor,2371,4,0,48,191,3859,2370,1,8,90200,2521,0
+Cosmic Gladiator's Chain Armor,2370,4,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Chain Armor,2371,4,0,51,191,3859,2370,1,8,90200,2521,0
 Erudite Occultist's Vestments,2372,128,0,0,192,13193,0,1,8,90200,2521,0
 Erudite Occultist's Vestments,2373,128,0,0,192,1641,2372,1,8,90200,2520,0
 Erudite Occultist's Vestments,2374,128,0,0,192,2015,2372,1,8,90200,2522,0
 Erudite Occultist's Vestments,2375,128,0,0,192,13145,2372,1,8,90200,2523,0
-Cosmic Gladiator's Silk Armor,2376,128,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Silk Armor,2377,128,0,48,191,3859,2376,1,8,90200,2521,0
+Cosmic Gladiator's Silk Armor,2376,128,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Silk Armor,2377,128,0,51,191,3859,2376,1,8,90200,2521,0
 Garb of the Grand Upwelling,2378,512,0,0,192,13193,0,1,8,90200,2521,0
 Garb of the Grand Upwelling,2379,512,0,0,192,1641,2378,1,8,90200,2520,0
 Garb of the Grand Upwelling,2380,512,0,0,192,2015,2378,1,8,90200,2522,0
 Garb of the Grand Upwelling,2381,512,0,0,192,13145,2378,1,8,90200,2523,0
-Cosmic Gladiator's Ironskin Armor,2382,512,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Ironskin Armor,2383,512,0,48,191,3859,2382,1,8,90200,2521,0
+Cosmic Gladiator's Ironskin Armor,2382,512,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Ironskin Armor,2383,512,0,51,191,3859,2382,1,8,90200,2521,0
 Luminous Chevalier's Gallantry,2384,2,0,0,192,13193,0,1,8,90200,2521,0
 Luminous Chevalier's Gallantry,2385,2,0,0,192,1641,2384,1,8,90200,2520,0
 Luminous Chevalier's Gallantry,2386,2,0,0,192,2015,2384,1,8,90200,2522,0
 Luminous Chevalier's Gallantry,2387,2,0,0,192,13145,2384,1,8,90200,2523,0
-Cosmic Gladiator's Scaled Armor,2388,2,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Scaled Armor,2389,2,0,48,191,3859,2388,1,8,90200,2521,0
+Cosmic Gladiator's Scaled Armor,2388,2,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Scaled Armor,2389,2,0,51,191,3859,2388,1,8,90200,2521,0
 Habiliments of the Empyrean,2390,16,0,0,192,13193,0,1,8,90200,2521,0
 Habiliments of the Empyrean,2391,16,0,0,192,1641,2390,1,8,90200,2520,0
 Habiliments of the Empyrean,2392,16,0,0,192,2015,2390,1,8,90200,2522,0
 Habiliments of the Empyrean,2393,16,0,0,192,13145,2390,1,8,90200,2523,0
-Cosmic Gladiator's Satin Armor,2394,16,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Satin Armor,2395,16,0,48,191,3859,2394,1,8,90200,2521,0
+Cosmic Gladiator's Satin Armor,2394,16,0,17,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Satin Armor,2395,16,0,51,191,3859,2394,1,8,90200,2521,0
 Soulblade Shadowhide,2396,8,0,0,192,13193,0,1,8,90200,2521,0
 Soulblade Shadowhide,2397,8,0,0,192,1641,2396,1,8,90200,2520,0
 Soulblade Shadowhide,2398,8,0,0,192,2015,2396,1,8,90200,2522,0
 Soulblade Shadowhide,2399,8,0,0,192,13145,2396,1,8,90200,2523,0
-Cosmic Gladiator's Leather Armor,2400,8,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Leather Armor,2401,8,0,48,191,3859,2400,1,8,90200,2521,0
+Cosmic Gladiator's Leather Armor,2400,8,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Leather Armor,2401,8,0,51,191,3859,2400,1,8,90200,2521,0
 Theurgic Starspeaker's Regalia,2402,64,0,0,192,13193,0,1,8,90200,2521,0
 Theurgic Starspeaker's Regalia,2403,64,0,0,192,1641,2402,1,8,90200,2520,0
 Theurgic Starspeaker's Regalia,2404,64,0,0,192,2015,2402,1,8,90200,2522,0
 Theurgic Starspeaker's Regalia,2405,64,0,0,192,13145,2402,1,8,90200,2523,0
-Cosmic Gladiator's Ringmail Armor,2406,64,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Ringmail Armor,2407,64,0,48,191,3859,2406,1,8,90200,2521,0
+Cosmic Gladiator's Ringmail Armor,2406,64,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Ringmail Armor,2407,64,0,51,191,3859,2406,1,8,90200,2521,0
 Shroud of the Demon Star,2408,256,0,0,192,13193,0,1,8,90200,2521,0
 Shroud of the Demon Star,2409,256,0,0,192,1641,2408,1,8,90200,2520,0
 Shroud of the Demon Star,2410,256,0,0,192,2015,2408,1,8,90200,2522,0
 Shroud of the Demon Star,2411,256,0,0,192,13145,2408,1,8,90200,2523,0
-Cosmic Gladiator's Felweave Armor,2412,256,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Felweave Armor,2413,256,0,48,191,3859,2412,1,8,90200,2521,0
+Cosmic Gladiator's Felweave Armor,2412,256,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Felweave Armor,2413,256,0,51,191,3859,2412,1,8,90200,2521,0
 Armaments of the Infinite Infantry,2414,1,0,0,192,13193,0,1,8,90200,2521,0
 Armaments of the Infinite Infantry,2415,1,0,0,192,1641,2414,1,8,90200,2520,0
 Armaments of the Infinite Infantry,2416,1,0,0,192,2015,2414,1,8,90200,2522,0
 Armaments of the Infinite Infantry,2417,1,0,0,192,13145,2414,1,8,90200,2523,0
-Cosmic Gladiator's Plate Armor,2418,1,0,16,191,13301,0,1,8,90200,2520,0
-Cosmic Gladiator's Plate Armor,2419,1,0,48,191,3859,2418,1,8,90200,2521,0
+Cosmic Gladiator's Plate Armor,2418,1,0,19,191,13301,0,1,8,90200,2520,0
+Cosmic Gladiator's Plate Armor,2419,1,0,51,191,3859,2418,1,8,90200,2521,0
 Cosmic Gladiator's Dreadplate Armor,2420,32,0,19,0,0,0,1,8,90200,2000,0
 Cosmic Gladiator's Dreadplate Armor,2421,32,0,19,0,0,0,1,8,90200,2000,0
 Cosmic Gladiator's Dreadplate Armor,2422,32,0,19,0,0,0,1,8,90200,2000,0
@@ -2212,8 +2237,47 @@ Cosmic Gladiator's Plate Armor,2477,1,0,19,0,0,0,1,8,90200,2000,0
 Cosmic Gladiator's Plate Armor,2478,1,0,19,0,0,0,1,8,90200,2000,0
 Cosmic Gladiator's Plate Armor,2479,1,0,19,0,0,0,1,8,90200,2000,0
 Blood Knight's Dedication,2481,2,66280,0,0,0,0,1,8,90205,10,95684
-Lavaforge Arsenal,2483,4095,66302,3,0,0,0,1,8,90205,10,0
+Lavaforge Arsenal,2483,0,66302,3,0,0,0,1,8,90205,10,0
 Dark Ranger's Attire,2484,4,66309,0,0,0,0,1,8,90205,10,42890
+Dracthyr Battlegear,2485,0,66371,2,0,0,0,1,9,100000,2000,0
 Cosmic Gladiator's Prestigious Cloak,2486,0,0,19,0,0,0,1,8,90200,1550,0
 Cosmic Gladiator's Vestment,2487,0,0,19,0,0,0,1,8,90200,10,0
 Wings of Awakening,2488,0,0,131,0,0,0,1,8,90105,10,94458
+Renowned Expeditioner's Cloth Armor,2489,0,70315,1,0,0,0,1,9,100000,10,0
+Renowned Expeditioner's Leather Armor,2490,0,70316,1,0,0,0,1,9,100000,10,0
+Renowned Expeditioner's Mail Armor,2491,0,70317,1,0,0,0,1,9,100000,10,0
+Renowned Expeditioner's Plate Armor,2492,0,70318,1,0,0,0,1,9,100000,10,0
+Eternal Gladiator's Dreadplate Armor,2498,32,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Felskin Armor,2504,2048,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Dragonhide Armor,2510,1024,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Chain Armor,2516,4,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Silk Armor,2522,128,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Ironskin Armor,2528,512,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Scaled Armor,2534,2,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Satin Armor,2540,16,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Leather Armor,2546,8,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Ringmail Armor,2552,64,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Felweave Armor,2558,256,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Gladiator's Plate Armor,2564,1,0,16,193,13301,0,1,8,90200,2520,0
+Eternal Aspirant's Vestment,2565,400,0,16,193,13303,0,1,8,90200,1580,0
+Eternal Aspirant's Leathers,2566,3592,0,16,193,13303,0,1,8,90200,1580,0
+Eternal Aspirant's Chain,2567,68,0,16,193,13303,0,1,8,90200,1580,0
+Eternal Aspirant's Plate,2568,35,0,16,193,13303,0,1,8,90200,1580,0
+Eternal Gladiator's Dreadplate Armor,2569,32,0,48,193,3859,2498,1,8,90200,2521,0
+Eternal Gladiator's Felskin Armor,2570,2048,0,48,193,3859,2504,1,8,90200,2521,0
+Eternal Gladiator's Dragonhide Armor,2571,1024,0,48,193,3859,2510,1,8,90200,2521,0
+Eternal Gladiator's Chain Armor,2572,4,0,48,193,3859,2516,1,8,90200,2521,0
+Eternal Gladiator's Silk Armor,2573,128,0,48,193,3859,2522,1,8,90200,2521,0
+Eternal Gladiator's Ironskin Armor,2574,512,0,48,193,3859,2528,1,8,90200,2521,0
+Eternal Gladiator's Scaled Armor,2575,2,0,48,193,3859,2534,1,8,90200,2521,0
+Eternal Gladiator's Satin Armor,2576,16,0,48,193,3859,2540,1,8,90200,2521,0
+Eternal Gladiator's Leather Armor,2577,8,0,48,193,3859,2546,1,8,90200,2521,0
+Eternal Gladiator's Ringmail Armor,2578,64,0,48,193,3859,2552,1,8,90200,2521,0
+Eternal Gladiator's Felweave Armor,2579,256,0,48,193,3859,2558,1,8,90200,2521,0
+Eternal Gladiator's Plate Armor,2580,1,0,48,193,3859,2564,1,8,90200,2521,0
+Spiked Crimson Spaulders,2581,0,0,0,0,0,0,1,9,100000,10,0
+Crimson Valdrakken Clothing,2582,0,70755,64,194,13965,0,1,9,100000,10,0
+Bronze Valdrakken Clothing,2583,0,70758,64,194,13964,2582,1,9,100000,10,0
+Black Valdrakken Clothing,2584,0,70756,64,194,13966,2582,1,9,100000,10,0
+Azure Valdrakken Clothing,2585,0,70757,64,194,13967,2582,1,9,100000,10,0
+Green Valdrakken Clothing,2586,0,70759,64,194,13968,2582,1,9,100000,10,0

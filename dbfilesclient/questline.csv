@@ -909,6 +909,7 @@ ID,Name_lang,Description_lang,QuestID,PlayerConditionID
 1258,Crown of Wills,,0,0
 1259,The Box of Many Things,,0,0
 1260,Starting Over,,0,0
+1261,The War Creche,,0,0
 1262,Forging a New Path,,0,0
 1264,A Means to an End,,0,0
 1265,Into the Unknown,,0,0
@@ -916,12 +917,19 @@ ID,Name_lang,Description_lang,QuestID,PlayerConditionID
 1267,Maw Intro,,0,5703
 1268,Observing Victory,,0,0
 1269,Traversing Torghast,,0,0
+1270,Old Weyrn Grounds,,0,0
+1271,The Ebon Scales,,0,0
+1272,The Healing Wings,,0,0
+1274,Froststone Vault,,0,0
+1275,Wrath of the Storm-Eater,,0,0
+1276,The Obsidian Warders,,0,0
 1277,Jiro to Hero,,0,0
 1284,Epilogue: Judgment,,0,0
 1285,The Final Song,,0,0
 1286,The Queen's Gift,,0,0
 1287,Patch Intro,,0,0
 1288,Cyphers of the First Ones,,0,0
+1289,The Dragon Isles Await,Day 1 Dragon Isles Questline,0,0
 1290,Reap What You Sow,,0,0
 1291,Not Al Are Lost,,0,0
 1293,A New Architect,,0,0
@@ -929,3 +937,37 @@ ID,Name_lang,Description_lang,QuestID,PlayerConditionID
 1295,Return to Lordaeron,,0,0
 1296,Small Pet Problems,,0,0
 1297,The Waters of Grace,,0,0
+1299,Dragons in Distress,,0,0
+1300,In Defense of Life,,0,0
+1301,Wrathion's Gambit,,0,0
+1302,A Purpose Restored,,0,0
+1303,Ch01 Into the Plains,,0,0
+1304,Ch02 Maruukai,,0,0
+1305,Ch03 Ohn'ahra's Blessing,,0,0
+1306,Ch04 Bonds Renewed,,0,0
+1310,"Valdrakken, City of Dragons",,0,0
+1311,The Dark Talons,,0,0
+1314,Into the Archives,,0,0
+1315,Vakthros,,0,0
+1316,Chapter 3,,0,0
+1317,Tuskarr Troubles,,0,0
+1320,Expedition: Apex Canopy,,0,0
+1323,Big Time Adventurer,,0,0
+1324,Time Management,,0,0
+1333,The Mother Oathstone,,0,0
+1347,10.0 Professions - Alchemy,,0,0
+1348,10.0 Professions - Blacksmithing,,0,0
+1349,10.0 Professions - Enchanting,,0,0
+1350,10.0 Professions - Engineering,,0,0
+1351,10.0 Professions - Herbalism,,0,0
+1352,10.0 Professions - Inscription,,0,0
+1353,10.0 Professions - Jewelcrafting,,0,0
+1354,10.0 Professions - Leatherworking,,0,0
+1355,10.0 Professions - Mining,,0,0
+1356,10.0 Professions - Skinning,,0,0
+1357,10.0 Professions - Tailoring,,0,0
+1358,Introduction to Dragonriding,,0,0
+1359,[DEPRECATED],,0,0
+1363,Ancient Waygates,Travel Network,0,0
+1364,Catching Up!,,0,0
+1366,10.0 Pet Battle On-Ramp,Pet Battle On-Ramp,0,0

@@ -590,7 +590,7 @@ ID,Description_lang,Color
 13836,Glory,0
 13837,Sinful Surge,0
 13838,Nature's Fury,0
-13839,Sinful Hysteria,0
+13839,Sinful Indulgence,0
 13840,Harmonic Echo,0
 13841,Locust Swarm,0
 13842,Death's Fathom,0
@@ -642,6 +642,7 @@ ID,Description_lang,Color
 13889,Elysian Might,0
 13890,Divine Resonance,0
 13891,Priceless,-16711936
+13892,Construction Material,-7820545
 13895,Combatant II,-16711936
 13896,Challenger II,-16711936
 13897,Rival II,-16711936
@@ -652,11 +653,52 @@ ID,Description_lang,Color
 13907,Sustaining,-11776
 13908,Fated,1496809
 13911,Shadowlands Season 2,65280
+13912,Quality 4 of 5,65280
 13914,Protoform Synthesis,-10044417
 13915,Unity,0
 13916,Cypher Equipment,-10044417
+13920,Treasure Hunting,-7820545
 13922,Fated,-16711936
 13923,Fated Heroic,65280
 13924,Fated Mythic,65280
+13925,Dragon Isles Artifacts,-7820545
+13926,Drakewatcher Manuscript,-10044417
+13927,Tuskarr Feast Reagent,-7820545
+13929,Toxic,10405150
 13932,Fated Raid Finder,-16711936
+13933,Air Gem,14286079
+13934,Fire Gem,16341785
+13935,Frost Gem,1872097
+13936,Earth Gem,8411981
+13937,Air Ruby,14286079
+13938,Air Sapphire,14286079
+13939,Air Emerald,14286079
+13940,Air Onyx,14286079
+13941,Air Amber,14286079
+13942,Earth Ruby,8411981
+13943,Earth Sapphire,8411981
+13944,Earth Emerald,8411981
+13945,Earth Onyx,8411981
+13946,Earth Amber,8411981
+13947,Fire Ruby,16341785
+13948,Fire Sapphire,16341785
+13949,Fire Emerald,16341785
+13950,Fire Onyx,16341785
+13951,Fire Amber,16341785
+13952,Frost Ruby,1872097
+13953,Frost Sapphire,1872097
+13954,Frost Emerald,1872097
+13955,Frost Onyx,1872097
+13956,Frost Amber,1872097
+13957,Hunting Party,-10044417
 13958,Shadowlands Season 3,-16711936
+13959,[PH] Radiant,-10044417
+13960,[PH] Radiant (2),-10044417
+13961,Cobalt Assembly Arcane Essences,-7820545
+13962,Tuskarr Feast Reagent,65280
+13963,Shadowlands Season 4,-16711936
+13964,Bronze,65280
+13965,Red,65280
+13966,Black,65280
+13967,Blue,65280
+13968,Green,65280

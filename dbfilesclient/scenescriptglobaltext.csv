@@ -539,12 +539,18 @@ AnimKitBoneSets =
 	RightHand = 7;
 	LeftHand = 8;
 	Jaw = 9;
+	FaceUpperIGC = 18;
+	FaceLowerIGC = 19;
+	FaceHairIGC = 20;
+	FaceBeardIGC = 21;
 	RightEye = 22;
 	LeftEye = 23;
 	RightUpperEyelid = 24;
 	LeftUpperEyelid = 25;
 	RightLowerEyelid = 26;
-	LeftLowerEyelid = 27;	
+	LeftLowerEyelid = 27;
+	RightWing = 28;	
+	LeftWing = 29;
 }
 
 -- Construct an animation table out of the 5 individual anim tables

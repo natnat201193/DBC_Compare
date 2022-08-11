@@ -293,6 +293,14 @@ Fill it to receive a full acorn of anima!",0,100,0,0,0,0,0,2052,0.1328,0.1367,44
 612,Anima,Anima,,Filling the Colossal Core with anima.,0,100,0,0,0,0,0,2131,0.13,0.13,0,3614118,3614119,3614121,3614120,0,-1,-1,-1,-1,-1,-16777216
 615,Manifested Torment,,,Coalesced energy of the suffering souls in the Maw.,0,100,0,0,0,0,1,3095,0.2,0.2,457610,449437,449458,449441,449439,0,-4341568,-16579580,-262145,-3024679,-722953,-16777216
 616,Applause,Applause,The crowd is displeased!,Don't lose the crowd!,0,100,0,0,0,0,0,22,0.1,0.1,449450,449447,449448,449431,449449,0,-16777216,-7237231,-1048802,-16777216,-16777216,-16777216
+619,Flight Energy,,,,0,100,100,0,0,0,0,2054,0.1328,0.1367,0,840432,840433,840435,840434,0,-1,-1,-1,-1,-1,-16777216
 622,Domination,,,Purge yourself before High Reaver Damaris can fully dominate you.,0,30,0,0,0,0,0,3079,0.1328,0.1367,653596,653593,796705,653597,653595,0,-1,-1,-16531713,-65794,-16717825,-16777216
 625,Proximity to the Keystone Reactant,,,How close you are to the keystone reactant.,0,100,0,0,0,0,2,2,0,0,457566,669469,669470,0,669471,0,-1,-1,-16716395,-16777216,-16723583,-16777216
+627,Free Will,,,,0,100,0,0,0,0,0,0,0,0,628130,533343,457317,3193610,457318,0,-1,-4738125,-817787,-162684,-7500403,-16777216
 630,Core Temperature,,,"When this meter reaches full, the Vigilant Guardian will Expose its core to cool it back down.",0,100,0,0,0,0,0,2562,0.15,0.15,457314,449447,3193607,449471,449449,0,-1,-1,-1,-1,-1,-16777216
+631,Vigor,Vigor,,"Dragonriding abilities consume Vigor.
+Vigor recharges slowly while on the ground.",0,3,6,0,0,0,0,17413,0.1328,0.1367,0,0,0,0,0,0,-1,-1,-13606754,-1,-1,-16777216
+632,Choking,,,You are choking on the airborne gasses released by insect nests.,0,100,0,0,0,0,0,23,0.1328,0.1367,458988,1059354,457302,0,462332,0,-1,-1,-1524156,-1,-1,-16777216
+633,Targets Surveyed,,,,0,100,100,0,0,0,0,2054,0.1328,0.1367,0,457301,457305,449451,449449,0,-1,-1,-1,-1,-1,-16777216
+636,Arcane Barrier,Arcane Energy,,Energy remaining in Khadgar's arcane barrier.,0,100,100,0,0,0,0,258,0.15,0.15,653596,457301,457302,457320,653595,0,-3882045,-15856120,-16522497,-11081217,-16733441,-16777216
+640,Captured Energy,,,Energy collected from creatures within the Azure Archives.,0,120,0,0,0,0,0,3223,0.13,0.13,0,1588828,1588826,0,1588827,0,-1,-1,-1,-2181,-1,-16777216

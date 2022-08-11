@@ -2458,10 +2458,17 @@ ID,Description_lang,Title_lang,ScenarioID,CriteriatreeID,RewardQuestID,RelatedSt
 4901,Mount the Trained Flayedwing to fly to the top of the falls.,Air Reinforcements,1931,91071,0,0,0,4,0,0,0
 4902,Survive Sylvanas' onslaught from the Maw.,Breakthrough,1931,90752,0,0,0,9,0,0,0
 4903,Fly through the aerial onslaught and arrive in Glitterfall Basin.,Bumpy Arrival,1931,91074,0,0,0,0,0,0,0
+4904,Complete the objective.,Test,1972,91086,0,0,0,0,0,0,0
 4907,Lead the assault against Torghast and breach the halls of The Sanctum of Domination.,The Jailer's Vanguard,1973,91961,0,0,0,0,0,0,0
 4908,Discover the fate of those imprisoned within The Torment Chambers and put an end to the Jailer's designs.,The Dark Bastille,1974,91965,0,0,0,0,0,0,0
 4909,Ascend the Jailer's tower and put an end to his attempts to scry into the dark beyond.,Shackles of Fate,1977,91969,0,0,0,0,0,0,0
 4911,Witness the results of the dark pact forged between The Jailer and The Dark Lady.,The Reckoning,1979,91973,0,0,0,0,0,0,0
+4912,Go talk to NPC 1,Boostland Step 1,1980,92314,0,0,0,0,0,0,0
+4915,Talk to NPC 1 a second time,Boostland Step 2,1980,92310,0,0,0,1,0,0,0
+4916,Talk to NPC 1 a third time,Boostland Step 3,1980,92312,0,0,0,2,0,0,0
+4917,[DNT]Defeat djaradin and construct the Obsidian Siege Forge.,[DNT]Break the Bulwark,1981,92316,0,0,0,0,0,0,0
+4918,[DNT]Construct the Obsidian Challenge to force out the djaradin leader!,[DNT]Crash the Camp,1981,92320,0,0,0,1,0,0,0
+4919,[DNT]Defeat the djaradin leader.,[DNT]Magmaking Darjonic,1981,92322,0,0,0,2,0,0,0
 4920,Wait while Firim turns on the teleporter,Wait,1982,0,0,0,0,0,0,0,0
 4921,Go through the teleporter,Enter the teleporter,1982,0,0,0,0,1,0,0,0
 4922,"Defeat the Boss, dude.",Defeat the Boss,1983,92402,0,0,0,0,0,0,0
@@ -2554,5 +2561,261 @@ ID,Description_lang,Title_lang,ScenarioID,CriteriatreeID,RewardQuestID,RelatedSt
 5018,So'leah seeks powerful relics for a nefarious purpose. Stop her!,Tazavesh: So'leah's Gambit,2032,94230,0,0,0,0,0,0,0
 5019,"Save souls, seek power, and defeat the Jailer's forces.",Ascend the Tower,2033,94286,0,0,0,0,0,0,291
 5020,Your deaths have attracted the Tarragrue! Get to the next floor before he does!,Hurry Up!,2033,94288,0,0,0,1,0,0,291
+5021,test,Step 1,2034,94290,0,0,0,0,0,0,0
 5022,Win favor with the powerful cartels of Tazavesh and locate So'leah!,Tazavesh: Streets of Wonder,2035,94332,62658,0,0,0,0,0,0
 5023,So'leah seeks powerful relics for a nefarious purpose. Stop her!,Tazavesh: So'leah's Gambit,2036,94338,62658,0,0,0,0,0,0
+5024,Guard the Obsidian Outcasts as they reach Dragonbane Keep.,Dragon Wagon,2037,95387,0,0,0,0,0,0,0
+5026,Clear out the entrance and establish a base camp.,Home on the Battlefield,2037,95388,0,0,0,1,0,0,0
+5028,Push across the battlefield and take out both Djaradin lieutenants.,The Big Push,2037,95391,0,0,0,2,0,0,0
+5034,Defeat the Grand Flame to open the fort.,Fighting Fire with Fire,2037,95412,0,0,0,3,0,0,0
+5035,Clear out the fort of whatever remains.,Controlled Burn,2037,95414,0,0,0,4,4,0,0
+5041,Defeat the protectors,Ambush!,2039,134028,0,0,0,0,0,0,0
+5042,Loot the chest,Treasure,2039,134030,0,0,0,1,0,0,0
+5043,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2040,134103,0,0,0,0,0,0,0
+5044,Clan Nokhud is making a final effort to waylay the Aylaag caravan!,Final Assault,2040,134051,66578,0,0,5,4,0,0
+5045,This is a scenario description,Step 1,2041,134085,0,0,0,0,0,0,0
+5046,Defeat Imbued creatures and Primalists.,Defeat Imbued Creatures,2042,134114,0,0,0,0,0,0,0
+5047,Defeat the Unleashed Elemental.,Containing the Elements,2042,134116,0,0,0,1,0,0,0
+5052,Defeat Imbued creatures and Primalists.,Defeat Imbued Creatures,2045,134135,0,0,0,0,0,0,0
+5053,Defeat the Unleashed Elemental.,Containing the Elements,2045,134137,0,0,0,1,0,0,0
+5055,Clan Nokhud is making a final effort to waylay the Aylaag caravan!,Final Assault,2040,134140,66578,0,0,5,4,0,0
+5056,Clan Nokhud is making a final effort to waylay the Aylaag caravan!,Final Assault,2040,134143,66578,0,0,5,4,0,0
+5058,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2040,134235,0,0,0,2,0,0,0
+5059,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2040,134270,0,0,0,4,0,0,0
+5060,The Nokhud have planned a larger ambush for the Aylaag caravan! Push them back!,Nokhud Ambush!,2040,134274,0,0,0,1,0,0,0
+5061,Clan Aylaag has begun to move to their next location and could use extra defense.,Nokhud Ambush!,2040,134272,0,0,0,3,0,0,0
+5064,Defeat Imbued creatures and Primalists.,Defeat Imbued Creatures,2049,134311,0,0,0,0,0,0,0
+5065,Defeat the Unleashed Elemental.,Containing the Elements,2049,134313,0,0,0,1,0,0,0
+5066,Step 1 Description,Track,2050,134481,0,0,0,0,0,0,0
+5067,Step 2 Description,Kill,2050,134483,0,0,0,1,0,0,0
+5068,[DNT][PH] Step 1 Description,Spawn Dude,2051,134866,0,0,0,0,0,0,0
+5069,[DNT][PH] Step 2 Description,Kill Dude,2051,134868,0,0,0,1,0,0,0
+5070,There is a lot of moose! Get rid of 'em!,Cull Moose,2052,134870,0,0,0,0,0,0,0
+5071,"Whoa there is a big dude now, kill 'em!",Defeat the Boss,2052,134872,0,0,0,1,0,0,0
+5074,Defeat Imbued creatures and Primalists.,Defeat Imbued Creatures,2054,135074,0,0,0,0,0,0,0
+5075,Defeat the Unleashed Elemental.,Containing the Elements,2054,135076,0,0,0,1,0,0,0
+5084,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2056,135292,0,0,0,0,0,0,0
+5085,The Primalists have planned a larger ambush for the Aylaag caravan! Push them back!,Primalist Ambush!,2056,0,0,0,0,1,0,0,0
+5086,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2056,135294,0,0,0,2,0,0,0
+5087,The Primalists have planned a larger ambush for the Aylaag caravan! Push them back!,Primalist Ambush!,2056,0,0,0,0,3,0,0,0
+5088,Clan Aylaag has begun to move to their next location and could use extra defense.,Defend Clan Aylaag,2056,0,0,0,0,4,0,0,0
+5089,The Primalists are making a final effort to waylay the Aylaag caravan!,Final Assault,2056,135296,66578,0,0,5,4,0,0
+5090,The Primalists are making a final effort to waylay the Aylaag caravan!,Final Assault,2056,135301,66578,0,0,5,4,0,0
+5091,The Primalists are making a final effort to waylay the Aylaag caravan!,Final Assault,2056,135303,66578,0,0,5,4,0,0
+5092,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2057,135288,0,0,0,0,0,0,0
+5097,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2057,135735,0,0,0,13,0,0,0
+5098,Hunt creatures around the plains.,Plains Hunt,2057,135745,0,0,0,1,0,0,634
+5100,Hunt beavers around the river.,River Hunt,2057,135761,0,0,0,6,0,0,634
+5101,Hunt creatures around the ravine.,Ravine Hunt,2057,135767,0,0,0,9,0,0,634
+5102,Find a way to stop and defeat Uranto.,Hunt Uranto,2057,135755,0,0,0,4,0,0,634
+5103,Find and defeat Norbett.,Hunt Norbett,2057,135765,0,0,0,8,0,0,634
+5104,Find and defeat Boolk.,Hunt Boolk,2057,135773,0,0,0,11,0,0,634
+5105,Find and defeat Sarana.,Hunt Sarana,2057,135775,0,0,0,12,0,0,634
+5106,Find and defeat Blitztusk.,Hunt Blitztusk,2057,135757,0,0,0,5,0,0,634
+5107,Clear the Singing Stone of the Angry Wind Eagles.,Clear the Singing Stone,2057,135759,0,0,0,3,0,0,634
+5111,Find and investigate creature tracks.,Investigate Tracks,2057,135836,0,0,0,2,0,0,634
+5112,Bring injured beaver kits to Shikaar healers.,Heal Injured Beaver Kits,2057,135835,0,0,0,7,0,0,634
+5113,Collect bones from Rockfang Ravine.,Bone Collector,2057,135834,0,0,0,10,0,0,634
+5114,Free Ohn'ahra from the clutches of Nokhud Clan!,The Nokhud Offensive,2059,135840,0,0,0,0,0,0,0
+5116,Free Ohn'ahra from the clutches of Nokhud Clan!,The Nokhud Offensive,2061,135845,0,0,0,0,0,0,0
+5119,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2062,135868,0,0,0,0,0,0,0
+5120,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2062,135870,0,0,0,13,0,0,0
+5121,Hunt beasts around the river to the north.,Northern River Hunt,2062,135872,0,0,0,1,0,0,0
+5122,Clean and collect Discarded Turtle Shells.,Discarded Turtle Shells,2062,135874,0,0,0,2,0,0,0
+5123,Clear out the Parched Broadhoof swarming the river.,Parched Broadhoof,2062,135876,0,0,0,3,0,0,0
+5124,Find and hunt Ergburk.,Hunt Ergburk,2062,135878,0,0,0,4,0,0,0
+5125,Hunt beasts in the western plains.,Western Plains Hunt,2062,135880,0,0,0,5,0,0,0
+5126,Free Trapped Thunderspine Calf from Deranged Hunter Traps.,Trapped Calves,2062,135882,0,0,0,6,0,0,0
+5127,Clear the western plains of the Encroaching Riverbeasts.,Encroaching Riverbeasts,2062,135884,0,0,0,7,0,0,0
+5128,Find and hunt Khomuur.,Hunt Khomuur,2062,135886,0,0,0,8,0,0,0
+5129,Hunt elementals in the western cave.,Western Cave Hunt,2062,135888,0,0,0,9,0,0,0
+5130,Rescue the Trapped Huntdogs.,Trapped Huntdogs,2062,135890,0,0,0,10,0,0,0
+5131,Clear out the Converging Concretions.,Converging Concretions,2062,135892,0,0,0,11,0,0,0
+5132,Find and hunt Rokzul.,Hunt Rokzul,2062,135894,0,0,0,12,0,0,0
+5133,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2063,135896,0,0,0,0,0,0,0
+5134,Hunt beasts around the river.,River Hunt,2063,135936,0,0,0,1,0,0,0
+5135,Rescue Dehydrated Ottuk Pups and bring them to the river.,Dehydrated Ottuk Pups,2063,135956,0,0,0,2,0,0,0
+5136,Clear the river of the Disruptive Corpsewings.,Disruptive Corpsewings,2063,135976,0,0,0,3,0,0,0
+5137,Find and hunt Zagdech.,Hunt Zagdech,2063,135996,0,0,0,4,0,0,0
+5138,Hunt beasts south of the river.,Southern Plains Hunt,2063,136016,0,0,0,5,0,0,0
+5139,Revive the injured Hunting Eagles.,Injured Hunting Eagles,2063,136036,0,0,0,6,0,0,0
+5140,Clear Restless Slyvern from the area south of the river.,Restless Slyvern,2063,136056,0,0,0,7,0,0,0
+5141,Find and hunt Kholdeg.,Hunt Kholdeg,2063,136076,0,0,0,8,0,0,0
+5142,Hunt beasts north of the river.,Northern Plains Hunt,2063,136094,0,0,0,9,0,0,0
+5143,Find and investigate creature tracks.,Investigate Tracks,2063,136114,0,0,0,10,0,0,0
+5144,Clear out Famished Proto-Drakes from the area north of the river.,Famished Proto-Drakes,2063,136134,0,0,0,11,0,0,0
+5145,Hunt Zumakh.,Hunt Zumakh,2063,136154,0,0,0,12,0,0,0
+5146,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2063,135916,0,0,0,13,0,0,0
+5147,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2064,135898,0,0,0,0,0,0,0
+5148,Hunt creatures around Apex Canopy.,Apex Canopy Hunt,2064,135938,0,0,0,1,0,0,0
+5149,Help the Clumsy Centaur get back on their feet!,Clumsy Centaur,2064,135958,0,0,0,2,0,0,0
+5150,Defend the Injured Foal.,Injured Foal,2064,135978,0,0,0,3,0,0,0
+5151,Defeat Honmor.,Hunt Honmor,2064,135998,0,0,0,4,0,0,0
+5152,Find and defeat Tomnu.,Hunt Tomnu,2064,136018,0,0,0,5,0,0,0
+5153,Hunt creatures around the northeast falls.,Northeast Falls Hunt,2064,136038,0,0,0,6,0,0,0
+5154,Bring the Drowning Foal to land!,Drowning Foal,2064,136058,0,0,0,7,0,0,0
+5155,Clear out the Intrusive Swogglets.,Intrusive Swogglets,2064,136078,0,0,0,8,0,0,0
+5156,Hunt elementals around Genesis Falls.,Genesis Falls Hunt,2064,136096,0,0,0,9,0,0,0
+5157,Collect the lost Shikaar equipment.,Lost Equipment,2064,136116,0,0,0,10,0,0,0
+5158,Clear out the Starving Proto-Drakes.,Starving Proto-Drakes,2064,136136,0,0,0,11,0,0,0
+5159,Find and defeat Uurtus.,Hunt Uurtus,2064,136156,0,0,0,12,0,0,0
+5160,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2064,135918,0,0,0,13,0,0,0
+5161,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2065,135900,0,0,0,0,0,0,0
+5162,Hunt Elementals and Hornswog in the eastern portion of Hornswog Hollow.,Eastern Hornswog Hollow Hunt,2065,135940,0,0,0,1,0,0,0
+5163,Revive the injured Huntdogs.,Injured Huntdogs,2065,135960,0,0,0,2,0,0,0
+5164,Clear out the Spiteful Snails.,Spiteful Snails,2065,135980,0,0,0,3,0,0,0
+5165,Defeat Galnmor.,Hunt Galnmor,2065,136000,0,0,0,4,0,0,0
+5166,Hunt Elementals and Hornswog in the western portion of Hornswog Hollow.,Western Hornswog Hollow Hunt,2065,136020,0,0,0,5,0,0,0
+5167,Find a way to free Hunters from the swarm of Rowdy Hornswog.,Swarmed Hunters,2065,136040,0,0,0,6,0,0,0
+5168,Clear out the Ruffian Hornswog.,Ruffian Hornswog,2065,136060,0,0,0,7,0,0,0
+5169,Defeat Salkii.,Hunt Salkii,2065,136080,0,0,0,8,0,0,0
+5170,Hunt elementals in the northern river area.,Northern River Hunt,2065,136098,0,0,0,9,0,0,0
+5171,Free imprisoned bakar and ohuna!,Water Prisons,2065,136118,0,0,0,10,0,0,0
+5172,Clear out the Expelled Earth Elementals.,Expelled Elementals,2065,136138,0,0,0,11,0,0,0
+5173,Find and defeat Borzgas.,Hunt Borzgas,2065,136158,0,0,0,12,0,0,0
+5174,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2065,135920,0,0,0,13,0,0,0
+5175,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2066,135902,0,0,0,0,0,0,0
+5176,Hunt beasts and dragonkin in the eastern Wild Preserve.,Eastern Preserve Hunt,2066,135942,0,0,0,2,0,0,0
+5177,Save Frightened Riverbeast Calves from the Hungry Proto-Whelps!,Hippo to Go,2066,135962,0,0,0,1,0,0,0
+5178,Defeat the invading Thunder Lizards.,Noisy Neighbors,2066,135982,0,0,0,3,0,0,0
+5179,Find and hunt Muugurv.,The Newt Guy,2066,136002,0,0,0,4,0,0,0
+5180,Hunt beasts and dragonkin in the western Wild Preserve.,Western Preserve Hunt,2066,136022,0,0,0,6,0,0,0
+5181,Revive Injured Hunters.,Wounded Honor,2066,136042,0,0,0,5,0,0,0
+5182,Defeat the intruding Fire Elementals.,Lava Intrusion,2066,136062,0,0,0,7,0,0,0
+5183,Find and hunt Gamgus.,Hot as Shell,2066,136082,0,0,0,8,0,0,0
+5184,Hunt dragonkin in the southern Wild Preserve.,Southern Preserve Hunt,2066,136100,0,0,0,10,0,0,0
+5185,Collect Fresh Meat from mangled corpses leftover by Proto-Drakes.,Back on the Menu,2066,136120,0,0,0,9,0,0,0
+5186,Stop the Infused Proto-Drakes assault.,Infused Assault,2066,136140,0,0,0,11,0,0,0
+5187,Find and hunt Degmakh.,Graceful Entry,2066,136160,0,0,0,12,0,0,0
+5188,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2066,135922,0,0,0,13,0,0,0
+5189,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2067,135904,0,0,0,0,0,0,0
+5190,Hunt creatures around the forked road.,Forked Road Hunt,2067,135944,0,0,0,1,0,0,0
+5191,Heal Injured Young Armoredon.,Injured Young Armoredon,2067,135964,0,0,0,2,0,0,0
+5192,Clear out the Rampaging Forest Giants.,Rampaging Forest Giants,2067,135984,0,0,0,3,0,0,0
+5193,Hunt Uurhilt.,Hunt Uurhilt,2067,136004,0,0,0,4,0,0,0
+5194,Hunt creatures in the southeast hunt area.,Southeast Hunt,2067,136024,0,0,0,5,0,0,0
+5195,Find a way to clear all the Horned Filcher Nests from the trees!,Filcher Nests,2067,136044,0,0,0,6,0,0,0
+5196,Clear out the Blaring Caprine.,Blaring Caprine,2067,136064,0,0,0,7,0,0,0
+5197,Waken and hunt Khuumog.,Hunt Khuumog,2067,136084,0,0,0,8,0,0,0
+5198,Hunt creatures in the southwest hunt area.,Southwest Hunt,2067,136102,0,0,0,9,0,0,0
+5199,Collect Vorquin Bones.,Vorquin Bones,2067,136122,0,0,0,10,0,0,0
+5200,Clear out the Agitated Horned Filtchers.,Agitated Horned Filtchers,2067,136142,0,0,0,11,0,0,0
+5201,Hunt Tenmod.,Hunt Tenmod,2067,136162,0,0,0,12,0,0,0
+5202,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2067,135924,0,0,0,13,0,0,0
+5203,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2068,135906,0,0,0,0,0,0,0
+5204,Hunt creatures west or on the frozen river.,Frozen River Hunt,2068,135946,0,0,0,1,0,0,0
+5205,Revive Injured Hunters.,Injured Hunters,2068,135966,0,0,0,2,0,0,0
+5206,Clear out the Rowdy Goats.,Rowdy Goats,2068,135986,0,0,0,3,0,0,0
+5207,Find and Hunt Moskhoi.,Hunt Moskhoi,2068,136006,0,0,0,4,0,0,0
+5208,Hunt creatures to the east of the frozen river.,East River Hunt,2068,136026,0,0,0,5,0,0,0
+5209,Free the trapped Ice Burrower Hatchlings!,Ice Burrower Hatchlings,2068,136046,0,0,0,6,0,0,0
+5210,Clear out the Raging Ice Burrowers.,Raging Ice Burrowers,2068,136066,0,0,0,7,0,0,0
+5211,Hunt Yaankhi.,Hunt Yaankhi,2068,136086,0,0,0,8,0,0,0
+5212,Hunt creatures in the hills east of the river.,Hills Hunt,2068,136104,0,0,0,9,0,0,0
+5213,Bring Lost Supplies back to Shikaar Supplies Masters.,Lost Supplies,2068,136124,0,0,0,10,0,0,0
+5214,Clear out the Berserk Yetis.,Berserk Yetis,2068,136144,0,0,0,11,0,0,0
+5215,Hunt Tevgai.,Hunt Tevgai,2068,136164,0,0,0,12,0,0,0
+5216,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2068,135926,0,0,0,13,0,0,0
+5217,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2069,135908,0,0,0,0,0,0,0
+5218,Hunt creatures west of the river.,West River Hunt,2069,135948,0,0,0,1,0,0,0
+5219,,[DNT]Interact,2069,135968,0,0,0,2,0,0,0
+5220,Clear out the Parched Shortcoat Bears.,Parched Shortcoats,2069,135988,0,0,0,3,0,0,0
+5221,Find and hunt Yamakh.,Hunt Yamakh,2069,136008,0,0,0,4,0,0,0
+5222,Hunt beavers and ottuks around the river.,River Hunt,2069,136028,0,0,0,5,0,0,0
+5223,Collect the lost Shikaar equipment.,Lost Equipment,2069,136048,0,0,0,6,0,0,0
+5224,Clear out the Vicious Crystalspine.,Vicious Crystalspine,2069,136068,0,0,0,7,0,0,0
+5225,Hunt Mantai.,Hunt Mantai,2069,136088,0,0,0,8,0,0,0
+5226,Hunt creatures east of the river.,East River Hunt,2069,136106,0,0,0,10,0,0,0
+5227,,[DNT]Interact,2069,136126,0,0,0,11,0,0,0
+5228,Clear out the Frantic Wildwater Ottuk.,Frantic Ottuk,2069,136146,0,0,0,12,0,0,0
+5229,Hunt Arkhuu.,Hunt Arkhuu,2069,136166,0,0,0,9,0,0,0
+5230,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2069,135928,0,0,0,13,0,0,0
+5231,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2070,135910,0,0,0,0,0,0,0
+5232,Hunt creatures around the lower Cascades.,Lower Cascades Hunt,2070,135950,0,0,0,1,0,0,0
+5233,Save the swarmed Huntdogs from the Swogglets.,Swarmed Huntdogs,2070,135970,0,0,0,2,0,0,0
+5234,Clear the Swarming Dismay Flies.,Swarming Dismay Flies,2070,135990,0,0,0,3,0,0,0
+5235,Find and defeat Melkhop.,Hunt Melkhop,2070,136010,0,0,0,4,0,0,0
+5236,Hunt creatures around the Southeast Cascades.,Southeast Cascades Hunt,2070,136030,0,0,0,5,0,0,0
+5237,Flip Overturned Hatchlings back onto their feet.,Overturned Hatchlings,2070,136050,0,0,0,6,0,0,0
+5238,Defeat the Towering Fickleshells.,Towering Fickleshells,2070,136070,0,0,0,7,0,0,0
+5239,Find and defeat Galzuda.,Hunt Galzuda,2070,136090,0,0,0,8,0,0,0
+5240,Hunt creatures around the Southwest Cascades.,Southwest Cascades Hunt,2070,136108,0,0,0,9,0,0,0
+5241,Destroy Winghunter Nests.,Winghunter Nests,2070,136128,0,0,0,10,0,0,0
+5242,Defeat the Scythid attacking the Creekside Grazers.,Raiding Scythid,2070,136148,0,0,0,11,0,0,0
+5243,Find and defeat Angen.,Hunt Angen,2070,136168,0,0,0,12,0,0,0
+5244,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2070,135930,0,0,0,13,0,0,0
+5245,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2071,135912,0,0,0,0,0,0,0
+5246,,[DNT]Step 2,2071,135952,0,0,0,1,0,0,0
+5247,,[DNT]Step 3,2071,135972,0,0,0,2,0,0,0
+5248,,[DNT]Step 4,2071,135992,0,0,0,3,0,0,0
+5249,,[DNT]Step 5,2071,136012,0,0,0,4,0,0,0
+5250,,[DNT]Step 6,2071,136032,0,0,0,5,0,0,0
+5251,,[DNT]Step 7,2071,136052,0,0,0,6,0,0,0
+5252,,[DNT]Step 8,2071,136072,0,0,0,7,0,0,0
+5253,,[DNT]Step 9,2071,136092,0,0,0,8,0,0,0
+5254,,[DNT]Step 10,2071,136110,0,0,0,9,0,0,0
+5255,,[DNT]Step 11,2071,136130,0,0,0,10,0,0,0
+5256,,[DNT]Step 12,2071,136150,0,0,0,11,0,0,0
+5257,,[DNT]Step 13,2071,136170,0,0,0,12,0,0,0
+5258,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2071,135932,0,0,0,13,0,0,0
+5259,Talk to Scout Tomul and blow the Grand Hunting Horn.,Begin the Hunt,2072,135914,0,0,0,0,0,0,0
+5260,Hunt creatures in the southern portion of the Wildlife Passage.,South Passage Hunt,2072,135954,0,0,0,1,0,0,0
+5261,,[DNT]Interact,2072,135974,0,0,0,2,0,0,0
+5262,Clear out the Destructive Proto-Drakes.,Destructive Proto-Drakes,2072,135994,0,0,0,3,0,0,0
+5263,Find and hunt Tsokorg.,Hunt Tsokorg,2072,136014,0,0,0,4,0,0,0
+5264,Hunt creatures in the upper portion of the Wildlife Passage.,Upper Passage Hunt,2072,136034,0,0,0,5,0,0,0
+5265,,[DNT]Interact,2072,136054,0,0,0,6,0,0,0
+5266,Clear out the Swarming Mountain Scarabs.,Swarming Mountain Scarabs,2072,136074,0,0,0,7,0,0,0
+5267,Hunt Molkeej.,Hunt Molkeej,2072,136174,0,0,0,8,0,0,0
+5268,Hunt creatures in the northern portion of the Wildlife Passage.,Northern Passage Hunt,2072,136112,0,0,0,9,0,0,0
+5269,Destroy Winghunter Nests.,Winghunter Nests,2072,136132,0,0,0,10,0,0,0
+5270,Clear out the Rampaging Wooly Ewe.,Rampaging Wooly Ewe,2072,136152,0,0,0,11,0,0,0
+5271,Hunt Diluu.,Hunt Diluu,2072,136172,0,0,0,12,0,0,0
+5272,Talk to Scout Tomul and blow the Grand Hunting Horn.,Conclude the Hunt,2072,135934,0,0,0,13,0,0,0
+5273,Free Ohn'ahra from the clutches of Nokhud Clan!,The Nokhud Offensive,2073,136372,0,0,0,0,0,0,0
+5274,Clear out Brackenhide Hollow!,Brackenhide Hollow,2074,136377,0,0,0,0,0,0,0
+5275,Clear out Brackenhide Hollow!,Brackenhide Hollow,2075,136382,0,0,0,0,0,0,0
+5276,Clear out Brackenhide Hollow!,Brackenhide Hollow,2076,136387,0,0,0,0,0,0,0
+5277,Investigate the Halls of Infusion.,Halls of Infusion,2077,136392,0,0,0,0,0,0,0
+5278,Investigate the Halls of Infusion.,Halls of Infusion,2078,136397,0,0,0,0,0,0,0
+5279,Investigate the Halls of Infusion.,Halls of Infusion,2079,136402,0,0,0,0,0,0,0
+5280,Clear out Neltharus.,Neltharus,2080,136407,0,0,0,0,0,0,0
+5281,Clear out Neltharus.,Neltharus,2081,136412,0,0,0,0,0,0,0
+5282,Clear out Neltharus.,Neltharus,2082,136417,0,0,0,0,0,0,0
+5283,Investigate the Ruby Life Pools.,Ruby Life Pools,2083,136422,0,0,0,0,0,0,0
+5284,Investigate the Ruby Life Pools.,Ruby Life Pools,2084,136426,0,0,0,0,0,0,0
+5285,Investigate the Ruby Life Pools.,Ruby Life Pools,2085,136430,0,0,0,0,0,0,0
+5286,Restore the Algeth'ar Academy.,Algeth'ar Academy,2086,136434,0,0,0,0,0,0,0
+5287,Restore the Algeth'ar Academy.,Algeth'ar Academy,2087,136439,0,0,0,0,0,0,0
+5288,Restore the Algeth'ar Academy.,Algeth'ar Academy,2088,136444,0,0,0,0,0,0,0
+5289,Investigate the Azure Vault.,The Azure Vault,2089,136452,0,0,0,0,0,0,0
+5290,Investigate the Azure Vault.,The Azure Vault,2090,136457,0,0,0,0,0,0,0
+5291,Investigate the Azure Vault.,The Azure Vault,2091,136462,0,0,0,0,0,0,0
+5292,Investigate Uldaman for the Discs of Tyr!,Uldaman: Legacy of Tyr,2092,136467,0,0,0,0,0,0,0
+5293,Investigate Uldaman for the Discs of Tyr!,Uldaman: Legacy of Tyr,2093,136473,0,0,0,0,0,0,0
+5294,Investigate Uldaman for the Discs of Tyr!,Uldaman: Legacy of Tyr,2094,136479,0,0,0,0,0,0,0
+5295,Stand close to the communal soup pot and wait for Big Kinook's instructions.,Kitchen Duty,2095,137471,0,0,0,0,0,0,663
+5299,"Salted Fish Scraps can be purchased from Jinkutuk, located east of the pot.",Something Salty,2096,137366,0,0,0,0,0,0,663
+5300,"Peppersmelt can be obtained from Jarii, located east of the pot.",Something Spicy,2097,137453,0,0,0,0,0,0,663
+5301,Dried Wyldermane Kelp can be found near the boats north of the pot.,Something Thick,2098,137455,0,0,0,0,0,0,663
+5302,You can purchase a Hunk o' Blubber from Jukarakikk in southwest Iskaara.,Something Fatty,2099,137457,0,0,0,0,0,0,663
+5303,"You can purchase the tea from Nappa, the innkeeper.",Something Fragrant,2100,137459,0,0,0,0,0,0,663
+5304,You can purchase Piping-Hot Orca Milk from Tuukanit in Iskaara's central tent.,Something Creamy,2101,137461,0,0,0,0,0,0,663
+5305,"You can obtain Ancheevies near Arv, west of the pot.",Ancheevies!,2102,137463,0,0,0,0,0,0,663
+5306,You can find bones on the leviathan carcass in southwest Iskaara.,Something Rich,2103,137465,0,0,0,0,0,0,663
+5309,You can catch Clubfish off the north coast of Iskaara.,Clubfishing,2106,137589,0,0,0,0,0,0,663
+5310,You can catch Grungles off the northeast coast of Iskaara.,Grungle Fishing,2107,137591,0,0,0,0,0,0,663
+5311,You can catch Iceback Sculpin off the northeast coast of Iskaara.,Iceback Sculpin Fishing,2108,137593,0,0,0,0,0,0,663
+5312,You can catch Lakkamuk Blennies off the northeast coast of Iskaara.,Blenny Fishing,2109,137595,0,0,0,0,0,0,663
+5313,You can catch Manasuckers off the northeast coast of Iskaara.,Manasucker Fishing,2110,137597,0,0,0,0,0,0,663
+5314,Tenderize the Rubbery Fish Head by beating it up.,Too Rubbery!,2111,137599,0,0,0,0,0,0,663
+5315,Tenderize the Not-So-Tender Morsel by beating it up.,Not So Tender!,2112,137601,0,0,0,0,0,0,663
+5316,Tenderize the Tough Carp by beating it up.,Too Tough!,2113,137603,0,0,0,0,0,0,663
+5317,Hop into the pot and stir!,Stir the Pot,2114,137605,0,0,0,0,0,0,663
+5318,Taste the soup and tell Big Kinook what it needs.,Soup Tasting,2115,137607,0,0,0,0,0,0,663
+5319,Speak with Big Kinook if you lose your soupervisor role and need to get it back.,Soupervisor,2116,137609,0,0,0,0,0,0,663
+5320,Kick those fish back into the pot!,Loss Prevention,2117,137611,0,0,0,0,0,0,663
+5321,Stomp on them before they ruin the soup!,Bittershell Hermits,2118,137613,0,0,0,0,0,0,663
+5322,Hop into the pot and stir!,Stir the Pot,2119,137692,0,0,0,0,0,0,663
+5323,Kick those fish back into the pot!,Loss Prevention,2120,137694,0,0,0,0,0,0,663
+5324,Stomp on them before they ruin the soup!,Bittershell Hermits,2121,137696,0,0,0,0,0,0,663

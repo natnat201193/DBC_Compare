@@ -307,7 +307,7 @@ ID,Name,Flags,SkyboxFileDataID,CelestialSkyboxFileDataID
 400,Argus NetherSky03 Engi,0,1713138,0
 401,Argus Pantheon Skybox EndRaid,0,1714327,0
 402,7ARG Raid Sky,0,1714365,0
-403,PLACEHOLDER Empty Skybox,15,1612982,0
+403,PLACEHOLDER Empty Skybox,11,1612982,0
 404,8KUL Sky,15,1720334,0
 405,8SWA WildLands,7,1720336,0
 406,8ZUL Zuldazar Dungeon City Of Gold ,7,1721776,0
@@ -321,7 +321,7 @@ ID,Name,Flags,SkyboxFileDataID,CelestialSkyboxFileDataID
 416,7XP Azerite BG,15,1829170,0
 417,Vindicaar_NetherSky01,2,1847083,0
 418,Vindicaar Skybox 01,2,1847083,0
-419,PLACEHOLDER Empty Skybox - Single Time of Day,14,1612982,0
+419,PLACEHOLDER Empty Skybox - Single Time of Day,10,1612982,0
 420,Lordaeron Scenario Skybox - Single Time of Day,14,1886107,0
 421,8XP Stormwind,14,1888477,0
 422,8KUL_Sky01,15,1937257,0
@@ -413,3 +413,20 @@ ID,Name,Flags,SkyboxFileDataID,CelestialSkyboxFileDataID
 612,9XP Stormwind Stormy,15,4234796,0
 613,9PRG Progenitor Sky,2,4235382,0
 614,9PRG Progenitor Raid Sky Cosmic Wing,8,4240479,0
+615,Sun Fog Test,6,1612982,1612983
+616,10CAN Main Biome Skybox,15,1344981,1612982
+617,10CAN Main Biome Skybox Atmosphere,15,1344981,1344981
+618,10CAN Clear Sky,11,4094170,0
+619,10HGL Highlands Sky,15,4421508,0
+620,10HGL Highlands Tundra Sky,15,4495238,0
+621,10HGL Highlands Forest Sky,15,4495239,0
+624,10CAN Volcanic,15,4505901,0
+626,10GSL PortalGroveSky01,11,4620830,0
+628,10GSL Sky01,11,4571842,0
+629,PortalGrove,0,4571842,0
+630,10DRG Sky,15,4579925,0
+631,10DRG Bronze Dragon Sky,14,4619773,0
+632,10GSL Sky02,10,4571842,0
+633,10XP Grasslands Storm,11,4662293,0
+634,10XP Storm,10,4662294,0
+635,10CAN Storm Sky,10,4662294,0

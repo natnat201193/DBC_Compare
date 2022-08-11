@@ -44,7 +44,7 @@ Brawl: Cooking: Impossible,Gathering Race,"- Gather ingredients around the farm,
 - Defeat the opposing faction's Thumper to gain their allegiance",17,887,0,0
 Brawl: Stocked House,Team Deathmatch,"- Team Deathmatch
 - 3 players per team
-- First two deaths on each team are instantly resurrected",18,905,0,0
+- First two deaths on each team are instantly resurrected",18,0,0,0
 Seething Shore,Collect Azerite,Large quantities of Azerite has been discovered off the coast of Feralas in a forgotten unexplored island now known as the Seething Shore.,19,894,0,0
 Brawl: Classic Ashran,Endless Epic Battleground,"- The battle in Ashran never ends!
 - Slay the opposing faction's leader and dominate events for rewards
@@ -70,3 +70,6 @@ Solo Shuffle: Maldraxxus Coliseum,Shuffled team arena matches,"- 6 players play 
 Solo Shuffle: Enigma Arena,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
 - Teams are shuffled at the end of each round
 - Solo player queues only",132,1073,0,0
+Brawl: Deepwind Detonation,Seek & Destroy,"-Pick up bomb at Market
+-Escort bomb to bases
+-Plant and defend",133,1075,0,0

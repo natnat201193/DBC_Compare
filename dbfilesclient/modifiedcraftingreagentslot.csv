@@ -1,28 +1,143 @@
-ID,Name_lang,Field_9_0_1_33978_001,PlayerConditionID
-12,,1,0
-16,Modify Item Level - Major,0,0
-17,Specify a Secondary Stat,0,0
-25,,0,0
-31,,0,0
-38,Bonus Effect,0,0
-39,Bonus Effect,0,0
-40,Bonus Effect,0,0
-41,Bonus Effect,0,0
-42,Bonus Effect,0,0
-43,Bonus Effect,0,0
-44,Bonus Effect,0,0
-45,Bonus Effect,0,0
-46,Modify Item Level - Minor,0,0
-47,,0,0
-48,,0,0
-49,,0,0
-50,,0,0
-67,Specify a Secondary Stat,0,0
-72,Specify a Secondary Stat,0,0
-73,Specify a Secondary Stat,0,0
-74,Specify a Secondary Stat,0,0
-75,Specify a Secondary Stat,0,0
-77,Modify Item Level - Minor,0,0
-78,Increase Rank,0,92156
-79,Add Progenitor Enhancement,0,95770
-110,Increase Rank,0,92156
+Name_lang,ID,Field_9_0_1_33978_001,PlayerConditionID,Field_10_0_0_44649_004
+,12,1,0,0
+Modify Item Level - Major,16,0,0,0
+Specify a Secondary Stat,17,0,0,0
+,31,0,0,0
+Modify Item Level - Minor,46,0,0,0
+,47,0,0,0
+,48,0,0,0
+,49,0,0,0
+,50,0,0,0
+Specify a Secondary Stat,67,0,0,0
+Specify a Secondary Stat,72,0,0,0
+Specify a Secondary Stat,73,0,0,0
+Specify a Secondary Stat,74,0,0,0
+Specify a Secondary Stat,75,0,0,0
+Modify Item Level - Minor,77,0,0,0
+Increase Rank,78,0,92156,0
+Add Progenitor Enhancement,79,0,95770,0
+For testing!,80,1,0,1
+Reagent slot for Draconium Ore,81,0,0,1
+Reagent slot for Primal Molten Alloy,82,0,0,1
+,83,0,0,1
+Reagent slot for Black Dragon Seared Alloy,84,0,0,1
+,85,0,0,1
+Just optional reagents w/o quality variation,86,0,0,0
+Just optional reagents with quality variation,87,0,0,0
+Optional reagents with and without quality variation,88,0,0,0
+Test finishing reagent (DNT),89,0,0,2
+Test finishing reagent Slot (DNT),90,0,0,2
+Alchemical Catalyst,91,2,0,2
+Wisp of Tyr,92,2,0,2
+Essence of Tyr,93,2,0,2
+Alchemical Catalyst,94,2,0,2
+,98,0,0,1
+,99,0,0,1
+,100,0,0,1
+,101,0,0,1
+,102,0,0,1
+,103,0,0,1
+,104,0,0,1
+,105,0,0,1
+,106,0,0,1
+,107,0,0,1
+,108,0,0,1
+Increase Rank,110,0,92156,0
+Infuse with Power,111,2,0,0
+Add Embellishment,112,0,0,0
+Reagent slot for Draconium Ore,114,0,0,1
+Empower with Training Matrix,116,0,0,0
+Reagent slot for Titanicium Ore,117,0,0,1
+Add Embellishment,123,0,0,0
+Quenching Fluid,124,2,0,2
+Customize Secondary Stats,125,2,0,0
+Infuse with Power,126,0,0,0
+,128,0,0,1
+,129,0,0,1
+,130,0,0,1
+,131,0,0,1
+,132,0,0,1
+,133,0,0,1
+,134,0,0,1
+,135,0,0,1
+,136,0,0,1
+,137,0,0,1
+,138,0,0,1
+,140,0,0,1
+,142,0,0,1
+,143,0,0,1
+,145,0,0,1
+,146,0,0,1
+,147,0,0,1
+,148,0,0,1
+,149,0,0,1
+,150,0,0,1
+,151,0,0,1
+,152,0,0,1
+,153,0,0,1
+,154,0,0,1
+,155,0,0,1
+,156,0,0,1
+,157,0,0,1
+,158,0,0,1
+,159,0,0,1
+,169,0,0,1
+,170,0,0,1
+,171,0,0,1
+,172,0,0,1
+,173,0,0,1
+,174,0,0,1
+,175,0,0,1
+,176,0,0,1
+,177,0,0,1
+Add Embellishment,178,0,0,0
+Add Embellishment,179,0,0,0
+Add Embellishment,180,0,0,0
+Embroidery Thread,181,2,0,2
+Polishing Cloth,182,2,0,2
+Add Embellishment,183,0,0,0
+Chain Oil (DNT),184,2,0,2
+Curing Agent (DNT),185,2,0,2
+,186,0,0,1
+,188,0,0,1
+Empower with Training Matrix,189,0,0,0
+,190,0,0,2
+Serene Ink,191,0,0,1
+Finishing Touches,192,0,0,2
+Secret Ingredient,193,0,0,2
+,194,0,0,1
+,195,0,0,1
+,196,0,0,1
+,197,0,0,1
+,198,0,0,1
+,199,0,0,1
+,200,0,0,1
+,201,0,0,1
+Darkmoon Sigil,202,0,0,0
+,203,0,0,1
+,204,0,0,1
+,205,0,0,1
+,206,0,0,1
+,207,0,0,1
+,208,0,0,1
+Flaming Ink,209,0,0,1
+Cosmic Ink,210,0,0,1
+Flourishing Ink,211,0,0,1
+Burnished Ink,212,0,0,1
+Serene Ink,213,0,0,1
+Serene Pigment,214,0,0,1
+Flourishing Pigment,215,0,0,1
+Flaming Pigment,216,0,0,1
+Shimmering Pigment,217,0,0,1
+Warm Rune,218,0,0,1
+Runed Writhebark,219,0,0,1
+,220,0,0,1
+Refinements (NYI Starts Locked),221,2,0,2
+Customize Crafting Stat,222,0,0,0
+Safety Components,223,0,0,0
+Amplify Secondary Stat,224,2,0,0
+Amplify Secondary Stat,225,0,0,0
+Add Embellishment,226,2,0,0
+Customize Secondary Stats,227,0,0,0
+Darkmoon Card of Fire,229,0,0,1
+Spare Parts,230,2,0,2

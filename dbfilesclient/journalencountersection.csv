@@ -4525,7 +4525,7 @@ $[!3,4,5,6 In the Normal and Heroic versions of the Ji-Kun encounter, using Flig
 7575,Renew,"Argent Confessor Paletress renews an ally, healing them every $66537t1 sec. for $66537d.",636,2,0,0,7576,2,0,0,0,135953,0,128,-1
 7576,Holy Fire,"Argent Confessor Paletress consumes a player in flames, inflicting Fire damage and inflicting additional Fire damage every $66538t2 sec. for $66538d.",636,3,0,0,7577,2,0,0,0,135972,0,192,-1
 7577,Summon Memory,"When Argent Confessor Paletress reaches 50% health remaining, she summons a creature from your past battles.",636,4,0,7757,0,2,0,0,0,136200,0,0,-1
-7578,Memory of the Past,,636,6,7577,7579,0,1,29525,0,0,0,1,0,-1
+7578,Memory of the Past,,636,6,7577,7579,0,1,175,0,0,0,1,0,-1
 7579,Waking Nightmare,"The Memory of the Past strikes fear in all players, inflicting periodic Shadow damage and causing them to flee in terror for $66552d.",636,7,7578,0,7580,2,0,0,0,136183,0,0,-1
 7580,Shadows of the Past,"The Memory of the Past shrouds a player in shadows of the past, inflicting Shadow damage and reducing attack and casting speeds by $66619s2% for $66619d.",636,8,7578,0,7581,2,0,0,0,237569,0,128,-1
 7581,Old Wounds,The Memory of the Past inflicts Physical damage to a player every second for $66620d.,636,9,7578,0,0,2,0,0,0,236268,0,0,-1
@@ -17374,15 +17374,15 @@ In Mythic Difficulty, Amarth gains applications of Tortured Echoes for each skel
 22281,Congealed Slime,,2403,25,22247,22282,0,1,95787,0,0,0,2,4096,0
 22282,Section 21,,2403,26,22281,0,22283,2,0,0,333737,0,2,0,0
 22283,Section 21,,2403,27,22281,0,0,2,0,0,321935,0,2,0,0
-22284,General Kaal,,2425,101,22756,22287,22288,1,95721,0,0,0,1,0,-1
-22286,Section 9,,2425,103,22284,23010,22812,2,0,0,333387,0,2,0,0
-22287,Section 10,,2425,102,22284,0,22286,2,0,0,329636,0,0,0,-1
-22288,General Grashaal,,2425,115,22756,22290,22790,1,97069,0,0,0,1,0,-1
-22290,Section 11,,2425,116,22288,0,22585,2,0,0,329808,0,0,0,-1
+22284,General Kaal,,2425,99,22756,22287,22288,1,95721,0,0,0,1,0,-1
+22286,Section 9,,2425,101,22284,22820,22812,2,0,0,333387,0,2,0,0
+22287,Section 10,,2425,100,22284,0,22286,2,0,0,329636,0,0,0,-1
+22288,General Grashaal,,2425,112,22756,22290,22790,1,97069,0,0,0,1,0,-1
+22290,Section 11,,2425,113,22288,0,22585,2,0,0,329808,0,0,0,-1
 22297,Plaguebound Devoted,"Summoned at health thresholds 66%, 33%, and continually crawl from the floor while Margave Stradama is under 33%.",2404,11,0,0,0,1,96988,0,0,0,2,4096,0
 22298,Section 13,,2390,15,0,0,0,2,0,0,320644,0,0,0,-1
 22299,Section 14,,2390,14,0,0,22298,2,0,0,331618,0,0,0,-1
-22300,Section 13,,2425,124,22288,22678,22832,2,0,0,334094,0,2,0,0
+22300,Section 13,,2425,121,22288,22678,22832,2,0,0,334094,0,2,0,0
 22302,Section 17,"$[!1,2,8,23
 
 Azules only uses this ability while Enraged.$]",2399,19,21639,0,0,2,0,0,323636,0,2,0,0
@@ -17411,9 +17411,9 @@ On Mythic difficulties, the detonation hits all players in the encounter.$]",241
 22320,Section 23,,2410,13,22062,0,22321,2,0,0,334961,0,0,0,-1
 22321,Section 24,,2410,14,22062,0,0,2,0,0,335000,0,0,0,-1
 22322,Section 14,,2428,12,22180,0,0,2,0,0,332375,0,2,8,0
-22323,Section 14,,2425,108,22284,22629,22324,2,0,0,334765,0,0,0,-1
-22324,Section 15,,2425,110,22284,23012,22589,2,0,0,334929,0,0,1,-1
-22325,Section 17,,2425,130,22288,0,22677,2,0,0,334500,0,0,0,-1
+22323,Section 14,,2425,105,22284,22629,22324,2,0,0,334765,0,0,0,-1
+22324,Section 15,,2425,107,22284,23012,22589,2,0,0,334929,0,0,1,-1
+22325,Section 17,,2425,127,22288,0,22677,2,0,0,334500,0,0,0,-1
 22329,Section 27,,2409,11,22029,0,0,2,0,0,335072,0,1,0,-1
 22330,Section 31,,2422,32,21952,0,22005,2,0,0,333002,0,3,192,0
 22331,Section 9,,2429,11,22309,0,22334,2,0,0,334404,0,0,4,-1
@@ -17585,8 +17585,8 @@ $bullet;Nurgash's |cFF2959D3|Hspell:338863|h[Stone Stomp]|h|r deals high damage 
 22484,Section 15,,2390,11,21615,0,21616,2,0,0,339415,0,2,4112,0
 22485,Section 28,,2429,26,22344,0,0,2,0,0,339639,0,2,12,0
 22486,Section 12,,2417,5,0,22508,21903,2,0,0,339573,0,2,4096,0
-22489,Section 23,,2425,118,22585,22630,22490,2,0,0,339690,0,0,0,-1
-22490,Section 22,,2425,120,22585,0,0,2,0,0,339728,0,0,0,-1
+22489,Section 23,,2425,115,22585,22630,22490,2,0,0,339690,0,0,0,-1
+22490,Section 22,,2425,117,22585,0,0,2,0,0,339728,0,0,0,-1
 22493,Section 30,,2420,40,21983,0,22566,2,0,0,331527,0,2,16,0
 22494,Azoras,,2399,12,0,22495,21639,1,93471,0,0,0,3,4096,0
 22495,Section 17,,2399,13,22494,0,22496,2,0,0,342654,0,0,0,-1
@@ -17681,8 +17681,8 @@ On Mythic Raid difficulty, the target is attacked by two images of their |cFF295
 22582,Section 5,,2393,11,22101,22662,22583,2,0,0,342074,0,0,0,-1
 22583,Section 5,"$[!16On Mythic difficulty, the effects of Echoing Screech are only visible while affected by |cFF2959D3|Hspell:341489|h[Bloodlight]|h|r.$]",2393,14,22101,22758,22374,2,0,0,342863,0,2,8,0
 22584,Section 23,,2393,5,0,22757,22101,2,0,0,341684,0,2,4128,0
-22585,Section 25,,2425,117,22288,22489,22826,2,0,0,339645,0,2,33,0
-22589,Section 29,,2425,113,22284,0,22676,2,0,0,342256,0,2,4096,0
+22585,Section 25,,2425,114,22288,22489,22826,2,0,0,339645,0,2,33,0
+22589,Section 29,,2425,110,22284,0,22676,2,0,0,342256,0,2,4096,0
 22590,Section 24,,2420,14,22573,0,0,2,0,0,335322,0,2,4097,0
 22591,Section 24,,2420,21,22576,0,21979,2,0,0,335322,0,2,4097,0
 22592,Container of Bottled Anima,"The Container of Bottled Anima governs the power of Lady Inerva Darkvein's Bottled Anima ability.
@@ -17741,9 +17741,9 @@ Lady Inerva Darkvein uses this ability when the Container of Concentrated Anima 
 22628,Simple Geometry,"$[!16In Mythic Raid difficulty, Sins and Suffering summons an additional Sins of the Past. Players must link all four orbs with the three beams of |cFF2959D3|Hspell:324983|h[Shared Suffering]|h|r.$]",2420,34,22599,0,22600,2,0,0,0,3610509,2,4096,0
 22629,Section 30,"$[!16
 
-In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]",2425,109,22323,0,0,2,0,0,334771,0,0,0,-1
-22630,Section 30,,2425,119,22489,0,0,2,0,0,339693,0,0,0,-1
-22631,Section 31,,2425,123,22288,0,22300,2,0,0,342425,0,0,1,-1
+In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]",2425,106,22323,0,0,2,0,0,334771,0,0,0,-1
+22630,Section 30,,2425,116,22489,0,0,2,0,0,339693,0,0,0,-1
+22631,Section 31,,2425,120,22288,0,22300,2,0,0,342425,0,0,1,-1
 22632,Tank,"$bullet;The |cFF2959D3|Hspell:322921|h[Archon's Spear]|h|r remains locked until all orbs of |cFF2959D3|Hspell:330683|h[Raw Anima]|h|r are returned to it.
 $bullet;You must hit Devos with the |cFF2959D3|Hspell:322921|h[Archon's Spear]|h|r to bring her back down to the platform when she takes to the air.",2412,2,21818,0,22634,3,0,0,0,0,2,1,3
 22633,Healer,"$bullet;When Devos activates the Anima Conduit, your party will take a large amount of damage from the |cFF2959D3|Hspell:323011|h[Unleashed Anima]|h|r.
@@ -17773,9 +17773,9 @@ $bullet;When Sathel the Accursed uses |cFF2959D3|Hspell:320293|h[One with Death]
 22671,Section 5,,2393,25,22165,0,0,2,0,0,345425,0,0,16,-1
 22672,Section 46,,2422,58,22395,22673,0,2,0,0,338600,0,3,0,0
 22673,Section 47,,2422,59,22672,0,0,2,0,0,337865,0,3,16,0
-22676,Section 48,,2425,114,22284,0,0,2,0,0,336212,0,2,32,0
-22677,Section 47,,2425,131,22288,0,0,2,0,0,336212,0,2,0,0
-22678,Section 46,,2425,125,22300,0,0,2,0,0,334130,0,0,0,-1
+22676,Section 48,,2425,111,22284,0,0,2,0,0,336212,0,2,32,0
+22677,Section 47,,2425,128,22288,0,0,2,0,0,336212,0,2,0,0
+22678,Section 46,,2425,122,22300,0,0,2,0,0,334130,0,0,0,-1
 22681,Stage One: Kaal's Assault,"Players face Kaal, as Grashaal flies above the battlefield. 
 
 At 50% health, Kaal enters |cFF2959D3|Hspell:329636|h[Hardened Stone Form]|h|r and Stone Legion Commandos launch an aerial assault.
@@ -17783,126 +17783,125 @@ At 50% health, Kaal enters |cFF2959D3|Hspell:329636|h[Hardened Stone Form]|h|r a
 Prince Renathal casts |cFF2959D3|Hspell:332683|h[Shattering Blast]|h|r upon reaching full mana from retrieved |cFF2959D3|Hspell:332393|h[Anima Orbs]|h|r, obliterating Kaal's protective form.",2425,5,0,22682,22718,0,0,0,0,0,1,0,-1
 22682,General Kaal,,2425,6,22681,22683,22690,1,95721,0,0,0,0,0,-1
 22683,Section 10,,2425,7,22682,0,22813,2,0,0,329636,0,0,0,-1
-22685,Section 9,,2425,69,22729,23009,22815,2,0,0,333387,0,2,0,0
-22686,Section 14,,2425,13,22682,22687,22688,2,0,0,334765,0,0,0,-1
+22685,Section 9,,2425,68,22729,23009,22815,2,0,0,333387,0,2,0,0
+22686,Section 14,,2425,12,22682,22687,22688,2,0,0,334765,0,0,0,-1
 22687,Section 30,"$[!16
 
-In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]",2425,14,22686,0,0,2,0,0,334771,0,0,0,-1
-22688,Section 15,,2425,15,22682,23013,22689,2,0,0,334929,0,0,1,-1
-22689,Section 29,,2425,18,22682,0,0,2,0,0,342256,0,2,4096,0
-22690,General Grashaal,,2425,19,22681,22691,22760,1,97069,0,0,0,0,0,-1
-22691,Section 25,,2425,20,22690,22692,22822,2,0,0,339645,0,2,33,0
-22692,Section 23,,2425,21,22691,22693,22694,2,0,0,339690,0,0,0,-1
-22693,Section 30,,2425,22,22692,0,0,2,0,0,339693,0,0,0,-1
-22694,Section 22,,2425,23,22691,0,0,2,0,0,339728,0,0,0,-1
-22695,Section 45,,2425,26,22690,0,0,2,0,0,343063,0,0,0,-1
+In Mythic difficulty, each application of |cFF2959D3|Hspell:334771|h[Heart Hemorrhage]|h|r increases its duration.$]",2425,13,22686,0,0,2,0,0,334771,0,0,0,-1
+22688,Section 15,,2425,14,22682,23013,22689,2,0,0,334929,0,0,1,-1
+22689,Section 29,,2425,17,22682,0,0,2,0,0,342256,0,2,4096,0
+22690,General Grashaal,,2425,18,22681,22691,22760,1,97069,0,0,0,0,0,-1
+22691,Section 25,,2425,19,22690,22692,22822,2,0,0,339645,0,2,33,0
+22692,Section 23,,2425,20,22691,22693,22694,2,0,0,339690,0,0,0,-1
+22693,Section 30,,2425,21,22692,0,0,2,0,0,339693,0,0,0,-1
+22694,Section 22,,2425,22,22691,0,0,2,0,0,339728,0,0,0,-1
+22695,Section 45,,2425,25,22690,0,0,2,0,0,343063,0,0,0,-1
 22718,Stage Two: Grashaal's Blitz,"Players face Grashaal, as Kaal flies above the the battlefield. 
 
 At 50% health,Grashaal enters |cFF2959D3|Hspell:329636|h[Hardened Stone Form]|h|r and Stone Legion Commandos launch an aerial assault.
 
-Prince Renathal casts |cFF2959D3|Hspell:332683|h[Shattering Blast]|h|r upon reaching full mana from retrieved |cFF2959D3|Hspell:332393|h[Anima Orbs]|h|r, obliterating Grashaal's protective form.",2425,51,0,22719,22756,0,0,0,0,0,0,0,-1
-22719,General Grashaal,,2425,52,22718,22720,22729,1,97069,0,0,0,1,0,-1
-22720,Section 11,,2425,53,22719,0,22721,2,0,0,329808,0,0,0,-1
-22721,Section 25,,2425,54,22719,22722,22824,2,0,0,339645,0,2,33,0
-22722,Section 23,,2425,55,22721,22723,22724,2,0,0,339690,0,0,0,-1
-22723,Section 30,,2425,56,22722,0,0,2,0,0,339693,0,0,0,-1
-22724,Section 22,,2425,57,22721,0,0,2,0,0,339728,0,0,0,-1
-22725,Section 31,,2425,60,22719,0,22726,2,0,0,342425,0,0,1,-1
-22726,Section 13,,2425,61,22719,22727,22828,2,0,0,334094,0,2,0,0
-22727,Section 46,,2425,62,22726,0,0,2,0,0,334130,0,0,0,-1
-22728,Section 17,,2425,67,22719,0,0,2,0,0,334500,0,0,0,-1
-22729,General Kaal,,2425,68,22718,22685,22773,1,95721,0,0,0,1,0,-1
-22732,Section 29,,2425,74,22729,0,22733,2,0,0,342256,0,2,4096,0
-22733,Section 46,,2425,75,22729,0,0,2,0,0,343086,0,0,32,-1
-22751,Stone Legion Skirmisher,,2425,133,22790,22752,0,1,96696,0,0,0,3,4096,0
-22752,Section 28,,2425,134,22751,0,22753,2,0,0,342253,0,2,4096,0
-22753,Section 44,,2425,135,22751,0,0,2,0,0,342985,0,2,4096,0
-22754,Prince Renathal,,2425,49,22681,22755,0,1,94910,0,0,0,1,0,-1
-22755,Section 48,,2425,50,22754,0,0,2,0,0,332683,0,1,0,-1
+Prince Renathal casts |cFF2959D3|Hspell:332683|h[Shattering Blast]|h|r upon reaching full mana from retrieved |cFF2959D3|Hspell:332393|h[Anima Orbs]|h|r, obliterating Grashaal's protective form.",2425,50,0,22719,22756,0,0,0,0,0,0,0,-1
+22719,General Grashaal,,2425,51,22718,22720,22729,1,97069,0,0,0,1,0,-1
+22720,Section 11,,2425,52,22719,0,22721,2,0,0,329808,0,0,0,-1
+22721,Section 25,,2425,53,22719,22722,22824,2,0,0,339645,0,2,33,0
+22722,Section 23,,2425,54,22721,22723,22724,2,0,0,339690,0,0,0,-1
+22723,Section 30,,2425,55,22722,0,0,2,0,0,339693,0,0,0,-1
+22724,Section 22,,2425,56,22721,0,0,2,0,0,339728,0,0,0,-1
+22725,Section 31,,2425,59,22719,0,22726,2,0,0,342425,0,0,1,-1
+22726,Section 13,,2425,60,22719,22727,22828,2,0,0,334094,0,2,0,0
+22727,Section 46,,2425,61,22726,0,0,2,0,0,334130,0,0,0,-1
+22728,Section 17,,2425,66,22719,0,0,2,0,0,334500,0,0,0,-1
+22729,General Kaal,,2425,67,22718,22685,22773,1,95721,0,0,0,1,0,-1
+22732,Section 29,,2425,72,22729,0,22733,2,0,0,342256,0,2,4096,0
+22733,Section 46,,2425,73,22729,0,0,2,0,0,343086,0,0,32,-1
+22751,Stone Legion Skirmisher,,2425,130,22790,22752,0,1,96696,0,0,0,3,4096,0
+22752,Section 28,,2425,131,22751,0,22753,2,0,0,342253,0,2,4096,0
+22753,Section 44,,2425,132,22751,0,0,2,0,0,342985,0,2,4096,0
+22754,Prince Renathal,,2425,48,22681,22755,0,1,94910,0,0,0,1,0,-1
+22755,Section 48,,2425,49,22754,0,0,2,0,0,332683,0,1,0,-1
 22756,Stage Three: Unified Offensive,"Kaal and Grashaal attack the party together. 
 
-Upon the death of one of the Generals, the other General will gain |cFF2959D3|Hspell:336212|h[Soldier's Oath]|h|r.",2425,100,0,22284,0,0,0,0,0,0,0,0,-1
+Upon the death of one of the Generals, the other General will gain |cFF2959D3|Hspell:336212|h[Soldier's Oath]|h|r.",2425,98,0,22284,0,0,0,0,0,0,0,0,-1
 22757,Section 23,,2393,6,22584,0,22563,2,0,0,341489,0,2,4096,0
 22758,Section 5,,2393,15,22583,22759,0,2,0,0,342923,0,0,0,-1
 22759,Section 5,,2393,16,22758,0,0,2,0,0,340324,0,0,0,-1
-22760,Stone Legion Forces,,2425,27,22681,22761,22754,0,0,0,0,0,0,0,-1
-22761,Stone Legion Skirmisher,,2425,28,22760,22762,23101,1,96696,0,0,0,3,4096,0
-22762,Section 28,,2425,29,22761,0,22763,2,0,0,342253,0,2,4096,0
-22763,Section 44,,2425,30,22761,0,0,2,0,0,342985,0,2,4096,0
-22769,Section 42,,2425,43,22793,0,0,2,0,0,332412,0,2,4096,0
-22772,Stone Legion Commando,,2425,89,22773,22799,0,1,96699,0,0,0,1,0,-1
-22773,Stone Legion Forces,,2425,76,22718,22774,22788,0,0,0,0,0,0,0,-1
-22774,Stone Legion Skirmisher,,2425,77,22773,22775,22777,1,96696,0,0,0,3,4096,0
-22775,Section 28,,2425,78,22774,0,22776,2,0,0,342253,0,2,4096,0
-22776,Section 44,,2425,79,22774,0,0,2,0,0,342985,0,2,4096,0
-22777,Stone Legion Goliath,,2425,80,22773,22778,22772,1,95707,0,0,0,1,0,-1
-22778,Section 38,,2425,81,22777,22779,22780,2,0,0,342694,0,2,0,0
-22779,Section 39,,2425,82,22778,0,0,2,0,0,339885,0,2,0,0
-22780,Section 40,,2425,83,22777,22781,22783,2,0,0,342697,0,2,4096,0
-22781,Section 41,,2425,84,22780,22782,0,2,0,0,342698,0,2,4096,0
-22782,Section 42,,2425,85,22781,0,0,2,0,0,332412,0,2,4096,0
-22783,Section 43,,2425,86,22777,0,22840,2,0,0,342733,0,0,4096,-1
-22784,Section 42,,2425,88,22777,0,0,2,0,0,343898,0,0,0,-1
-22788,Prince Renathal,,2425,98,22718,22789,0,1,94910,0,0,0,1,0,-1
-22789,Section 48,,2425,99,22788,0,0,2,0,0,332683,0,1,0,-1
-22790,Stone Legion Forces,,2425,132,22756,22751,0,0,0,0,0,0,2,4096,0
-22791,Stone Legion Commando,,2425,40,22760,22792,0,1,96699,0,0,0,1,0,-1
-22792,Section 101,,2425,41,22791,22793,22794,2,0,0,342647,0,3,0,0
-22793,Section 102,,2425,42,22792,22769,0,2,0,0,332406,0,3,0,0
-22794,Section 103,,2425,44,22791,22795,22796,2,0,0,342648,0,3,4096,0
-22795,Section 104,,2425,45,22794,0,0,2,0,0,342655,0,3,4096,0
-22796,Section 107,,2425,46,22791,22797,22798,2,0,0,340037,0,3,4096,0
-22797,Section 106,,2425,47,22796,0,0,2,0,0,340038,0,3,4096,0
-22798,Section 105,,2425,48,22791,0,0,2,0,0,336231,0,1,0,-1
-22799,Section 101,,2425,90,22772,22800,22801,2,0,0,342647,0,3,0,0
-22800,Section 102,,2425,91,22799,23152,0,2,0,0,332406,0,3,0,0
-22801,Section 103,,2425,93,22772,22802,22803,2,0,0,342648,0,3,4096,0
-22802,Section 104,,2425,94,22801,0,0,2,0,0,342655,0,3,4096,0
-22803,Section 107,,2425,95,22772,22804,22805,2,0,0,340037,0,3,4096,0
-22804,Section 106,,2425,96,22803,0,0,2,0,0,340038,0,3,4096,0
-22805,Section 105,,2425,97,22772,0,0,2,0,0,336231,0,1,0,-1
+22760,Stone Legion Forces,,2425,26,22681,22761,22754,0,0,0,0,0,0,0,-1
+22761,Stone Legion Skirmisher,,2425,27,22760,22762,23101,1,96696,0,0,0,3,4096,0
+22762,Section 28,,2425,28,22761,0,22763,2,0,0,342253,0,2,4096,0
+22763,Section 44,,2425,29,22761,0,0,2,0,0,342985,0,2,4096,0
+22769,Section 42,,2425,42,22793,0,0,2,0,0,332412,0,2,4096,0
+22772,Stone Legion Commando,,2425,87,22773,22799,0,1,96699,0,0,0,1,0,-1
+22773,Stone Legion Forces,,2425,74,22718,22774,22788,0,0,0,0,0,0,0,-1
+22774,Stone Legion Skirmisher,,2425,75,22773,22775,22777,1,96696,0,0,0,3,4096,0
+22775,Section 28,,2425,76,22774,0,22776,2,0,0,342253,0,2,4096,0
+22776,Section 44,,2425,77,22774,0,0,2,0,0,342985,0,2,4096,0
+22777,Stone Legion Goliath,,2425,78,22773,22778,22772,1,95707,0,0,0,1,0,-1
+22778,Section 38,,2425,79,22777,22779,22780,2,0,0,342694,0,2,0,0
+22779,Section 39,,2425,80,22778,0,0,2,0,0,339885,0,2,0,0
+22780,Section 40,,2425,81,22777,22781,22783,2,0,0,342697,0,2,4096,0
+22781,Section 41,,2425,82,22780,22782,0,2,0,0,342698,0,2,4096,0
+22782,Section 42,,2425,83,22781,0,0,2,0,0,332412,0,2,4096,0
+22783,Section 43,,2425,84,22777,0,22840,2,0,0,342733,0,0,4096,-1
+22784,Section 42,,2425,86,22777,0,0,2,0,0,343898,0,0,0,-1
+22788,Prince Renathal,,2425,96,22718,22789,0,1,94910,0,0,0,1,0,-1
+22789,Section 48,,2425,97,22788,0,0,2,0,0,332683,0,1,0,-1
+22790,Stone Legion Forces,,2425,129,22756,22751,0,0,0,0,0,0,2,4096,0
+22791,Stone Legion Commando,,2425,39,22760,22792,0,1,96699,0,0,0,1,0,-1
+22792,Section 101,,2425,40,22791,22793,22794,2,0,0,342647,0,3,0,0
+22793,Section 102,,2425,41,22792,22769,0,2,0,0,332406,0,3,0,0
+22794,Section 103,,2425,43,22791,22795,22796,2,0,0,342648,0,3,4096,0
+22795,Section 104,,2425,44,22794,0,0,2,0,0,342655,0,3,4096,0
+22796,Section 107,,2425,45,22791,22797,22798,2,0,0,340037,0,3,4096,0
+22797,Section 106,,2425,46,22796,0,0,2,0,0,340038,0,3,4096,0
+22798,Section 105,,2425,47,22791,0,0,2,0,0,336231,0,1,0,-1
+22799,Section 101,,2425,88,22772,22800,22801,2,0,0,342647,0,3,0,0
+22800,Section 102,,2425,89,22799,23152,0,2,0,0,332406,0,3,0,0
+22801,Section 103,,2425,91,22772,22802,22803,2,0,0,342648,0,3,4096,0
+22802,Section 104,,2425,92,22801,0,0,2,0,0,342655,0,3,4096,0
+22803,Section 107,,2425,93,22772,22804,22805,2,0,0,340037,0,3,4096,0
+22804,Section 106,,2425,94,22803,0,0,2,0,0,340038,0,3,4096,0
+22805,Section 105,,2425,95,22772,0,0,2,0,0,336231,0,1,0,-1
 22806,Section 30,,2429,29,22342,0,0,2,0,0,343259,0,0,0,-1
 22807,Section 5,,2392,16,22990,0,21573,2,0,0,334488,0,0,0,-1
 22808,Section 109,"$[!16
 
-In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,17,22688,0,0,2,0,0,343881,0,2,1,0
+In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,16,22688,0,0,2,0,0,343881,0,2,1,0
 22809,Section 108,"$[!16
 
-In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,112,22324,0,0,2,0,0,343881,0,2,1,0
+In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,109,22324,0,0,2,0,0,343881,0,2,1,0
 22810,Section 5,,2393,9,22101,22811,22582,2,0,0,330711,0,0,32,-1
 22811,Section 5,,2393,10,22810,0,0,2,0,0,340324,0,0,0,-1
-22812,Section 110,,2425,106,22284,22821,22323,2,0,0,344230,0,2,0,0
-22813,Section 9,,2425,8,22682,23011,22814,2,0,0,333387,0,2,0,0
-22814,Section 110,,2425,11,22682,22817,22686,2,0,0,344230,0,2,0,0
-22815,Section 110,,2425,72,22729,22819,22732,2,0,0,344230,0,2,0,0
+22812,Section 110,,2425,103,22284,22821,22323,2,0,0,344230,0,2,0,0
+22813,Section 9,,2425,8,22682,22816,22814,2,0,0,333387,0,2,0,0
+22814,Section 110,,2425,10,22682,22817,22686,2,0,0,344230,0,2,0,0
+22815,Section 110,,2425,70,22729,22819,22732,2,0,0,344230,0,2,0,0
 22816,Section 114,"$[!16
 
-In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,10,22813,0,0,2,0,0,333913,0,2,0,0
-22817,Section 115,,2425,12,22814,0,0,2,0,0,333913,0,2,8192,0
-22818,Section 113,,2425,71,22685,0,0,2,0,0,333913,0,2,8192,0
-22819,Section 114,,2425,73,22815,0,0,2,0,0,333913,0,2,8192,0
+In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,9,22813,0,0,2,0,0,333913,0,2,0,0
+22817,Section 115,,2425,11,22814,0,0,2,0,0,333913,0,2,8192,0
+22819,Section 114,,2425,71,22815,0,0,2,0,0,333913,0,2,8192,0
 22820,Section 112,"$[!16
 
-In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,105,22286,0,0,2,0,0,333913,0,2,0,0
-22821,Section 113,,2425,107,22812,0,0,2,0,0,333913,0,2,8192,0
-22822,Section 116,,2425,24,22690,22823,22695,2,0,0,339690,0,2,33,0
-22823,Section 117,,2425,25,22822,0,0,2,0,0,339693,0,2,33,0
-22824,Section 118,,2425,58,22719,22825,22725,2,0,0,339690,0,2,33,0
-22825,Section 119,,2425,59,22824,0,0,2,0,0,339693,0,2,33,0
-22826,Section 120,,2425,121,22288,22827,22631,2,0,0,339690,0,2,33,0
-22827,Section 121,,2425,122,22826,0,0,2,0,0,339693,0,2,33,0
-22828,Section 122,,2425,63,22719,22829,22728,2,0,0,344500,0,2,0,0
-22829,Section 123,,2425,64,22828,0,22830,2,0,0,344655,0,2,0,0
-22830,Section 124,,2425,65,22828,22831,0,2,0,0,344721,0,2,0,0
-22831,Section 125,,2425,66,22830,0,0,2,0,0,344740,0,2,0,0
-22832,Section 126,,2425,126,22288,22833,22325,2,0,0,344500,0,2,0,0
-22833,Section 127,,2425,127,22832,0,22834,2,0,0,344655,0,2,0,0
-22834,Section 128,,2425,128,22832,22835,0,2,0,0,344721,0,2,0,0
-22835,Section 129,,2425,129,22834,0,0,2,0,0,344740,0,2,0,0
+In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,102,22286,0,0,2,0,0,333913,0,2,0,0
+22821,Section 113,,2425,104,22812,0,0,2,0,0,333913,0,2,8192,0
+22822,Section 116,,2425,23,22690,22823,22695,2,0,0,339690,0,2,33,0
+22823,Section 117,,2425,24,22822,0,0,2,0,0,339693,0,2,33,0
+22824,Section 118,,2425,57,22719,22825,22725,2,0,0,339690,0,2,33,0
+22825,Section 119,,2425,58,22824,0,0,2,0,0,339693,0,2,33,0
+22826,Section 120,,2425,118,22288,22827,22631,2,0,0,339690,0,2,33,0
+22827,Section 121,,2425,119,22826,0,0,2,0,0,339693,0,2,33,0
+22828,Section 122,,2425,62,22719,22829,22728,2,0,0,344500,0,2,0,0
+22829,Section 123,,2425,63,22828,0,22830,2,0,0,344655,0,2,0,0
+22830,Section 124,,2425,64,22828,22831,0,2,0,0,344721,0,2,0,0
+22831,Section 125,,2425,65,22830,0,0,2,0,0,344740,0,2,0,0
+22832,Section 126,,2425,123,22288,22833,22325,2,0,0,344500,0,2,0,0
+22833,Section 127,,2425,124,22832,0,22834,2,0,0,344655,0,2,0,0
+22834,Section 128,,2425,125,22832,22835,0,2,0,0,344721,0,2,0,0
+22835,Section 129,,2425,126,22834,0,0,2,0,0,344740,0,2,0,0
 22836,Section 13,,2387,12,21498,0,0,2,0,0,344874,0,0,0,-1
 22837,Baleful Shadow,,2424,35,22557,22838,0,1,94527,0,0,0,3,0,0
 22838,Section 77,,2424,36,22837,0,0,2,0,0,344776,0,3,64,0
-22840,Section 127,,2425,87,22777,0,22784,2,0,0,342741,0,0,4096,-1
+22840,Section 127,,2425,85,22777,0,22784,2,0,0,342741,0,0,4096,-1
 22841,Gilded Champion,,2396,18,21727,22842,0,1,93893,0,0,0,0,0,-1
 22842,Section 19,,2396,19,22841,0,0,2,0,0,345323,0,0,0,-1
 22844,Overview,"Infused Goliaths defend the outer perimeter before The Tarragrue, offering potent Anima Powers when defeated.
@@ -17941,15 +17940,15 @@ $bullet;|cFF2959D3|Hspell:348366|h[Armed Security]|h|r move dangerously around t
 22857,Section 5,,2437,5,0,23048,22858,2,0,0,345598,0,0,48,-1
 22858,Section 6,,2437,8,0,0,23149,2,0,0,346204,0,0,0,-1
 22866,Overview,[PLACEHOLDER] Overview of the encounter.,2438,1,0,22867,22870,3,0,0,0,0,0,0,-1
-22867,Tanks,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+22867,Tanks,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.
 $[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]",2438,2,22866,0,22868,3,0,0,0,0,0,1,-1
-22868,Damage Dealers,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+22868,Damage Dealers,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.
 $[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]",2438,3,22866,0,22869,3,0,0,0,0,0,2,-1
-22869,Healers,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:1234|h[Joe's God Mode]|h|r.
+22869,Healers,"$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.
 $[15,16$bullet;<PLACEHOLDER> Example to make things only show up on single or multiple difficulties. Separate multiple difficulties with commas e.g. 14,15,16,17$]",2438,4,22866,0,0,3,0,0,0,0,0,4,-1
 22870,Stage One: <PH>,<PLACEHOLDER> Description of this encounter phase,2438,5,0,22872,22871,2,0,0,0,0,1,0,-1
 22871,Stage Two: <PH>,<PLACEHOLDER> Description of this encounter phase,2438,7,0,0,0,0,0,0,0,0,0,0,-1
-22872,Section 7,"$[!14,15,16,17This is how you make red text.$]",2438,6,22870,0,0,2,0,0,1234,0,1,0,-1
+22872,Section 7,"$[!14,15,16,17This is how you make red text.$]",2438,6,22870,0,0,2,0,0,45,0,1,0,-1
 22873,Overview,"Kyra and Signe begin the assault on the ground, using |cFF2959D3|Hspell:350365|h[Wings of Rage]|h|r and |cFF2959D3|Hspell:350385|h[Reverberating Refrain]|h|r when their energy reaches 100. 
 
 Meanwhile, Skyja commands the other val'kyr to strike from the skies. When she reaches 100 energy, she casts |cFF2959D3|Hspell:350467|h[Call of the Val'kyr]|h|r to call assistance from her fallen companions. 
@@ -18161,11 +18160,9 @@ Players can access the Titan Console in the rear of the chamber to gain |cFF2959
 23005,Section 9,,2448,14,23004,0,23549,2,0,0,347015,0,0,0,-1
 23009,Section 113,"$[!16
 
-In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,70,22685,0,22818,2,0,0,333913,0,2,0,0
-23010,Section 112,,2425,104,22286,0,22820,2,0,0,333913,0,2,8192,0
-23011,Section 114,,2425,9,22813,0,22816,2,0,0,333913,0,2,8192,0
-23012,Section 108,,2425,111,22324,0,22809,2,0,0,343881,0,2,8193,0
-23013,Section 109,,2425,16,22688,0,22808,2,0,0,343881,0,2,8193,0
+In Mythic difficulty, this effect cannot be removed by player immunities.$]",2425,69,22685,0,0,2,0,0,333913,0,2,0,0
+23012,Section 108,,2425,108,22324,0,22809,2,0,0,343881,0,2,8193,0
+23013,Section 109,,2425,15,22688,0,22808,2,0,0,343881,0,2,8193,0
 23014,Section 14,,2448,9,23002,0,0,2,0,0,346961,0,0,0,-1
 23015,Overview,"Timecap'n Hooktail commands her infamous pirate ship, The Hourglass, to |cFF2959D3|Hspell:347370|h[Cannon Barrage]|h|r the beach while she engages players in close combat.
 
@@ -18246,20 +18243,20 @@ $bullet;Zo'gron inflicts additional damage when players are in close proximity t
 23097,Speakeasy Security,,2452,24,23523,0,0,2,0,0,350922,0,0,64,-1
 23098,Zo'gron,,2452,26,23749,23330,0,1,100497,0,0,0,1,0,-1
 23100,A Pentatonic Performance,Grab an instrument and perform for Au'myza by hitting notes that appear on stage.,2452,5,0,23822,23096,2,0,0,0,0,1,0,-1
-23101,Stone Legion Goliath,,2425,31,22760,23102,22791,1,95707,0,0,0,1,0,-1
-23102,Section 38,,2425,32,23101,23103,23104,2,0,0,342694,0,2,0,0
-23103,Section 39,,2425,33,23102,0,0,2,0,0,339885,0,2,0,0
-23104,Section 40,,2425,34,23101,23105,23107,2,0,0,342697,0,2,4096,0
-23105,Section 41,,2425,35,23104,23106,0,2,0,0,342698,0,2,4096,0
-23106,Section 42,,2425,36,23105,0,0,2,0,0,332412,0,2,4096,0
-23107,Section 43,,2425,37,23101,0,23108,2,0,0,342733,0,0,4096,-1
-23108,Section 128,,2425,38,23101,0,23109,2,0,0,342741,0,0,4096,-1
-23109,Section 42,,2425,39,23101,0,0,2,0,0,343898,0,0,0,-1
+23101,Stone Legion Goliath,,2425,30,22760,23102,22791,1,95707,0,0,0,1,0,-1
+23102,Section 38,,2425,31,23101,23103,23104,2,0,0,342694,0,2,0,0
+23103,Section 39,,2425,32,23102,0,0,2,0,0,339885,0,2,0,0
+23104,Section 40,,2425,33,23101,23105,23107,2,0,0,342697,0,2,4096,0
+23105,Section 41,,2425,34,23104,23106,0,2,0,0,342698,0,2,4096,0
+23106,Section 42,,2425,35,23105,0,0,2,0,0,332412,0,2,4096,0
+23107,Section 43,,2425,36,23101,0,23108,2,0,0,342733,0,0,4096,-1
+23108,Section 128,,2425,37,23101,0,23109,2,0,0,342741,0,0,4096,-1
+23109,Section 42,,2425,38,23101,0,0,2,0,0,343898,0,0,0,-1
 23114,Section 12,,2443,18,23117,0,23794,2,0,0,355504,0,0,0,-1
 23117,Stage One: A Chamber of Agony,The Painsmith wields an Instrument of Pain amidst razor sharp spikes that erupt from the floor.,2443,5,0,23642,23638,0,0,0,0,0,1,0,-1
 23118,Section 8,,2443,17,23117,0,23114,2,0,0,352052,0,2,2,0
 23149,Section 15,,2437,9,0,0,23047,2,0,0,348128,0,0,1,-1
-23152,Section 42,,2425,92,22800,0,0,2,0,0,332412,0,2,4096,0
+23152,Section 42,,2425,90,22800,0,0,2,0,0,332412,0,2,4096,0
 23155,Overview,"At the start of the encounter Alcruux will cast |cFF2959D3|Hspell:349627|h[Gluttony]|h|r which will remain until the end of the encounter, transfering to the closest player upon expiration. 
 
 When Alcruux reaches $358629s1% health, Achillite will be activated and after starting up will enter the encounter. Achillite will occasionally channel |cFF2959D3|Hspell:349987|h[Venting Protocol]|h|r, releasing anima orbs that explode upon contact. The player with |cFF2959D3|Hspell:349627|h[Gluttony]|h|r can consume the anima orbs, gaining a stack of |cFF2959D3|Hspell:350010|h[Devoured Anima]|h|r.
@@ -19453,7 +19450,77 @@ In Mythic difficulty, the shadow gains Fully Formed upon reaching full health.$]
 24711,Section 84,,2469,9,24560,0,0,2,0,0,368913,0,3,32,0
 24712,Section 85,,2469,45,24561,0,0,2,0,0,368913,0,3,32,0
 24713,Section 86,,2469,77,24172,0,0,2,0,0,368986,0,0,16,-1
+24714,Overview,"Players must fight all three gnolls of the war-band at once. When any member of the war-band reaches 30%, Tricktotem will cast |cFF2959D3|Hspell:377965|h[Bloodlust]|h|r.
+
+Once Rira Hackclaw reaches 100 energy, she will call for a combined attack with Gashtooth and Tricktotem, performing |cFF2959D3|Hspell:381470|h[Hextrick Totem]|h|r, |cFF2959D3|Hspell:381379|h[Decayed Senses]|h|r, and |cFF2959D3|Hspell:381419|h[Savage Charge]|h|r in a ferocious sequence.",2471,1,0,24715,24732,3,0,0,0,0,0,0,-1
+24715,Damage Dealers,"$bullet; Tricktotem will attempt to heal her allies with |cFF2959D3|Hspell:377950|h[Greater Healing Rapids]|h|r
+$bullet; |cFF2959D3|Hspell:381470|h[Hextrick Totem]|h|r will incapacitate a player for as long as it survives.
+$bullet; Tricktotem will cast |cFF2959D3|Hspell:377965|h[Bloodlust]|h|r when any member of the War-Band drops below 30% health.",2471,2,24714,0,24716,3,0,0,0,0,1,2,-1
+24716,Healers,"$bullet; Players who are |cFF2959D3|Hspell:378229|h[Marked for Butchery]|h|r will take intense damage.
+$bullet; Healing a player over 90% health will dispel |cFF2959D3|Hspell:378229|h[Gashtooth Frenzy]|h|r.
+$bullet; Players will take intense physical damage while afflicted with |cFF2959D3|Hspell:381379|h[Decayed Senses]|h|r.",2471,3,24714,0,24717,3,0,0,0,0,1,4,-1
+24717,Tanks,"$bullet; Rira will deal intense physical damage to the first person in her path when she uses |cFF2959D3|Hspell:381419|h[Savage Charge]|h|r
+$bullet; Tricktotem will attempt to heal her allies with |cFF2959D3|Hspell:377950|h[Greater Healing Rapids]|h|r
+$bullet; Tricktotem will cast |cFF2959D3|Hspell:377965|h[Bloodlust]|h|r when any member of the War-Band drops below 30% health.",2471,4,24714,0,0,3,0,0,0,0,1,1,-1
+24718,Overview,"Gutshot taps into her hunter instincts, using her |cFF2959D3|Hspell:384343|h[Gut Shot]|h|r and |cFF2959D3|Hspell:384148|h[Ensnaring Trap]|h|r to keep her enemies at bay. Gutshot will cast |cFF2959D3|Hspell:384416|h[Meat Toss]|h|r at players, sending her vicious hyenas into a |cFF2959D3|Hspell:384764|h[Feeding Frenzy]|h|r.
+
+At 100 energy, Gutshot will |cFF2959D3|Hspell:384827|h[Call Hyenas]|h|r to aid her in battle.",2472,1,0,24719,25633,3,0,0,0,0,0,0,-1
+24719,Damage Dealers,"$bullet; Periodically, Gutshot will |cFF2959D3|Hspell:384827|h[Call Hyenas]|h|r to join the fight.
+$bullet; When triggered, |cFF2959D3|Hspell:384148|h[Ensnaring Trap]|h|r entangles all nearby creatures and roots them in place.",2472,2,24718,0,24720,3,0,0,0,0,1,2,-1
+24720,Healers,"$bullet;  Hyenas that are in a |cFF2959D3|Hspell:384764|h[Feeding Frenzy]|h|r deal 100% more damage.
+$bullet; When triggered, |cFF2959D3|Hspell:384148|h[Ensnaring Trap]|h|r entangles all nearby creatures and roots them in place.",2472,3,24718,0,24721,3,0,0,0,0,1,4,-1
+24721,Tanks,"$bullet;  Gutshot will aim her crossbow and fire a |cFF2959D3|Hspell:384343|h[Gut Shot]|h|r, inflicting heavy Physical damage and knocking hit targets back.
+$bullet; When triggered, |cFF2959D3|Hspell:384148|h[Ensnaring Trap]|h|r entangles all nearby creatures and roots them in place.",2472,4,24718,0,0,3,0,0,0,0,1,1,-1
+24722,Overview,"Treemouth keeps her target away with |cFF2959D3|Hspell:377559|h[Vine Whip]|h|r and spits on players with |cFF2959D3|Hspell:377864|h[Infectious Spit]|h|r.
+
+Occasionally, Treemouth will expel Decaying Slimes that |cFF2959D3|Hspell:378055|h[Burst]|h|r when defeated.
+
+At 100 energy, Treemouth pulls players closer with |cFF2959D3|Hspell:376933|h[Grasping Vines]|h|r and begins to |cFF2959D3|Hspell:377222|h[Consume]|h|r the nearest player until the player is spit out.",2473,1,0,24723,25306,3,0,0,0,0,0,0,-1
+24723,Damage Dealers,"$bullet;Consumed players can be broken out while Treemouth is |cFF2959D3|Hspell:378022|h[Consuming]|h|r.
+$bullet;Decaying Slimes |cFF2959D3|Hspell:378055|h[Burst]|h|r, leaving behind pools of decay.",2473,2,24722,0,24724,3,0,0,0,0,1,2,-1
+24724,Healers,"$bullet;|cFF2959D3|Hspell:377222|h[Consume]|h|r inflicts heavy damage to the Consumed player.
+$bullet;Decaying Slimes |cFF2959D3|Hspell:378055|h[Burst]|h|r, leaving behind pools of decay.",2473,3,24722,0,24725,3,0,0,0,0,1,4,-1
+24725,Tanks,"$bullet;|cFF2959D3|Hspell:377559|h[Vine Whip]|h|r inflicts heavy damage and knocks back all targets struck.
+$bullet;Decaying Slimes |cFF2959D3|Hspell:378055|h[Burst]|h|r, leaving behind pools of decay.",2473,4,24722,0,0,3,0,0,0,0,1,1,-1
+24726,Overview,"Most of Wratheye's abilities will afflict players with |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r. At 100 energy, Wratheye will cast |cFF2959D3|Hspell:374186|h[Decaying Strength]|h|r, gaining more power based on the amount of |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r on players.",2474,1,0,24727,25179,3,0,0,0,0,0,0,-1
+24727,Damage Dealers,"$bullet; |cFF2959D3|Hspell:373944|h[Rotburst Totem]|h|r will continuously burst |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r on players until destroyed.
+$bullet; The more |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r present on players in the fight, the stronger Wratheye gets when she casts |cFF2959D3|Hspell:374186|h[Decaying Strength]|h|r",2474,2,24726,0,24728,3,0,0,0,0,1,2,-1
+24728,Healers,"$bullet; |cFF2959D3|Hspell:373917|h[Decaystrike]|h|r absorbs a large amount of healing on the target struck.
+$bullet; The more |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r present on players in the fight, the stronger Wratheye gets when she casts |cFF2959D3|Hspell:374186|h[Decaying Strength]|h|r",2474,3,24726,0,24729,3,0,0,0,0,1,4,-1
+24729,Tanks,"$bullet; |cFF2959D3|Hspell:373917|h[Decaystrike]|h|r inflicts intense damage and applies a healing absorb in an 8  yard frontal cone.
+$bullet; |cFF2959D3|Hspell:373917|h[Decaying Strength]|h|r increases the amount of Physical damage the most right after Wratheye casts, and tapers off with each melee attack.
+$bullet; The more |cFF2959D3|Hspell:373896|h[Withering Rot]|h|r present on players in the fight, the stronger Wratheye gets when she casts |cFF2959D3|Hspell:374186|h[Decaying Strength]|h|r",2474,4,24726,0,0,3,0,0,0,0,1,1,-1
+24732,Rira Hackclaw,,2471,5,0,25328,24733,1,105696,0,0,0,1,0,-1
+24733,Gashtooth,,2471,9,0,25331,24734,1,105695,0,0,0,1,0,-1
+24734,Tricktotem,,2471,13,0,25334,0,1,105697,0,0,0,1,0,-1
+24735,Rotfang Hyena,,2472,6,25633,25416,0,1,2711,0,0,0,0,0,-1
+24736,Overview,"The Lost Dwarves begin the fight on foot and assault players with bow, sword, and shield. 
+
+Upon reaching 100 energy they activate their ultimate, Longboat Raid! The magical dwarven longboat shoots players with |cFF2959D3|Hspell:375286|h[Searing Cannofire]|h|r, increasing in rate of fire for each dwarf within it. 
+
+When a Lost Dwarf reaches $375339s1% health remaining, he retreats to the longboat for the rest of the battle.",2475,1,0,24737,24740,3,0,0,0,0,0,0,-1
+24737,Tanks,"$bullet;|cFF2959D3|Hspell:369573|h[Heavy Arrow]|h|r inflicts high damage to players in front of Baelog.
+$bullet;|cFF2959D3|Hspell:369603|h[Defensive Bulwark]|h|r protects The Lost Dwarves within while it is in effect.",2475,2,24736,0,24738,3,0,0,0,0,0,1,-1
+24738,Damage Dealers,"$bullet;|cFF2959D3|Hspell:369573|h[Heavy Arrow]|h|r inflicts high damage to players in front of Baelog.
+$bullet;|cFF2959D3|Hspell:369603|h[Defensive Bulwark]|h|r protects The Lost Dwarves within while it is in effect.",2475,3,24736,0,24739,3,0,0,0,0,0,2,-1
+24739,Healers,"$bullet;|cFF2959D3|Hspell:375286|h[Searing Cannofire]|h|r increases in rate of fire for each Lost Dwarf crewing the magic longboat.
+$bullet;|cFF2959D3|Hspell:369677|h[Ricocheting Shield]|h|r bounces between players that are too close to each other.",2475,4,24736,0,0,3,0,0,0,0,0,4,-1
+24740,Baelog,,2475,5,0,24788,24781,1,105887,0,0,0,0,0,-1
 24741,Section 60,,2467,22,24016,0,0,2,0,0,364569,0,0,0,-1
+24742,Overview,"Emberon begins the fight by activating several Vault Keepers to ignite players. 
+
+Upon reaching $369022s1% and $369022s2% health remaining, the activated Vault Keepers infuse Emberon with power. During this time, Emberon channels |cFF2959D3|Hspell:368990|h[Purging Flames]|h|r in the center of the vault and gains a |cFF2959D3|Hspell:369031|h[Sacred Barrier]|h|r, preventing all damage taken. 
+
+This protocol lasts until all activated Vault Keepers have been destroyed.",2476,1,0,24743,24746,3,0,0,0,0,0,0,-1
+24743,Tanks,"$bullet;|cFF2959D3|Hspell:369061|h[Searing Clap]|h|r hits all players in front of Emberon.
+$bullet;|cFF2959D3|Hspell:368990|h[Purging Flames]|h|r continues until all Vault Keepers are disabled.
+$bullet;While |cFF2959D3|Hspell:368990|h[Purging Flames]|h|r is in effect, Emberon is protected by a |cFF2959D3|Hspell:369031|h[Sacred Barrier]|h|r.",2476,2,24742,0,24744,3,0,0,0,0,0,1,-1
+24744,Damage Dealers,"$bullet;|cFF2959D3|Hspell:368990|h[Purging Flames]|h|r continues until all Vault Keepers are disabled.
+$bullet;While |cFF2959D3|Hspell:368990|h[Purging Flames]|h|r is in effect, Emberon is protected by a |cFF2959D3|Hspell:369031|h[Sacred Barrier]|h|r.
+$bullet;|cFF2959D3|Hspell:369061|h[Searing Clap]|h|r hits all players in front of Emberon.",2476,3,24742,0,24745,3,0,0,0,0,0,2,-1
+24745,Healers,"$bullet;|cFF2959D3|Hspell:369061|h[Searing Clap]|h|r hits all players in front of Emberon.
+$bullet;Vault keepers cast |cFF2959D3|Hspell:369052|h[Seeking Flame]|h|r at players while active.",2476,4,24742,0,0,3,0,0,0,0,0,4,-1
+24746,,,2476,5,0,25016,25017,2,0,0,368990,0,1,16,-1
 24749,Section 37,,2461,16,24668,0,24750,2,0,0,368740,0,2,0,0
 24750,Section 37,,2461,17,24668,0,24669,2,0,0,368738,0,2,0,0
 24751,Section 30,,2461,20,0,24752,24671,2,0,0,368027,0,2,9,0
@@ -19476,7 +19543,50 @@ $bullet; |cFF2959D3|Hspell:363018|h[Protoform Cascade]|h|r inflicts damage to al
 24762,Section 48,,2461,29,24320,0,24318,2,0,0,363356,0,2,0,16
 24763,Spell Name,,2463,25,23915,0,24822,2,0,0,373760,0,2,9,0
 24764,Spell Name,,2463,58,24707,0,24834,2,0,0,369210,0,2,8,0
+24765,Overview,"The mighty Balakar Khan assaults players with deadly martial abilities like Iron Spear and Upheaval. 
+
+Upon reaching 60% health Balakar Khan calls on his clan's Stormcasters to aid him while he finishes the ritual, claiming the spirit's power for himself. 
+
+Once all the Stormcasters are defeated, Balakar rejoins the fight, now infused with the power of the storm.",2477,1,0,24766,25185,3,0,0,0,0,0,0,-1
+24766,Tanks,"$bullet; Balakar Khan's |cFF2959D3|Hspell:376683|h[Iron Stampede]|h|r tramples anyone in the path of his |cFF2959D3|Hspell:376634|h[Iron Spear]|h|r.
+$bullet; |cFF2959D3|Hspell:375929|h[Savage Strike]|h|r inflicts heavy damage to targets afflicted by |cFF2959D3|Hspell:375937|h[Rending Strike]|h|r.",2477,2,24765,0,24767,3,0,0,0,0,0,1,-1
+24767,Damage Dealers,"$bullet; Balakar Khan's |cFF2959D3|Hspell:376683|h[Iron Stampede]|h|r tramples anyone in the path of his |cFF2959D3|Hspell:376634|h[Iron Spear]|h|r.
+$bullet; Balakar Khan will continue to channel |cFF2959D3|Hspell:376730|h[Stormwinds]|h|r during intermission until his Nokhud Stormcasters are defeated.",2477,3,24765,0,24768,3,0,0,0,0,0,2,-1
+24768,Healers,"$bullet; Balakar Khan's |cFF2959D3|Hspell:376683|h[Iron Stampede]|h|r tramples anyone in the path of his |cFF2959D3|Hspell:376634|h[Iron Spear]|h|r.
+$bullet; |cFF2959D3|Hspell:376829|h[Thunder Strike]|h|r inflicts heavy damage to targets afflicted by |cFF2959D3|Hspell:376827|h[Conductive Strike]|h|r.",2477,4,24765,0,0,3,0,0,0,0,0,4,-1
+24769,Generic,,2477,25,25182,0,0,2,0,0,376829,0,0,0,-1
+24770,Overview,[PH] Description,2478,1,0,24771,25552,1,0,0,0,0,0,0,-1
+24771,Tanks,$bullet;[PH] Bullet point,2478,2,24770,0,24772,3,0,0,0,0,0,1,-1
+24772,Damage Dealers,$bullet;[PH] Bullet point,2478,3,24770,0,24773,3,0,0,0,0,0,2,-1
+24773,Healers,$bullet;[PH] Bullet point,2478,4,24770,0,0,3,0,0,0,0,0,4,-1
 24775,Section 86,,2469,31,24494,0,24496,2,0,0,364020,0,2,16,0
+24776,Overview,"Chrono-Lord Deios begins the fight with 100 temporal energy and uses it to create |cFF2959D3|Hspell:376319|h[Eternity Orbs]|h|r to destroy players and drain their time. 
+
+Upon reaching 0 energy, Deios casts |cFF2959D3|Hspell:376209|h[Rewind Timeflow]|h|r to recharge his energy. While time is being reversed, |cFF2959D3|Hspell:376333|h[Temporal Zone]|h|r return time energy back to players within them.",2479,1,0,24777,24795,3,0,0,0,0,0,0,-1
+24777,Tanks,"$bullet;|cFF2959D3|Hspell:376325|h[Eternity Zone]|h|r inflicts damage and absorbs the time of players within, reducing their haste.
+$bullet;|cFF2959D3|Hspell:376333|h[Temporal Zone]|h|r returns lost time to players within, massively increasing their haste.",2479,2,24776,0,24778,3,0,0,0,0,0,1,-1
+24778,Damage Dealers,"$bullet;|cFF2959D3|Hspell:376325|h[Eternity Zone]|h|r inflicts damage and absorbs the time of players within, reducing their haste.
+$bullet;|cFF2959D3|Hspell:376333|h[Temporal Zone]|h|r returns lost time to players within, massively increasing their haste.",2479,3,24776,0,24779,3,0,0,0,0,0,2,-1
+24779,Healers,"$bullet;|cFF2959D3|Hspell:376209|h[Rewind Timeflow]|h|r inflicts high damage to all players over its duration.
+$bullet;|cFF2959D3|Hspell:376325|h[Eternity Zone]|h|r inflicts damage and absorbs the time of players within, reducing their haste.
+$bullet;|cFF2959D3|Hspell:376333|h[Temporal Zone]|h|r returns lost time to players within, massively increasing their haste.",2479,4,24776,0,0,3,0,0,0,0,0,4,-1
+24780,Breath,,2479,16,0,0,0,2,0,0,375727,0,0,1,-1
+24781,"Eric ""The Swift""",,2475,8,0,24792,24782,1,105884,0,0,0,0,0,-1
+24782,Olaf,,2475,11,0,24790,24783,1,105883,0,0,0,0,0,-1
+24783,Longboat Raid!,,2475,14,0,24784,0,0,0,0,0,0,1,32,-1
+24784,Searing Cannonfire,,2475,15,24783,25274,25113,2,0,0,375286,0,1,128,-1
+24787,Wild Cleave,,2475,7,24740,0,0,2,0,0,369563,0,0,1,-1
+24788,Heavy Arrow,,2475,6,24740,0,24787,2,0,0,369573,0,0,0,-1
+24789,Defensive Bulwark,,2475,13,24782,0,0,2,0,0,369603,0,0,64,-1
+24790,Ricocheting Shield,,2475,12,24782,0,24789,2,0,0,369677,0,0,0,-1
+24792,Charging Headbutt,,2475,9,24781,0,24812,2,0,0,369791,0,0,32,-1
+24793,Wing Buffet,,2479,11,0,0,25238,2,0,0,376049,0,0,0,-1
+24795,Eternity's Ebb and Flow,,2479,5,0,24796,24793,2,0,0,0,0,1,32,-1
+24796,Sand Bomb,,2479,6,24795,0,24797,2,0,0,376319,0,0,0,-1
+24797,Sand Zone,,2479,7,24795,0,24798,2,0,0,376325,0,0,0,-1
+24798,Reverse Time,,2479,8,24795,24799,0,2,0,0,376209,0,1,32,-1
+24799,Temporal Orb,,2479,9,24798,0,24800,2,0,0,376329,0,0,0,-1
+24800,Temporal Zone,,2479,10,24798,0,0,2,0,0,376333,0,1,0,-1
 24802,Section 62,,2467,37,24441,0,24442,2,0,0,369571,0,1,0,-1
 24803,Section 63,,2467,41,24437,0,24439,2,0,0,369571,0,1,0,-1
 24804,Spell Name,,2463,38,24677,0,23982,2,0,0,373500,0,3,0,0
@@ -19487,6 +19597,7 @@ $bullet; |cFF2959D3|Hspell:363018|h[Protoform Cascade]|h|r inflicts damage to al
 24809,Section 27,,2463,16,24807,0,24810,2,0,0,368671,0,2,0,0
 24810,Spell Name,,2463,17,24807,0,24811,2,0,0,365975,0,0,0,-1
 24811,Spell Name,,2463,18,24807,0,0,2,0,0,368820,0,0,0,-1
+24812,Section 18,,2475,10,24781,0,0,2,0,0,369781,0,0,0,-1
 24813,Section 22,,2463,34,23917,24815,24677,2,0,0,362056,0,0,0,-1
 24814,Section 22,,2463,36,24813,0,0,2,0,0,368246,0,3,16,0
 24815,Section 22,,2463,35,24813,0,24814,2,0,0,368246,0,3,0,0
@@ -19515,3 +19626,776 @@ $bullet; |cFF2959D3|Hspell:363018|h[Protoform Cascade]|h|r inflicts damage to al
 24839,Spell Name,,2463,10,24838,0,0,2,0,0,368965,0,0,4,-1
 24840,Section 55,,2464,41,24569,0,0,2,0,0,370025,0,2,4096,0
 24842,Section 16,,2448,5,0,0,23000,2,0,0,353312,0,0,0,-1
+24843,Overview,[PLACEHOLDER] Overview of the encounter.,2480,1,0,24844,24848,3,0,0,0,0,0,0,-1
+24844,Tanks,"$bullet; |cFF2959D3|Hspell:370615|h[Molten Swing]|h|r inflicts massive damage to all players in front of Eranog. Subsequent hits to the same target inflict greatly increased damage.
+$bullet; |cFF2959D3|Hspell:370307|h[Collapsing Army]|h|r inflicts deadly damage to anyone caught in the elemetal's path.
+$bullet; Collapsing Flames inside |cFF2959D3|Hspell:370649|h[Primal Flow]|h|r gain |cFF2959D3|Hspell:372074|h[Molten Barrier]|h|r.",2480,2,24843,0,24845,3,0,0,0,0,0,1,-1
+24845,Damage Dealers,"$bullet; |cFF2959D3|Hspell:370307|h[Collapsing Army]|h|r inflicts deadly damage to anyone caught in the elemetal's path.
+$bullet; Collapsing Flames inside |cFF2959D3|Hspell:370649|h[Primal Flow]|h|r gain |cFF2959D3|Hspell:372074|h[Molten Barrier]|h|r.
+$bullet; Frenzied Taraseks will fixate their target until slain.",2480,3,24843,0,24846,3,0,0,0,0,0,2,-1
+24846,Healers,"$bullet; |cFF2959D3|Hspell:370307|h[Collapsing Army]|h|r inflicts deadly damage to anyone caught in the elemetal's path.
+$bullet;Players marked with |cFF2959D3|Hspell:370307|h[Eruptive Fissure]|h|r take massive Fire damage during its duration.
+$bullet; Collapsing Flames inside |cFF2959D3|Hspell:370649|h[Primal Flow]|h|r gain |cFF2959D3|Hspell:372074|h[Molten Barrier]|h|r.",2480,4,24843,0,0,3,0,0,0,0,0,4,-1
+24848,Section 7,,2480,5,0,24852,24909,2,0,0,370307,0,1,48,-1
+24852,Section 7,,2480,6,24848,0,25560,2,0,0,370410,0,0,0,-1
+24854,Section 10,,2480,11,0,24888,24857,2,106213,0,370534,0,0,32,-1
+24857,Section 13,,2480,15,0,0,24859,2,0,0,370659,0,0,4,-1
+24858,Section 16,,2480,13,24854,0,25558,2,0,0,370594,0,2,8,0
+24859,Section 14,,2480,16,0,24860,24908,2,0,0,370615,0,0,1,-1
+24860,Section 15,,2480,17,24859,0,24978,2,0,0,371059,0,1,0,-1
+24879,Overview,"Sennarth begins the fight by attacking with frost and web as her brood assist her. After a brief delay, she ascends up her spiderweb towards the icy summit.
+
+At each of the platforms, a Frostbreath Arachnid joins the fight to stall Sennarth's would-be attackers.
+
+At the top of her lair, Sennarth freezes the ground and attacks on foot one last time.",2482,1,0,24880,24883,3,0,0,0,0,0,0,-1
+24880,Tanks,"$bullet;|cFF2959D3|Hspell:372030|h[Sticky Webbing]|h|r provides protection against sliding on |cFF2959D3|Hspell:372055|h[Icy Ground]|h|r and being pushed and pulled.
+$bullet;|cFF2959D3|Hspell:372045|h[Caustic Eruption]|h|r will destroy all webbing it hits.",2482,2,24879,0,24881,3,0,0,0,0,0,1,-1
+24881,Damage Dealers,"$bullet;|cFF2959D3|Hspell:372030|h[Sticky Webbing]|h|r provides protection against sliding on |cFF2959D3|Hspell:372055|h[Icy Ground]|h|r and being pushed and pulled.
+$bullet;|cFF2959D3|Hspell:371976|h[Chilling Blast]|h|r causes players to inflict Frost damage to other nearby players with |cFF2959D3|Hspell:371979|h[Frost Expulsion]|h|r.
+$bullet;|cFF2959D3|Hspell:372045|h[Caustic Eruption]|h|r will destroy all webbing it hits.",2482,3,24879,0,24882,3,0,0,0,0,0,2,-1
+24882,Healers,"$bullet;|cFF2959D3|Hspell:372030|h[Sticky Webbing]|h|r provides protection against sliding on |cFF2959D3|Hspell:372055|h[Icy Ground]|h|r and being pushed and pulled.
+$bullet;|cFF2959D3|Hspell:371976|h[Chilling Blast]|h|r and |cFF2959D3|Hspell:371979|h[Frost Expulsion]|h|r will inflict high damage to players.",2482,4,24879,0,0,3,0,0,0,0,0,4,-1
+24883,Stage One: Ice Climbers,,2482,5,0,24892,24898,0,0,0,0,0,1,0,-1
+24884,Chilling Blast,,2482,8,24883,24913,24890,2,0,0,371976,0,2,0,0
+24885,Stage Two: Cold Peak,,2482,24,0,24886,0,0,0,0,0,0,1,0,-1
+24886,Apex of Ice,,2482,25,24885,24902,24903,2,0,0,372539,0,1,64,-1
+24888,Section 17,,2480,12,24854,0,24858,2,0,0,370597,0,1,0,-1
+24890,Enveloping Webs,,2482,10,24883,25628,24894,2,0,0,372082,0,0,0,-1
+24891,Sticky Webbing,,2482,12,24890,0,24915,2,0,0,372030,0,2,4096,0
+24892,Breath of Ice,,2482,6,24883,24893,24884,2,0,0,372051,0,0,0,-1
+24893,Icy Ground,,2482,7,24892,0,0,2,0,0,372055,0,0,0,-1
+24894,Forceful Scream,,2482,15,24883,0,24910,2,0,0,373405,0,0,0,-1
+24895,Caustic Spiderlings,,2482,37,24885,24896,24947,1,101149,0,0,0,0,2,-1
+24896,Caustic Eruption,,2482,38,24895,0,25631,2,0,0,372045,0,0,0,-1
+24897,Web Blast,,2482,19,24883,0,0,2,0,0,372129,0,0,1,-1
+24898,Intermission: Guardians of Frost,,2482,20,0,24899,24885,0,0,0,0,0,1,0,-1
+24899,Frostbreath Arachnid,,2482,21,24898,25024,0,1,100535,0,0,0,0,0,-1
+24900,Ability,,2482,23,24899,0,0,2,0,0,373817,0,0,0,-1
+24902,Icy Ground,,2482,26,24886,0,0,2,0,0,372055,0,0,0,-1
+24903,Chilling Blast,,2482,27,24885,24914,24904,2,0,0,371976,0,2,0,0
+24904,Suffocating Webs,,2482,30,24885,25629,24905,2,0,0,373027,0,0,0,-1
+24905,Forceful Scream,,2482,35,24885,0,24906,2,0,0,371983,0,0,0,-1
+24906,Pervasive Cold,,2482,36,24885,0,24895,2,0,0,372648,0,0,32,-1
+24908,Section 17,,2480,19,0,0,0,2,0,0,371955,0,0,4,-1
+24909,Section 17,,2480,9,0,24917,24854,2,0,0,370649,0,0,32,-1
+24910,Caustic Spiderlings,,2482,16,24883,24911,24897,1,16050,0,0,0,0,2,-1
+24911,Caustic Eruption,,2482,17,24910,0,25630,2,0,0,372045,0,0,0,-1
+24912,Sticky Webbing,,2482,32,24904,0,25025,2,0,0,372030,0,2,4096,0
+24913,Section 30,,2482,9,24884,0,0,2,0,0,371979,0,0,0,-1
+24914,Section 31,,2482,28,24903,0,25001,2,0,0,371979,0,0,0,-1
+24915,Section 32,,2482,13,24890,0,25023,2,0,0,372044,0,2,0,0
+24916,Section 33,,2482,34,24904,0,0,2,0,0,372044,0,2,0,0
+24917,Section 18,,2480,10,24909,0,0,2,0,0,372074,0,0,0,-1
+24920,Overview,Telash attacks players with powerful frost magic that leaves behind |cFF2959D3|Hspell:387150 |h[Frozen Ground]|h|r,2483,1,0,24921,24925,3,0,0,0,0,0,0,-1
+24921,Damage Dealers,"$bullet; Spread out from other players for |cFF2959D3|Hspell:386781 |h[Frost Bomb]|h|r
+$bullet; Becareful to place |cFF2959D3|Hspell:387150 |h[Frozen Ground]|h|r in safe areas.
+$bullet; Find saftey during |cFF2959D3|Hspell:388008 |h[Below Zero]|h|r by running to a |cFF2959D3|Hspell:388072 |h[Vault Rune]|h|r.",2483,2,24920,0,24922,3,0,0,0,0,0,2,-1
+24922,Healers,"$bullet; Spread out from other players for |cFF2959D3|Hspell:386781 |h[Frost Bomb]|h|r
+$bullet; Becareful to place |cFF2959D3|Hspell:387150 |h[Frozen Ground]|h|r in safe areas.
+$bullet; Find saftey during |cFF2959D3|Hspell:388008 |h[Below Zero]|h|r by running to a |cFF2959D3|Hspell:388072 |h[Vault Rune]|h|r.",2483,3,24920,0,24923,3,0,0,0,0,0,4,-1
+24923,Tanks,$bullet; Find saftey during |cFF2959D3|Hspell:388008 |h[Below Zero]|h|r by running to a |cFF2959D3|Hspell:388072 |h[Vault Rune]|h|r.,2483,4,24920,0,0,3,0,0,0,0,0,1,-1
+24925,Ability,,2483,5,0,25596,25597,2,0,0,386781,0,0,0,-1
+24926,Overview,"Sentinel Talondras begins the fight with two applications of |cFF2959D3|Hspell:372600|h[Inexorable]|h|r, each which absorbs the next stun effect cast on Talondras. 
+
+When the fight begins, Talondras manifests |cFF2959D3|Hspell:372623|h[Resonating Orb]|h|r to stun players and begins to charge the |cFF2959D3|Hspell:372716|h[Ancient Dynamo]|h|r. 
+
+If the dynamo reaches 100 energy before being stunned, it provides |cFF2959D3|Hspell:372719|h[Titanic Empowerment]|h|r to Sentinel Talondras.",2484,1,0,24927,24935,3,0,0,0,0,0,0,-1
+24927,Tank,"$bullet;|cFF2959D3|Hspell:372623|h[Resonating Orb]|h|r will stun any player or monster it comes into contact with.
+$bullet;|cFF2959D3|Hspell:372600|h[Inexorable]|h|r can be removed by Stun effects, causing the |cFF2959D3|Hspell:372716|h[Ancient Dynamo]|h|r to become vulnerable.",2484,2,24926,0,24928,3,0,0,0,0,0,1,-1
+24928,Damage Dealers,"$bullet;|cFF2959D3|Hspell:372623|h[Resonating Orb]|h|r will stun any unit it comes into contact with.
+$bullet;|cFF2959D3|Hspell:372600|h[Inexorable]|h|r can be removed by Stun effects, causing the |cFF2959D3|Hspell:372716|h[Ancient Dynamo]|h|r to become vulnerable.",2484,3,24926,0,24929,3,0,0,0,0,0,2,-1
+24929,Healers,"$bullet;|cFF2959D3|Hspell:372701|h[Crushing Stomp]|h|r inflicts high damage to all players.
+$bullet;|cFF2959D3|Hspell:372718|h[Earthen Shards]|h|r causes one player to bleed for high damage over its duration.",2484,4,24926,0,0,3,0,0,0,0,0,4,-1
+24930,,,2484,6,24935,0,24934,2,0,0,372600,0,1,0,-1
+24931,Section 6,,2484,9,0,0,24932,2,0,0,372623,0,0,0,-1
+24932,Section 7,,2484,10,0,0,24933,2,0,0,372701,0,0,0,-1
+24933,Section 7,,2484,11,0,0,0,2,0,0,372718,0,0,8192,-1
+24934,Section 9,,2484,7,24935,0,25559,2,0,0,372719,0,0,16,-1
+24935,Section 10,,2484,5,0,24930,24931,2,0,0,372716,0,1,32,-1
+24936,Overview,"Throughout the encounter, Kokia alternates between hurling |cFF2959D3|Hspell:372107|h[Molten Boulder]|h|r at players and pummeling her target with |cFF2959D3|Hspell:372859|h[Searing Blows]|h|r.
+
+Upon reaching 100 energy, Kokia summons a Blazebound Firestorm that casts |cFF2959D3|Hspell:373087|h[Burnout]|h|r when defeated.",2485,1,0,24937,24942,3,0,0,0,0,0,0,-1
+24937,Tank,"$bullet;|cFF2959D3|Hspell:373017|h[Roaring Blaze]|h|r damages the entire party if not interrupted.
+$bullet;|cFF2959D3|Hspell:372859|h[Searing Blows]|h|r applies additional |cFF2959D3|Hspell:372860|h[Searing Wounds]|h|r with each hit.",2485,2,24936,0,24938,3,0,0,0,0,0,1,-1
+24938,Damage Dealers,"$bullet;|cFF2959D3|Hspell:373017|h[Roaring Blaze]|h|r damages the entire party if not interrupted.
+$bullet;Blazebound Firestorm can be dangerous if not defeated quickly.",2485,3,24936,0,24939,3,0,0,0,0,0,2,-1
+24939,Healer,"$bullet;|cFF2959D3|Hspell:373017|h[Roaring Blaze]|h|r damages the entire party if not interrupted.
+$bullet;|cFF2959D3|Hspell:372859|h[Searing Blows]|h|r can inflict significant damage to the tank in a very short time.",2485,4,24936,0,0,3,0,0,0,0,0,4,-1
+24940,Molten Boulder,"$[!23
+
+On Mythic difficulty, this ability leaves behind Scorched Earth.$]",2485,7,0,24941,24944,2,0,0,372107,0,0,0,-1
+24941,Scorched Earth,,2485,8,24940,0,0,2,0,0,372820,0,2,4096,0
+24942,Section 7,,2485,5,0,24943,24940,2,0,0,372858,0,0,5,-1
+24943,Section 8,,2485,6,24942,0,0,2,0,0,372860,0,0,8192,-1
+24944,Section 9,,2485,9,0,24945,0,2,0,0,372863,0,1,32,-1
+24945,Blazebound Firestorm,,2485,10,24944,24946,0,1,102552,0,0,0,1,2,-1
+24946,Section 11,,2485,11,24945,0,24976,2,0,0,373017,0,0,64,-1
+24947,Section 33,,2482,40,24885,0,0,2,0,0,372736,0,1,16,-1
+24948,Overview,"[PH] The Primalist council builds their power and executes massive attacks such as Primal Blizzard, Ball Lightning, Shattering Armor, and Volcano.",2486,1,0,24949,24952,3,0,0,0,0,0,0,-1
+24949,Tanks,"$bullet;|cFF2959D3|Hspell:372027|h[Lava Slash]|h|r hits targets in a cone.
+$bullet;|cFF2959D3|Hspell:372056|h[Crush]|h|r massively increases physical damage taken.
+$bullet;|cFF2959D3|Hspell:378429|h[Ball Lightning]|h|r does not have line of sight on players hiding behind |cFF2959D3|Hspell:370991|h[Earthen Pillars]|h|r.",2486,2,24948,0,24950,3,0,0,0,0,0,0,-1
+24950,Damage Dealers,"$bullet;Kadros and Dathea will frequently attempt to reposition to cast from range.
+$bullet;|cFF2959D3|Hspell:378429|h[Ball Lightning]|h|r does not have line of sight on players hiding behind |cFF2959D3|Hspell:370991|h[Earthen Pillars]|h|r.
+$bullet;|cFF2959D3|Hspell:371624|h[Conductive Mark]|h|r spreads and refreshes when players are close together.
+$bullet;|cFF2959D3|Hspell:371968|h[Living Bomb]|h|r will destroy any |cFF2959D3|Hspell:370991|h[Earthen Pillar]|h|r it hits.",2486,3,24948,0,24951,3,0,0,0,0,0,0,-1
+24951,Healers,"$bullet;|cFF2959D3|Hspell:374043|h[Meteor Axes]|h|r spread damage among all players hit, but deal intense damage to players hit by both.
+$bullet;|cFF2959D3|Hspell:378429|h[Ball Lightning]|h|r does not have line of sight on players hiding behind |cFF2959D3|Hspell:370991|h[Earthen Pillars]|h|r.",2486,4,24948,0,0,3,0,0,0,0,0,0,-1
+24952,Kadros Icewrath,,2486,5,0,24956,24958,1,107599,0,0,0,1,0,-1
+24954,Section 13,,2486,8,24952,0,24955,2,0,0,371857,0,0,0,-1
+24955,Section 14,,2486,9,24952,0,25585,2,0,0,372315,0,0,0,-1
+24956,Section 15,,2486,6,24952,24957,24954,2,0,0,371836,0,1,16,-1
+24957,Section 16,,2486,7,24956,0,0,2,0,0,371591,0,0,2,-1
+24958,Dathea Stormlash,,2486,11,0,24959,24967,1,107598,0,0,0,1,0,-1
+24959,Section 10,,2486,12,24958,0,24961,2,0,0,378429,0,1,16,-1
+24961,Section 18,,2486,13,24958,0,25297,2,0,0,371624,0,0,0,-1
+24962,Section 19,,2486,15,24958,0,25586,2,0,0,372394,0,0,0,-1
+24965,Embar Firepath,,2486,23,0,24966,0,1,107597,0,0,0,1,0,-1
+24966,Section 11,,2486,24,24965,0,24973,2,0,0,374043,0,1,16,-1
+24967,Opalfang,,2486,17,0,25171,24965,1,106928,0,0,0,1,0,-1
+24969,Section 26,,2486,20,24967,0,24972,2,0,0,370991,0,1,32,-1
+24972,Section 28,,2486,21,24967,0,25587,2,0,0,372056,0,0,1,-1
+24973,Section 22,,2486,25,24965,0,24975,2,0,0,371968,0,0,32,-1
+24975,Section 24,,2486,26,24965,0,25588,2,0,0,372027,0,0,1,-1
+24976,Section 12,"$[!23
+
+On Mythic difficulty, this ability leaves behind Scorched Earth.$]",2485,12,24945,24977,0,2,0,0,373087,0,0,16,-1
+24977,Section 13,,2485,13,24976,0,0,2,0,0,372820,0,2,4096,0
+24978,Section 19,,2480,18,24859,0,0,2,0,0,373338,0,0,0,-1
+24979,Overview,"Bromach, Chieftan of the Stonevault Troggs, commands his kin to assault players. Periodically, he will call forth a |cFF2959D3|Hspell:369615|h[Quaking Totem]|h|r and bolster all troggs by casting |cFF2959D3|Hspell:369754|h[Bloodlust]|h|r.",2487,1,0,24980,24983,3,0,0,0,0,0,0,-1
+24980,Tanks,"$bullet;|cFF2959D3|Hspell:369615|h[Quaking Totem]|h|r causes a |cFF2959D3|Hspell:369660|h[Tremor]|h|r when it is destroyed.
+$bullet;|cFF2959D3|Hspell:369605|h[Call of the Deep]|h|r summons many troggs that can quickly overwhelm the party.
+$bullet;|cFF2959D3|Hspell:369703|h[Thundering Slam]|h|r inflicts high damage to nearby players.",2487,2,24979,0,24981,3,0,0,0,0,0,1,-1
+24981,Damage Dealers,"$bullet;|cFF2959D3|Hspell:369615|h[Quaking Totem]|h|r causes a |cFF2959D3|Hspell:369660|h[Tremor]|h|r when it is destroyed.
+$bullet;|cFF2959D3|Hspell:369703|h[Thundering Slam]|h|r inflicts high damage to nearby players.",2487,3,24979,0,24982,3,0,0,0,0,0,2,-1
+24982,Healers,"$bullet;|cFF2959D3|Hspell:369615|h[Quaking Totem]|h|r inflicts damage to all players with |cFF2959D3|Hspell:369610|h[Shocking Quake]|h|r as long as it is alive.
+$bullet;|cFF2959D3|Hspell:369703|h[Thundering Slam]|h|r inflicts high damage to nearby players.",2487,4,24979,0,0,3,0,0,0,0,0,4,-1
+24983,,,2487,5,0,24986,24990,2,0,0,369605,0,0,0,-1
+24986,Stonevault Ambusher,,2487,6,24983,24987,24988,2,77268,0,0,0,0,0,-1
+24987,Section 12,,2487,7,24986,0,0,2,0,0,369697,0,0,0,-1
+24988,Stonevault Geomancer,,2487,8,24983,24989,0,2,92697,0,0,0,0,0,-1
+24989,Section 14,,2487,9,24988,0,0,2,0,0,369675,0,0,64,-1
+24990,Section 6,,2487,10,0,24991,24993,2,0,0,369615,0,1,32,-1
+24991,Section 9,,2487,11,24990,0,24992,2,0,0,369610,0,0,0,-1
+24992,Section 10,,2487,12,24990,0,0,2,0,0,369660,0,1,0,-1
+24993,Section 7,,2487,13,0,0,24994,2,0,0,369754,0,0,32,-1
+24994,Section 8,,2487,14,0,0,0,2,0,0,369703,0,0,0,-1
+24995,Overview,"Melidrussa assaults players with powerful frost attacks that focus on area denial. She uses her abilities in an attempt to make players |cFF2959D3|Hspell:373022|h[Frozen Solid]|h|r by applying |cFF2959D3|Hspell:372682|h[Primal Chill]|h|r.
+
+After succumbing to enough damage, she will call her Infused Whelps into battle.",2488,1,0,24996,25009,3,0,0,0,0,0,0,-1
+24996,Tank,"$bullet;|cFF2959D3|Hspell:372851|h[Chillstorm]|h|r and |cFF2959D3|Hspell:373528|h[Ice Blast]|h|r will cause signicant harm if not avoided.
+$bullet;|cFF2959D3|Hspell:373680|h[Frost Overload]|h|r can become deadly quickly unless it is interrupted.
+$bullet;|cFF2959D3|Hspell:373046|h[Awaken Whelps]|h|r hatches Infused Whelps that will attack party members if not corraled.",2488,2,24995,0,24997,3,0,0,0,0,0,1,-1
+24997,Damage Dealers,"$bullet;|cFF2959D3|Hspell:372851|h[Chillstorm]|h|r and |cFF2959D3|Hspell:373528|h[Ice Blast]|h|r will cause signicant harm if not avoided.
+$bullet;|cFF2959D3|Hspell:373680|h[Frost Overload]|h|r can become deadly quickly unless it is interrupted.
+$bullet;|cFF2959D3|Hspell:373046|h[Awaken Whelps]|h|r may overwhelm the tank if the Infused Whelps are not dealt with quickly.",2488,3,24995,0,24998,3,0,0,0,0,0,2,-1
+24998,Healer,"$bullet;|cFF2959D3|Hspell:372682|h[Primal Chill]|h|r is more powerful with each application, resulting in |cFF2959D3|Hspell:373022|h[Frozen Solid]|h|r.
+$bullet;|cFF2959D3|Hspell:372851|h[Chillstorm]|h|r and |cFF2959D3|Hspell:373528|h[Ice Blast]|h|r will cause signicant harm if not avoided.
+$bullet;|cFF2959D3|Hspell:373680|h[Frost Overload]|h|r can become deadly quickly unless it is interrupted.",2488,4,24995,0,0,3,0,0,0,0,0,4,-1
+24999,Section 5,,2488,13,0,25013,0,2,0,0,373046,0,0,3,-1
+25001,Section 34,,2482,29,24903,0,0,2,0,0,373559,0,0,0,-1
+25004,Section 8,,2488,7,0,0,25005,2,0,0,372808,135855,0,0,-1
+25005,Section 7,,2488,8,0,25382,25006,2,0,0,372851,464484,0,0,-1
+25006,Section 9,,2488,10,0,0,25008,2,0,0,373528,135852,0,0,-1
+25008,Section 11,,2488,11,0,25021,24999,2,0,0,373680,0,1,96,-1
+25009,Section 11,"$[
+
+Applied by |cFF2959D3|Hspell:372851|h[Chillstorm]|h|r, |cFF2959D3|Hspell:384024|h[Hailbomb]|h|r, |cFF2959D3|Hspell:373528|h[Ice Blast]|h|r, |cFF2959D3|Hspell:373680|h[Frost Overload]|h|r, and |cFF2959D3|Hspell:373803|h[Cold Claws]|h|r.",2488,5,0,25015,25004,2,0,0,372682,0,1,164,-1
+25013,Section 15,,2488,14,24999,0,0,2,0,0,373803,0,0,0,-1
+25015,Section 13,,2488,6,25009,0,0,2,0,0,373022,0,0,0,-1
+25016,Section 6,,2476,6,24746,0,25572,2,0,0,369025,0,0,0,-1
+25017,Section 7,,2476,8,0,25018,25019,2,0,0,369033,0,1,0,-1
+25018,Section 8,,2476,9,25017,0,0,2,0,0,369052,0,0,0,-1
+25019,Section 10,,2476,10,0,0,25020,2,0,0,369110,0,0,0,-1
+25020,Section 9,,2476,11,0,25571,0,2,0,0,369061,0,0,1,-1
+25021,Section 13,,2488,12,25008,0,0,2,0,0,372988,0,2,4098,0
+25023,Section 34,,2482,14,24890,0,0,2,0,0,374104,0,2,0,0
+25024,Section 35,,2482,22,24899,0,24900,2,0,0,374112,0,0,1,-1
+25025,Section 33,,2482,33,24904,0,24916,2,0,0,374104,0,2,0,0
+25026,Heated Slam,"$[!8,23 
+In Mythic Difficulty, the final slam of Heated Swings creates Forgefire.$]",2489,8,0,25574,25088,2,0,0,374535,4374708,0,1,-1
+25027,Overview,"Chargath, Bane of Scales displays his swordsmanship and elemental power with abilities like |cFF2959D3|Hspell:373733|h[Dragon Strike]|h|r and |cFF2959D3|Hspell:373767|h[Magma Wave]|h|r.
+
+As an expert in hunting winged beasts, he utilizes |cFF2959D3|Hspell:373424|h[Dragon Spears]|h|r rigged with |cFF2959D3|Hspell:374482|h[Grounding Chains]|h|r to lock his foes down.
+
+With intense focus and fervor, Chargath unleashes a flurry of attacks during |cFF2959D3|Hspell:375056|h[Blade Lock]|h|r, losing sight of his surroundings.",2490,1,0,25030,25044,3,0,0,0,0,0,0,-1
+25028,Damage Dealers,"$bullet; Use the chain from |cFF2959D3|Hspell:374482|h[Grounding Spear]|h|r to your advantage!
+$bullet; Avoid standing in |cFF2959D3|Hspell:374854|h[Erupted Ground]|h|r and |cFF2959D3|Hspell:373767|h[Magma Wave]|h|r.",2490,4,25027,0,0,3,0,0,0,0,0,2,-1
+25029,Healers,"$bullet; |cFF2959D3|Hspell:373733|h[Dragon Strike]|h|r causes the target to bleed.
+$bullet; Avoid standing in |cFF2959D3|Hspell:374854|h[Erupted Ground]|h|r and |cFF2959D3|Hspell:373767|h[Magma Wave]|h|r.",2490,3,25027,0,25028,3,0,0,0,0,0,4,-1
+25030,Tanks,"$bullet; Break Chargath's focus during |cFF2959D3|Hspell:375056|h[Blade Lock]|h|r to evade heavy damage.
+$bullet; Avoid standing in |cFF2959D3|Hspell:374854|h[Erupted Ground]|h|r and |cFF2959D3|Hspell:373767|h[Magma Wave]|h|r.",2490,2,25027,0,25029,3,0,0,0,0,0,1,-1
+25032,Overview,"Kurog Grimtotem gains stacks of power with each successful cast of a primal element's ultimate ability. At 66% and 33% health, Kurog  summons two elemental incarnations. The longer these incarncations exist, the more dangerous they become, and when defeated Kurog absorbs their power for himself.",2491,1,0,25033,25036,3,0,0,0,0,0,0,-1
+25033,Damage Dealers,"$bullet;Seismic Pillars continually cast |cFF2959D3|Hspell:374691|h[Seismic Rupture]|h|r inflicting damage to the raid.
+$bullet;The longer Kurog's incarnates remain alive, the more stacks of elemental power he receives.",2491,2,25032,0,25034,3,0,0,0,0,0,2,-1
+25034,Healers,"$bullet;While not next to an active Primal Altar, Kurog Grimtotem casts |cFF2959D3|Hspell:371971|h[Elemental Surge]|h|r.
+$bullet;When Kurog Grimtotem moves between active altars, he casts |cFF2959D3|Hspell:374861|h[Elemental Shift]|h|r.",2491,3,25032,0,25035,3,0,0,0,0,0,4,-1
+25035,Tanks,"$bullet;|cFF2959D3|Hspell:372158|h[Splintered Bones]|h|r increases Physical damage taken per stack.
+$bullet;Elemental Incarnates that are close together gain |cFF2959D3|Hspell:374380|h[Elemental Bond]|h|r.
+$bullet;While not next to an active Primal Altar, Kurog Grimtotem casts |cFF2959D3|Hspell:371971|h[Elemental Surge]|h|r.",2491,4,25032,0,0,3,0,0,0,0,0,1,-1
+25036,Stage One: Elemental Mastery,"Kurog Grimtotem, master of the Primal Elements, gains stacks of power while next to elemental altars.",2491,5,0,25037,25071,0,0,0,0,0,1,0,-1
+25037,Section 6,,2491,6,25036,0,25038,2,0,0,371971,0,0,32,-1
+25038,Section 7,,2491,7,25036,25039,25057,2,0,0,374861,0,0,0,-1
+25039,Section 8,,2491,8,25038,0,0,2,0,0,374864,0,0,0,-1
+25040,Fire Altar,An altar of primal fire.,2491,14,25036,25041,25061,3,0,0,0,0,0,0,-1
+25041,Section 10,,2491,15,25040,0,25373,2,0,0,374881,0,0,0,-1
+25042,Section 11,,2491,17,25040,0,0,2,0,0,374022,0,0,0,-1
+25044,Section 5,,2490,5,0,0,25046,2,0,0,373733,0,0,8192,-1
+25046,Section 7,,2490,6,0,0,25087,2,0,0,373767,0,0,0,-1
+25052,Section 12,,2490,10,0,0,25053,2,0,0,375056,0,0,17,-1
+25053,Section 16,,2490,11,0,0,0,2,0,0,374655,0,0,32,-1
+25056,Section 2,,2489,5,0,25085,25026,2,0,0,374635,0,1,0,-1
+25057,Section 12,,2491,9,25036,25227,25058,2,0,0,372153,0,0,1,-1
+25058,Section 13,,2491,11,25036,0,25059,2,0,0,373678,0,0,0,-1
+25059,Section 14,,2491,12,25036,0,25060,2,0,0,382563,0,0,0,-1
+25060,Section 15,,2491,13,25036,0,25040,2,0,0,373487,0,0,0,-1
+25061,Frost Altar,An altar of primal frost.,2491,18,25036,25062,25064,3,0,0,0,0,0,0,-1
+25062,Section 17,,2491,19,25061,0,25063,2,0,0,374916,0,0,0,-1
+25063,Section 18,,2491,20,25061,25229,0,2,0,0,372456,0,0,0,-1
+25064,Earth Altar,An altar of primal earth.,2491,23,25036,25065,25068,3,0,0,0,0,0,0,-1
+25065,Section 20,,2491,24,25064,0,25066,2,0,0,374917,0,0,0,-1
+25066,Section 21,,2491,25,25064,25273,0,2,0,0,374705,0,0,0,-1
+25067,Seismic Pillar,Created during Seismic Rupture.,2491,27,25066,0,0,1,107170,0,0,0,0,0,-1
+25068,Storm Altar,An altar of primal storm.,2491,28,25036,25069,0,3,0,0,0,0,0,0,-1
+25069,Section 24,,2491,29,25068,0,25070,2,0,0,374918,0,0,0,-1
+25070,Section 25,,2491,30,25068,0,0,2,0,0,374217,0,0,0,-1
+25071,Stage Two: Summoning Incarnates,Kurog Grimtotem shields himself in elemental power and summons forth primal incarnations.,2491,31,0,25072,0,0,0,0,0,0,0,0,-1
+25072,Section 27,,2491,32,25071,0,25228,2,0,0,374945,0,0,0,-1
+25073,Tectonic Crusher,An icarnation of earth.,2491,34,25071,25074,25076,1,102565,0,0,0,0,0,-1
+25074,Section 29,,2491,35,25073,0,25075,2,0,0,374427,0,0,0,-1
+25075,Section 30,,2491,36,25073,0,0,2,0,0,374430,0,0,0,-1
+25076,Frozen Destroyer,An incarnation of frost.,2491,37,25071,25077,25079,1,103227,0,0,0,0,0,-1
+25077,Section 32,,2491,38,25076,0,25078,2,0,0,374623,0,0,64,-1
+25078,Section 33,,2491,39,25076,0,0,2,0,0,374624,0,0,0,-1
+25079,Blazing Fiend,An incarnation of fire.,2491,40,25071,25080,25083,1,102552,0,0,0,0,0,-1
+25080,Section 35,,2491,41,25079,25081,25082,2,0,0,374485,0,0,0,-1
+25081,Section 36,,2491,42,25080,25231,0,2,0,0,374554,0,0,0,-1
+25082,Section 37,,2491,45,25079,0,0,2,0,0,374573,0,0,0,-1
+25083,Thundering Destroyer,an incarnation of storm.,2491,46,25071,25084,0,1,102567,0,0,0,0,0,-1
+25084,Section 39,,2491,47,25083,25232,0,2,0,0,374621,0,0,0,-1
+25085,Section 3,,2489,6,25056,0,25086,2,0,0,374640,0,0,4,-1
+25086,Section 4,"$[!8,23 
+In Mythic Difficulty, Blazing Aegis bounces to two additional players.$]",2489,7,25056,0,0,2,0,0,374812,0,0,0,-1
+25087,Section 13,,2490,7,0,25108,25052,2,0,0,373424,0,0,32,-1
+25088,Section 5,,2489,10,0,0,0,2,0,0,377995,0,0,0,-1
+25092,Overview,[PLACEHOLDER] Overview of the encounter.,2492,1,0,25093,25097,3,0,0,0,0,0,0,-1
+25093,Tanks,$bullet;PH Text Here,2492,2,25092,0,25094,3,0,0,0,0,0,1,-1
+25094,Damage Dealers,$bullet;PH Text Here,2492,3,25092,0,25095,3,0,0,0,0,0,2,-1
+25095,Healers,$bullet;PH Text Here,2492,4,25092,0,0,3,0,0,0,0,0,4,-1
+25097,Section 7,,2492,5,0,0,25099,2,0,0,374364,0,0,0,-1
+25099,Section 6,,2492,6,0,0,25100,2,0,0,374567,0,0,32,-1
+25100,Section 7,,2492,7,0,25101,25573,2,0,0,374720,0,0,16,-1
+25101,Section 8,,2492,8,25100,0,0,2,0,0,374736,0,1,0,-1
+25102,Section 9,,2492,10,0,0,0,2,0,0,374789,0,0,5,-1
+25104,Overview,Forgemaster Gorek utilizes the forge's heat to craft terrifying weapons during |cFF2959D3|Hspell:374635|h[Might of the Forge]|h|r and rain fire upon those who dare to interrupt his work.,2489,1,0,25105,25056,3,0,0,0,0,1,0,-1
+25105,Tank,"$bullet;|cFF2959D3|Hspell:374812|h[Blazing Aegis]|h|r triggers eruptions in four directions around the target's location.
+$bullet;|cFF2959D3|Hspell:374535|h[Heated Swings]|h|r inflicts massive Physical and Fire damage.",2489,2,25104,0,25106,3,0,0,0,0,1,1,-1
+25106,Damage Dealers,"$bullet;|cFF2959D3|Hspell:374812|h[Blazing Aegis]|h|r triggers eruptions in four directions around the target's location.
+$bullet;Avoid being hit during |cFF2959D3|Hspell:377995|h[Forgestorm]|h|r.",2489,3,25104,0,25107,3,0,0,0,0,1,2,-1
+25107,Healer,"$bullet;|cFF2959D3|Hspell:374812|h[Blazing Aegis]|h|r triggers eruptions in four directions around the target's location.
+$bullet;|cFF2959D3|Hspell:374635|h[Might of the Forge]|h|r and |cFF2959D3|Hspell:374640|h[Blazing Hammer]|h|r inflict heavy damage to the party.",2489,4,25104,0,0,3,0,0,0,0,1,4,-1
+25108,Section 14,,2490,8,25087,0,25109,2,0,0,374482,0,0,0,-1
+25109,Section 15,,2490,9,25087,0,0,2,0,0,374471,0,0,0,-1
+25113,Hasty Rearming,,2475,17,24783,0,0,2,0,0,375398,0,0,0,-1
+25115,Overview,,2493,1,0,25116,25119,3,0,0,0,0,0,0,-1
+25116,Tanks,$bullet;PH Text Here,2493,2,25115,0,25117,3,0,0,0,0,0,1,-1
+25117,Damage Dealers,$bullet;PH Text Here,2493,3,25115,0,25118,3,0,0,0,0,0,2,-1
+25118,Healers,$bullet;PH Text Here,2493,4,25115,0,0,3,0,0,0,0,0,4,-1
+25119,Stage One: The Primalist Clutch,,2493,5,0,25120,25146,0,0,0,0,0,1,0,-1
+25120,Broodkeeper Diurna,,2493,6,25119,25121,25127,1,106243,0,0,0,1,0,-1
+25121,Section 11,,2493,7,25120,0,25122,2,0,0,375809,0,1,0,-1
+25122,Section 11,,2493,8,25120,25123,25126,2,0,0,375842,0,0,32,-1
+25123,Section 11,,2493,9,25122,0,0,2,0,0,375829,0,1,0,-1
+25124,Section 11,,2493,11,25120,0,25125,2,0,0,375871,0,0,0,-1
+25125,Section 11,,2493,12,25120,0,25294,2,0,0,375876,0,0,0,-1
+25126,Section 11,,2493,10,25120,0,25124,2,0,0,376073,0,0,0,-1
+25127,The Clutchwarren,"The Primalist hatchery lies at the heart of the Vault. Filled to the brim with eggs representing the various Primalist flights, Broodkeeper Diurna will stop at nothing to defend her naiscent kin from invading heretics.",2493,16,25119,25128,25129,0,0,0,0,0,0,0,-1
+25128,Primal Proto-Whelp,,2493,17,25127,25181,0,1,106718,0,0,0,1,0,-1
+25129,Primalist Reinforcements,,2493,19,25119,25142,0,0,0,0,0,0,0,0,-1
+25130,Tarasek Earthreaver,,2493,24,25129,25131,25133,1,107420,0,0,0,0,0,-1
+25131,Section 24,,2493,25,25130,0,25132,2,0,0,376257,0,1,0,-1
+25132,Section 24,,2493,26,25130,0,0,2,0,0,376266,0,1,1,-1
+25133,Dragonspawn Flamebender,,2493,27,25129,25134,25136,1,107422,0,0,0,0,0,-1
+25134,Section 24,,2493,28,25133,0,25135,2,0,0,375485,0,1,0,-1
+25135,Section 24,,2493,29,25133,0,0,2,0,0,375575,0,1,0,-1
+25136,Juvenile Frost Proto-Dragon,,2493,30,25129,25137,25139,1,107419,0,0,0,0,0,-1
+25137,Section 24,,2493,31,25136,0,25138,2,0,0,375475,0,1,0,-1
+25138,Section 24,,2493,32,25136,0,0,2,0,0,375457,0,1,0,-1
+25139,Drakonid Stormbringer,,2493,33,25129,25140,0,1,107423,0,0,0,0,0,-1
+25140,Section 24,,2493,34,25139,0,25141,2,0,0,375653,0,1,64,-1
+25141,Section 24,,2493,35,25139,0,0,2,0,0,375630,0,1,0,-1
+25142,Tarasek Legionnaire,,2493,20,25129,25143,25144,1,107415,0,0,0,0,0,-1
+25143,Section 24,,2493,21,25142,0,0,2,0,0,375430,0,1,0,-1
+25144,Primalist Mage,,2493,22,25129,25145,25130,1,102901,0,0,0,0,0,-1
+25145,Section 24,,2493,23,25144,0,0,2,0,0,375716,0,1,96,-1
+25146,Stage Two: A Broodkeeper Scorned,,2493,36,0,25147,0,0,0,0,0,0,0,0,-1
+25147,Broodkeeper Diurna,,2493,37,25146,25148,0,1,106243,0,0,0,1,0,-1
+25148,Section 34,,2493,38,25147,0,25149,2,0,0,375879,0,1,0,-1
+25149,Section 35,,2493,39,25147,0,25150,2,0,0,380176,0,0,0,-1
+25150,Section 35,,2493,40,25147,0,25151,2,0,0,375871,0,0,0,-1
+25151,Section 35,,2493,41,25147,0,25308,2,0,0,375876,0,0,0,-1
+25160,Overview,"Magmatusk builds Magma energy during battle, triggering |cFF2959D3|Hspell:374365|h[Volatile Mutation]|h|r upon reaching 100 Magma. Every time |cFF2959D3|Hspell:374365|h[Volatile Mutation]|h|r is triggered another |cFF2959D3|Hspell:374410|h[Magma Tentacle]|h|r will grow, empowering Magmatusk's abilities.",2494,1,0,25161,25164,3,0,0,0,0,0,0,-1
+25161,Tanks,$bullet;Move away from players targeted by |cFF2959D3|Hspell:362075|h[Lava Spray]|h|r.,2494,2,25160,0,25162,3,0,0,0,0,0,1,-1
+25162,Healers,$bullet;Move away from players targeted by |cFF2959D3|Hspell:362075|h[Lava Spray]|h|r.,2494,3,25160,0,25163,3,0,0,0,0,0,4,-1
+25163,Damage Dealers,$bullet;Move away from players targeted by |cFF2959D3|Hspell:362075|h[Lava Spray]|h|r.,2494,4,25160,0,0,3,0,0,0,0,0,2,-1
+25164,Section 5,,2494,5,0,25165,25167,2,0,0,374365,0,1,2,-1
+25165,Section 6,,2494,6,25164,0,25166,2,0,0,375890,0,0,2,-1
+25166,Section 7,,2494,7,25164,0,0,2,0,0,374410,0,0,2,-1
+25167,Section 8,,2494,8,0,0,25168,2,0,0,375071,0,0,2,-1
+25168,Section 9,,2494,9,0,0,25169,2,0,0,375251,0,0,2,-1
+25169,Section 10,,2494,10,0,25170,0,2,0,0,375449,0,0,2,-1
+25170,Section 11,,2494,11,25169,0,0,2,0,0,375535,0,0,2,-1
+25171,Section 22,,2486,18,24967,25172,24969,2,0,0,374792,0,1,16,-1
+25172,Section 23,,2486,19,25171,0,0,2,0,0,374819,0,1,16,-1
+25173,Section 6,,2474,6,25179,0,0,2,0,0,373896,0,0,0,-1
+25175,Section 11,,2474,10,0,0,25180,2,0,0,374186,0,0,32,-1
+25176,Section 8,,2474,7,0,25177,25175,2,0,0,373944,0,0,2,-1
+25177,Section 9,,2474,8,25176,25600,0,2,0,0,373939,0,0,0,-1
+25179,Section 13,,2474,5,0,25173,25176,2,0,0,376170,0,0,0,-1
+25180,Section 10,,2474,11,0,0,0,2,0,0,373917,0,0,1,-1
+25181,Section 39,,2493,18,25128,0,0,2,0,0,376392,0,1,0,-1
+25182,Dual Strike,,2477,23,25187,25183,0,0,0,0,0,0,1,0,-1
+25183,Generic,,2477,24,25182,0,24769,2,0,0,376827,0,0,129,-1
+25185,Stage One: Balakar's Might,,2477,5,0,25197,25192,0,0,0,0,0,1,0,-1
+25186,Generic,,2477,19,25191,0,0,2,0,0,376683,0,1,0,-1
+25187,Stage Two: The Storm Unleashed,,2477,17,0,25191,0,0,0,0,0,0,0,0,-1
+25188,Dual Strike,,2477,9,25185,25189,0,0,0,0,0,0,1,0,-1
+25189,Generic,,2477,10,25188,0,25190,2,0,0,375937,0,0,8193,-1
+25190,Generic,,2477,11,25188,0,0,2,0,0,375929,0,0,0,-1
+25191,Generic,,2477,18,25187,25186,25202,2,0,0,376864,0,0,32,-1
+25192,Intermission: Stormwinds,,2477,12,0,25194,25187,0,0,0,0,0,0,0,-1
+25193,Section 18,,2477,22,25187,0,25182,2,0,0,376737,0,0,0,-1
+25194,Nokhud Stormcaster,,2477,13,25192,25195,25198,1,105351,0,0,0,1,0,-1
+25195,Nokhud Stormcaster,,2477,14,25194,0,0,2,0,0,376725,0,0,64,-1
+25196,Generic,,2477,21,25202,0,0,2,0,0,376899,0,0,0,-1
+25197,Generic,,2477,6,25185,25201,25200,2,0,0,376634,0,0,32,-1
+25198,Section 18,,2477,15,25192,0,25199,2,0,0,376730,0,0,4,-1
+25199,Section 18,,2477,16,25192,0,0,2,0,0,376737,0,0,0,-1
+25200,Generic,,2477,8,25185,0,25188,2,0,0,375943,0,0,0,-1
+25201,Generic,,2477,7,25197,0,0,2,0,0,376683,0,1,0,-1
+25202,Generic,,2477,20,25187,25196,25193,2,0,0,376892,0,0,0,-1
+25203,Overview,[PLACEHOLDER] Overview of the encounter.,2495,1,0,25204,25207,3,0,0,0,0,0,0,-1
+25204,Tanks,"$bullet; |cFF2959D3|Hspell:376997|h[Savage Peck]|h|r inflects high damage over time.
+$bullet; Scoring goals during|cFF2959D3|Hspell:377182|h[Play Ball!]|h|r yields massive benefits for the party.
+$bullet; Be warry of the knockback from |cFF2959D3|Hspell:377034|h[Overpowering Gust]|h|r.",2495,2,25203,0,25205,3,0,0,0,0,0,1,-1
+25205,Damage Dealers,"$bullet; Scoring goals during|cFF2959D3|Hspell:377182|h[Play Ball!]|h|r yields massive benefits for the party.
+$bullet; Be warry of the knockback from |cFF2959D3|Hspell:377034|h[Overpowering Gust]|h|r.
+$bullet; Casting during |cFF2959D3|Hspell:377034|h[Deafening Screech]|h|r will result in a silence.",2495,3,25203,0,25206,3,0,0,0,0,0,2,-1
+25206,Healers,"$bullet; Scoring goals during|cFF2959D3|Hspell:377182|h[Play Ball!]|h|r yields massive benefits for the party.
+$bullet; Be warry of the knockback from |cFF2959D3|Hspell:377034|h[Overpowering Gust]|h|r.
+$bullet; Casting during |cFF2959D3|Hspell:377034|h[Deafening Screech]|h|r will result in a silence.",2495,4,25203,0,0,3,0,0,0,0,0,4,-1
+25207,,,2495,5,0,0,25208,2,0,0,377034,0,0,0,-1
+25208,Section 6,,2495,6,0,0,25209,2,0,0,377004,0,0,4,-1
+25209,Section 7,,2495,7,0,0,25210,2,0,0,376997,0,0,1,-1
+25210,Section 8,,2495,8,0,25214,0,2,0,0,377182,0,1,32,-1
+25211,Section 9,,2495,10,25214,0,0,2,0,0,376448,0,1,0,-1
+25212,Section 10,,2495,12,25215,25213,0,2,0,0,376467,0,1,0,-1
+25213,Section 11,,2495,13,25212,0,0,2,0,0,376760,0,0,0,-1
+25214,Fire Goal,Scoring 3 goals in the Fire Goal triggers Firestorm.,2495,9,25210,25211,25215,2,0,0,0,135821,0,0,-1
+25215,Wind Goal,Scoring 3 goals in the Wind Goal triggers Gale Force.,2495,11,25210,25212,0,2,0,0,0,1029585,0,0,-1
+25217,Overview,The Raging Tempest is brimming with Uncontrollable Energy that is converted into |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r by the nearby Grounding Totems. Quickly gather the |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to gain |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r to help you defeat The Raging Tempest before you are overwhelmed by |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r and the growing |cFF2959D3|Hspell:384620|h[Electrical Storm]|h|r.,2497,1,0,25219,25433,3,0,0,0,0,0,0,-1
+25218,Tank,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r.
+$bullet;The Raging Tempest inflicts heavy damage while effected by |cFF2959D3|Hspell:384686|h[Energy Surge]|h|r",2497,4,25217,0,25441,3,0,0,0,0,2,1,3
+25219,Damage Dealers,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r.",2497,2,25217,0,25220,3,0,0,0,0,2,2,3
+25220,Healer,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r.
+$bullet;|cFF2959D3|Hspell:384620|h[Electrical Storm]|h|r inflicts heavy damage to all players.",2497,3,25217,0,25218,3,0,0,0,0,2,4,3
+25221,,,2497,10,0,0,25436,2,0,0,382630,0,1,0,-1
+25222,Overview,"Granyth periodically empowers himself with |cFF2959D3|Hspell:385192|h[Stonescales]|h|r, |cFF2959D3|Hspell:385407|h[Earthnertia]|h|r, and |cFF2959D3|Hspell:386335|h[Landslide]|h|r. Fire Dragonkiller Lancers to disrupt and weaken him.",2498,1,0,25223,25455,3,0,0,0,0,0,0,-1
+25223,Tanks,"$bullet;Dodge |cFF2959D3|Hspell:385916|h[Tectonic Stomp]|h|r, |cFF2959D3|Hspell:385657|h[Shards of Stone]|h|r, and the explosion from |cFF2959D3|Hspell:385192|h[Stonescales]|h|r.
+$bullet;Prepare for heavy incoming damage after |cFF2959D3|Hspell:385407|h[Earthnertia]|h|r.",2498,2,25222,0,25224,3,0,0,0,0,0,1,-1
+25224,Damage Dealers,"$bullet;Destroy the Nokhud Saboteurs before they can Dismantle the Dragonkiller Lances.
+$bullet;Instruct friendly Centaurs to |cFF2959D3|Hspell:386530|h[Fire Dragonkiller Lance]|h|r.",2498,3,25222,0,25225,3,0,0,0,0,0,2,-1
+25225,Healers,"$bullet;Prepare for heavy incoming damage on the tank after |cFF2959D3|Hspell:385407|h[Earthnertia]|h|r.
+$bullet;Instruct friendly Centaurs to |cFF2959D3|Hspell:386530|h[Fire Dragonkiller Lance]|h|r.",2498,4,25222,0,0,3,0,0,0,0,0,4,-1
+25227,Section 40,,2491,10,25057,0,0,2,0,0,372158,0,0,0,-1
+25228,Section 41,,2491,33,25071,0,25073,2,0,0,374380,0,0,1,-1
+25229,Section 42,,2491,21,25063,25230,0,2,0,0,372514,0,0,0,-1
+25230,Section 43,,2491,22,25229,0,0,2,0,0,372517,0,0,0,-1
+25231,Smouldering Hellion,Emerge from laval pools.,2491,43,25081,25272,0,1,102535,0,0,0,0,0,-1
+25232,Section 45,,2491,48,25084,0,0,2,0,0,374620,0,0,0,-1
+25236,Section 13,,2479,14,0,25237,24780,2,0,0,377405,0,2,4224,0
+25237,Section 14,,2479,15,25236,0,0,2,0,0,377561,0,0,0,-1
+25238,Section 13,,2479,12,0,25239,25236,2,0,0,377405,0,2,136,2
+25239,Section 14,,2479,13,25238,0,0,2,0,0,377561,0,0,0,-1
+25240,Overview,PH Text,2499,1,0,25241,25244,3,0,0,0,0,0,0,-1
+25241,Damage Dealer,PH DPS Text,2499,2,25240,0,25242,3,0,0,0,0,0,2,-1
+25242,Healer,PH Healer Text,2499,3,25240,0,25243,3,0,0,0,0,0,4,-1
+25243,Tank,PH Tank Text,2499,4,25240,0,0,3,0,0,0,0,0,1,-1
+25244,Stage One: PH Text,,2499,5,0,25246,25312,0,0,0,0,0,1,0,-1
+25245,Section 6,,2499,12,25244,0,25248,2,0,0,377594,0,0,16,-1
+25246,Section 7,,2499,6,25244,0,25497,2,0,0,377612,0,0,32,-1
+25247,Section 8,,2499,9,25244,25316,25400,2,0,0,377658,0,0,1,-1
+25248,Section 9,,2499,13,25244,25249,25311,2,0,0,376126,0,0,0,-1
+25249,PH Lightning Elemental,,2499,14,25248,25299,0,1,0,0,0,0,1,2,-1
+25250,Overview,"Terros creates |cFF2959D3|Hspell:380487|h[Earth Ejections]|h|r that turn into |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r. The effects of |cFF2959D3|Hspell:376279|h[Detonating Smash]|h|r and |cFF2959D3|Hspell:377166|h[Obliterating Slam]|h|r will clear any |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r they contact.
+
+Terros must be defeated before |cFF2959D3|Hspell:382458|h[Resonating Fissures]|h|r cover too much ground.",2500,1,0,25251,25374,3,0,0,0,0,0,0,-1
+25251,Tank,"$bullet;|cFF2959D3|Hspell:376279|h[Detonating Smash]|h|r creates a line of tectonic energy that clears |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r.
+$bullet;|cFF2959D3|Hspell:376279|h[Detonating Smash]|h|r affilcts players it damages with an application of |cFF2959D3|Hspell:376276|h[Concussive Force]|h|r.
+$bullet;|cFF2959D3|Hspell:380487|h[Earth Ejection]|h|r is deadly if the force is not dampened with the help of allies.",2500,2,25250,0,25252,3,0,0,0,0,0,1,-1
+25252,Damage Dealers,"$bullet;|cFF2959D3|Hspell:380487|h[Earth Ejection]|h|r is deadly if the force is not dampened with the help of allies.
+$bullet;|cFF2959D3|Hspell:380487|h[Earth Ejection]|h|r releases rock missiles that lock-on to random players and create |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r where they explode.
+$bullet;|cFF2959D3|Hspell:383073|h[Rumbling Impact]|h|r causes |cFF2959D3|Hspell:378861|h[Pulverizing Stones]|h|r to fall from the ceiling.",2500,3,25250,0,25253,3,0,0,0,0,0,2,-1
+25253,Healer,"$bullet;When |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r is cleared by |cFF2959D3|Hspell:376279|h[Detonating Smash]|h|r or |cFF2959D3|Hspell:377166|h[Obliterating Slam]|h|r, it releases an |cFF2959D3|Hspell:381576|h[Energy Wave]|h|r.
+$bullet;|cFF2959D3|Hspell:382776|h[Tectonic Dissonance]|h|r inflicts damage for each |cFF2959D3|Hspell:381486|h[Primed Earth]|h|r that exists.
+$bullet;|cFF2959D3|Hspell:380487|h[Earth Ejection]|h|r is deadly if the force is not dampened with the help of allies.",2500,4,25250,0,0,3,0,0,0,0,0,4,-1
+25254,Section 11,,2500,18,0,0,0,2,0,0,377505,0,0,0,-1
+25258,Overview,"Warlord Sargha hurls |cFF2959D3|Hspell:377018|h[Molten Gold]|h|r at players, leaving |cFF2959D3|Hspell:377022|h[Hardened Gold]|h|r upon expiration.
+
+Upon reaching 100 Molten energy, Warlord Sargha begins channeling |cFF2959D3|Hspell:376780|h[Magma Shield]|h|r until it is damaged away. Players can search through the gold piles for magic items to aid in removing the |cFF2959D3|Hspell:376780|h[Magma Shield]|h|r.",2501,1,0,25259,25262,3,0,0,0,0,0,0,-1
+25259,Tanks,"$bullet;Search gold piles for magic items to deplete |cFF2959D3|Hspell:376780|h[Magma Shield]|h|r.
+$bullet;Upon expiration |cFF2959D3|Hspell:377018|h[Molten Gold]|h|r leaves |cFF2959D3|Hspell:377022|h[Hardened Gold]|h|r which lasts until the end of combat.",2501,2,25258,0,25260,3,0,0,0,0,0,1,-1
+25260,Healers,"$bullet;Search gold piles for magic items to deplete |cFF2959D3|Hspell:376780|h[Magma Shield]|h|r.
+$bullet;Upon expiration |cFF2959D3|Hspell:377018|h[Molten Gold]|h|r leaves |cFF2959D3|Hspell:377022|h[Hardened Gold]|h|r which lasts until the end of combat.",2501,3,25258,0,25261,3,0,0,0,0,0,4,-1
+25261,Damage Dealers,"$bullet;Search gold piles for magic items to deplete |cFF2959D3|Hspell:376780|h[Magma Shield]|h|r.
+$bullet;Upon expiration |cFF2959D3|Hspell:377018|h[Molten Gold]|h|r leaves |cFF2959D3|Hspell:377022|h[Hardened Gold]|h|r which lasts until the end of combat.",2501,4,25258,0,0,3,0,0,0,0,0,2,-1
+25262,Section 5,,2501,5,0,25263,25265,2,0,0,376780,0,1,0,-1
+25263,Section 6,,2501,6,25262,25264,0,2,0,0,376783,0,0,0,-1
+25264,Section 7,,2501,7,25263,0,0,2,0,0,376784,0,0,0,-1
+25265,Section 8,,2501,8,0,25266,25267,2,0,0,377018,0,0,0,-1
+25266,Section 9,,2501,9,25265,0,0,2,0,0,377022,0,0,0,-1
+25267,Section 10,,2501,10,0,0,25268,2,0,0,377204,0,0,0,-1
+25268,Section 11,,2501,11,0,25269,0,2,0,0,377477,0,0,0,-1
+25269,Section 12,,2501,12,25268,0,25270,2,0,0,377542,0,0,0,-1
+25270,Raging Ember,,2501,13,25268,25271,0,1,1070,0,0,0,0,0,-1
+25271,Section 14,,2501,14,25270,0,0,2,0,0,377522,0,0,0,-1
+25272,Section 46,,2491,44,25231,0,0,2,0,0,376063,0,0,0,-1
+25273,Section 47,,2491,26,25066,0,25067,2,0,0,377780,0,0,0,-1
+25274,Section 17,,2475,16,24784,0,0,2,0,0,377825,0,2,4096,0
+25281,Section 14,,2500,14,0,25323,25375,2,0,0,377166,0,1,16,-1
+25282,Section 15,,2500,12,0,25288,25281,2,0,0,376279,0,0,1,-1
+25288,Section 10,,2500,13,25282,0,0,2,0,0,376276,0,0,1,-1
+25290,Overview,[PLACEHOLDER] Overview of the encounter.,2502,1,0,25291,25340,3,0,0,0,0,0,0,-1
+25291,Tanks,$bullet;PH Text Here,2502,2,25290,0,25292,3,0,0,0,0,0,1,-1
+25292,Damage Dealers,$bullet;PH Text Here,2502,3,25290,0,25403,3,0,0,0,0,0,2,-1
+25293,Healers,,2502,7,25340,0,25341,2,0,0,376346,0,0,0,-1
+25294,Section 40,,2493,13,25120,25295,0,2,0,0,375870,0,1,1,-1
+25295,Section 41,,2493,14,25294,0,25296,2,0,0,378782,0,0,4,-1
+25296,Section 42,,2493,15,25294,0,0,2,0,0,378787,0,0,0,-1
+25297,Section 24,,2486,14,24958,0,24962,2,0,0,375022,0,0,64,-1
+25298,Section 11,,2499,16,25249,0,0,2,0,0,377670,0,0,64,-1
+25299,Section 12,,2499,15,25249,0,25298,2,0,0,377741,0,0,32,-1
+25300,Section 6,,2473,15,0,0,0,2,0,0,377559,0,0,1,-1
+25301,Section 6,,2473,9,0,25302,25305,2,0,0,376811,0,1,0,-1
+25302,Decaying Slime,,2473,10,25301,25303,0,1,104893,0,0,0,1,0,-1
+25303,Section 8,,2473,11,25302,25304,25327,2,0,0,378055,0,1,0,-1
+25304,Section 9,,2473,12,25303,0,0,2,0,0,378054,0,0,0,-1
+25305,Section 10,,2473,14,0,0,25300,2,0,0,377864,0,0,1024,-1
+25306,Section 11,,2473,5,0,25307,25301,2,0,0,376933,0,1,32,-1
+25307,Section 12,"$[!8,23
+	
+In Mythic, the consumed player will become |cFF2959D3|Hspell:383875|h[Partially Digested]|h|r after being spit out.$]",2473,6,25306,25380,25339,2,0,0,377222,0,0,4,-1
+25308,Section 43,,2493,42,25147,25309,0,2,0,0,375870,0,0,1,-1
+25309,Section 44,,2493,43,25308,0,25310,2,0,0,378782,0,0,4,-1
+25310,Section 44,,2493,44,25308,0,0,2,0,0,378787,0,0,0,-1
+25311,Section 13,,2499,17,25244,0,0,2,0,0,381249,0,0,4,-1
+25312,Stage Two: PH Text,,2499,18,0,25402,0,0,0,0,0,0,1,0,-1
+25315,Section 15,,2499,21,25402,0,25399,2,0,0,378829,0,0,0,-1
+25316,Section 16,,2499,10,25247,0,0,2,0,0,381615,0,0,0,-1
+25317,Section 10,,2500,8,0,25318,25282,2,0,0,380487,0,1,32,-1
+25318,Section 11,,2500,9,25317,25321,0,2,0,0,381315,0,1,0,-1
+25321,Section 18,,2500,10,25318,0,25378,2,0,0,381576,0,0,4,-1
+25323,Section 12,,2500,15,25281,25324,0,2,0,0,378861,0,0,0,-1
+25324,Section 13,,2500,16,25323,0,0,2,0,0,382458,0,0,0,-1
+25327,Section 13,,2473,13,25302,0,0,2,0,0,381770,0,0,64,-1
+25328,Section 8,,2471,6,24732,0,25329,2,0,0,381419,0,0,17,-1
+25329,Section 9,,2471,7,24732,0,25330,2,0,0,377827,0,0,0,-1
+25330,Section 10,,2471,8,24732,0,0,2,0,0,377807,0,0,0,-1
+25331,Section 11,,2471,10,24733,0,25332,2,0,0,381379,0,0,160,-1
+25332,Section 12,,2471,11,24733,0,25333,2,0,0,378020,0,0,8192,-1
+25333,Section 13,,2471,12,24733,0,0,2,0,0,378229,0,2,4100,0
+25334,Section 14,,2471,14,24734,25335,25336,2,0,0,381470,0,0,0,-1
+25335,Section 15,,2471,15,25334,0,0,2,0,0,381466,0,0,0,-1
+25336,Section 16,,2471,16,24734,0,25337,2,0,0,377950,0,0,64,-1
+25337,Section 17,,2471,17,24734,0,25338,2,0,0,377965,0,0,32,-1
+25338,Section 18,,2471,18,24734,0,0,2,0,0,378155,0,0,0,-1
+25339,Section 14,,2473,8,25306,0,0,2,0,0,378022,0,0,0,-1
+25340,"Dathea, Ascended",,2502,5,0,25358,25625,0,107813,0,0,0,1,0,-1
+25341,Section 5,,2502,8,25340,25342,25349,2,0,0,374796,0,1,16,-1
+25342,Section 12,,2502,9,25341,0,25343,2,0,0,371741,0,1,32,-1
+25343,Section 11,,2502,10,25341,0,25344,2,0,0,378095,0,1,36,-1
+25344,Zephyr Guardian,Zephyr Guardians are summoned on side platforms to protect Dathea as she channels Crushing Atmosphere.,2502,11,25341,25345,0,1,102550,0,0,0,1,2,-1
+25345,Section 16,,2502,12,25344,0,25346,2,0,0,379494,0,0,0,-1
+25346,Section 14,,2502,13,25344,25360,25359,2,0,0,381688,0,0,0,-1
+25347,Section 15,,2502,16,25344,25348,0,2,0,0,380016,0,0,0,-1
+25348,Section 17,,2502,17,25347,0,0,2,0,0,371741,0,0,32,-1
+25349,Section 10,,2502,18,25340,0,25350,2,0,0,376943,0,0,24,-1
+25350,Section 7,,2502,19,25340,25351,25352,2,0,0,377441,0,0,0,-1
+25351,Section 8,,2502,20,25350,0,0,2,0,0,377819,0,0,0,-1
+25352,Section 22,,2502,21,25340,25353,25354,2,0,0,374900,0,0,0,-1
+25353,Section 23,"$[!15
+
+In Heroic and Mythic difficulty, Raging Tempests wander around.$]
+$[!16
+
+In Heroic and Mythic difficulty, Raging Tempests wander around.$]",2502,22,25352,0,0,2,0,0,375424,0,0,0,-1
+25354,Section 20,,2502,23,25340,25355,25356,2,0,0,377340,0,0,0,-1
+25355,Section 21,,2502,24,25354,0,0,2,0,0,377353,0,0,0,-1
+25356,Section 19,,2502,25,25340,0,25357,2,0,0,376802,0,0,4,-1
+25357,Section 18,,2502,26,25340,0,25584,2,0,0,375580,0,0,1,-1
+25358,Section 9,,2502,6,25340,0,25293,2,0,0,386706,0,0,0,-1
+25359,Section 24,,2502,15,25344,0,25347,2,0,0,381556,0,2,8,0
+25360,Section 25,,2502,14,25346,0,0,2,0,0,382658,0,0,0,-1
+25361,Overview,"Kyrakka begins the battle airborne, breathing flames and spitting fire from around the Ruby Overlook, whilst Erkhart intercepts players directly.
+
+Upon either of them reaching half health, Kyrakka lands so Erkhart can remount, battling players atop Kyrakka.",2503,1,0,25362,25365,3,0,0,0,0,0,0,-1
+25362,Tank,"$bullet; Erkhart's |cFF2959D3|Hspell:381512|h[Stormslam]|h|r inflicts both Physical and Nature damage, applying a magic-dispellable vulnerability.
+$bullet; Kyrakka's |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r inflicts very high Fire damage and can complicate proper positioning.
+$bullet; Be wary of Erkhart's |cFF2959D3|Hspell:381517|h[Winds of Change]|h|r as they push both players and Kyrakka's |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r around.",2503,2,25361,0,25363,3,0,0,0,0,0,1,-1
+25363,Damage Dealers,"$bullet; Kyrakka's |cFF2959D3|Hspell:381607|h[Flamespit]|h|r and |cFF2959D3|Hspell:381525|h[Roaring Firebreath]|h|r apply |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r, complicating movement choices within the play space.
+$bullet; Be wary of Erkhart's |cFF2959D3|Hspell:381517|h[Winds of Change]|h|r as they push both players and Kyrakka's |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r around.",2503,3,25361,0,25364,3,0,0,0,0,0,2,-1
+25364,Healer,"$bullet; Erkhart's |cFF2959D3|Hspell:381512|h[Stormslam]|h|r inflicts both Physical and Nature damage, applying a magic-dispellable vulnerability.
+$bullet; Kyrakka's |cFF2959D3|Hspell:381607|h[Flamespit]|h|r and |cFF2959D3|Hspell:381525|h[Roaring Firebreath]|h|r apply |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r, complicating movement choices within the play space.
+$bullet; Be wary of Erkhart's |cFF2959D3|Hspell:381517|h[Winds of Change]|h|r as they push both players and Kyrakka's |cFF2959D3|Hspell:381862|h[Inner Inferno]|h|r around.",2503,4,25361,0,0,3,0,0,0,0,0,4,-1
+25365,Kyrakka,,2503,5,0,25366,25369,1,107137,0,0,0,1,0,-1
+25366,Section 6,,2503,6,25365,0,25367,2,0,0,381862,0,1,32,-1
+25367,Section 9,,2503,7,25365,0,25368,2,0,0,381607,0,0,0,-1
+25368,Section 10,,2503,8,25365,0,0,2,0,0,381525,0,0,0,-1
+25369,Erkhart Stormvein,,2503,9,0,25371,0,1,108318,0,0,0,1,0,-1
+25370,Section 6,,2503,11,25369,0,25479,2,0,0,381512,0,0,129,-1
+25371,Section 6,,2503,10,25369,0,25370,2,0,0,381517,0,0,32,-1
+25372,Section 6,,2503,13,25369,0,0,2,0,0,381516,0,2,4096,0
+25373,Section 48,,2491,16,25040,0,25042,2,0,0,373329,0,0,0,-1
+25374,Section 18,,2500,5,0,25376,25317,2,0,0,383073,0,0,0,-1
+25375,Section 17,,2500,17,0,0,25254,2,0,0,387734,0,0,16,-1
+25376,Section 12,,2500,6,25374,25377,0,2,0,0,378861,0,0,0,-1
+25377,Section 13,,2500,7,25376,0,0,2,0,0,382458,0,0,0,-1
+25378,Section 20,,2500,11,25318,0,0,2,0,0,382776,0,0,4,-1
+25380,Section 15,,2473,7,25307,0,0,2,0,0,383875,0,2,4112,0
+25382,Section 15,,2488,9,25005,0,0,2,0,0,384024,0,0,0,-1
+25383,Overview,"Watcher Irideus begins by activating his |cFF2959D3|Hspell:383836|h[Accelerated Reconstruction]|h|r protocol, restoring his health from his previous fight with the Primalists invading the Halls.
+
+When his Reconstruction comes to an end, Irideus will periodically erect an |cFF2959D3|Hspell:383840|h[Ablative Barrier]|h|r, which explodes into volleys of |cFF2959D3|Hspell:383935|h[Reactive Spark]|h|r as the barrier is destroyed. Irideus inflicts heavy damage to the party until it is broken, by force, or by wielding the shrapnel from |cFF2959D3|Hspell:384096|h[Core Fragmentation]|h|r against Irideus.",2504,1,0,25384,25388,3,0,0,0,0,0,0,-1
+25384,Damage Dealers,"$bullet;Interrupt |cFF2959D3|Hspell:383836|h[Accelerated Reconstruction]|h|r to keep Watcher Irideus' health manageable.
+$bullet;Breaking |cFF2959D3|Hspell:383840|h[Ablative Barrier]|h|r with all three applications active will trigger a massive volley of |cFF2959D3|Hspell:383935|h[Reactive Spark]|h|r.",2504,2,25383,0,25385,3,0,0,0,0,0,2,-1
+25385,Healers,"$bullet;Avoid |cFF2959D3|Hspell:383935|h[Reactive Spark]|h|r when stacks of |cFF2959D3|Hspell:383840|h[Ablative Barrier]|h|r are destroyed.
+$bullet;|cFF2959D3|Hspell:384333|h[Final Surge]|h|r will require heavier healing the longer it continues.",2504,3,25383,0,25386,3,0,0,0,0,0,4,-1
+25386,Tanks,$bullet;,2504,4,25383,0,0,3,0,0,0,0,0,1,-1
+25388,Section 7,,2504,5,0,0,25389,2,0,0,383836,0,0,0,-1
+25389,Section 5,,2504,6,0,0,25390,2,0,0,384524,0,0,1,-1
+25390,Section 5,,2504,7,0,0,25391,2,0,0,383840,0,0,0,-1
+25391,Section 11,,2504,8,0,25392,25394,2,0,0,384096,0,0,0,-1
+25392,Section 12,,2504,9,25391,0,25393,2,0,0,384260,0,0,0,-1
+25393,Section 13,,2504,10,25391,0,0,2,0,0,384279,0,0,0,-1
+25394,Section 9,,2504,11,0,0,25395,2,0,0,384351,0,0,0,-1
+25395,Section 8,,2504,12,0,0,25396,2,0,0,384015,0,0,0,-1
+25396,Section 10,,2504,13,0,0,0,2,0,0,384333,0,0,0,-1
+25399,Section 6,,2499,22,25402,0,25480,2,0,0,377594,0,0,16,-1
+25400,Section 15,,2499,11,25244,0,25245,2,0,0,378829,0,0,0,-1
+25402,Raszageth,,2499,19,25312,25482,25477,1,103255,0,0,0,1,0,-1
+25403,Healers,$bullet;PH Text Here,2502,4,25290,0,0,3,0,0,0,0,0,4,-1
+25405,Overview,Azureblade assaults the player with various arcane magics to avoid. Destroy Draconic Illusions that protect Azureblade from damage during |cFF2959D3|Hspell:384132 |h[Overwhelming Energy]|h|r.,2505,1,0,25406,25410,3,0,0,0,0,0,0,-1
+25406,Tanks,$bullet; Avoid hitting your allies with |cFF2959D3|Hspell:372222 |h[Arcane Slicer]|h|r.,2505,2,25405,0,25407,3,0,0,0,0,1,1,-1
+25407,Healers,"$bullet; Azureblade casts |cFF2959D3|Hspell:384132 |h[Overwhelming Energy]|h|r and inflicts damage to all party members for its duration.
+$bullet; Draconic Illusions shoot |cFF2959D3|Hspell:373932 |h[Illusionary Bolt]|h|r and inflict damage on random party members.",2505,3,25405,0,25408,3,0,0,0,0,1,4,-1
+25408,Damage Dealers,"$bullet; Defeat Draconic Illusions to prevent excess damage to your party and end |cFF2959D3|Hspell:384132 |h[Overwhelming Energy]|h|r.
+$bullet; Avoid being in the path of |cFF2959D3|Hspell:385578 |h[Arcane Orb]|h|r.",2505,4,25405,0,0,3,0,0,0,0,1,2,-1
+25410,Section 13,,2505,5,0,0,25498,2,0,0,372222,0,0,1,-1
+25415,Section 7,,2472,9,0,0,25418,2,0,0,384148,0,1,32,-1
+25416,Section 11,,2472,7,24735,0,0,2,0,0,384558,0,0,0,-1
+25417,Section 8,,2472,13,0,0,25420,2,0,0,384638,0,0,64,-1
+25418,Section 9,,2472,10,0,25421,25417,2,0,0,384416,0,1,32,-1
+25419,Section 10,,2472,12,25418,0,0,2,0,0,384764,0,0,2052,-1
+25420,Section 6,,2472,14,0,0,0,2,0,0,384343,0,0,1,-1
+25421,Section 12,,2472,11,25418,0,25419,2,0,0,384425,0,0,0,-1
+25422,Overview,"Basrikron shapes the earth around him with |cFF2959D3|Hspell:385270|h[Fracturing Spires]|h|r, and |cFF2959D3|Hspell:385506|h[Awaken Crag]|h|r. At 100 energy, Basrikron will take flight, and plummet with a |cFF2959D3|Hspell:386259|h[Sundering Crash]|h|r, destroying all |cFF2959D3|Hspell:385879|h[Fractured Spires]|h|r.",2506,1,0,25423,25562,3,0,0,0,0,0,0,-1
+25423,Healers,"$bullet; |cFF2959D3|Hspell:386259|h[Sundering Crash]|h|r will detonate all |cFF2959D3|Hspell:385879|h[Fractured Spires]|h|r, damaging and knocking nearby players into the air.
+$bullet; |cFF2959D3|Hspell:386259|h[Shale Breath]|h|r inflicts heavy Nature damage to its target and increases damage taken.
+$bullet; |cFF2959D3|Hspell:386259|h[Sundering Crash]|h|r inflicts damage to all players.",2506,2,25422,0,25424,3,0,0,0,0,0,4,-1
+25424,Tanks,"$bullet; |cFF2959D3|Hspell:386259|h[Sundering Crash]|h|r will detonate all |cFF2959D3|Hspell:385879|h[Fractured Spires]|h|r, damaging and knocking nearby players into the air.
+$bullet;|cFF2959D3|Hspell:386259|h[Shale Breath]|h|r increases Physical damage taken.
+$bullet;|cFF2959D3|Hspell:385879|h[Fractured Spires]|h|r slow and damage all players near them.",2506,3,25422,0,25425,3,0,0,0,0,0,1,-1
+25425,Damage Dealers,"$bullet; |cFF2959D3|Hspell:386259|h[Sundering Crash]|h|r will detonate all |cFF2959D3|Hspell:385879|h[Fractured Spires]|h|r, damaging and knocking nearby players into the air.
+$bullet; |cFF2959D3|Hspell:385506|h[Awaken Crag]|h|r summons elementals to attack players.",2506,4,25422,0,0,3,0,0,0,0,0,2,-1
+25433,Lightning Strike,"$[!8,23 
+
+In Mythic Difficulty, Lightning Strikes also create a Squall at each player's location.$]",2497,8,0,25434,25221,2,0,0,384316,0,0,32,-1
+25434,Section 9,,2497,9,25433,0,0,2,0,0,383944,0,2,4096,0
+25435,Energy Surge,,2497,12,0,0,25593,2,0,0,384686,0,0,129,-1
+25436,Electrical Storm,,2497,11,0,0,25435,2,0,0,384620,0,0,4,-1
+25437,Wind Burst,,2497,14,0,0,0,2,0,0,385490,0,0,0,-1
+25441,Damage Dealers,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r and quickly move out of |cFF2959D3|Hspell:383944|h[Squall]|h|r.",2497,5,25217,0,25442,3,0,0,0,0,2,1,0
+25442,Healer,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r and quickly move out of |cFF2959D3|Hspell:383944|h[Squall]|h|r.
+$bullet;|cFF2959D3|Hspell:384620|h[Electrical Storm]|h|r inflicts heavy damage to all players.",2497,6,25217,0,25443,3,0,0,0,0,2,1,0
+25443,Tank,"$bullet;Gather |cFF2959D3|Hspell:383686|h[Orb of Power]|h|r to increase your damage and healing with |cFF2959D3|Hspell:382628|h[Surge of Power]|h|r.
+$bullet;Position to avoid hitting other players with |cFF2959D3|Hspell:384316|h[Lightning Strike]|h|r and quickly move out of |cFF2959D3|Hspell:383944|h[Squall]|h|r.
+$bullet;The Raging Tempest inflicts heavy damage while effected by |cFF2959D3|Hspell:384686|h[Energy Surge]|h|r",2497,7,25217,0,0,3,0,0,0,0,2,1,0
+25445,Shards of Stone,,2498,7,25455,0,25446,2,0,0,385657,0,0,0,-1
+25446,Landslide,,2498,8,25455,0,25447,2,0,0,386335,0,0,32,-1
+25447,Earthnertia,,2498,9,25455,0,25448,2,0,0,385407,0,0,32,-1
+25448,Stonescales,,2498,10,25455,0,0,2,0,0,385192,0,0,32,-1
+25455,Granyth,,2498,5,0,25458,25612,1,105823,0,0,0,0,0,-1
+25458,Tectonic Stomp,,2498,6,25455,0,25445,2,0,0,385916,0,0,0,-1
+25460,Overview,"The Gulping Goliath uses its size and |cFF2959D3|Hspell:385187|h[Overpowering Croak]|h|r to subdue its foes. Beware of the loose stones above causing a |cFF2959D3|Hspell:375215|h[Cave In]|h|r, dropping Curious Swoglets into the arena. 
+
+Both the Goliath trying to |cFF2959D3|Hspell:385555|h[Gulp]|h|r enemies and the Curious Swoglets' melee attacks will apply the lethal |cFF2959D3|Hspell:374389|h[Gulp Swog Toxin]|h|r. Both types of Hornswog are happy to feast on adventurers who succumb to a high dose of |cFF2959D3|Hspell:374389|h[Gulp Swog Toxin]|h|r.",2507,1,0,25461,25473,3,0,0,0,0,0,0,-1
+25461,Damage Dealers,"$bullet;Ensure that the Goliath has a nearby target to |cFF2959D3|Hspell:385555|h[Gulp]|h|r each time it tries.
+$bullet;Snare or root Curious Swoglets so they do not apply |cFF2959D3|Hspell:374389|h[Gulp Swog Toxin]|h|r to your allies.",2507,2,25460,0,25462,3,0,0,0,0,0,0,-1
+25462,Healers,"$bullet;Flee from Curious Swoglets so they do not apply |cFF2959D3|Hspell:374389|h[Gulp Swog Toxin]|h|r while you are healing your allies.
+$bullet;|cFF2959D3|Hspell:385451|h[Toxic Effluvia]|h|r will inflict significant Nature damage to your party.",2507,3,25460,0,25463,3,0,0,0,0,0,0,-1
+25463,Tanks,"$bullet;Ensure that the Goliath has a nearby target to |cFF2959D3|Hspell:385555|h[Gulp]|h|r each time it tries.
+$bullet;Gather Curious Swoglets for your allies without allowing them to apply |cFF2959D3|Hspell:374389|h[Gulp Swog Toxin]|h|r.",2507,4,25460,0,0,3,0,0,0,0,0,0,-1
+25464,Section 9,,2507,6,25473,0,0,2,0,0,374389,0,0,0,-1
+25465,Section 5,,2507,7,0,25466,25494,2,0,0,385187,0,0,0,-1
+25466,Section 6,,2507,8,25465,25467,0,2,0,0,375215,0,0,0,-1
+25467,Curious Swoglet,,2507,9,25466,25468,0,1,102560,0,0,0,0,0,-1
+25468,Section 8,,2507,10,25467,0,0,2,0,0,374389,0,0,0,-1
+25473,Section 10,,2507,5,0,25464,25465,2,0,0,385555,0,0,0,-1
+25474,Section 11,,2507,13,0,0,0,2,0,0,385451,0,0,0,-1
+25477,Stage Three: PH Text,,2499,24,25312,25478,0,0,0,0,0,0,1,0,-1
+25478,Section 31,,2499,25,25477,0,0,2,0,0,377322,0,1,0,-1
+25479,Section 6,,2503,12,25369,0,25372,2,0,0,385558,0,2,0,3
+25480,Section 32,,2499,23,25402,0,0,2,0,0,385561,0,0,0,-1
+25482,Section 34,,2499,20,25402,0,25315,2,0,0,385574,0,0,36,-1
+25483,Overview,"Umbrelskul continually unleashes |cFF2959D3|Hspell:385078 |h[Arcane Eruptions]|h|r that create |cFF2959D3|Hspell:385267 |h[Crackling Vortexes]|h|r that wander the area.
+
+At 75%, 50%, and 25% health Umbreskul shatters creating Detonating Crystals that will |cFF2959D3|Hspell:385331 |h[Fracture]|h|r.",2508,1,0,25484,25589,3,0,0,0,0,0,0,-1
+25484,Tanks,$bullet;|cFF2959D3|Hspell:384978 |h[Dragon Stomp]|h|r inflicts heavy damage.,2508,2,25483,0,25485,3,0,0,0,0,0,1,-1
+25485,Damage Dealers,"$bullet;When summoned, Detonating Crystals begin to cast |cFF2959D3|Hspell:385331 |h[Fracture]|h|r.",2508,3,25483,0,25486,3,0,0,0,0,0,2,-1
+25486,Healers,"$bullet;|cFF2959D3|Hspell:384978 |h[Dragon Stomp]|h|r inflicts heavy damage.
+$bullet;Each stack of |cFF2959D3|Hspell:385329 |h[Violent Haste]|h|r inflicts additional damage to all players.",2508,4,25483,0,0,3,0,0,0,0,0,4,-1
+25487,Section 5,,2508,8,0,0,25490,2,0,0,384978,0,0,129,-1
+25488,Section 6,,2508,13,0,25489,0,2,0,0,385078,0,0,0,-1
+25489,Section 7,,2508,14,25488,0,0,2,0,0,385267,0,0,0,-1
+25490,Section 8,,2508,9,0,0,25591,2,0,0,384699,0,0,16,-1
+25491,Section 9,,2508,11,25591,25592,0,2,0,0,385527,0,0,256,-1
+25492,Detonating Crystal,Detonating Crystals break off of Umbreskul's body on receiving damage.,2508,6,25589,25493,0,1,73454,0,0,0,0,0,-1
+25493,Section 11,,2508,7,25492,0,0,2,0,0,385331,0,0,0,-1
+25494,Section 12,,2507,11,0,25495,25474,2,0,0,385691,0,0,0,-1
+25495,Section 13,,2507,12,25494,0,0,2,0,0,385743,0,0,0,-1
+25496,Section 35,,2499,8,25497,0,0,2,0,0,381614,0,1,8,-1
+25497,Section 36,,2499,7,25244,25496,25247,2,0,0,377662,0,0,32,-1
+25498,Section 8,,2505,6,0,0,25512,2,0,0,385578,0,0,0,-1
+25504,Overview,PH Text,2509,1,0,25505,25622,3,0,0,0,0,0,0,-1
+25505,Tanks,$bullet;PH Text,2509,2,25504,0,25506,3,0,0,0,0,0,0,-1
+25506,Damage Dealers,$bullet;PH Text,2509,3,25504,0,25507,3,0,0,0,0,0,0,-1
+25507,Healers,$bullet;PH Text,2509,4,25504,0,0,3,0,0,0,0,0,0,-1
+25512,Section 7,,2505,7,0,25513,25515,2,0,0,384223,0,0,0,-1
+25513,Draconic Illusion,,2505,8,25512,25514,0,1,107094,0,0,0,0,0,-1
+25514,Section 9,,2505,9,25513,0,0,2,0,0,373932,0,0,64,-1
+25515,Section 10,,2505,10,0,25516,0,2,0,0,384132,0,1,36,-1
+25516,Draconic Illusion,,2505,11,25515,25517,0,1,107094,0,0,0,0,32,-1
+25517,Section 12,,2505,12,25516,0,0,2,0,0,379256,0,0,32,-1
+25518,Overview,,2510,1,0,25519,25522,3,0,0,0,0,0,0,-1
+25519,Tanks,"$bullet;|cFF2959D3|Hspell:386757|h[Hailstorm]|h|r will strike every |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r, not just those being used for cover.
+$bullet;Avoid the |cFF2959D3|Hspell:386295|h[Avalanche]|h|r from a damaged |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r being struck a second time.",2510,2,25518,0,25520,3,0,0,0,0,0,1,-1
+25520,Damage Dealers,"$bullet;|cFF2959D3|Hspell:386757|h[Hailstorm]|h|r will strike every |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r, not just those being used for cover.
+$bullet;Avoid the |cFF2959D3|Hspell:386295|h[Avalanche]|h|r from a damaged |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r being struck a second time.",2510,3,25518,0,25521,3,0,0,0,0,0,2,-1
+25521,Healers,"$bullet;|cFF2959D3|Hspell:386757|h[Hailstorm]|h|r will strike every |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r, not just those being used for cover.
+$bullet;Avoid the |cFF2959D3|Hspell:386295|h[Avalanche]|h|r from a damaged |cFF2959D3|Hspell:386222|h[Ice Boulder]|h|r being struck a second time.
+$bullet;After using |cFF2959D3|Hspell:386733|h[Ascendance]|h|r, Khajin's |cFF2959D3|Hspell:386743|h[Polar Winds]|h|r will continue until she is defeated.",2510,4,25518,0,0,3,0,0,0,0,0,4,-1
+25522,Stage One: Cold Front,"Khajin builds her power, assaulting her enemies with blasts of hail and ice.",2510,5,0,25569,25524,2,0,0,0,0,1,0,-1
+25523,Section 7,,2510,10,25522,0,0,2,0,0,386118,0,1,0,-1
+25524,Stage Two: Ascendance,"Focusing her gathered power, Khajin ascends. She calls upon Polar Winds and a deeper connection to the elements to defeat her foes.",2510,11,0,25578,0,0,0,0,0,0,0,0,-1
+25525,Overview,[PLACEHOLDER] Overview of the encounter.,2511,1,0,25526,25529,3,0,0,0,0,0,0,-1
+25526,Tanks,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2511,2,25525,0,25527,3,0,0,0,0,0,1,-1
+25527,Damage Dealers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2511,3,25525,0,25528,3,0,0,0,0,0,2,-1
+25528,Healers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2511,4,25525,0,0,3,0,0,0,0,0,4,-1
+25529,Stage One: Rising Tide,,2511,5,0,25606,25531,0,0,0,0,0,1,0,-1
+25530,Section 7,,2511,16,25531,25601,0,2,0,0,387363,0,1,0,-1
+25531,Stage Two: Rogue Waves,<PLACEHOLDER> Description of this encounter phase,2511,12,0,25602,0,0,0,0,0,0,0,0,-1
+25532,Overview,[PLACEHOLDER] Overview of the encounter.,2512,1,0,25533,25536,3,0,0,0,0,0,0,-1
+25533,Tanks,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2512,2,25532,0,25534,3,0,0,0,0,0,1,-1
+25534,Damage Dealers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2512,3,25532,0,25535,3,0,0,0,0,0,2,-1
+25535,Healers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2512,4,25532,0,0,3,0,0,0,0,0,4,-1
+25536,Stage One: <PH>,<PLACEHOLDER> Description of this encounter phase,2512,5,0,25537,25538,2,0,0,0,0,1,0,-1
+25537,Section 7,"$[!14,15,16,17This is red text.$]",2512,6,25536,0,0,2,0,0,45,0,1,0,-1
+25538,Stage Two: <PH>,<PLACEHOLDER> Description of this encounter phase,2512,7,0,0,0,0,0,0,0,0,0,0,-1
+25539,Overview,[PLACEHOLDER] Overview of the encounter.,2513,1,0,25540,25543,3,0,0,0,0,0,0,-1
+25540,Tanks,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2513,2,25539,0,25541,3,0,0,0,0,0,1,-1
+25541,Damage Dealers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2513,3,25539,0,25542,3,0,0,0,0,0,2,-1
+25542,Healers,$bullet;<PLACEHOLDER> Bullet point example with a spell called |cFF2959D3|Hspell:45|h[War Stomp]|h|r.,2513,4,25539,0,0,3,0,0,0,0,0,4,-1
+25543,Stage One: <PH>,<PLACEHOLDER> Description of this encounter phase,2513,5,0,25544,25545,2,0,0,0,0,1,0,-1
+25544,Section 7,"$[!14,15,16,17This is red text.$]",2513,6,25543,0,0,2,0,0,45,0,1,0,-1
+25545,Stage Two: <PH>,<PLACEHOLDER> Description of this encounter phase,2513,7,0,0,0,0,0,0,0,0,0,0,-1
+25546,Maruuk,,2478,11,0,25547,0,1,105722,0,0,0,0,0,-1
+25547,Section 6,"$[!23
+
+In Mythic difficulty, the earth will erupt 2 more times before disappearing.$]",2478,12,25546,0,25550,2,0,0,385339,1029585,0,16,-1
+25550,Section 9,,2478,13,25546,0,25551,2,0,0,386063,0,0,0,-1
+25551,Section 10,,2478,14,25546,0,0,2,0,0,382836,0,0,33,-1
+25552,Teera,,2478,5,0,25553,25546,1,105721,0,0,0,0,0,-1
+25553,Section 6,"$[!23
+
+In Mythic difficulty, the tornadoes will travel back to the original impact location before disappearing.$]",2478,6,25552,0,25556,2,0,0,382670,1029585,0,32,-1
+25554,Section 7,,2478,10,25552,0,0,2,0,0,385412,0,0,0,-1
+25556,Section 9,,2478,7,25552,25570,25557,2,0,0,386547,0,0,0,-1
+25557,Section 10,,2478,9,25552,0,25554,2,0,0,386411,0,0,0,-1
+25558,Section 18,,2480,14,24854,0,0,2,0,0,386312,0,2,4096,0
+25559,Section 11,,2484,8,24935,0,0,2,0,0,386332,0,3,4096,0
+25560,Section 18,,2480,7,24848,0,25561,2,0,0,373088,0,0,16,-1
+25561,Expanding Flame,Eranog raises an additonal ring of Expanding Flames around him.,2480,8,24848,0,0,0,0,0,0,0,2,4096,0
+25562,Section 5,,2506,5,0,25599,25563,2,0,0,386259,0,0,16,-1
+25563,Section 6,,2506,7,0,25567,25564,2,0,0,385506,0,0,2,-1
+25564,Section 7,,2506,10,0,0,25565,2,0,0,385270,0,0,32,-1
+25565,Section 8,,2506,11,0,0,0,2,0,0,385137,0,0,1,-1
+25567,Awakened Crag,,2506,8,25563,25568,0,1,106523,0,0,0,1,0,-1
+25568,Section 11,,2506,9,25567,0,0,2,0,0,385652,0,1,64,-1
+25569,Section 8,,2510,6,25522,0,25575,2,0,0,385963,0,1,0,-1
+25570,Section 16,,2478,8,25556,0,0,2,0,0,384808,0,0,64,-1
+25571,Section 11,,2476,12,25020,0,0,2,0,0,369006,0,1,0,-1
+25572,Section 12,,2476,7,24746,0,0,2,0,0,369031,0,1,0,-1
+25573,Section 10,,2492,9,0,0,25102,2,0,0,386660,0,0,0,-1
+25574,Section 10,,2489,9,25026,0,0,2,0,0,381482,0,2,4096,0
+25575,Section 9,,2510,7,25522,25576,25523,2,0,0,386562,0,1,0,-1
+25576,Section 10,,2510,8,25575,25577,0,2,0,0,386222,0,1,0,-1
+25577,Section 11,,2510,9,25576,0,0,2,0,0,386295,0,1,0,-1
+25578,Section 12,,2510,12,25524,0,25579,2,0,0,386733,0,0,0,-1
+25579,Section 17,,2510,13,25524,0,25580,2,0,0,386743,0,0,0,-1
+25580,Section 13,,2510,14,25524,25581,25583,2,0,0,386562,0,0,0,-1
+25581,Section 14,,2510,15,25580,25582,0,2,0,0,386222,0,0,0,-1
+25582,Section 15,,2510,16,25581,0,0,2,0,0,386295,0,0,0,-1
+25583,Section 16,,2510,17,25524,0,0,2,0,0,386757,0,0,0,-1
+25584,Section 9,,2502,27,25340,0,0,2,0,0,376851,0,0,1,-1
+25585,Section 24,,2486,10,24952,0,0,2,0,0,386440,0,0,0,-1
+25586,Section 25,,2486,16,24958,0,0,2,0,0,386375,0,0,0,-1
+25587,Section 26,,2486,22,24967,0,0,2,0,0,386370,0,0,1,-1
+25588,Section 27,,2486,27,24965,0,0,2,0,0,386289,0,0,1,-1
+25589,Section 13,,2508,5,0,25492,25487,2,0,0,386746,0,0,0,-1
+25591,Section 12,,2508,10,0,25491,25488,2,0,0,385399,0,0,32,-1
+25592,Section 15,,2508,12,25491,0,0,2,0,0,386735,0,0,0,-1
+25593,Wind Burst,,2497,13,0,0,25437,2,0,0,384761,0,0,1,-1
+25596,Section 7,,2483,6,24925,0,0,2,0,0,387150,0,0,0,-1
+25597,Section 7,,2483,7,0,0,25634,2,0,0,387151,0,0,0,-1
+25599,Section 12,,2506,6,25562,0,0,2,0,0,386826,0,0,4,-1
+25600,Section 6,,2474,9,25177,0,0,2,0,0,373896,0,0,0,-1
+25601,Section 8,,2511,17,25530,0,0,2,0,0,387359,0,1,0,-1
+25602,Section 9,,2511,13,25531,25603,25530,2,0,0,387357,0,1,0,-1
+25603,Section 10,,2511,14,25602,0,25605,2,0,0,387359,0,1,0,-1
+25604,Ability,,2509,6,25622,0,25617,2,0,0,387691,0,0,32,-1
+25605,Swellsurger,,2511,15,25602,0,0,1,102510,0,0,0,0,0,-1
+25606,Section 12,,2511,6,25529,0,25607,2,0,0,387504,0,1,1,-1
+25607,Section 17,,2511,7,25529,0,25608,2,0,0,387571,0,1,1,-1
+25608,Section 9,,2511,8,25529,25609,25610,2,0,0,387357,0,1,0,-1
+25609,Section 10,,2511,9,25608,0,0,2,0,0,387359,0,1,0,-1
+25610,Section 7,,2511,10,25529,25611,0,2,0,0,387363,0,1,0,-1
+25611,Section 8,,2511,11,25610,0,0,2,0,0,387359,0,1,0,-1
+25612,Nokhud Saboteur,Periodically spawns and run to a nearby Dragonkiller Lance to dismantle it. Ignores players to complete its task.,2498,11,0,25613,25614,1,105895,0,0,0,0,0,-1
+25613,Section 15,Disables Dragonkiller Lances and prevents them from reloading.,2498,12,25612,0,0,2,0,0,386490,0,0,0,-1
+25614,Dragonkiller Lance,Fire to disrupt and weaken Granyth. Be mindful Lances take some time to reload.,2498,13,0,25616,0,1,107390,0,0,0,0,0,-1
+25615,Section 16,,2498,15,25614,0,0,2,0,0,387155,0,0,0,-1
+25616,Section 15,Direct the Centaur crew to fire the Dragonkiller Lance at Granyth.,2498,14,25614,0,25615,2,0,0,386530,0,0,0,-1
+25617,Section 6,,2509,7,25622,25618,0,2,0,0,387484,0,0,0,-1
+25618,Section 7,,2509,8,25617,0,0,2,0,0,387669,0,0,0,-1
+25619,Section 8,,2509,11,25623,25620,25621,2,0,0,386173,0,0,0,-1
+25620,Section 9,,2509,12,25619,0,0,2,0,0,386201,0,0,0,-1
+25621,Section 10,,2509,13,25623,0,0,2,0,0,385958,0,0,1,-1
+25622,Professor Maxdormu,,2509,5,0,25604,25623,1,107061,0,0,0,1,0,-1
+25623,Vexamus,,2509,9,0,25624,0,1,107525,0,0,0,1,0,-1
+25624,Section 13,,2509,10,25623,0,25619,2,0,0,387715,0,1,0,-1
+25625,Section 28,,2502,28,0,25626,0,1,108680,0,0,0,0,0,-1
+25626,Section 29,,2502,29,25625,0,0,2,0,0,387627,0,0,0,-1
+25627,Section 13,,2472,8,0,0,25415,2,0,0,387890,0,0,0,-1
+25628,Sticky Webbing,,2482,11,24890,0,24891,2,0,0,372030,0,2,0,0
+25629,Sticky Webbing,,2482,31,24904,0,24912,2,0,0,372030,0,2,0,0
+25630,Section 39,,2482,18,24910,0,0,2,0,0,388016,0,3,4096,0
+25631,Section 40,,2482,39,24895,0,0,2,0,0,388016,0,3,4096,0
+25633,Section 14,,2472,5,0,24735,25627,2,0,0,384827,0,1,0,-1
+25634,Section 9,,2483,8,0,25635,0,2,0,0,388008,0,1,32,-1
+25635,Section 9,,2483,9,25634,0,25636,2,0,0,388084,0,0,0,-1
+25636,Section 10,,2483,10,25634,0,0,2,0,0,388072,0,0,0,-1

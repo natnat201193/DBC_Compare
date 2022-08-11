@@ -199,7 +199,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 963,Generic - Fade to Black - 4/4 sec,-16777216,4000,4000,0,4,0,0,0,0,0,0,-1,-1,0
 964,Generic - Instant Blackout - 3 sec Fade Out,-16777216,-1000,3000,0,4,0,0,0,0,0,0,-1,-1,0
 966,Scenario - Fort (A) - Lion's Landing Defense Skybox,0,0,0,0,0,0,775,0,0,0,0,-1,-1,0
-967,Generic - Flashback Foggy - ZTO,847282304,50,80,0,3,0,0,0,0,0,0,-1,1,0
+967,Generic - Flashback Foggy - ZTO,838908159,50,80,0,3,0,0,0,0,0,0,-1,1,0
 968,Thunder King Raid - Mogu Concubines - Darkness - CRT,936825863,20,0,0,3,0,821,0,0,0,0,0,11,0
 969,Test - CRT,0,1,1,0,5,0,0,0,0,0,0,-1,1,0
 970,Generic - Time of Day 5:00PM/17:00 (zto),0,0,0,0,0,0,0,0,0,0,0,1020,8,0
@@ -481,7 +481,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1313,Azsuna - Kvaldir Raid - Mist of the Kvaldir,-1,6,40,0,3,0,2037,2500,2500,0,0,-1,3,1
 1314,Generic - Orange Swirling Fog,-2928376,5,1,1,3,0,1616,3,3,0,0,-1,5,0
 1315,Generic - Yellow Swirling Fog,-1185238,5,1,1,3,0,1616,3,3,0,0,-1,5,0
-1316,Generic - Blue Swirling Fog,-15823944,5,1,1,3,0,1616,3,3,0,0,-1,5,0
+1316,Generic - Blue Swirling Fog,-15823944,5,1,1,3,0,1616,3,3,0,0,-1,1,0
 1317,Generic - Green Swirling Fog,-11877632,5,1,1,3,0,1616,3,3,0,0,-1,5,0
 1318,7.2 Artifacts - Challenges - Intro - Kickoff Mail - GJC,-82179,70,100,0,2,0,0,0,0,372,319,660,5,0
 1320,7.2 Broken Shore - Twisting Nether Screen Effect (RKS),0,0,0,0,0,0,537,1000,1000,401,0,-1,7,0
@@ -600,7 +600,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1450,7.3.5 SELFIE Cam - Background Filter - Sha ,0,0,0,0,0,0,1327,500,500,0,0,-1,2,1
 1451,7.3.5 SELFIE Cam - Background Filter - Twilight ,0,0,0,0,0,0,1100,500,500,0,0,-1,2,1
 1452,7.3 Argus Raid - Death Titan - Apocalypsis Zone Warning Visual,-63472,5,0,0,3,0,0,0,0,0,0,-1,1,0
-1455,Kali Test Screen FX,0,0,0,0,8,124,3280,0,0,1522,0,-1,1,0
+1455,Kali Test Screen FX,0,0,0,0,8,178,3280,0,0,1522,0,-1,1,0
 1456,Gameplay Language - Screen Effect (Important),-672569322,4,4,0,3,0,1042,0,0,735,0,-1,1,0
 1458,Gameplay Language - Screen Effect (Area Denial),0,0,0,0,8,10,3280,0,0,1522,0,-1,5,0
 1459,Confusion,0,0,0,0,8,11,0,0,0,0,0,-1,1,0
@@ -724,7 +724,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1689,8.1.5 [ZDB] Color Grading Effect - IGC,1324585,0,0,0,6,0,0,0,0,0,0,-1,1,0
 1690,8.2 Dungeon - Mechagon - Stealth Area - Hidden Aura - 02 Aura - MRN,-941826852,3,10,0,3,0,0,0,0,0,0,-1,-1,0
 1691,8.3 Visions of N'zoth - Cosmetic - Entrance Effect,0,0,0,0,3,0,4322,0,0,0,0,-1,2,0
-1692,Fire Fullscreen ,0,0,0,0,8,10,3280,0,0,1916,0,-1,1,0
+1692,9.0 Generic - Fire - Fullscreen ,0,0,0,0,8,10,3280,0,0,1916,0,-1,1,0
 1693,8.2 Nazjatar - Q: Let the Residue Lead You (JAP),2433220,0,0,0,6,0,0,0,0,0,0,-1,0,0
 1694,"8.2 Nazjatar - WQ (""The Drowned Oracles"", Skybox) - ZTO",6517179,5,5,0,3,0,4019,3000,3000,0,0,0,3,1
 1695,8.2  Mechagon - Alternate Future - Visual Effect (MDE),0,0,0,0,1,0,831,200,100,2150,0,0,14,0
@@ -905,6 +905,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1887,Generic - Fade to Black - 6/1 sec,-16777216,1000,6000,0,4,0,0,0,0,0,0,-1,-1,0
 1888,9.0 Revendreth - Sinrunner Screen Visual (ZTO),9380129,20,5,0,3,0,0,0,0,0,0,-1,1,0
 1889,9.0 Revendreth - Lost Sybille - Prophecy (JDA),-6422521,2,100,1,3,0,3447,1000,3,0,0,-1,3,0
+1890,10.0 Construction - Tuskarr - Fishing Raft - Sleeping (JDA),-16777216,2,100,1,3,0,3447,3000,3000,0,0,-1,3,0
 1891,9.1 Torghast - Torment Test Aura - Foreboding Fog (JRC),14737632,40,1,0,2,0,3522,50,50,0,0,-1,1,0
 1894,9.0.2 Maw - Lingering Cloak of Ve'nari Alternate,1308660,2000,2000,0,6,0,0,0,0,0,0,-1,1,0
 1897,9.0 Bastion City Dungeon - Boss 2 - Flash Stun,16706271,2000,2000,1,4,0,0,0,0,0,0,-1,1,0
@@ -940,6 +941,7 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1929,World - Area Denial - Generic Progenitor,0,0,0,0,8,157,0,0,0,0,0,-1,1,0
 1930,9.2 [PBA] Fake DOF - IGC,0,0,0,0,8,158,4405,1000,1000,2183,2397,1410,1,0
 1931,World - Area Denial - Generic Wind - Speed,0,0,0,0,8,159,0,0,0,0,0,-1,1,0
+1934,World - Area Denial - Generic Wind - Speed Low,0,0,0,0,8,160,0,0,0,0,0,-1,1,0
 1937,9.2 Raid - Progenitor - Constellar - The Singularity,4298305,250,250,0,6,0,4351,500,500,0,0,0,9,0
 1938,9.2 Raid - Progenitor - Constellar - Zero Albedo 2 (Fullscreen),0,0,0,0,8,162,4351,500,500,0,0,0,1,0
 1939,World - Area Denial - Soul,0,0,0,0,8,163,0,0,0,0,0,-1,1,0
@@ -960,13 +962,63 @@ ID,Name,Param[0],Param[1],Param[2],Param[3],Effect,FullScreenEffectID,LightParam
 1961,9.2 [OVI] Zoom Blur FX - IGC,0,0,0,0,8,173,0,0,0,0,0,-1,3,0
 1962,9.2 ZM - Fractal - Dazzled,0,0,0,0,8,157,0,0,0,0,0,-1,1,0
 1963,9.2 ZM - Fractal - Dazzled - Escalation,0,0,0,0,8,168,5490,0,0,0,0,-1,1,0
+1964,10.0 The Forbidden Reach - Neltharion's Command (ZTO),-2141701856,1,10,0,3,0,0,1,1,0,0,-1,1,0
 1965,9.2 Raid - Progenitor - Anduin - Soul Phase,0,0,20,0,3,0,4707,1000,1000,0,0,0,11,0
 1966,World - Area Denial - Generic Progenitor - Vision,0,0,0,0,8,169,0,0,0,0,0,-1,1,0
 1967,World - Area Denial - Generic Progenitor - Vision - 2,0,0,0,0,8,170,0,0,0,0,0,-1,1,0
 1968,9.2 [DFA] - Zereth Mortis Dark Sky - IGC,0,0,0,0,0,0,5492,2500,500,0,0,-1,2,1
+1969,Generic - Brown Out (1 fade in),-16741889,2000,0,0,4,0,0,0,0,0,0,-1,1,0
 1970,9.2 [CBP] Fake DOF - Centered - IGC,0,0,0,0,8,171,0,0,0,0,0,-1,1,0
 1971,9.2 Raid - Progenitor - Dragoon - Storm - 09 Skybox - TJS,0,0,0,0,0,0,5415,2000,2000,0,0,-1,2,1
 1972,9.2 Raid - Sepulcher - Jailer - End Maker 6. Effect,1250067,3500,500,1,4,0,0,0,0,0,0,-1,1,0
-1973,Generic - Fade to White - .25/.25 sec,-1,250,0,1,4,0,0,0,0,0,0,-1,1,0
+1973,Generic - Fade to White - .25/0 sec,-1,250,0,1,4,0,0,0,0,0,0,-1,1,0
+1974,JDP - Test - ScreenEffect,0,0,0,0,8,182,0,0,0,0,0,-1,1,0
+1975,World - Area Denial - Generic Frost,0,0,0,0,8,175,0,0,0,0,0,-1,1,0
+1976,Generic - Brown Out - 1 sec Fade In/Out,-12900244,1000,1000,0,4,0,0,0,0,0,0,-1,1,0
+1977,Generic - Blue In (2 fade in),-26112,2000,0,0,4,0,0,0,0,0,0,-1,1,0
+1978,Generic - Blue Out (2 fade out),-26112,0,2000,0,4,0,0,0,0,0,0,-1,1,0
+1979,Generic - Blue Out (1 fade in/out),-26112,1000,1000,0,4,0,0,0,0,0,0,-1,1,0
+1980,10.0 The Forbidden Reach - Support Creche - Toxic Air (ZTO),-1864132,4,2,1,3,0,1616,3,3,2518,0,-1,5,0
+1981,Enter the Dream Effect,0,0,0,0,8,156,0,0,0,0,0,-1,1,0
+1982,RONQ - Test - ScreenEffect,0,0,0,0,8,176,0,0,0,0,0,-1,1,0
 1983,Generic - Fade to Black - 0.25/0.25 sec,-16777216,250,250,0,4,0,0,0,0,0,0,-1,1,0
 1984,Generic - Fade to White - 2/1.5 sec,-1,1500,2000,1,4,0,0,0,0,0,0,-1,1,0
+1985,9.0 - FX Test - EZ,0,0,0,0,8,136,164,0,0,0,0,-1,1,0
+1986,x.x [TMP] Screen Effect Test - IGC,0,0,0,0,0,0,5567,0,0,0,0,60,10,0
+1987,World - Area Denial - Fel,0,0,0,0,8,178,0,0,0,2372,0,-1,5,0
+1988,10.0 Raid - Primalist - Ice Spider - Apex of Ice - KLH,0,0,0,0,8,179,0,0,0,0,0,-1,1,0
+1989,10.0 Explorers - Telescope Scan - Vision Hole - SSM,0,0,0,0,8,180,0,0,0,0,0,-1,1,0
+1991,10.0.0 [RZI] Stormy Sky - IGC,16777215,0,0,1,4,0,5453,2000,0,0,0,750,10,1
+1992,10.0 Prologue - Storms - Water - Env. Hazard - Fog of War - JZB,0,0,0,0,8,175,0,0,0,0,0,-1,1,0
+1993,10.0 Dungeon - Uldaman - Trash - Infinite Event - Time Lock Stun - KLH,-8555985,7,40,1,3,0,1616,3,3,1674,0,-1,1,0
+1994,10.0 Primalist - Blizzard (JDA),16777215,45,0,0,2,0,422,1000,100,0,0,-1,1,0
+1995,10.0 The Forbidden Reach - High Storm - ZTO,5141110,5,10,0,3,0,0,0,0,2541,0,-1,5,0
+1996,World - Area Denial - Generic Storm,0,0,0,0,8,182,0,0,0,0,0,-1,1,0
+1997,10.0 Dungeon - Uldaman - Boss - Infinite Dragon - Reverse Time - 03 Player Aura - KLH,-8555985,7,70,1,3,0,1616,3,3,1674,0,-1,1,0
+1998,Generic - Fade to Black - 0/0.25 sec,-16777216,250,0,0,4,0,0,0,0,0,0,-1,1,0
+1999,10.0 Dungeon - Uldaman - Boss - Infinite Dragon - Sand Zone - 04 Effect Bad - KLH,-8555985,7,30,1,3,0,1616,3,3,1674,0,-1,1,0
+2000,10.0 The Forbidden Reach - Aegis of Time (ZTO),16764160,4,0,0,3,0,0,0,0,0,0,-1,1,0
+2001,Generic - Fade to Orange - .5/.5 sec - IGC,-16724225,500,500,0,4,0,0,0,0,0,0,-1,1,0
+2002,Generic - Blue Out - .3s fade in / 1s out - IGC,-26112,300,1000,0,4,0,0,0,0,0,0,-1,1,0
+2003,10.0 Thal - Titan Shrine - Side Quest - Puzzle (KNF),552655991,0,0,0,3,0,0,0,0,0,0,-1,1,0
+2004,10.0 Professions - Jewelcrafting - Carvings - Fishing Carving - Rainy Tuskarr Day,0,0,0,0,0,0,0,0,0,0,411,1260,12,0
+2005,10.0 Dungeon - Centaur - Khan - Weather - Thunderstorm,1151140087,1,2,0,3,0,3670,3000,1500,2546,0,0,6,1
+2006,10.0 Prologue - Storms - Air,1151140087,1,2,0,3,0,5607,3000,1500,505,0,0,2,1
+2007,10.0 Prologue - Storms - Earth,0,0,0,0,0,0,5611,3000,1500,0,0,-1,2,0
+2008,10.0 Prologue - Storms - Fire,0,0,0,0,0,0,5612,3000,1500,0,0,-1,2,0
+2009,10.0 Prologue - Storms - Water,16777215,0,2000,1,4,0,5608,3000,1500,0,0,1080,2,1
+2010,10.0 Lowlands - Scouting Scope - Circle View (MDE),-16777216,4,0,0,3,0,0,0,0,41,9,-1,-1,0
+2011,10.0 Dragonscale Expedition - Progression - Anomaly Detection Framework  (LJS),1308658,500,500,0,6,0,0,0,0,0,0,-1,1,0
+2012,10XP Dragon Customization,0,0,0,0,0,0,5627,500,500,0,0,-1,2,0
+2013,Generic - Blue In (1 fade in),-26112,1000,0,0,4,0,0,0,0,0,0,-1,1,0
+2014,Generic - Fade to White - .1/.1,-1,100,100,1,4,0,0,0,0,0,0,-1,1,0
+2015,Generic - Fade to White - .25/.5 sec,-1,250,500,1,4,0,0,0,0,0,0,-1,1,0
+2016,10.0 Professions - Engineering - Devices - Environmental Emulator - Peaceful Day,0,0,0,0,0,0,1587,1000,1000,1634,2074,930,-1,0
+2017,10.0 Professions - Engineering - Devices - Environmental Emulator - Felstorm,0,0,0,0,0,0,2126,1000,1000,405,273,0,-1,0
+2018,10.0 Professions - Engineering - Devices - Environmental Emulator - Calm Cyclone,0,0,0,0,0,0,820,1000,1000,452,447,450,-1,0
+2019,10.0 Professions - Engineering - Devices - Environmental Emulator - Icecrown,0,0,0,0,0,0,808,1000,1000,466,421,1290,-1,0
+2020,10.0 Professions - Engineering - Devices - Environmental Emulator - Burning Skies,0,0,0,0,0,0,456,1000,1000,46,10,0,-1,0
+2021,10.0 Professions - Engineering - Devices - Environmental Emulator - Twisting Nether,0,0,0,0,0,0,508,1000,1000,401,272,0,-1,0
+2022,8.0 Lightning,0,0,0,0,8,184,164,0,0,0,0,-1,1,0
+2023,10.0.0 [CZE] Spyglass (Centered) - IGC,0,0,0,0,8,185,0,0,0,0,0,-1,1,0
+2024,10.0 Thal - Level Up - Ch 01 - Q66163 - Aura Active Effect - (LWB),9849671,5,0,0,3,0,0,0,0,0,0,-1,1,0

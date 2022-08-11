@@ -25920,7 +25920,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 35392,Slave Watcher Crushto,35389,1,0,25035,0,0
 35393,6.0 Dungeon - Challenge - Iron Docks,0,0,4,0,0,0
 35394,Fleshrender Nok'gar,35393,1,0,25108,0,0
-35395,Enemy Forces,35393,420,9,0,4,0
+35395,Enemy Forces,35393,400,9,0,4,0
 35396,,35395,8,0,26351,3,0
 35397,Auchindoun,0,0,4,0,0,0
 35398,Vigilant Kaathar,35397,1,0,25102,0,0
@@ -29646,8 +29646,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 39972,Goren punted,39971,100,0,26349,0,1
 39973,,35395,8,0,26352,4,0
 39974,,35395,3,0,26353,5,0
-39975,,35395,10,0,26354,6,0
-39976,,35395,7,0,26355,7,0
+39975,,35395,9,0,26354,6,0
+39976,,35395,9,0,26355,7,0
 39977,,35395,7,0,26356,8,0
 39978,,35395,3,0,26357,9,0
 39979,,35395,5,0,26358,10,0
@@ -29655,7 +29655,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 39981,,35395,5,0,26360,12,0
 39982,,35395,4,0,26361,13,0
 39983,,35395,9,0,26362,14,0
-39984,,35395,10,0,26363,15,0
+39984,,35395,9,0,26363,15,0
 39985,,35395,9,0,26364,16,0
 39986,,35395,9,0,26365,17,0
 39987,,35395,9,0,26366,18,0
@@ -29714,17 +29714,17 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 40052,Achievement - Draenor Quest - Nagrand - Bonus Objectives (ELM),0,0,4,0,0,0
 40053,Bonus Objective: Hemet's Happy Hunting Grounds,40052,1,0,26409,0,16
 40054,Bonus Objective: Ironfist Harbor,40052,1,0,26410,1,16
-40055,,35407,6,0,26412,4,0
-40056,,35407,3,0,26413,5,0
-40057,,35407,9,0,26414,6,0
-40058,,35407,15,0,26415,7,0
-40059,,35407,8,0,26416,8,0
-40060,,35407,8,0,26417,9,0
-40061,,35407,4,0,26418,10,0
-40062,,35407,8,0,26419,11,0
-40063,,35407,12,0,26420,12,0
-40064,,35407,9,0,26421,13,0
-40065,,35407,7,0,26422,14,0
+40055,,35407,4,0,26412,4,0
+40056,,35407,2,0,26413,5,0
+40057,,35407,7,0,26414,6,0
+40058,,35407,18,0,26415,7,0
+40059,,35407,6,0,26416,8,0
+40060,,35407,7,0,26417,9,0
+40061,,35407,3,0,26418,10,0
+40062,,35407,7,0,26419,11,0
+40063,,35407,18,0,26420,12,0
+40064,,35407,12,0,26421,13,0
+40065,,35407,12,0,26422,14,0
 40066,Skylord Tovra,35405,1,0,26188,2,0
 40067,Nitrogg Thundertower,35405,1,0,26189,1,0
 40070,Placed a Small Plot Building,0,1,8,0,0,0
@@ -29743,7 +29743,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 40090,Krud the Eviscerator,40089,1,0,26429,0,0
 40097,"Coliseum - Fight, Kill, Salute",0,1,4,0,0,4096
 40099,Gladiators Slain,40097,100,0,26435,0,0
-40105,,35407,10,0,26436,15,0
+40105,,35407,8,0,26436,15,0
 40106,Finish Blasted Lands Invasion Quests before Warlords of Draenor Live,0,1,8,0,0,2
 40107,,40106,0,0,26437,0,0
 40108,,40106,0,0,26438,1,0
@@ -44551,19 +44551,19 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 57794,Enemy Forces,57789,169,9,0,4,0
 57795,,57794,4,0,35834,3,0
 57796,,57794,4,0,35835,4,0
-57797,,57794,4,0,35836,5,0
+57797,,57794,6,0,35836,5,0
 57798,,57794,12,0,35837,6,0
-57799,,57794,10,0,35838,7,0
+57799,,57794,9,0,35838,7,0
 57800,,57794,1,0,35839,8,0
 57801,,57794,4,0,35840,9,0
-57802,,57794,4,0,35841,10,0
-57803,,57794,8,0,35842,11,0
-57804,,57794,8,0,35843,12,0
-57805,,57794,8,0,35844,13,0
-57806,,57794,8,0,35845,14,0
-57807,,57794,4,0,35846,15,0
-57808,,57794,8,0,35847,16,0
-57809,,57794,12,0,35848,17,0
+57802,,57794,8,0,35841,10,0
+57803,,57794,12,0,35842,11,0
+57804,,57794,7,0,35843,12,0
+57805,,57794,7,0,35844,13,0
+57806,,57794,7,0,35845,14,0
+57807,,57794,3,0,35846,15,0
+57808,,57794,9,0,35847,16,0
+57809,,57794,18,0,35848,17,0
 57810,7.0 Return to Karazhan - Upper Return to Karazhan - Challenge (More Trash),0,0,4,0,0,0
 57811,The Curator,57810,1,0,35479,0,0
 57812,Mana Devourer defeated,57810,1,0,35481,2,0
@@ -44598,10 +44598,10 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 57841,,57836,4,0,35851,7,0
 57842,,57836,3,0,35852,8,0
 57843,,57836,4,0,35853,9,0
-57844,,57836,5,0,35854,10,0
+57844,,57836,6,0,35854,10,0
 57845,,57836,1,0,35855,11,0
-57846,,57836,4,0,35856,12,0
-57847,,57836,4,0,35857,13,0
+57846,,57836,3,0,35856,12,0
+57847,,57836,3,0,35857,13,0
 57848,,57836,3,0,35858,14,0
 57849,,57836,3,0,35859,15,0
 57850,,57836,4,0,35860,16,0
@@ -44610,14 +44610,14 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 57853,,57836,4,0,35863,19,0
 57854,,57836,3,0,35864,20,0
 57855,,57836,3,0,35865,21,0
-57856,,57836,7,0,35866,22,0
-57857,,57836,4,0,35867,23,0
+57856,,57836,6,0,35866,22,0
+57857,,57836,3,0,35867,23,0
 57858,,57836,3,0,35868,24,0
 57859,,57836,3,0,35869,25,0
 57860,,57836,3,0,35870,26,0
 57861,,57836,4,0,35871,27,0
 57862,,57836,4,0,35872,28,0
-57863,,57836,4,0,35873,29,0
+57863,,57836,5,0,35873,29,0
 57864,,57836,4,0,35874,30,0
 57865,,57836,5,0,35875,31,0
 57866,7.0 Return to Karazhan - Lower Return to Karazhan Challenge (More Trash),0,0,4,0,0,0
@@ -45722,9 +45722,9 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 59227,Stronghold reclaimed,59225,1,0,36728,0,0
 59228,8.0 Warfronts - Arathi - Horde - Speak to Commander,0,525,4,0,0,0
 59229,Meet your Commander on the field below,59228,0,0,36729,0,0
-59230,,57836,4,0,36730,32,0
-59231,,57836,4,0,36731,33,0
-59232,,57836,4,0,36732,34,0
+59230,,57836,3,0,36730,32,0
+59231,,57836,3,0,36731,33,0
+59232,,57836,3,0,36732,34,0
 59233,,57871,4,0,36730,29,0
 59234,,57871,4,0,36731,30,0
 59235,,57871,4,0,36732,31,0
@@ -65259,48 +65259,48 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 82761,Has Aura Gatamatos is Near 5,0,0,4,0,0,4096
 82762,Has Aura Gatamatos is Near,82761,1,0,46749,0,0
 82763,Enemy Forces,82551,332,9,0,4,0
-82764,,82763,4,0,46750,3,0
-82765,,82763,4,0,46751,4,0
-82766,,82763,4,0,46752,5,0
-82767,,82763,6,0,46753,6,0
-82768,,82763,4,0,46754,7,0
+82764,,82763,3,0,46750,3,0
+82765,,82763,3,0,46751,4,0
+82766,,82763,3,0,46752,5,0
+82767,,82763,10,0,46753,6,0
+82768,,82763,3,0,46754,7,0
 82769,,82763,5,0,46755,8,0
-82770,,82763,4,0,46756,9,0
-82771,,82763,5,0,46757,10,0
+82770,,82763,3,0,46756,9,0
+82771,,82763,4,0,46757,10,0
 82772,,82763,4,0,46758,11,0
-82773,Toxic LT 1/3,82763,6,0,46759,12,0
-82774,Toxic LT 2/3,82763,6,0,46760,13,0
-82775,Toxic LT 3/3,82763,6,0,46761,14,0
+82773,Toxic LT 1/3,82763,5,0,46759,12,0
+82774,Toxic LT 2/3,82763,5,0,46760,13,0
+82775,Toxic LT 3/3,82763,5,0,46761,14,0
 82776,,82763,1,0,46762,15,0
-82777,,82763,4,0,46763,16,0
-82778,,82763,4,0,46764,17,0
-82779,,82763,4,0,46765,18,0
-82780,,82763,5,0,46766,19,0
-82781,,82763,4,0,46767,20,0
+82777,,82763,3,0,46763,16,0
+82778,,82763,3,0,46764,17,0
+82779,,82763,3,0,46765,18,0
+82780,,82763,4,0,46766,19,0
+82781,,82763,3,0,46767,20,0
 82782,,82763,5,0,46768,21,0
-82783,,82763,4,0,46769,22,0
+82783,,82763,3,0,46769,22,0
 82784,,82763,4,0,46770,23,0
 82785,,82763,5,0,46771,24,0
-82786,,82763,4,0,46772,25,0
+82786,,82763,3,0,46772,25,0
 82787,,82763,4,0,46773,26,0
 82788,Enemy Forces,82541,160,9,0,4,0
-82789,RED Version,82788,4,0,46774,4,0
-82790,RED Version,82788,4,0,46775,6,0
-82791,RED version,82788,4,0,46776,8,0
-82792,,82788,7,0,46777,9,0
+82789,RED Version,82788,3,0,46774,4,0
+82790,RED Version,82788,3,0,46775,6,0
+82791,RED version,82788,3,0,46776,8,0
+82792,,82788,6,0,46777,9,0
 82793,,82788,4,0,46778,10,0
 82794,,82788,1,0,46779,11,0
-82795,,82788,4,0,46780,12,0
-82796,,82788,4,0,46781,13,0
-82797,,82788,4,0,46782,14,0
-82798,,82788,8,0,46783,15,0
-82799,,82788,10,0,46784,16,0
-82800,,82788,4,0,46785,17,0
-82801,,82788,4,0,46786,18,0
+82795,,82788,3,0,46780,12,0
+82796,,82788,3,0,46781,13,0
+82797,,82788,3,0,46782,14,0
+82798,,82788,6,0,46783,15,0
+82799,,82788,9,0,46784,16,0
+82800,,82788,3,0,46785,17,0
+82801,,82788,3,0,46786,18,0
 82802,,82788,5,0,46787,19,0
-82803,,82788,4,0,46788,3,0
-82804,,82788,4,0,46789,5,0
-82805,,82788,4,0,46790,7,0
+82803,,82788,3,0,46788,3,0
+82804,,82788,3,0,46789,5,0
+82805,,82788,3,0,46790,7,0
 82806,Mechagnome Unlockable,0,0,4,0,0,0
 82808,Vulpera Unlockable,0,0,4,0,0,0
 82810,Horrific Visions of N'zoth Meta Achievement,0,0,4,0,0,0
@@ -72160,6 +72160,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 91082,,91081,1,0,51688,0,0
 91083,Sylvanas Windrunner defeated,0,0,4,0,0,4096
 91084,,91083,1,0,51689,0,0
+91086,Seamless Test - Objective 1,0,0,4,0,0,0
+91087,Test Complete,91086,0,0,51691,0,0
 91088,9.1 Campaign - Chains of Domination,0,0,4,0,0,0
 91089,Battle of Ardenweald,91088,0,0,51692,0,16
 91090,Maw Walkers,91088,0,0,51693,1,16
@@ -72992,6 +72994,24 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 92305,,92301,5,0,52497,3,2
 92306,,92301,5,0,52498,4,2
 92307,,92301,5,0,52499,5,2
+92308,99.x Boostland - Scenario Step 1 - Complete,0,0,4,0,0,0
+92309,,92308,0,0,52501,0,0
+92310,99.x Boostland - Scenario Step 2 - Complete,0,0,4,0,0,0
+92311,,92310,0,0,52501,0,0
+92312,99.x Boostland - Scenario Step 3 - Complete,0,0,4,0,0,0
+92313,,92312,0,0,52501,0,0
+92314,99.x Boostland - All Classes - Scenario Step 1,0,1,8,0,0,0
+92315,Death Knight - Raise Dead,92314,1,8,0,0,0
+92316,[DNT]Obsidian Siege Forge constructed,0,10,9,0,0,0
+92317,[DNT]Obsidian Siege Forge constructed,92316,1,0,52502,0,0
+92318,Cast Raise Dead,92315,0,0,30662,0,0
+92319,,92315,0,0,32104,1,2
+92320,Obsidian Challenge constructed,0,10,9,0,0,0
+92321,[DNT]Obsidian Challenge constructed,92320,1,0,52503,0,0
+92322,Magmaking Darjonic slain,0,0,4,0,0,0
+92323,[DNT]Magmaking Darjonic slain,92322,1,0,52504,0,0
+92324,10.0 Sandbox - Climbing (Dirt) - Find Any Handhold (JDA),0,1,5,0,0,4096
+92325,,92324,0,0,52505,0,0
 92326,,12737,1,0,52507,22,2
 92327,,12725,1,0,52508,23,2
 92328,,14311,1,0,52458,22,2
@@ -73660,12 +73680,22 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 94271,Twisting Corridors: Layer 8,94268,0,0,52872,2,0
 94272,The Jailer's Gauntlet: Layer 4,94268,0,0,52873,3,0
 94274,Master of Torment,94268,0,0,52874,4,0
+94275,10.0 The Forbidden Reach - Alliance,0,0,4,0,0,0
+94276,The War Creche,94275,0,0,52875,0,16
+94277,Old Weyrn Grounds,94275,0,0,52876,1,16
+94278,The Ebon Scales,94275,0,0,52877,3,16
+94279,The Healing Wings,94275,0,0,52878,2,16
+94280,Froststone Vault,94275,0,0,52879,4,16
+94281,Wrath of the Storm-Eater,94275,0,0,54430,5,16
+94282,All Along the Watchtowers,94275,0,0,52880,6,16
 94284,Byron Test Achievement - Retroactive 2000 M+ Rating in Season 1,0,0,4,0,0,0
 94285,Rating Requirement,94284,2400,0,52141,0,0
 94286,Complete the dungeon,0,0,4,0,0,2
 94287,Reach the top of the Jailer's Tower,94286,1,0,44166,0,2
 94288,Evade the Tarragrue,0,0,4,0,0,2
 94289,Evade the Tarragrue,94288,1,0,44166,0,2
+94290,10.0 Scenario Test - Stage 1,0,0,4,0,0,0
+94291,Objective complete,94290,0,0,52884,0,0
 94298,Treasures of Zereth Mortis,0,0,4,0,0,0
 94299,Library Vault,94298,1,0,52887,0,0
 94300,,89261,1,0,52888,2,0
@@ -73703,8 +73733,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 94344,,94226,4,0,52907,5,0
 94345,,94226,4,0,52908,6,0
 94346,,94226,8,0,52909,7,0
-94347,,94226,20,0,52910,8,0
-94348,,94226,20,0,52911,9,0
+94347,,94226,24,0,52910,8,0
+94348,,94226,18,0,52911,9,0
 94349,,94226,12,0,52912,10,0
 94350,,94226,10,0,52913,11,0
 94351,,94226,4,0,52914,12,0
@@ -73718,21 +73748,30 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 94359,,94226,4,0,52922,20,0
 94360,,94226,4,0,52923,21,0
 94361,,94226,8,0,52924,22,0
-94362,,94226,25,0,52925,23,0
+94362,,94226,24,0,52925,23,0
 94363,,94234,1,0,52926,3,0
-94364,,94234,3,0,52927,4,0
-94365,,94234,3,0,52928,5,0
-94366,,94234,6,0,52929,6,0
-94367,,94234,3,0,52930,7,0
-94368,,94234,15,0,52931,8,0
+94364,,94234,2,0,52927,4,0
+94365,,94234,2,0,52928,5,0
+94366,,94234,3,0,52929,6,0
+94367,,94234,2,0,52930,7,0
+94368,,94234,18,0,52931,8,0
 94369,,94234,10,0,52932,9,0
 94370,,94234,5,0,52933,10,0
-94371,,94234,5,0,52934,11,0
+94371,,94234,4,0,52934,11,0
 94372,,94234,5,0,52935,12,0
-94373,,94234,10,0,52936,13,0
+94373,,94234,12,0,52936,13,0
 94374,,94234,5,0,52937,14,0
-94375,,94234,5,0,52938,15,0
+94375,,94234,4,0,52938,15,0
+94376,10.0 The Forbidden Reach - Froststone Vault - Wave Event 01,0,100,9,0,0,4096
+94377,Primalist slain,94376,5,0,52939,0,0
+94378,Allies healed,94376,6,0,52940,1,32
 94379,,94198,15,0,52941,2,0
+94380,Criteria Tree Description,0,0,4,0,0,0
+94381,Kill Muffin Branch,94380,8,8,0,0,0
+94382,Kill Muffin,94381,1,0,52942,0,0
+94383,Criteria Tree Description 2,0,0,4,0,0,0
+94384,Kill Muffin Branch,94383,10,8,0,0,0
+94385,Kill Muffin,94384,1,0,52942,0,0
 94388,,93810,1,0,52689,1,0
 94389,,93810,1,0,52690,2,0
 94390,,93810,1,0,52691,3,0
@@ -73887,6 +73926,9 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 94550,Got Fourth Platform Symbol,94545,0,0,53004,4,8194
 94551,Got Fifth Platform Symbol,94545,0,0,53005,5,8194
 94552,Got Top Platform Symbol,94545,0,0,53006,6,8194
+94553,10.0 Lowlands - Level Up,0,0,4,0,0,0
+94554,The Dragon Isles Await,94553,1,8,0,0,8208
+94555,,94554,0,0,53007,0,0
 94556,Pilgrim's Bounty - Stuffed Night Fae,0,0,4,0,0,0
 94557,,94556,1,0,53008,0,0
 94558,9.2 Raid - Progenitor - Constellar - Achievement,0,0,4,0,0,0
@@ -73982,6 +74024,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 94651,Ripened Protopear,94298,1,0,53069,24,0
 94652,Undulating Foliage,94298,1,0,53070,25,0
 94653,Bushel of Progenitor Produce,94298,1,0,53071,26,0
+94654,10.0 Explorers - Climb (Dirt) - Lowlands - 02 - Reward Objective (JDA),0,1,5,0,0,4096
+94655,,94654,0,0,53072,0,0
 94656,9.2 ZM - Campaign - Ch 6 - Has Already Gotten Primus Symbol (MAH),0,1,5,0,0,4096
 94657,,94656,1,0,53073,0,0
 94658,9.2 ZM - Campaign - Ch 6 - Has Already Gotten Secundus Symbol (MAH),0,1,5,0,0,4096
@@ -74463,6 +74507,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95148,Sparkling Sand Pile,95142,1,0,53263,5,0
 95149,Ticking Sand Pile,95142,1,0,53265,6,0
 95150,Tazavesh: So'leah's Gambit,95140,1,0,53266,1,0
+95151,Find Treasure Chest,0,1,5,0,0,4096
+95152,,95151,0,0,53267,0,0
 95153,,94326,0,0,53268,5,32
 95154,,94326,0,0,53269,6,32
 95155,Vigilant Guardian defeated,93872,1,0,52692,0,0
@@ -74483,6 +74529,9 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95170,,95098,0,0,53277,5,32
 95171,Hall of Fame: The Jailer (Personal),0,0,4,0,0,0
 95172,,95171,1,0,53278,0,2
+95173,10.0 The Forbidden Reach - Dracthyr Spec (ZTO),0,1,8,0,0,4096
+95174,,95173,0,0,53279,0,0
+95175,,95173,0,0,53280,1,0
 95176,9.2 - Zereth Mortis - Collect All Pocopoc Costumes,0,0,4,0,0,0
 95177,Peaceful Pocopoc,95176,0,0,53287,0,0
 95181,Chef Pocopoc,95176,0,0,53286,1,0
@@ -74683,6 +74732,25 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95382,,95381,0,0,53347,0,0
 95383,Achievement - Shadowlands Season 2 Tormented Hero (Top 0.1%),0,0,4,0,0,0
 95384,,95383,1,0,53348,0,2
+95387,10.0 The Waking Shore - Siege on Dragonbane Keep - Escort the Obsidian Guard (LQM),0,0,4,0,0,0
+95388,10.0 The Waking Shore - Siege on Dragonbane Keep - Setup a Base Camp (LQM),0,100,9,0,0,1
+95389,Reach the camp,95387,1,0,53396,0,0
+95390,Djaradin slain,95388,3,0,53350,0,1
+95391,10.0 The Waking Shore - Siege on Dragonbane Keep - Push Forward (LQM),0,0,4,0,0,0
+95392,Weaken Djaradin Forces,95391,100,9,0,0,0
+95393,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 4 Complete (MDE),0,0,4,0,0,0
+95394,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 0 - Breach Gates Complete (MDE),0,0,4,0,0,0
+95395,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 3 Complete (MDE),0,0,4,0,0,0
+95396,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 5 Complete (MDE),0,0,4,0,0,0
+95398,Breach the Gates,95394,1,0,53357,0,0
+95399,Locate Oathstone,95395,1,0,53353,0,0
+95400,Re-ignite the Forge,95396,1,0,53354,0,0
+95406,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 1 Complete (MDE),0,0,4,0,0,0
+95407,Enter The Obsidian Citadel,95406,1,0,53351,0,0
+95412,10.0 Lowlands - Siege on Dragonbane Keep - Defeat Flame Guardians (LQM),0,0,4,0,0,0
+95413,Flame Sentry slain,95412,1,0,53361,0,0
+95414,10.0 The Waking Shore - Siege on Dragonbane Keep - Kill Final Boss (LQM),0,0,4,0,0,0
+95415,Inferna the Bound slain,95414,1,0,53360,0,0
 95416,9.2.5 Lordaeron - Complete Lordaeron Chain (RMV),0,1,4,0,0,32
 95417,Complete the Return to Lordaeron storyline.,95508,1,0,53362,1,2
 95418,Complete the Return to Lordaeron storyline.,95508,1,0,53363,0,2
@@ -74691,6 +74759,13 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95422,,95420,0,0,53314,1,0
 95423,,89141,4,0,53364,17,2
 95424,,89141,4,0,53365,18,2
+95445,Oathstone Fragments collected,95393,6,0,53366,0,0
+95446,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 6 Complete (MDE),0,100,9,0,0,0
+95447,Oathstone Reformed,95446,10,0,53367,0,1
+95448,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 7 Complete (MDE),0,0,4,0,0,0
+95449,Oathstone replaced,95448,1,0,53368,0,0
+95451,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage - END  Complete (MDE),0,0,4,0,0,0
+95452,,95451,1,0,53369,0,0
 95453,Jailer's Gauntlet - Layer 1,0,0,4,0,0,0
 95454,,95453,1,0,53370,0,0
 95455,Jailer's Gauntlet - Layer 2,0,0,4,0,0,0
@@ -74707,6 +74782,15 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95466,,95465,1,0,53376,0,0
 95467,Jailer's Gauntlet - Layer 8,0,0,4,0,0,0
 95468,,95467,1,0,53377,0,0
+95469,"10.0 The Forbidden Reach - ""We are Leaving"" - Fire Breath I (ZTO)",0,0,4,0,0,4096
+95470,,95469,0,0,53378,0,0
+95471,"10.0 The Forbidden Reach - ""We are Leaving"" - Fire Breath II (ZTO)",0,0,4,0,0,4096
+95472,,95471,0,0,53379,0,0
+95473,"10.0 The Forbidden Reach - ""We are Leaving"" - Fire Breath III (ZTO)",0,0,4,0,0,4096
+95474,,95473,0,0,53380,0,0
+95475,10.0 Waking Shore - Black Dragon Citadel Scenario - Stage 2 Complete (MDE),0,0,4,0,0,0
+95476,Secure the Courtyard,95475,15,0,53359,0,0
+95477,Siege Arbalist,95475,3,0,53381,1,0
 95478,Cypher System - Talent Research Started - Trebalim,0,0,4,0,0,8194
 95479,,95478,1,0,53382,0,2
 95480,Wayward Essence,92567,1,8,0,8,8192
@@ -74738,6 +74822,10 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95506,Complete the Return to Lordaeron storyline.,95504,1,0,53363,1,2
 95507,,95416,1,0,53395,0,2
 95508,Return to Lordaeron,95416,1,8,0,1,0
+95509,Djaradin troops slain,95392,4,0,54467,0,1
+95510,Defeat Powerful Djaradin,95391,1,4,0,1,0
+95511,Scaleripper slain,95510,1,0,53764,0,0
+95512,Wyrmeater slain,95510,1,0,53399,1,0
 95517,Earn Conquest in Shadowlands Season 4 (A) - Mount,0,0,4,0,0,0
 95518,Win Rated PvP matches during Shadowlands Season 4 while at 1000 rating or higher,95517,2400,0,53402,0,1
 95519,Earn Conquest in Shadowlands Season 4 (H) - Mount,0,0,4,0,0,0
@@ -74817,6 +74905,16 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95593,2800 rating,95592,2800,0,53405,0,2
 95594,Earn a 3000 personal rating in the rated battlegrounds in Season 33,0,0,4,0,0,0
 95595,3000 rating,95594,3000,0,53405,0,2
+95596,10.0 The Forbidden Reach - Horde,0,0,4,0,0,0
+95597,The War Creche,95596,0,0,52875,0,16
+95598,Old Weyrn Grounds,95596,0,0,52876,1,16
+95599,The Ebon Scales,95596,0,0,52877,3,16
+95600,The Healing Wings,95596,0,0,52878,2,16
+95601,Froststone Vault,95596,0,0,52879,4,16
+95602,Wrath of the Storm-Eater,95596,0,0,54430,5,16
+95603,The Dark Talons,95596,0,0,53410,6,16
+95604,"10.0 The Forbidden Reach - ""Fire Breathing"" - Use Infuser (ZTO)",0,0,4,0,0,4096
+95605,,95604,0,0,53411,0,32
 95606,Elite Shadowlands Season 4,0,1,8,0,0,2
 95607,,95606,2400,0,53403,0,2
 95608,,95606,2400,0,53404,1,2
@@ -74824,6 +74922,12 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 95612,Owner of the Diablo IV Collector's Edition Amalgam of Rage mount.,0,1,8,0,0,0
 95613,Reins of the Amalgam of Rage,95612,0,0,53413,0,2
 95614,Amalgam of Rage mount,95612,0,0,53414,1,2
+95615,New Criteria Tree,0,0,4,0,0,4096
+95616,,95615,1,0,53415,0,0
+95617,Learned Fishing,0,0,4,0,0,4096
+95618,,95617,1,0,53416,0,0
+95619,10.0 The Waking Shore - Siege on Dragonbane Keep - Slay the Djaradin Magma Channelers,0,0,4,0,0,0
+95620,Djaradin Magma Channelers slain,95619,2,0,53417,0,0
 121195,,93810,0,0,53418,4,0
 121196,,93828,0,0,53419,1,0
 121197,,93830,0,0,53420,1,0
@@ -74847,6 +74951,16 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 133996,,35395,5,0,50191,0,0
 133997,,35395,42,0,50192,1,0
 133998,,35395,9999,0,48468,2,0
+134001,"10.0 The Forbidden Reach - ""Mercy First"" - Healing Blossom Used",0,0,4,0,0,4098
+134002,Healing Blossom used on injured target,134001,1,0,53424,0,0
+134003,Obtain 1250 unique companion pets,0,0,4,0,0,0
+134004,Collect 1250 unique pets.,134003,1250,0,19598,0,1
+134005,Obtain 1500 unique companion pets,0,0,4,0,0,0
+134006,Collect 1500 unique pets.,134005,1500,0,19598,0,1
+134007,Obtain 1750 unique companion pets,0,0,4,0,0,0
+134008,Collect 1750 unique pets.,134007,1750,0,19598,0,1
+134009,Obtain 2000 unique companion pets,0,0,4,0,0,0
+134010,Collect 2000 unique pets.,134009,2000,0,19598,0,1
 134016,,8829,0,0,44966,1,0
 134017,Warsong Gulch,8828,0,5,0,13,0
 134018,,134017,0,0,5899,0,0
@@ -74859,6 +74973,10 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134025,Warsong Gulch,17475,0,5,0,9,0
 134026,,134025,0,0,16517,0,0
 134027,,134025,0,0,45064,1,0
+134028,[TEMPLATE] 10.0 Treasure - Event Chest - Bound Chest - Step 01 (LJS),0,0,4,0,0,0
+134029,Defeat enemies,134028,10,0,53429,0,0
+134030,[TEMPLATE] 10.0 Treasure - Event Chest - Bound Chest - Step 02 (LJS),0,0,4,0,0,0
+134031,,134030,0,0,53430,0,0
 134032,,88193,1,0,53431,195,2
 134033,,88193,1,0,53432,196,2
 134034,,88193,1,0,53433,197,2
@@ -74877,6 +74995,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134047,"Proud owner of the 2022 Vintage Winter Veil gift, Falling Star Catcher.",0,1,8,0,0,0
 134049,,134047,1,0,53447,0,2
 134050,,134047,1,0,53448,1,2
+134051,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - Sub Boss 1 Criteria - Tier 1 - SJC,0,1,4,0,0,0
+134052,,134051,1,0,53449,0,0
 134055,Reach Renown 80 with each of the four Covenants.,0,0,4,0,0,0
 134056,Kyrian,134055,1,8,0,0,8192
 134057,,134056,1,0,52688,0,0
@@ -74907,6 +75027,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134082,,134077,1,0,53456,4,32
 134083,,134077,1,0,53457,5,32
 134084,,134077,1,0,53458,6,32
+134085,This is criteria text,0,0,4,0,0,0
+134086,This is criteria text,134085,10,0,53460,0,0
 134087,Complete each of the Covenant Special Feature achievements below.,0,0,4,0,0,0
 134088,,134087,1,0,53459,0,32
 134089,,134087,1,0,49725,1,32
@@ -74923,11 +75045,17 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134100,,134092,1,0,53470,7,32
 134101,Defeat So'azmi (Mythic+),0,0,4,0,0,0
 134102,,134101,1,0,53472,0,2
+134103,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - SJC - First Leg,0,0,4,0,0,0
+134104,,134103,1,0,53471,0,0
 134105,Defeat So'leah (Mythic+),0,0,4,0,0,0
 134106,,134105,1,0,53473,0,2
 134107,"Catch 100 falling stars, using the 2022 Vintage Winter Veil gift, Falling Star Catcher.",0,1,8,0,0,0
 134108,Catch 100 Falling Stars,134107,100,0,53474,0,2
 134113,,134092,1,0,53477,8,32
+134114,10.0 Prologue - Storms - Badlands - Scenario - Step 1 - JZB,0,0,4,0,0,32
+134115,Reduce Elemental Protection Bar to zero,134114,1,0,53479,0,0
+134116,10.0 Prologue - Storms - Badlands Scenario - Step 2 - JZB,0,0,4,0,0,32
+134117,Unleashed Elemental defeated,134116,1,0,53478,0,0
 134118,Leave the Shadowlands better than it was when you entered by completing the following achievements.,0,0,4,0,0,0
 134119,,134118,1,0,53481,0,32
 134120,,134118,1,0,52134,1,32
@@ -74945,8 +75073,106 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134132,,134118,1,0,53490,13,32
 134133,,134118,1,0,53491,14,32
 134134,,134118,1,0,53492,15,32
+134135,10.0 Prologue - Storms - Un'Goro - Scenario - Step 1 - JZB,0,0,4,0,0,32
+134136,Reduce Elemental Protection Bar to zero,134135,1,0,53493,0,0
+134137,10.0 Prologue - Storms - Un'Goro Scenario - Step 2 - JZB,0,0,4,0,0,32
+134138,Unleahsed Elemental defeated,134137,1,0,53494,0,0
 134139,,95379,0,0,53495,1,0
+134140,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - Sub Boss 1 Criteria - Tier 2 - SJC,0,1,4,0,0,0
+134141,,134140,1,0,53450,0,0
 134142,,95381,0,0,53496,1,0
+134143,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - Sub Boss 1 Criteria - Tier 3 - SJC,0,1,4,0,0,0
+134144,,134143,1,0,53451,0,0
+134147,Obtain 25 skill points in Dragon Isles Blacksmithing,0,0,4,0,0,0
+134148,,134147,25,0,53501,0,2
+134149,Obtain 50 skill points in Dragon Isles Blacksmithing,0,0,4,0,0,0
+134150,,134149,50,0,53501,0,2
+134151,Obtain 75 skill points in Dragon Isles Blacksmithing,0,0,4,0,0,0
+134152,,134151,75,0,53501,0,2
+134153,Obtain 100 skill points in Dragon Isles Blacksmithing,0,0,4,0,0,0
+134154,,134153,100,0,53501,0,2
+134155,Obtain 25 skill points in Dragon Isles Alchemy,0,0,4,0,0,0
+134156,,134155,25,0,53500,0,2
+134157,Obtain 50 skill points in Dragon Isles Alchemy,0,0,4,0,0,0
+134158,,134157,50,0,53500,0,2
+134159,Obtain 75 skill points in Dragon Isles Alchemy,0,0,4,0,0,0
+134160,,134159,75,0,53500,0,2
+134161,Obtain 100 skill points in Dragon Isles Alchemy,0,0,4,0,0,0
+134162,,134161,100,0,53500,0,2
+134163,Obtain 25 skill points in Dragon Isles Enchanting,0,0,4,0,0,0
+134164,,134163,25,0,53503,0,2
+134165,Obtain 50 skill points in Dragon Isles Enchanting,0,0,4,0,0,0
+134166,,134165,50,0,53503,0,2
+134167,Obtain 75 skill points in Dragon Isles Enchanting,0,0,4,0,0,0
+134168,,134167,75,0,53503,0,2
+134169,Obtain 100 skill points in Dragon Isles Enchanting,0,0,4,0,0,0
+134170,,134169,100,0,53503,0,2
+134171,Obtain 25 skill points in Dragon Isles Engineering,0,0,4,0,0,0
+134172,,134171,25,0,53504,0,2
+134173,Obtain 50 skill points in Dragon Isles Engineering,0,0,4,0,0,0
+134174,,134173,50,0,53504,0,2
+134175,Obtain 75 skill points in Dragon Isles Engineering,0,0,4,0,0,0
+134176,,134175,75,0,53504,0,2
+134177,Obtain 100 skill points in Dragon Isles Engineering,0,0,4,0,0,0
+134178,,134177,100,0,53504,0,2
+134179,Obtain 25 skill points in Dragon Isles Herbalism,0,0,4,0,0,0
+134180,,134179,25,0,53506,0,2
+134181,Obtain 50 skill points in Dragon Isles Herbalism,0,0,4,0,0,0
+134182,,134181,50,0,53506,0,2
+134183,Obtain 75 skill points in Dragon Isles Herbalism,0,0,4,0,0,0
+134184,,134183,75,0,53506,0,2
+134185,Obtain 100 skill points in Dragon Isles Herbalism,0,0,4,0,0,0
+134186,,134185,100,0,53506,0,2
+134187,Obtain 25 skill points in Dragon Isles Inscription,0,0,4,0,0,0
+134188,,134187,25,0,53507,0,2
+134189,Obtain 50 skill points in Dragon Isles Inscription,0,0,4,0,0,0
+134190,,134189,50,0,53507,0,2
+134191,Obtain 75 skill points in Dragon Isles Inscription,0,0,4,0,0,0
+134192,,134191,75,0,53507,0,2
+134193,Obtain 100 skill points in Dragon Isles Inscription,0,0,4,0,0,0
+134194,,134193,100,0,53507,0,2
+134195,Obtain 25 skill points in Dragon Isles Jewelcrafting,0,0,4,0,0,0
+134196,,134195,25,0,53508,0,2
+134197,Obtain 50 skill points in Dragon Isles Jewelcrafting,0,0,4,0,0,0
+134198,,134197,50,0,53508,0,2
+134199,Obtain 75 skill points in Dragon Isles Jewelcrafting,0,0,4,0,0,0
+134200,,134199,75,0,53508,0,2
+134201,Obtain 100 skill points in Dragon Isles Jewelcrafting,0,0,4,0,0,0
+134202,,134201,100,0,53508,0,2
+134203,Obtain 25 skill points in Dragon Isles Leatherworking,0,0,4,0,0,0
+134204,,134203,25,0,53509,0,2
+134205,Obtain 50 skill points in Dragon Isles Leatherworking,0,0,4,0,0,0
+134206,,134205,50,0,53509,0,2
+134207,Obtain 75 skill points in Dragon Isles Leatherworking,0,0,4,0,0,0
+134208,,134207,75,0,53509,0,2
+134209,Obtain 100 skill points in Dragon Isles Leatherworking,0,0,4,0,0,0
+134210,,134209,100,0,53509,0,2
+134211,Obtain 25 skill points in Dragon Isles Mining,0,0,4,0,0,0
+134212,,134211,25,0,53510,0,2
+134213,Obtain 50 skill points in Dragon Isles Mining,0,0,4,0,0,0
+134214,,134213,50,0,53510,0,2
+134215,Obtain 75 skill points in Dragon Isles Mining,0,0,4,0,0,0
+134216,,134215,75,0,53510,0,2
+134217,Obtain 100 skill points in Dragon Isles Mining,0,0,4,0,0,0
+134218,,134217,100,0,53510,0,2
+134219,Obtain 25 skill points in Dragon Isles Skinning,0,0,4,0,0,0
+134220,,134219,25,0,53511,0,2
+134221,Obtain 50 skill points in Dragon Isles Skinning,0,0,4,0,0,0
+134222,,134221,50,0,53511,0,2
+134223,Obtain 75 skill points in Dragon Isles Skinning,0,0,4,0,0,0
+134224,,134223,75,0,53511,0,2
+134225,Obtain 100 skill points in Dragon Isles Skinning,0,0,4,0,0,0
+134226,,134225,100,0,53511,0,2
+134227,Obtain 25 skill points in Dragon Isles Tailoring,0,0,4,0,0,0
+134228,,134227,25,0,53512,0,2
+134229,Obtain 50 skill points in Dragon Isles Tailoring,0,0,4,0,0,0
+134230,,134229,50,0,53512,0,2
+134231,Obtain 75 skill points in Dragon Isles Tailoring,0,0,4,0,0,0
+134232,,134231,75,0,53512,0,2
+134233,Obtain 100 skill points in Dragon Isles Tailoring,0,0,4,0,0,0
+134234,,134233,100,0,53512,0,2
+134235,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - SJC - Second Leg,0,0,4,0,0,0
+134236,,134235,1,0,53513,0,0
 134237,Castle Nathria (Fated),0,0,4,0,0,0
 134238,Shriekwing,134237,1,0,53514,0,0
 134239,Huntsman Altimor,134237,1,0,53515,1,0
@@ -74980,6 +75206,12 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134267,Sludgefist,134259,1,0,53541,7,16
 134268,Stone Legion Generals,134259,1,0,53542,8,16
 134269,Sire Denathrius,134259,1,0,53544,9,16
+134270,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - SJC - Final Leg,0,0,4,0,0,0
+134271,,134270,1,0,53543,0,0
+134272,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - SJC - Second Leg Miniboss,0,0,4,0,0,0
+134273,,134272,1,0,53545,0,0
+134274,10.0 Plains - Nomad Clan - Public Scenario - Path A > B - SJC - First Leg Miniboss,0,0,4,0,0,0
+134275,,134274,1,0,53546,0,0
 134276,Sanctum of Domination (Fated),0,0,4,0,0,0
 134277,The Tarragrue,134276,1,0,53547,0,0
 134278,The Eye of the Jailer,134276,1,0,53548,1,0
@@ -74991,7 +75223,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134284,Fatescribe Roh-Kalo,134276,1,0,53554,7,0
 134285,Kel'Thuzad,134276,1,0,53555,8,0
 134286,Sylvanas Windrunner,134276,1,0,53556,9,0
-134288,,35395,5,0,53557,20,0
+134288,,35395,4,0,54607,26,0
 134289,Heroic: Sanctum of Domination (Fated),0,0,4,0,0,0
 134290,The Tarragrue,134289,1,0,53558,0,0
 134291,The Eye of the Jailer,134289,1,0,53559,1,0
@@ -75014,6 +75246,10 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134308,Fatescribe Roh-Kalo,134300,1,0,53576,7,0
 134309,Kel'Thuzad,134300,1,0,53577,8,0
 134310,Sylvanas Windrunner,134300,1,0,53578,9,0
+134311,10.0 Prologue - Storms - Tirisfall - Scenario - Step 1 - JZB,0,0,4,0,0,32
+134312,Reduce Elemental Protection Bar to zero,134311,1,0,53568,0,0
+134313,10.0 Prologue - Storms - Tirisfall Scenario - Step 2 - JZB,0,0,4,0,0,32
+134314,Unleashed Elemental defeated,134313,1,0,53569,0,0
 134315,Sepulcher of the First Ones (Fated),0,0,4,0,0,0
 134316,Vigilant Guardian,134315,1,0,53579,0,0
 134317,Skolex,134315,1,0,53580,1,0
@@ -75080,6 +75316,8 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134378,,134377,1,0,53627,0,2
 134379,Enigma Crucible wins,2919,0,0,53496,16,0
 134380,Enigma Crucible Matches,2926,0,0,53495,16,0
+134381,10.0 Azure - Kauriq Gleamlet - River Rapids Empty (LAS),0,0,4,0,0,4096
+134383,,134381,0,0,53629,0,0
 134384,Fated Bosses Defeated in Castle Nathria,0,3,5,0,0,4096
 134385,,134384,1,0,53630,0,0
 134386,,134384,1,0,53631,1,0
@@ -75146,17 +75384,39 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 134478,,134418,1,0,53703,11,0
 134479,,134418,1,0,53718,26,0
 134480,,134418,1,0,53711,19,0
+134481,Step One Completion,0,0,4,0,0,0
+134482,Step one criteria tree description,134481,1,0,53723,0,0
+134483,Kill Boss,0,0,4,0,0,0
+134484,Step two criteria tree description,134483,1,0,53724,0,0
 134485,,134047,1,0,53725,2,2
 134486,,72237,42000,0,52582,118,2
 134487,,75534,42000,0,52582,118,2
 134488,,75708,42000,0,52582,118,2
 134489,,75880,42000,0,52582,118,2
-134876,,35395,14,0,53732,21,0
-134877,,35395,4,0,53733,22,0
-134878,,35395,3,0,53734,23,0
-134879,,35395,4,0,53735,24,0
-134880,,35395,10,0,53736,25,0
-134881,,35395,3,0,53737,26,0
+134866,Hunting Prototype Collect Meat (OJF),0,0,4,0,0,0
+134867,Step One Criteria Tree Description,134866,1,0,53723,0,0
+134868,10.0 Hunting Collect Meat Criteria Tree (OJF),0,0,4,0,0,0
+134869,Step two critiera tree description,134868,1,0,53729,0,0
+134870,10.0 Hunting Prototype - Revent Mobs Completion (OJF),0,0,4,0,0,0
+134871,,135072,10,0,53729,0,0
+134872,10.0 Hunting Prototype - Completion Tree - Step Two (OJF),0,0,4,0,0,0
+134873,,134872,1,0,53730,0,0
+134874,Cast Spell 373854 - Renewed Proto-Drake: Green Scales,0,0,4,0,0,4096
+134875,,134874,1,0,53731,0,0
+134876,,35395,12,0,53732,25,0
+134877,,35395,2,0,53733,20,0
+134878,,35395,1,0,53734,21,0
+134879,,35395,2,0,53735,22,0
+134880,,35395,9,0,53736,23,0
+134881,,35395,2,0,53737,24,0
+135070,10.0 Thal - Level Up - Ch 5 - 01b - Use Device - 30pct done -KRB,0,0,4,0,0,4096
+135071,30% done,135070,6,0,53738,0,0
+135072,Moose Killed,134870,10,5,0,0,8192
+135073,,135072,10,0,53739,1,0
+135074,10.0 Prologue - Storms - N. Barrens - Scenario - Step 1 - JZB,0,0,4,0,0,32
+135075,Reduce Elemental Protection Bar to zero,135074,1,0,53740,0,0
+135076,10.0 Prologue - Storms - N. Barrens Scenario - Step 2 - JZB,0,0,4,0,0,32
+135077,Unleashed Elemental defeated,135076,1,0,53741,0,0
 135078,,76054,42000,0,52582,118,2
 135079,,76226,42000,0,52582,118,2
 135080,,76398,42000,0,52582,118,2
@@ -75170,13 +75430,1473 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 135088,,77774,42000,0,52582,118,2
 135089,,77946,42000,0,52582,118,2
 135090,,78118,42000,0,52582,116,2
-135291,,35407,2,0,53743,16,0
-135298,,57836,4,0,53747,35,0
-135299,,57836,4,0,53748,36,0
-135300,,57836,4,0,53749,37,0
+135288,10.0 Centaur - Hunt - Party 001 - Step Start (OJF),0,1000,4,0,0,0
+135291,,35407,1,0,53743,16,0
+135292,10.0 Plains - Nomad Clan - Public Scenario - Path B > C - SJC - First Leg,0,0,4,0,0,0
+135293,,135292,1,0,53744,0,0
+135294,10.0 Plains - Nomad Clan - Public Scenario - Path B > C - SJC - Second Leg,0,0,4,0,0,0
+135295,,135294,1,0,53745,0,0
+135296,10.0 Plains - Nomad Clan - Public Scenario - Path B > C - SJC - Final Boss - Tier 1,0,0,4,0,0,0
+135297,,135296,1,0,53746,0,0
+135298,,57836,3,0,53747,35,0
+135299,,57836,3,0,53748,36,0
+135300,,57836,3,0,53749,37,0
+135301,10.0 Plains - Nomad Clan - Public Scenario - Path B > C - SJC - Final Boss - Tier 2,0,0,4,0,0,0
+135302,,135301,1,0,53750,0,0
+135303,10.0 Plains - Nomad Clan - Public Scenario - Path B > C - SJC - Final Boss - Tier 3,0,0,4,0,0,0
+135304,,135303,1,0,53751,0,0
+135306,Grand Hunting Horn Blown,135288,1,0,53753,0,0
+135709,Collect 500 Toys,0,0,4,0,0,0
+135710,Collect 500 Toys,135709,500,0,26801,0,1
+135711,10.0 Centaur - Hunt - Party 001 - Bonus Objective (OJF),0,0,4,0,0,0
+135712,Criteria Tree Description,135711,10,0,53753,0,0
+135713,"10.0 The Forbidden Reach - ""Mercy, First"" - Use Infuser (ZTO)",0,0,4,0,0,4096
+135714,,135713,0,0,53761,0,32
+135717,10.0 Dragonriding - Unlock Protodrake,0,0,4,0,0,0
+135718,Learn Renewed Protodrake,135717,1,0,53762,0,0
+135719,10.0 Azure Span - Power Struggle - Step 1 (LQM),0,100,9,0,0,1
+135720,,135719,2,0,53763,0,1
+135721,Grand Flame slain,95412,1,0,53765,1,0
+135722,Dragons in Distress,94553,1,8,0,1,8208
+135723,,135722,0,0,53766,0,0
+135724,In Defense of Life,94553,1,8,0,2,8208
+135725,,135724,0,0,53767,0,0
+135726,Wrathion's Gambit,94553,1,8,0,3,8208
+135727,,135726,0,0,53768,0,0
+135728,A Purpose Restored,94553,1,8,0,4,8208
+135729,,135728,0,0,53769,0,0
+135735,10.0 Centaur - Hunt - Party 001 - End Step (OJF),0,0,4,0,0,0
+135736,Grand Hunting Horn Blown,135735,1,0,53770,0,0
+135745,Plains Hunt,0,100,9,0,0,8192
+135746,,135745,3,0,53772,0,0
+135747,,135745,3,0,53773,1,0
+135748,,135745,3,0,53774,2,0
+135749,,135745,3,0,53775,3,0
+135750,,135745,3,0,53776,4,0
+135751,,135745,3,0,53777,5,0
+135752,,135745,3,0,53778,6,0
+135753,Reach level 70,0,0,4,0,0,0
+135754,Reach level 70,135753,70,0,5212,0,2
+135755,Hunt Uranto,0,0,4,0,0,8192
+135756,Uranto Defeated,135755,1,0,53779,0,0
+135757,Hunt Blitztusk,0,0,4,0,0,8192
+135758,Blitztusk Defeated,135757,1,0,53780,0,0
+135759,Clear the Singing Stone,0,0,4,0,0,8192
+135760,Singing Stone Cleared,135759,1,0,53781,0,0
+135761,River Hunt,0,100,9,0,0,8192
+135762,,135761,3,0,53782,0,0
+135763,,135761,4,0,53783,1,0
+135764,,135761,4,0,53784,2,0
+135765,Hunt Norbett,0,0,4,0,0,8192
+135766,Norbett Defeated,135765,1,0,53785,0,0
+135767,Ravine Hunt,0,100,9,0,0,8192
+135768,,135767,4,0,53786,0,0
+135769,,135767,2,0,53787,1,0
+135770,,135767,4,0,53788,2,0
+135771,,135767,4,0,53789,3,0
+135772,,135767,7,0,53790,4,0
+135773,Hunt Boolk,0,0,4,0,0,8192
+135774,,135773,1,0,53791,0,0
+135775,Hunt Sarana,0,0,4,0,0,8192
+135776,,135775,1,0,53724,0,0
+135805,Cast Soar,0,0,4,0,0,4096
+135806,Cast Soar,135805,0,0,53809,0,0
+135807,Boku A - Done,0,1,8,0,0,4096
+135809,Essence,135812,2,0,53812,0,1
+135810,Initiate,135812,14,0,53813,1,1
+135812,Progress Bar,135807,24,9,0,0,0
+135815,Boku B - Done,0,1,8,0,0,4096
+135816,Progress Bar,135815,24,9,0,0,0
+135817,Essence,135816,2,0,53817,0,1
+135818,Initiate,135816,12,0,53818,1,1
+135821,Boku C - Done,0,1,8,0,0,4096
+135822,Progress Bar,135821,24,9,0,0,0
+135823,Essence,135822,3,0,53821,0,1
+135824,Initiate,135822,18,0,53822,1,1
 135827,,12737,1,0,53825,23,2
 135828,,12737,1,0,53826,24,2
 135829,,12725,1,0,53827,24,2
 135830,,12725,1,0,53828,25,2
 135831,,14311,1,0,53829,23,2
 135832,,14311,1,0,53830,24,2
+135833,,135767,7,0,53831,5,0
+135834,Bones collected.,0,0,4,0,0,0
+135835,Injured Kits Healed.,0,0,4,0,0,0
+135836,Investigate Tracks,0,100,9,0,0,8192
+135837,,135836,5,0,53742,0,0
+135838,Injured Kits Healed.,135835,16,0,53742,0,0
+135839,Bones collected.,135834,18,0,53742,0,0
+135840,10.0 Dungeon - Centaur (Heroic),0,0,4,0,0,0
+135841,Granyth defeated,135840,1,0,53837,0,0
+135842,The Raging Tempest defeated,135840,1,0,53838,1,0
+135843,Teera and Maruuk defeated,135840,1,0,53839,2,0
+135844,Balakar Khan defeated,135840,1,0,53840,3,0
+135845,10.0 Dungeon - Centaur (Normal),0,0,4,0,0,0
+135846,Granyth defeated,135845,1,0,53837,0,0
+135847,The Raging Tempest defeated,135845,1,0,53838,1,0
+135848,Teera and Maruuk defeated,135845,1,0,53839,2,0
+135849,Balakar Khan defeated,135845,1,0,53840,3,0
+135856,,135836,10,0,53752,1,0
+135857,,135836,15,0,53842,2,0
+135858,Obtain 500 mounts. (H),0,0,4,0,0,0
+135859,Obtain 500 mounts,135858,500,0,4787,0,1
+135860,Obtain 500 mounts. (A),0,0,4,0,0,0
+135861,Obtain 500 mounts,135860,500,0,4787,0,1
+135862,10.0 Tuskarr - Waking Shores - Fishing Hole - River 01 - Loot Fish (LJS),0,1,8,0,0,4096
+135863,10.0 Tuskarr - Waking Shores - Fishing Hole - River 01 - Loot Fish (LJS),135862,1,0,53843,0,0
+135866,Learned Fishing,0,0,4,0,0,4096
+135867,,135866,1,0,53844,0,0
+135868,10.0 Centaur - Hunt - Party 002 - Step Start (OJF),0,0,4,0,0,0
+135869,Grand Hunting Horn Blown,135868,1,0,53753,0,0
+135870,10.0 Centaur - Hunt - Party 002 - End Step (OJF),0,0,4,0,0,0
+135871,Grand Hunting Horn Blown,135870,1,0,53770,0,0
+135872,Northern River Hunt,0,100,9,0,0,0
+135873,Northern River Hunt,135872,3,0,54224,0,0
+135874,Discarded Turtle Shells,0,0,4,0,0,0
+135875,Discarded Turtle Shells Collected,135874,18,0,54613,0,0
+135876,Parched Broadhoof,0,0,4,0,0,0
+135877,Parched Broadhoof,135876,1,0,54231,0,0
+135878,Hunt Ergburk,0,0,4,0,0,0
+135879,Hunt Ergburk,135878,1,0,54349,0,0
+135880,Western Plains Hunt,0,100,9,0,0,0
+135881,Western Plains Hunt,135880,3,0,54227,0,0
+135882,10.0 Centaur - Hunt - Party 002 - Step 7 (OJF),0,0,4,0,0,0
+135883,Trapped Calves Freed,135882,15,0,54668,0,0
+135884,Encroaching Riverbeasts,0,0,4,0,0,0
+135885,Encroaching Riverbeasts,135884,1,0,54233,0,0
+135886,Hunt Khomuur,0,0,4,0,0,0
+135887,Hunt Khomuur,135886,1,0,54410,0,0
+135888,Western Cave Hunt,0,100,9,0,0,0
+135889,Western Cave Hunt,135888,9,0,54230,0,0
+135890,10.0 Centaur - Hunt - Party 002 - Step 11 (OJF),0,0,4,0,0,0
+135891,Trapped Huntdogs Rescued,135890,9,0,53742,0,0
+135892,Converging Concretion,0,0,4,0,0,0
+135893,Converging Concretion,135892,1,0,54234,0,0
+135894,Hunt Rokzul,0,0,4,0,0,0
+135895,Hunt Rokzul,135894,1,0,54411,0,0
+135896,10.0 Centaur - Hunt - Party 003 - Step Start (OJF),0,0,4,0,0,0
+135897,Grand Hunting Horn Blown,135896,1,0,53753,0,0
+135898,10.0 Centaur - Hunt - Party 004 - Step Start (OJF),0,0,4,0,0,0
+135899,Grand Hunting Horn Blown,135898,1,0,53753,0,0
+135900,10.0 Centaur - Hunt - Party 005 - Step Start (OJF),0,0,4,0,0,0
+135901,Grand Hunting Horn Blown,135900,1,0,53753,0,0
+135902,10.0 Centaur - Hunt - Party 006 - Step Start (OJF),0,0,4,0,0,0
+135903,Talk to Scout Tomul and begin the hunt.,135902,1,0,53753,0,0
+135904,10.0 Centaur - Hunt - Party 007 - Step Start (OJF),0,0,4,0,0,0
+135905,Grand Hunting Horn Blown,135904,1,0,53753,0,0
+135906,10.0 Centaur - Hunt - Party 008 - Step Start (OJF),0,0,4,0,0,0
+135907,Grand Hunting Horn Blown,135906,1,0,53753,0,0
+135908,10.0 Centaur - Hunt - Party 009 - Step Start (OJF),0,0,4,0,0,0
+135909,Grand Hunting Horn Blown,135908,1,0,53753,0,0
+135910,10.0 Centaur - Hunt - Party 010 - Step Start (OJF),0,0,4,0,0,0
+135911,Grand Hunting Horn Blown,135910,1,0,53753,0,0
+135912,10.0 Centaur - Hunt - Party 011 - Step Start (OJF),0,0,4,0,0,0
+135913,Grand Hunting Horn Blown,135912,1,0,53753,0,0
+135914,10.0 Centaur - Hunt - Party 012 - Step Start (OJF),0,0,4,0,0,0
+135915,Grand Hunting Horn Blown,135914,1,0,53753,0,0
+135916,10.0 Centaur - Hunt - Party 003 - End Step (OJF),0,0,4,0,0,0
+135917,Grand Hunting Horn Blown,135916,1,0,53770,0,0
+135918,10.0 Centaur - Hunt - Party 004 - End Step (OJF),0,0,4,0,0,0
+135919,Grand Hunting Horn Blown,135918,1,0,53770,0,0
+135920,10.0 Centaur - Hunt - Party 005 - End Step (OJF),0,0,4,0,0,0
+135921,Grand Hunting Horn Blown,135920,1,0,53770,0,0
+135922,10.0 Centaur - Hunt - Party 006 - End Step (OJF),0,0,4,0,0,0
+135923,Talk to Scout Tomul and conclude the hunt.,135922,1,0,53770,0,0
+135924,10.0 Centaur - Hunt - Party 007 - End Step (OJF),0,0,4,0,0,0
+135925,Grand Hunting Horn Blown,135924,1,0,53770,0,0
+135926,10.0 Centaur - Hunt - Party 008 - End Step (OJF),0,0,4,0,0,0
+135927,Grand Hunting Horn Blown,135926,1,0,53770,0,0
+135928,10.0 Centaur - Hunt - Party 009 - End Step (OJF),0,0,4,0,0,0
+135929,Grand Hunting Horn Blown,135928,1,0,53770,0,0
+135930,10.0 Centaur - Hunt - Party 010 - End Step (OJF),0,0,4,0,0,0
+135931,Grand Hunting Horn Blown,135930,1,0,53770,0,0
+135932,10.0 Centaur - Hunt - Party 011 - End Step (OJF),0,0,4,0,0,0
+135933,Grand Hunting Horn Blown,135932,1,0,53770,0,0
+135934,10.0 Centaur - Hunt - Party 012 - End Step (OJF),0,0,4,0,0,0
+135935,Grand Hunting Horn Blown,135934,1,0,53770,0,0
+135936,River Hunt,0,100,9,0,0,0
+135937,,135936,5,0,54414,0,0
+135938,Apex Canopy Hunt,0,100,9,0,0,0
+135939,,135938,3,0,53918,0,0
+135940,Eastern Hornswog Hollow Hunt,0,100,9,0,0,0
+135941,,135940,5,0,54052,0,0
+135942,Eastern Preserve Hunt.,0,100,9,0,0,0
+135943,,135942,3,0,54067,0,0
+135944,Forked Road Hunt,0,100,9,0,0,0
+135945,,135944,2,0,54441,0,0
+135946,Frozen River Hunt,0,100,9,0,0,0
+135947,,135946,5,0,54470,0,0
+135948,West River Hunt,0,100,9,0,0,0
+135949,,135948,4,0,54514,0,0
+135950,Lower Cascades Hunt,0,100,9,0,0,0
+135951,,135950,3,0,53849,0,0
+135952,10.0 Centaur - Hunt - Party 011 - Step 2 (OJF),0,0,4,0,0,0
+135953,,135952,1,0,53742,0,0
+135954,South Passage Hunt,0,100,9,0,0,0
+135955,,135954,6,0,54581,0,0
+135956,Dehydrated Ottuk Pups,0,0,4,0,0,0
+135957,Dehydrated Ottuk Pups,135956,15,0,54712,0,0
+135958,Clumsy Centaur,0,0,4,0,0,0
+135959,Clumsy Centaur Helped,135958,14,0,54747,0,0
+135960,Injured Huntdogs,0,0,4,0,0,0
+135961,Injured Huntdogs Revived,135960,14,0,54618,0,0
+135962,10.0 Centaur - Hunt - Party 006 - Step 3 (OJF),0,0,4,0,0,0
+135963,Calves Saved.,135962,8,0,53742,0,0
+135964,10.0 Centaur - Hunt - Party 007 - Step 3 (OJF),0,0,4,0,0,0
+135965,Young Armoredon Healed,135964,15,0,53742,0,0
+135966,Injured Hunters,0,0,4,0,0,0
+135967,Injured Hunters Revived,135966,13,0,54635,0,0
+135968,10.0 Centaur - Hunt - Party 009 - Step 3 (OJF),0,0,4,0,0,0
+135969,,135968,1,0,53742,0,0
+135970,Huntdogs Saved,0,14,4,0,0,0
+135971,Huntdogs Saved,135970,14,0,53742,0,0
+135972,10.0 Centaur - Hunt - Party 011 - Step 3 (OJF),0,0,4,0,0,0
+135973,,135972,1,0,53742,0,0
+135974,10.0 Centaur - Hunt - Party 012 - Step 3 (OJF),0,0,4,0,0,0
+135975,,135974,1,0,53742,0,0
+135976,Disruptive Corpsewings,0,0,4,0,0,0
+135977,Disruptive Corpsewings,135976,1,0,54429,0,0
+135978,Injured Foal,0,0,4,0,0,0
+135979,Injure Foal Defended,135978,1,0,54017,0,0
+135980,Spiteful Snails,0,0,4,0,0,0
+135981,Spiteful Snails Cleared,135980,1,0,54063,0,0
+135982,Thunder Lizards Cleared,0,0,4,0,0,0
+135983,Invasion Stopped.,135982,1,0,54112,0,0
+135984,Rampaging Forest Giants,0,0,4,0,0,0
+135985,Rampaging Forest Giants,135984,1,0,54455,0,0
+135986,Rowdy Goats Cleared,0,0,4,0,0,0
+135987,Rowdy Goats Cleared,135986,1,0,54484,0,0
+135988,Parched Shortcoats,0,0,4,0,0,0
+135989,Parched Shortcoats,135988,1,0,54569,0,0
+135990,Clear the Swarming Dismay Flies,0,0,4,0,0,0
+135991,Clear the Swarming Dismay Flies,135990,1,0,53863,0,0
+135992,10.0 Centaur - Hunt - Party 011 - Step 4 (OJF),0,0,4,0,0,0
+135993,,135992,1,0,53742,0,0
+135994,10.0 Centaur - Hunt - Party 012 - Step 4 (OJF),0,0,4,0,0,0
+135995,Destructive Proto-Drakes Cleared,135994,1,0,54598,0,0
+135996,Hunt Zagdech,0,0,4,0,0,0
+135997,Hunt Zagdech,135996,1,0,54438,0,0
+135998,Defeat Honmor,0,0,4,0,0,0
+135999,Hunt Honmor,135998,1,0,54014,0,0
+136000,10.0 Centaur - Hunt - Party 005 - Step 5 (OJF),0,0,4,0,0,0
+136001,Hunt Galnmor,136000,1,0,54060,0,0
+136002,Hunt Muugurv,0,0,4,0,0,0
+136003,Muugurv Slain.,136002,1,0,54183,0,0
+136004,Hunt Uurhilt,0,0,4,0,0,0
+136005,Hunt Uurhilt,136004,1,0,54458,0,0
+136006,10.0 Centaur - Hunt - Party 008 - Step 5 (OJF),0,0,4,0,0,0
+136007,Hunt Moskhoi,136006,1,0,54511,0,0
+136008,Hunt Yamakh,0,0,4,0,0,0
+136009,Hunt Yamakh,136008,1,0,54573,0,0
+136010,Hunt Melkhop,0,0,4,0,0,0
+136011,Hunt Melkhop,136010,1,0,53860,0,0
+136012,10.0 Centaur - Hunt - Party 011 - Step 5 (OJF),0,0,4,0,0,0
+136013,,136012,1,0,53742,0,0
+136014,10.0 Centaur - Hunt - Party 012 - Step 5 (OJF),0,0,4,0,0,0
+136015,Hunt Tsokorg,136014,1,0,54601,0,0
+136016,Southern Plains Hunt,0,100,9,0,0,0
+136017,,136016,5,0,54419,0,0
+136018,Tomnu Defeated,0,0,4,0,0,0
+136019,Tomnu Defeated,136018,1,0,54015,0,0
+136020,Western Hornswog Hollow Hunt,0,100,9,0,0,0
+136021,,136020,5,0,54056,0,0
+136022,Western Preserve Hunt.,0,100,9,0,0,0
+136023,,136022,12,0,54099,0,0
+136024,Southeast Hunt,0,100,9,0,0,0
+136025,,136024,3,0,54447,0,0
+136026,East River Hunt,0,100,9,0,0,0
+136027,,136026,5,0,54474,0,0
+136028,River Hunt,0,100,9,0,0,0
+136029,,136028,4,0,54524,0,0
+136030,Southeast Cascades Hunt,0,100,9,0,0,0
+136031,,136030,3,0,53851,0,0
+136032,10.0 Centaur - Hunt - Party 011 - Step 6 (OJF),0,0,4,0,0,0
+136033,,136032,1,0,53742,0,0
+136034,Upper Passage Hunt,0,100,9,0,0,0
+136035,,136034,5,0,54587,0,0
+136036,Injured Hunting Eagles,0,0,4,0,0,0
+136037,Injured Hunting Eagles Revived,136036,17,0,54616,0,0
+136038,Northeast Falls Hunt,0,100,9,0,0,0
+136039,,136038,7,0,53937,0,0
+136040,Swarmed Hunters,0,0,4,0,0,0
+136041,Swarmed Hunters Saved,136040,12,0,53742,0,0
+136042,Injured Hunters,0,0,4,0,0,0
+136043,Injured Hunters Revived.,136042,17,0,54635,0,0
+136044,10.0 Centaur - Hunt - Party 007 - Step 7 (OJF),0,0,4,0,0,0
+136045,Nests Cleared,136044,15,0,53742,0,0
+136046,10.0 Centaur - Hunt - Party 008 - Step 7 (OJF),0,0,4,0,0,0
+136047,Ice Burrower Hatchlings freed.,136046,15,0,53742,0,0
+136048,Lost Equipment,0,0,4,0,0,0
+136049,Lost Equipment Collected,136048,18,0,54617,0,0
+136050,Overturned Hatchlings,0,16,4,0,0,0
+136051,Hatchlings flipped,136050,16,0,53742,0,0
+136052,10.0 Centaur - Hunt - Party 011 - Step 7 (OJF),0,0,4,0,0,0
+136053,,136052,1,0,53742,0,0
+136054,10.0 Centaur - Hunt - Party 012 - Step 7 (OJF),0,0,4,0,0,0
+136055,,136054,1,0,53742,0,0
+136056,Restless Slyvern,0,0,4,0,0,0
+136057,Restless Slyvern,136056,1,0,54431,0,0
+136058,Drowning Foal,0,0,4,0,0,0
+136059,Drowning Foal Saved,136058,10,0,54748,0,0
+136060,Ruffian Hornswog,0,0,4,0,0,0
+136061,Ruffian Hornswog Cleared,136060,1,0,54064,0,0
+136062,Fire Elementals Cleared,0,0,4,0,0,0
+136063,Intrusion Stopped.,136062,1,0,54114,0,0
+136064,Blaring Caprine,0,0,4,0,0,0
+136065,Blaring Caprine,136064,1,0,54456,0,0
+136066,Raging Ice Burrowers Cleared Out,0,0,4,0,0,0
+136067,Raging Ice Burrowers Cleared Out,136066,1,0,54485,0,0
+136068,Vicious Crystalspine,0,0,4,0,0,0
+136069,Vicious Crystalspine,136068,1,0,54571,0,0
+136070,Defeat the Towering Fickleshells.,0,0,4,0,0,0
+136071,Defeat the Towering Fickleshells.,136070,1,0,53865,0,0
+136072,10.0 Centaur - Hunt - Party 011 - Step 8 (OJF),0,0,4,0,0,0
+136073,,136072,1,0,53742,0,0
+136074,Swarming Mountain Scarabs,0,0,4,0,0,0
+136075,Swarming Mountain Scarabs Cleared,136074,1,0,54599,0,0
+136076,Hunt Kholdeg,0,0,4,0,0,0
+136077,Hunt Kholdeg,136076,1,0,54439,0,0
+136078,Intrusive Swogglets,0,0,4,0,0,0
+136079,Intrusive Swogglets Cleared,136078,1,0,54018,0,0
+136080,Defeat Salkii,0,0,4,0,0,0
+136081,Defeat Salkii,136080,1,0,54061,0,0
+136082,Hunt Gamgus,0,0,4,0,0,0
+136083,Gamgus Slain.,136082,1,0,54212,0,0
+136084,Hunt Khuumog,0,0,4,0,0,0
+136085,Hunt Khuumog,136084,1,0,54459,0,0
+136086,Hunt Yaankhi,0,0,4,0,0,0
+136087,Hunt Yaankhi,136086,1,0,54512,0,0
+136088,Hunt Mantai,0,0,4,0,0,0
+136089,Hunt Mantai,136088,1,0,54576,0,0
+136090,Hunt Galzuda,0,0,4,0,0,0
+136091,Hunt Galzuda,136090,1,0,53861,0,0
+136092,10.0 Centaur - Hunt - Party 011 - Step 9 (OJF),0,0,4,0,0,0
+136093,,136092,1,0,53742,0,0
+136094,Northern Plains Hunt,0,100,9,0,0,0
+136095,,136094,3,0,54422,0,0
+136096,Genesis Falls Hunt,0,100,9,0,0,0
+136097,,136096,7,0,53943,0,0
+136098,Northern River Hunt,0,100,9,0,0,0
+136099,,136098,5,0,54058,0,0
+136100,Southern Preserve Hunt.,0,100,9,0,0,0
+136101,,136100,14,0,54111,0,0
+136102,Southwest Hunt,0,100,9,0,0,0
+136103,,136102,7,0,54451,0,0
+136104,Hills Hunt,0,100,9,0,0,0
+136105,,136104,7,0,54479,0,0
+136106,East River Hunt,0,100,9,0,0,0
+136107,,136106,3,0,54527,0,0
+136108,Southwest Cascades Hunt,0,100,9,0,0,0
+136109,,136108,3,0,53858,0,0
+136110,10.0 Centaur - Hunt - Party 011 - Step 10 (OJF),0,0,4,0,0,0
+136111,,136110,1,0,53742,0,0
+136112,Northern Passage Hunt,0,100,9,0,0,0
+136113,,136112,5,0,54591,0,0
+136114,Investigate Tracks,0,100,9,0,0,0
+136115,Investigate Tracks,136114,7,0,53742,0,0
+136116,Lost Equipment,0,0,4,0,0,0
+136117,Lost Equipment Collected,136116,18,0,54617,0,0
+136118,10.0 Centaur - Hunt - Party 005 - Step 11 (OJF),0,0,4,0,0,0
+136119,Companions Freed,136118,11,0,53742,0,0
+136120,10.0 Centaur - Hunt - Party 006 - Step 11 (OJF),0,0,4,0,0,0
+136121,Fresh Meat Collected.,136120,30,0,53742,0,0
+136122,Vorquin Bones,0,0,4,0,0,0
+136123,Vorquin Bones,136122,19,0,53742,0,0
+136124,10.0 Centaur - Hunt - Party 008 - Step 11 (OJF),0,0,4,0,0,0
+136125,Lost Supplies Returned.,136124,15,0,53742,0,0
+136126,10.0 Centaur - Hunt - Party 009 - Step 11 (OJF),0,0,4,0,0,0
+136127,,136126,1,0,53742,0,0
+136128,Winghunter Nests,0,0,4,0,0,0
+136129,Nests Destroyed,136128,12,0,53742,0,0
+136130,10.0 Centaur - Hunt - Party 011 - Step 11 (OJF),0,0,4,0,0,0
+136131,,136130,1,0,53742,0,0
+136132,Winghunter Nests,0,0,4,0,0,0
+136133,Nests Destroyed,136132,13,0,53742,0,0
+136134,Famished Proto-Drakes,0,0,4,0,0,0
+136135,Famished Proto-Drakes,136134,1,0,54432,0,0
+136136,Starving Protodrakes,0,0,4,0,0,0
+136137,Starving Proto-Drakes Cleared,136136,1,0,54019,0,0
+136138,Expelled Elementals,0,0,4,0,0,0
+136139,Expelled Elementals Cleared,136138,1,0,54065,0,0
+136140,Infused Proto-Drakes,0,0,4,0,0,0
+136141,Assault Stopped.,136140,1,0,54115,0,0
+136142,Agitated Horned Filtchers,0,0,4,0,0,0
+136143,Agitated Horned Filtchers,136142,1,0,54457,0,0
+136144,Berserk Yetis Cleared,0,0,4,0,0,0
+136145,Berserk Yetis Cleared,136144,1,0,54500,0,0
+136146,Frantic Ottuk,0,0,4,0,0,0
+136147,Frantic Ottuk,136146,1,0,54572,0,0
+136148,Scythid Raid Defeated,0,0,4,0,0,0
+136149,Scythid Raid Defeated,136148,1,0,53864,0,0
+136150,10.0 Centaur - Hunt - Party 011 - Step 12 (OJF),0,0,4,0,0,0
+136151,,136150,1,0,53742,0,0
+136152,Rampaging Wooly Ewe,0,0,4,0,0,0
+136153,Rampaging Wooly Ewe Cleared,136152,1,0,54600,0,0
+136154,Hunt Zumakh,0,0,4,0,0,0
+136155,Hunt Zumakh,136154,1,0,54440,0,0
+136156,Hunt Uurtus,0,0,4,0,0,0
+136157,Hunt Uurtus,136156,1,0,54016,0,0
+136158,Hunt Borzgas,0,0,4,0,0,0
+136159,Hunt Borzgas,136158,1,0,54062,0,0
+136160,Hunt Degmakh,0,0,4,0,0,0
+136161,Degmakh Slain.,136160,1,0,54223,0,0
+136162,Hunt Tenmod,0,0,4,0,0,0
+136163,Hunt Tenmod,136162,1,0,54460,0,0
+136164,Hunt Tevgai,0,0,4,0,0,0
+136165,Hunt Tevgai,136164,1,0,54513,0,0
+136166,Hunt Arkhuu,0,0,4,0,0,0
+136167,Hunt Arkhuu,136166,1,0,54577,0,0
+136168,Hunt Angen,0,0,4,0,0,0
+136169,Hunt Angen,136168,1,0,53862,0,0
+136170,10.0 Centaur - Hunt - Party 011 - Step 13 (OJF),0,0,4,0,0,0
+136171,,136170,1,0,53742,0,0
+136172,Hunt Diluu,0,0,4,0,0,0
+136173,Hunt Diluu,136172,1,0,54603,0,0
+136174,Hunt Molkeej,0,0,4,0,0,0
+136175,Hunt Molkeej,136174,1,0,54602,0,0
+136187,,135950,3,0,53850,1,0
+136189,,135950,3,0,53852,2,0
+136190,,135950,3,0,53853,3,0
+136191,,136030,3,0,53854,1,0
+136192,,136030,5,0,53855,2,0
+136193,,136030,3,0,53856,3,0
+136194,,136030,15,0,53857,4,0
+136195,,136108,3,0,53859,1,0
+136196,10.0 Thal - Valdrakken - Dryadic Remedy Treat Acquired (AOC),0,0,4,0,0,4096
+136197,,136196,1,0,53866,0,0
+136259,10.0 Thal - Valdrakken - Dryadic Remedy Treat Acquired (Weekly) (AOC),0,0,4,0,0,4096
+136260,,136259,1,0,53917,0,0
+136261,,135938,3,0,53919,1,0
+136262,,135938,3,0,53920,2,0
+136263,10.0 Thal - Valdrakken - Snow in a Cone Acquired (Weekly) (AOC),0,0,4,0,0,4096
+136264,,136263,1,0,53921,0,0
+136282,10.0 Thal - Valdrakken - Blubbery Muffin Acquired (Weekly) (AOC),0,0,4,0,0,4096
+136283,,136282,1,0,53938,0,0
+136284,,136038,6,0,53939,1,0
+136285,,136038,5,0,53940,2,0
+136290,,136096,15,0,53944,1,0
+136298,Chrono-Lord Deios defeated,0,0,4,0,0,4096
+136299,Chrono-Lord Deios defeated,136298,1,0,53951,0,0
+136321,10.0 Thal - Valdrakken - Celebratory Cake Acquired (Weekly) (AOC),0,0,4,0,0,4096
+136322,,136321,1,0,53972,0,0
+136372,10.0 Dungeon - Centaur (Mythic),0,0,4,0,0,0
+136373,Granyth defeated,136372,1,0,53837,0,0
+136374,The Raging Tempest defeated,136372,1,0,53838,1,0
+136375,Teera and Maruuk defeated,136372,1,0,53839,2,0
+136376,Balakar Khan defeated,136372,1,0,53840,3,0
+136377,10.0 Dungeon - Brackenhide (Normal),0,0,4,0,0,0
+136378,Hackclaw's War-Band defeated,136377,1,0,54020,0,0
+136379,Treemouth defeated,136377,1,0,54021,1,0
+136380,Gutshot defeated,136377,1,0,54022,2,0
+136381,Decatriarch Wratheye defeated,136377,1,0,54023,3,0
+136382,10.0 Dungeon - Brackenhide (Heroic),0,0,4,0,0,0
+136383,Hackclaw's War-Band defeated,136382,1,0,54020,0,0
+136384,Treemouth defeated,136382,1,0,54021,1,0
+136385,Gutshot defeated,136382,1,0,54022,2,0
+136386,Decatriarch Wratheye defeated,136382,1,0,54023,3,0
+136387,10.0 Dungeon - Brackenhide (Mythic),0,0,4,0,0,0
+136388,Hackclaw's War-Band defeated,136387,1,0,54020,0,0
+136389,Treemouth defeated,136387,1,0,54021,1,0
+136390,Gutshot defeated,136387,1,0,54022,2,0
+136391,Decatriarch Wratheye defeated,136387,1,0,54023,3,0
+136392,10.0 Dungeon - Halls of Infusion (Normal),0,0,4,0,0,0
+136393,Watcher Irideus defeated,136392,1,0,54024,0,0
+136394,Gulping Goliath defeated,136392,1,0,54025,1,0
+136395,Khajin the Unyielding defeated,136392,1,0,54026,2,0
+136396,Primal Tsunami defeated,136392,1,0,54027,3,0
+136397,10.0 Dungeon - Halls of Infusion (Heroic),0,0,4,0,0,0
+136398,Watcher Irideus defeated,136397,1,0,54024,0,0
+136399,Gulping Goliath defeated,136397,1,0,54025,1,0
+136400,Khajin the Unyielding defeated,136397,1,0,54026,2,0
+136401,Primal Tsunami defeated,136397,1,0,54027,3,0
+136402,10.0 Dungeon - Halls of Infusion (Mythic),0,0,4,0,0,0
+136403,Watcher Irideus defeated,136402,1,0,54024,0,0
+136404,Gulping Goliath defeated,136402,1,0,54025,1,0
+136405,Khajin the Unyielding defeated,136402,1,0,54026,2,0
+136406,Primal Tsunami defeated,136402,1,0,54027,3,0
+136407,10.0 Dungeon - Neltharus (Normal),0,0,4,0,0,0
+136408,Chargath defeated,136407,1,0,54028,0,0
+136409,Forgemaster Gorek defeated,136407,1,0,54029,1,0
+136410,Magmatusk defeated,136407,1,0,54030,2,0
+136411,Warlord Sargha defeated,136407,1,0,54031,3,0
+136412,10.0 Dungeon - Neltharus (Heroic),0,0,4,0,0,0
+136413,Chargath defeated,136412,1,0,54028,0,0
+136414,Forgemaster Gorek defeated,136412,1,0,54029,1,0
+136415,Magmatusk defeated,136412,1,0,54030,2,0
+136416,Warlord Sargha defeated,136412,1,0,54031,3,0
+136417,10.0 Dungeon - Neltharus (Mythic),0,0,4,0,0,0
+136418,Chargath defeated,136417,1,0,54028,0,0
+136419,Forgemaster Gorek defeated,136417,1,0,54029,1,0
+136420,Magmatusk defeated,136417,1,0,54030,2,0
+136421,Warlord Sargha defeated,136417,1,0,54031,3,0
+136422,10.0 Dungeon - Ruby Life Pools (Normal),0,0,4,0,0,0
+136423,Melidrussa Chillworn defeated,136422,1,0,54032,0,0
+136424,Kokia Blazehoof defeated,136422,1,0,54033,1,0
+136425,Kyrakka and Erkhart Stormvein defeated,136422,1,0,54034,2,0
+136426,10.0 Dungeon - Ruby Life Pools (Heroic),0,0,4,0,0,0
+136427,Melidrussa Chillworn defeated,136426,1,0,54032,0,0
+136428,Kokia Blazehoof defeated,136426,1,0,54033,1,0
+136429,Kyrakka and Erkhart Stormvein defeated,136426,1,0,54034,2,0
+136430,10.0 Dungeon - Ruby Life Pools (Mythic),0,0,4,0,0,0
+136431,Melidrussa Chillworn defeated,136430,1,0,54032,0,0
+136432,Kokia Blazehoof defeated,136430,1,0,54033,1,0
+136433,Kyrakka and Erkhart Stormvein defeated,136430,1,0,54034,2,0
+136434,10.0 Dungeon - Dragon Academy (Normal),0,0,4,0,0,0
+136435,Vexamus defeated,136434,1,0,54035,0,0
+136436,Accidental Amalgamation defeated,136434,1,0,54036,1,0
+136437,Crawth defeated,136434,1,0,54038,2,0
+136438,Echo of Headteacher Doragosa defeated,136434,1,0,54039,3,0
+136439,10.0 Dungeon - Dragon Academy (Heroic),0,0,4,0,0,0
+136440,Vexamus defeated,136439,1,0,54035,0,0
+136441,Accidental Amalgamation defeated,136439,1,0,54036,1,0
+136442,Crawth defeated,136439,1,0,54038,2,0
+136443,Echo of Headteacher Doragosa defeated,136439,1,0,54039,3,0
+136444,10.0 Dungeon - Dragon Academy (Mythic),0,0,4,0,0,0
+136445,Vexamus defeated,136444,1,0,54035,0,0
+136446,Accidental Amalgamation defeated,136444,1,0,54036,1,0
+136447,Crawth defeated,136444,1,0,54038,2,0
+136448,Echo of Headteacher Doragosa defeated,136444,1,0,54039,3,0
+136452,10.0 Dungeon - Arcane Vault (Normal),0,0,4,0,0,0
+136453,Leymor defeated,136452,1,0,54041,0,0
+136454,Azureblade defeated,136452,1,0,54042,1,0
+136455,Telash Greywing defeated,136452,1,0,54043,2,0
+136456,Umbrelskul defeated,136452,1,0,54044,3,0
+136457,10.0 Dungeon - Arcane Vault (Heroic),0,0,4,0,0,0
+136458,Leymor defeated,136457,1,0,54041,0,0
+136459,Azureblade defeated,136457,1,0,54042,1,0
+136460,Telash Greywing defeated,136457,1,0,54043,2,0
+136461,Umbrelskul defeated,136457,1,0,54044,3,0
+136462,10.0 Dungeon - Arcane Vault (Mythic),0,0,4,0,0,0
+136463,Leymor defeated,136462,1,0,54041,0,0
+136464,Azureblade defeated,136462,1,0,54042,1,0
+136465,Telash Greywing defeated,136462,1,0,54043,2,0
+136466,Umbrelskul defeated,136462,1,0,54044,3,0
+136467,10.0 Dungeon - Uldaman (Normal),0,0,4,0,0,0
+136468,The Lost Dwarves defeated,136467,1,0,54045,0,0
+136469,Bromach defeated,136467,1,0,54046,1,0
+136470,Sentinel Talondras defeated,136467,1,0,54047,2,0
+136471,Emberon defeated,136467,1,0,54048,3,0
+136472,Chrono-Lord Deios defeated,136467,1,0,54049,4,0
+136473,10.0 Dungeon - Uldaman (Heroic),0,0,4,0,0,0
+136474,The Lost Dwarves defeated,136473,1,0,54045,0,0
+136475,Bromach defeated,136473,1,0,54046,1,0
+136476,Sentinel Talondras defeated,136473,1,0,54047,2,0
+136477,Emberon defeated,136473,1,0,54048,3,0
+136478,Chrono-Lord Deios defeated,136473,1,0,54049,4,0
+136479,10.0 Dungeon - Uldaman (Mythic),0,0,4,0,0,0
+136480,The Lost Dwarves defeated,136479,1,0,54045,0,0
+136481,Bromach defeated,136479,1,0,54046,1,0
+136482,Sentinel Talondras defeated,136479,1,0,54047,2,0
+136483,Emberon defeated,136479,1,0,54048,3,0
+136484,Chrono-Lord Deios defeated,136479,1,0,54049,4,0
+136485,10.0 Dragonscale Expedition - Achievement - Highest Peaks (LJS),0,0,4,0,0,0
+136486,Flags Placed,136485,5,0,54050,0,1
+136487,10.0 Azure - Side - Gleamlet - RIVER RAPIDS RIDE - Catch 40 Fish (LAS),0,0,4,0,0,0
+136488,,136487,1,0,54051,0,0
+136489,,135940,3,0,54053,1,0
+136491,,135940,6,0,54055,2,0
+136492,,136020,7,0,54057,1,0
+136493,,136098,15,0,54059,1,0
+136494,Chrono-Lord Deios defeated,0,0,4,0,0,4096
+136495,Chrono-Lord Deios defeated,136494,1,0,54066,0,0
+136496,,135942,3,0,54068,1,0
+136497,,135942,3,0,54069,2,0
+136498,,135942,3,0,54070,3,0
+136499,,135942,3,0,54071,4,0
+136500,,135942,10,0,54072,5,0
+136501,,135942,3,0,54073,6,0
+136502,,135942,7,0,54074,7,0
+136503,,135942,3,0,54075,8,0
+136504,,135942,3,0,54076,9,0
+136505,,135942,12,0,54077,10,0
+136506,,135942,3,0,54078,11,0
+136507,,135942,7,0,54079,12,0
+136508,,135942,12,0,54080,13,0
+136509,,135942,3,0,54081,14,0
+136510,,135942,3,0,54082,15,0
+136512,,135942,3,0,54084,16,0
+136513,,135942,3,0,54098,17,0
+136514,,136022,3,0,54100,1,0
+136515,,136022,3,0,54101,2,0
+136516,,136022,3,0,54102,3,0
+136517,,136022,3,0,54103,4,0
+136518,,136022,3,0,54104,5,0
+136519,,136022,3,0,54105,6,0
+136520,,136022,3,0,54106,7,0
+136521,,136022,10,0,54107,8,0
+136522,,136022,12,0,54108,9,0
+136523,,136022,3,0,54109,10,0
+136524,,136022,10,0,54110,11,0
+136525,,136022,3,0,54074,12,0
+136526,Assemble the war camp,95388,4,0,54113,1,1
+136648,Northern River Hunt,135872,5,0,54225,1,0
+136649,Northern River Hunt,135872,5,0,54226,2,0
+136650,Western Plains Hunt,135880,5,0,54228,1,0
+136651,Western Plains Hunt,135880,10,0,54229,2,0
+136654,Waking Shores - Bronze,0,0,4,0,0,0
+136655,,136654,1,0,54235,0,32
+136656,,136654,1,0,54236,1,32
+136657,,136654,1,0,54237,2,32
+136658,,136654,1,0,54238,3,32
+136659,,136654,1,0,54239,4,32
+136660,,136654,1,0,54240,5,32
+136661,,136654,1,0,54241,6,32
+136662,,136654,1,0,54242,7,32
+136663,Waking Shores - Silver,0,0,4,0,0,0
+136664,,136663,1,0,54243,0,32
+136665,,136663,1,0,54244,1,32
+136666,,136663,1,0,54245,2,32
+136667,,136663,1,0,54246,3,32
+136668,,136663,1,0,54247,4,32
+136669,,136663,1,0,54248,5,32
+136670,,136663,1,0,54249,6,32
+136671,,136663,1,0,54250,7,32
+136672,Waking Shores - Gold,0,0,4,0,0,0
+136673,,136672,1,0,54251,0,32
+136674,,136672,1,0,54252,1,32
+136675,,136672,1,0,54253,2,32
+136676,,136672,1,0,54254,3,32
+136677,,136672,1,0,54255,4,32
+136678,,136672,1,0,54256,5,32
+136679,,136672,1,0,54257,6,32
+136680,,136672,1,0,54258,7,32
+136681,Waking Shores - Advanced - Bronze,0,0,4,0,0,0
+136682,,136681,1,0,54259,0,32
+136683,,136681,1,0,54260,1,32
+136684,,136681,1,0,54261,2,32
+136685,,136681,1,0,54262,3,32
+136686,,136681,1,0,54263,4,32
+136687,,136681,1,0,54264,5,32
+136688,,136681,1,0,54265,6,32
+136689,,136681,1,0,54266,7,32
+136690,Waking Shores - Advanced - Silver,0,0,4,0,0,0
+136691,,136690,1,0,54267,0,32
+136692,,136690,1,0,54268,1,32
+136693,,136690,1,0,54269,2,32
+136694,,136690,1,0,54270,3,32
+136695,,136690,1,0,54271,4,32
+136696,,136690,1,0,54272,5,32
+136697,,136690,1,0,54273,6,32
+136698,,136690,1,0,54274,7,32
+136699,Waking Shores - Advanced - Gold,0,0,4,0,0,0
+136700,,136699,1,0,54275,0,32
+136701,,136699,1,0,54276,1,32
+136702,,136699,1,0,54277,2,32
+136703,,136699,1,0,54278,3,32
+136704,,136699,1,0,54279,4,32
+136705,,136699,1,0,54280,5,32
+136706,,136699,1,0,54281,6,32
+136707,,136699,1,0,54282,7,32
+136708,Ohn'ahren Plains - Bronze,0,0,4,0,0,0
+136709,,136708,1,0,54283,0,32
+136710,,136708,1,0,54284,1,32
+136711,,136708,1,0,54285,2,32
+136712,,136708,1,0,54286,3,32
+136713,,136708,1,0,54287,4,32
+136714,,136708,1,0,54288,5,32
+136715,Ohn'ahren Plains - Silver,0,0,4,0,0,0
+136716,,136715,1,0,54289,0,32
+136717,,136715,1,0,54290,1,32
+136718,,136715,1,0,54291,2,32
+136719,,136715,1,0,54292,3,32
+136720,,136715,1,0,54293,4,32
+136721,,136715,1,0,54294,5,32
+136722,Ohn'ahren Plains - Gold,0,0,4,0,0,0
+136723,,136722,1,0,54295,0,32
+136724,,136722,1,0,54296,1,32
+136725,,136722,1,0,54297,2,32
+136726,,136722,1,0,54298,3,32
+136727,,136722,1,0,54299,4,32
+136728,,136722,1,0,54300,5,32
+136729,Ohn'ahren Plains - Advanced - Bronze,0,0,4,0,0,0
+136730,,136729,1,0,54301,0,32
+136731,,136729,1,0,54302,1,32
+136732,,136729,1,0,54303,2,32
+136733,,136729,1,0,54304,3,32
+136734,Ohn'ahren Plains - Advanced - Silver,0,0,4,0,0,0
+136735,,136734,1,0,54305,0,32
+136736,,136734,1,0,54306,1,32
+136737,,136734,1,0,54307,2,32
+136738,,136734,1,0,54308,3,32
+136739,Ohn'ahren Plains - Advanced - Gold,0,0,4,0,0,0
+136740,,136739,1,0,54309,0,32
+136741,,136739,1,0,54310,1,32
+136742,,136739,1,0,54311,2,32
+136743,,136739,1,0,54312,3,32
+136744,Azure Span - Bronze,0,0,4,0,0,0
+136745,,136744,1,0,54313,0,32
+136746,,136744,1,0,54314,1,32
+136747,,136744,1,0,54315,2,32
+136748,,136744,1,0,54316,3,32
+136749,,136744,1,0,54317,4,32
+136750,,136744,1,0,54318,5,32
+136751,Azure Span - Silver,0,0,4,0,0,0
+136752,,136751,1,0,54319,0,32
+136753,,136751,1,0,54320,1,32
+136754,,136751,1,0,54321,2,32
+136755,,136751,1,0,54322,3,32
+136756,,136751,1,0,54323,4,32
+136757,,136751,1,0,54324,5,32
+136758,Azure Span - Gold,0,0,4,0,0,0
+136759,,136758,1,0,54325,0,32
+136760,,136758,1,0,54326,1,32
+136761,,136758,1,0,54327,2,32
+136762,,136758,1,0,54328,3,32
+136763,,136758,1,0,54329,4,32
+136764,,136758,1,0,54330,5,32
+136765,Azure Span - Advanced - Bronze,0,0,4,0,0,0
+136766,,136765,1,0,54331,0,32
+136767,,136765,1,0,54332,1,32
+136768,,136765,1,0,54333,2,32
+136769,,136765,1,0,54334,3,32
+136770,,136765,1,0,54335,4,32
+136771,,136765,1,0,54336,5,32
+136772,Azure Span - Advanced - Silver,0,0,4,0,0,0
+136773,,136772,1,0,54337,0,32
+136774,,136772,1,0,54338,1,32
+136775,,136772,1,0,54339,2,32
+136776,,136772,1,0,54340,3,32
+136777,,136772,1,0,54341,4,32
+136778,,136772,1,0,54342,5,32
+136779,Azure Span - Advanced - Gold,0,0,4,0,0,0
+136780,,136779,1,0,54343,0,32
+136781,,136779,1,0,54344,1,32
+136782,,136779,1,0,54345,2,32
+136783,,136779,1,0,54346,3,32
+136784,,136779,1,0,54347,4,32
+136785,,136779,1,0,54348,5,32
+136786,Thaldraszus - Bronze,0,0,4,0,0,0
+136787,,136786,1,0,54350,0,32
+136788,,136786,1,0,54351,1,32
+136789,,136786,1,0,54352,2,32
+136790,,136786,1,0,54353,3,32
+136791,,136786,1,0,54354,4,32
+136792,,136786,1,0,54355,5,32
+136793,Thaldraszus - Silver,0,0,4,0,0,0
+136794,,136793,1,0,54356,0,32
+136795,,136793,1,0,54357,1,32
+136796,,136793,1,0,54358,2,32
+136797,,136793,1,0,54359,3,32
+136798,,136793,1,0,54360,4,32
+136799,,136793,1,0,54361,5,32
+136800,Thaldraszus - Gold,0,0,4,0,0,0
+136801,,136800,1,0,54362,0,32
+136802,,136800,1,0,54363,1,32
+136803,,136800,1,0,54364,2,32
+136804,,136800,1,0,54365,3,32
+136805,,136800,1,0,54366,4,32
+136806,,136800,1,0,54367,5,32
+136807,Thaldraszus - Advanced - Bronze,0,0,4,0,0,0
+136808,,136807,1,0,54368,0,32
+136809,,136807,1,0,54369,1,32
+136810,,136807,1,0,54370,2,32
+136811,,136807,1,0,54371,3,32
+136812,,136807,1,0,54372,4,32
+136813,,136807,1,0,54373,5,32
+136814,Thaldraszus - Advanced - Silver,0,0,4,0,0,0
+136815,,136814,1,0,54374,0,32
+136816,,136814,1,0,54375,1,32
+136817,,136814,1,0,54376,2,32
+136818,,136814,1,0,54377,3,32
+136819,,136814,1,0,54378,4,32
+136820,,136814,1,0,54379,5,32
+136821,Thaldraszus - Advanced - Gold,0,0,4,0,0,0
+136822,,136821,1,0,54380,0,32
+136823,,136821,1,0,54381,1,32
+136824,,136821,1,0,54382,2,32
+136825,,136821,1,0,54383,3,32
+136826,,136821,1,0,54384,4,32
+136827,,136821,1,0,54385,5,32
+136828,Dragon Racing Completionist,0,0,4,0,0,0
+136829,,136828,1,0,54386,0,32
+136830,,136828,1,0,54387,1,32
+136831,,136828,1,0,54388,2,32
+136832,,136828,1,0,54389,3,32
+136833,,136828,1,0,54390,4,32
+136834,,136828,1,0,54391,5,32
+136835,,136828,1,0,54392,6,32
+136836,,136828,1,0,54393,7,32
+136837,Dragon Racing Completionist - Silver,0,0,4,0,0,0
+136838,,136837,1,0,54394,0,32
+136839,,136837,1,0,54395,1,32
+136840,,136837,1,0,54396,2,32
+136841,,136837,1,0,54397,3,32
+136842,,136837,1,0,54398,4,32
+136843,,136837,1,0,54399,5,32
+136844,,136837,1,0,54400,6,32
+136845,,136837,1,0,54401,7,32
+136846,Dragon Racing Completionist - Gold,0,0,4,0,0,0
+136847,,136846,1,0,54402,0,32
+136848,,136846,1,0,54403,1,32
+136849,,136846,1,0,54404,2,32
+136850,,136846,1,0,54405,3,32
+136851,,136846,1,0,54406,4,32
+136852,,136846,1,0,54407,5,32
+136853,,136846,1,0,54408,6,32
+136854,,136846,1,0,54409,7,32
+136858,,135936,3,0,54415,1,0
+136859,,135936,3,0,54416,2,0
+136860,,135936,5,0,54417,3,0
+136861,,135936,5,0,54418,4,0
+136862,,136016,7,0,54420,1,0
+136863,,136016,5,0,54421,2,0
+136864,,136094,3,0,54423,1,0
+136865,,136094,12,0,54424,2,0
+136866,,136094,5,0,54425,3,0
+136867,,136094,12,0,54426,4,0
+136868,,136094,2,0,54427,5,0
+136869,,136094,5,0,54428,6,0
+136870,Earn Rated Participation Currency in Dragonflight Season 1 (H) - Mount,0,0,4,0,0,0
+136871,Win Rated PvP matches during Dragonflight Season 1 while at 1000 rating or higher,136870,2400,0,54433,0,1
+136872,Earn Rated Participation Currency in Dragonflight Season 1 (A) - Mount,0,0,4,0,0,0
+136873,Win Rated PvP matches during Dragonflight Season 1 while at 1000 rating or higher,136872,2400,0,54433,0,1
+136874,Challenger I Dragonflight Season 1,0,1,8,0,0,2
+136875,,136874,1400,0,54434,0,2
+136876,,136874,1400,0,54435,1,2
+136877,,136874,1400,0,54436,2,2
+136878,Challenger II Dragonflight Season 1,0,1,8,0,0,2
+136879,,136878,1600,0,54434,0,2
+136880,,136878,1600,0,54435,1,2
+136881,,136878,1600,0,54436,2,2
+136882,Rival I Dragonflight Season 1,0,1,8,0,0,2
+136883,,136882,1800,0,54434,0,2
+136884,,136882,1800,0,54435,1,2
+136885,,136882,1800,0,54436,2,2
+136886,Rival II Dragonflight Season 1,0,1,8,0,0,2
+136887,,136886,1950,0,54434,0,2
+136888,,136886,1950,0,54435,1,2
+136889,,136886,1950,0,54436,2,2
+136890,Win 50 Games as a Gladiator in Dragonflight Season 1 in 3v3,0,0,4,0,0,0
+136891,,136890,50,0,54437,0,1
+136892,Duelist Dragonflight Season 1,0,1,8,0,0,2
+136893,,136892,2100,0,54434,0,2
+136894,,136892,2100,0,54435,1,2
+136895,,136892,2100,0,54436,2,2
+136896,Combatant I Dragonflight Season 1,0,1,8,0,0,2
+136897,,136896,1000,0,54434,0,2
+136898,,136896,1000,0,54435,1,2
+136899,,136896,1000,0,54436,2,2
+136900,Combatant II Dragonflight Season 1,0,1,8,0,0,2
+136901,,136900,1200,0,54434,0,2
+136902,,136900,1200,0,54435,1,2
+136903,,136900,1200,0,54436,2,2
+136904,Earn a 1500 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136905,1500 rating,136904,1500,0,54434,0,2
+136906,Earn a 2000 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136907,2000 rating,136906,2000,0,54434,0,2
+136908,Earn a 2200 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136909,2200 rating,136908,2200,0,54434,0,2
+136910,Earn a 2400 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136911,2400 rating,136910,2400,0,54434,0,2
+136912,Earn a 2600 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136913,2600 rating,136912,2600,0,54434,0,2
+136914,Earn a 2800 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136915,2800 rating,136914,2800,0,54434,0,2
+136916,Earn a 3000 personal rating in the 2v2 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136917,3000 rating,136916,3000,0,54434,0,2
+136918,Earn a 1500 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136919,1500 rating,136918,1500,0,54435,0,2
+136920,Earn a 2000 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136921,2000 rating,136920,2000,0,54435,0,2
+136922,Earn a 2200 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136923,2200 rating,136922,2200,0,54435,0,2
+136924,Earn a 2400 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136925,2400 rating,136924,2400,0,54435,0,2
+136926,Earn a 2600 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136927,2600 rating,136926,2600,0,54435,0,2
+136928,Earn a 2800 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136929,2800 rating,136928,2800,0,54435,0,2
+136930,Earn a 3000 personal rating in the 3v3 bracket of the arena in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136931,3000 rating,136930,3000,0,54435,0,2
+136932,Earn a 3000 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136933,3000 rating,136932,3000,0,54436,0,2
+136934,Earn a 2800 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136935,2800 rating,136934,2800,0,54436,0,2
+136936,Earn a 2600 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136937,2600 rating,136936,2600,0,54436,0,2
+136938,Earn a 2400 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136939,2400 rating,136938,2400,0,54436,0,2
+136940,Earn a 2200 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136941,2200 rating,136940,2200,0,54436,0,2
+136942,Earn a 2000 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136943,2000 rating,136942,2000,0,54436,0,2
+136944,Earn a 1500 personal rating in the rated battlegrounds in Season 34 (Dragonflight 1),0,0,4,0,0,0
+136945,1500 rating,136944,1500,0,54436,0,2
+136946,Elite Dragonflight Season 1,0,1,8,0,0,2
+136947,,136946,2400,0,54434,0,2
+136948,,136946,2400,0,54435,1,2
+136949,,136946,2400,0,54436,2,2
+136950,Djaradin slain,95388,5,0,54466,2,1
+136951,Djaradin troops slain,95392,7,0,53397,1,1
+136952,,135944,4,0,54442,1,0
+136953,,135944,4,0,54443,2,0
+136954,,135944,7,0,54444,3,0
+136955,,135944,10,0,54445,4,0
+136956,,135944,3,0,54446,5,0
+136957,,136024,4,0,54448,1,0
+136958,,136024,5,0,54449,2,0
+136959,,136024,6,0,54450,3,0
+136960,,136102,5,0,54452,1,0
+136961,,136102,5,0,54453,2,0
+136962,,136102,4,0,54454,3,0
+136964,10.0 Renown - Dragonscale Expedition - Rank 01 (Faction Unlocked),0,0,4,0,0,0
+136965,,136964,1,0,54468,0,0
+136966,10.0 Renown - Dragonscale Expedition - Rank 02,0,0,4,0,0,0
+136967,,136966,2,0,54468,0,0
+136968,10.0 Renown - Dragonscale Expedition - Rank 03,0,0,4,0,0,0
+136969,,136968,3,0,54468,0,0
+136970,10.0 Renown - Dragonscale Expedition - Rank 04,0,0,4,0,0,0
+136971,,136970,4,0,54468,0,0
+136972,10.0 Renown - Dragonscale Expedition - Rank 05,0,0,4,0,0,0
+136973,,136972,5,0,54468,0,0
+136974,10.0 Renown - Dragonscale Expedition - Rank 06,0,0,4,0,0,0
+136975,,136974,6,0,54468,0,0
+136976,10.0 Renown - Dragonscale Expedition - Rank 07,0,0,4,0,0,0
+136977,,136976,7,0,54468,0,0
+136978,10.0 Renown - Dragonscale Expedition - Rank 08,0,0,4,0,0,0
+136979,,136978,8,0,54468,0,0
+136980,10.0 Renown - Dragonscale Expedition - Rank 09,0,0,4,0,0,0
+136981,,136980,9,0,54468,0,0
+136982,10.0 Renown - Dragonscale Expedition - Rank 10,0,0,4,0,0,0
+136983,,136982,10,0,54468,0,0
+136984,10.0 Renown - Dragonscale Expedition - Rank 11,0,0,4,0,0,0
+136985,,136984,11,0,54468,0,0
+136986,10.0 Renown - Dragonscale Expedition - Rank 12,0,0,4,0,0,0
+136987,,136986,12,0,54468,0,0
+136988,10.0 Renown - Dragonscale Expedition - Rank 13,0,0,4,0,0,0
+136989,,136988,13,0,54468,0,0
+136990,10.0 Renown - Dragonscale Expedition - Rank 14,0,0,4,0,0,0
+136991,,136990,14,0,54468,0,0
+136992,10.0 Renown - Dragonscale Expedition - Rank 15,0,0,4,0,0,0
+136993,,136992,15,0,54468,0,0
+136994,10.0 Renown - Dragonscale Expedition - Rank 16,0,0,4,0,0,0
+136995,,136994,16,0,54468,0,0
+136996,10.0 Renown - Dragonscale Expedition - Rank 17,0,0,4,0,0,0
+136997,,136996,17,0,54468,0,0
+136998,10.0 Renown - Dragonscale Expedition - Rank 18,0,0,4,0,0,0
+136999,,136998,18,0,54468,0,0
+137000,10.0 Renown - Dragonscale Expedition - Rank 19,0,0,4,0,0,0
+137001,,137000,19,0,54468,0,0
+137002,10.0 Renown - Dragonscale Expedition - Rank 20,0,0,4,0,0,0
+137003,,137002,20,0,54468,0,0
+137004,10.0 Renown - Dragonscale Expedition - Rank 21,0,0,4,0,0,0
+137005,,137004,21,0,54468,0,0
+137006,10.0 Renown - Dragonscale Expedition - Rank 22,0,0,4,0,0,0
+137007,,137006,22,0,54468,0,0
+137008,10.0 Renown - Dragonscale Expedition - Rank 23,0,0,4,0,0,0
+137009,,137008,23,0,54468,0,0
+137010,10.0 Renown - Dragonscale Expedition - Rank 24,0,0,4,0,0,0
+137011,,137010,24,0,54468,0,0
+137012,10.0 Renown - Dragonscale Expedition - Rank 25,0,0,4,0,0,0
+137013,,137012,25,0,54468,0,0
+137014,10.0 Renown - Dragonscale Expedition - Rank 26,0,0,4,0,0,0
+137015,,137014,26,0,54468,0,0
+137016,10.0 Renown - Dragonscale Expedition - Rank 27,0,0,4,0,0,0
+137017,,137016,27,0,54468,0,0
+137018,10.0 Renown - Dragonscale Expedition - Rank 28,0,0,4,0,0,0
+137019,,137018,28,0,54468,0,0
+137020,10.0 Renown - Dragonscale Expedition - Rank 29,0,0,4,0,0,0
+137021,,137020,29,0,54468,0,0
+137022,10.0 Renown - Dragonscale Expedition - Rank 30,0,0,4,0,0,0
+137023,,137022,30,0,54468,0,0
+137025,Djaradin troops slain,95392,1,0,54469,2,1
+137026,,135946,7,0,54471,1,0
+137027,,135946,4,0,54472,2,0
+137028,,135946,6,0,54473,3,0
+137029,,136026,7,0,54475,1,0
+137030,,136026,7,0,54476,2,0
+137031,,136026,8,0,54477,3,0
+137032,,136026,12,0,54478,4,0
+137033,,136104,6,0,54480,1,0
+137034,,136104,5,0,54481,2,0
+137035,,136104,6,0,54482,3,0
+137036,,136104,8,0,54483,4,0
+137037,Statistic - Decatriarch Wratheye (Normal),0,0,4,0,0,0
+137038,,137037,0,0,54486,0,2
+137039,Statistic - Decatriarch Wratheye (Heroic),0,0,4,0,0,0
+137040,,137039,0,0,54487,0,2
+137041,Statistic - Decatriarch Wratheye (Mythic),0,0,4,0,0,0
+137042,,137041,0,0,54488,0,2
+137043,Statistic - Primal Tsunami (Normal),0,0,4,0,0,0
+137044,,137043,0,0,54489,0,2
+137045,Statistic - Primal Tsunami (Heroic),0,0,4,0,0,0
+137046,,137045,0,0,54490,0,2
+137047,Statistic - Primal Tsunami (Mythic),0,0,4,0,0,0
+137048,,137047,0,0,54491,0,2
+137049,Statistic - Warlord Sargha (Normal),0,0,4,0,0,0
+137050,,137049,0,0,54492,0,2
+137051,Statistic - Warlord Sargha (Heroic),0,0,4,0,0,0
+137052,,137051,0,0,54493,0,2
+137053,Statistic - Warlord Sargha (Mythic),0,0,4,0,0,0
+137054,,137053,0,0,54494,0,2
+137055,Statistic - Kyrakka and Erkhart Stormvein (Normal),0,0,4,0,0,0
+137056,,137055,0,0,54495,0,2
+137057,Statistic - Kyrakka and Erkhart Stormvein (Heroic),0,0,4,0,0,0
+137058,,137057,0,0,54496,0,2
+137059,Statistic - Kyrakka and Erkhart Stormvein (Mythic),0,0,4,0,0,0
+137060,,137059,0,0,54497,0,2
+137061,Statistic - Headteacher Doragosa (Normal),0,0,4,0,0,0
+137062,,137061,0,0,54498,0,2
+137063,Statistic - Headteacher Doragosa (Heroic),0,0,4,0,0,0
+137064,,137063,0,0,54499,0,2
+137065,Statistic - Headteacher Doragosa (Mythic),0,0,4,0,0,0
+137066,,137065,0,0,54501,0,2
+137067,Statistic - Umbrelskul (Normal),0,0,4,0,0,0
+137068,,137067,0,0,54502,0,2
+137069,Statistic - Umbrelskul (Heroic),0,0,4,0,0,0
+137070,,137069,0,0,54503,0,2
+137071,Statistic - Umbrelskul (Mythic),0,0,4,0,0,0
+137072,,137071,0,0,54504,0,2
+137073,Statistic - Balakar Khan (Normal),0,0,4,0,0,0
+137074,,137073,0,0,54505,0,2
+137075,Statistic - Balakar Khan (Heroic),0,0,4,0,0,0
+137076,,137075,0,0,54506,0,2
+137077,Statistic - Balakar Khan (Mythic),0,0,4,0,0,0
+137078,,137077,0,0,54507,0,2
+137079,Statistic - Chrono-Lord Deios (Normal),0,0,4,0,0,0
+137080,,137079,0,0,54508,0,2
+137081,Statistic - Chrono-Lord Deios (Heroic),0,0,4,0,0,0
+137082,,137081,0,0,54509,0,2
+137083,Statistic - Chrono-Lord Deios (Mythic),0,0,4,0,0,0
+137084,,137083,0,0,54510,0,2
+137085,Obtain 75 skill points in Dragon Isles Leatherworking,0,0,4,0,0,0
+137086,,137085,75,0,53509,0,2
+137087,,135948,5,0,54515,1,0
+137088,,135948,4,0,54516,2,0
+137089,,135948,4,0,54517,3,0
+137090,,135948,5,0,54518,4,0
+137091,,135948,5,0,54519,5,0
+137092,,135948,3,0,54520,6,0
+137093,,135948,4,0,54521,7,0
+137094,,135948,2,0,54522,8,0
+137095,,135948,3,0,54523,9,0
+137096,,136028,4,0,54525,1,0
+137097,,136028,8,0,54526,2,0
+137098,,136106,5,0,54528,1,0
+137099,,136106,7,0,54529,2,0
+137100,,136106,5,0,54530,3,0
+137101,,136106,2,0,54531,4,0
+137102,,136106,4,0,54532,5,0
+137103,,136106,5,0,54533,6,0
+137104,,136106,5,0,54534,7,0
+137105,,136106,7,0,54535,8,0
+137106,,136106,2,0,54536,9,0
+137150,10.0 Professions Onboarding Skip Unlock,0,0,4,0,0,0
+137151,Unlock Khadin,137150,0,0,54580,0,2
+137152,,135954,3,0,54582,1,0
+137153,,135954,6,0,54583,2,0
+137154,,135954,6,0,54584,3,0
+137155,,135954,7,0,54585,4,0
+137156,,135954,5,0,54586,5,0
+137157,,136034,8,0,54588,1,0
+137158,,136034,7,0,54589,2,0
+137159,,136034,5,0,54590,3,0
+137160,,136112,3,0,54592,1,0
+137161,,136112,7,0,54593,2,0
+137162,,136112,5,0,54594,3,0
+137163,,136112,7,0,54595,4,0
+137164,,136112,6,0,54596,5,0
+137165,,136112,5,0,54597,6,0
+137166,10.0 Renown - Iskaara Tuskarr - Rank 01 (Faction Unlocked),0,0,4,0,0,0
+137167,,137166,1,0,54604,0,0
+137168,10.0 Renown - Iskaara Tuskarr - Rank 02,0,0,4,0,0,0
+137169,,137168,2,0,54604,0,0
+137170,10.0 Renown - Iskaara Tuskarr - Rank 03,0,0,4,0,0,0
+137171,,137170,3,0,54604,0,0
+137172,10.0 Renown - Iskaara Tuskarr - Rank 04,0,0,4,0,0,0
+137173,,137172,4,0,54604,0,0
+137174,10.0 Renown - Iskaara Tuskarr - Rank 05,0,0,4,0,0,0
+137175,,137174,5,0,54604,0,0
+137176,10.0 Renown - Iskaara Tuskarr - Rank 06,0,0,4,0,0,0
+137177,,137176,6,0,54604,0,0
+137178,10.0 Renown - Iskaara Tuskarr - Rank 07,0,0,4,0,0,0
+137179,,137178,7,0,54604,0,0
+137180,10.0 Renown - Iskaara Tuskarr - Rank 08,0,0,4,0,0,0
+137181,,137180,8,0,54604,0,0
+137182,10.0 Renown - Iskaara Tuskarr - Rank 09,0,0,4,0,0,0
+137183,,137182,9,0,54604,0,0
+137184,10.0 Renown - Iskaara Tuskarr - Rank 10,0,0,4,0,0,0
+137185,,137184,10,0,54604,0,0
+137186,10.0 Renown - Iskaara Tuskarr - Rank 11,0,0,4,0,0,0
+137187,,137186,11,0,54604,0,0
+137188,10.0 Renown - Iskaara Tuskarr - Rank 12,0,0,4,0,0,0
+137189,,137188,12,0,54604,0,0
+137190,10.0 Renown - Iskaara Tuskarr - Rank 13,0,0,4,0,0,0
+137191,,137190,13,0,54604,0,0
+137192,10.0 Renown - Iskaara Tuskarr - Rank 14,0,0,4,0,0,0
+137193,,137192,14,0,54604,0,0
+137194,10.0 Renown - Iskaara Tuskarr - Rank 15,0,0,4,0,0,0
+137195,,137194,15,0,54604,0,0
+137196,10.0 Renown - Iskaara Tuskarr - Rank 16,0,0,4,0,0,0
+137197,,137196,16,0,54604,0,0
+137198,10.0 Renown - Iskaara Tuskarr - Rank 17,0,0,4,0,0,0
+137199,,137198,17,0,54604,0,0
+137200,10.0 Renown - Iskaara Tuskarr - Rank 18,0,0,4,0,0,0
+137201,,137200,18,0,54604,0,0
+137202,10.0 Renown - Iskaara Tuskarr - Rank 19,0,0,4,0,0,0
+137203,,137202,19,0,54604,0,0
+137204,10.0 Renown - Iskaara Tuskarr - Rank 20,0,0,4,0,0,0
+137205,,137204,20,0,54604,0,0
+137206,10.0 Renown - Iskaara Tuskarr - Rank 21,0,0,4,0,0,0
+137207,,137206,21,0,54604,0,0
+137208,10.0 Renown - Iskaara Tuskarr - Rank 22,0,0,4,0,0,0
+137209,,137208,22,0,54604,0,0
+137210,10.0 Renown - Iskaara Tuskarr - Rank 23,0,0,4,0,0,0
+137211,,137210,23,0,54604,0,0
+137212,10.0 Renown - Iskaara Tuskarr - Rank 24,0,0,4,0,0,0
+137213,,137212,24,0,54604,0,0
+137214,10.0 Renown - Iskaara Tuskarr - Rank 25,0,0,4,0,0,0
+137215,,137214,25,0,54604,0,0
+137216,10.0 Renown - Valdrakken Accord - Rank 01,0,0,4,0,0,0
+137217,,137216,1,0,54605,0,0
+137218,10.0 Renown - Valdrakken Accord - Rank 02,0,0,4,0,0,0
+137219,,137218,2,0,54605,0,0
+137220,10.0 Renown - Valdrakken Accord - Rank 03,0,0,4,0,0,0
+137221,,137220,3,0,54605,0,0
+137222,10.0 Renown - Valdrakken Accord - Rank 04,0,0,4,0,0,0
+137223,,137222,4,0,54605,0,0
+137224,10.0 Renown - Valdrakken Accord - Rank 05,0,0,4,0,0,0
+137225,,137224,5,0,54605,0,0
+137226,10.0 Renown - Valdrakken Accord - Rank 06,0,0,4,0,0,0
+137227,,137226,6,0,54605,0,0
+137228,10.0 Renown - Valdrakken Accord - Rank 07,0,0,4,0,0,0
+137229,,137228,7,0,54605,0,0
+137230,10.0 Renown - Valdrakken Accord - Rank 08,0,0,4,0,0,0
+137231,,137230,8,0,54605,0,0
+137232,10.0 Renown - Valdrakken Accord - Rank 09,0,0,4,0,0,0
+137233,,137232,9,0,54605,0,0
+137234,10.0 Renown - Valdrakken Accord - Rank 10,0,0,4,0,0,0
+137235,,137234,10,0,54605,0,0
+137236,10.0 Renown - Valdrakken Accord - Rank 11,0,0,4,0,0,0
+137237,,137236,11,0,54605,0,0
+137238,10.0 Renown - Valdrakken Accord - Rank 12,0,0,4,0,0,0
+137239,,137238,12,0,54605,0,0
+137240,10.0 Renown - Valdrakken Accord - Rank 13,0,0,4,0,0,0
+137241,,137240,13,0,54605,0,0
+137242,10.0 Renown - Valdrakken Accord - Rank 14,0,0,4,0,0,0
+137243,,137242,14,0,54605,0,0
+137244,10.0 Renown - Valdrakken Accord - Rank 15,0,0,4,0,0,0
+137245,,137244,15,0,54605,0,0
+137246,10.0 Renown - Valdrakken Accord - Rank 16,0,0,4,0,0,0
+137247,,137246,16,0,54605,0,0
+137248,10.0 Renown - Valdrakken Accord - Rank 17,0,0,4,0,0,0
+137249,,137248,17,0,54605,0,0
+137250,10.0 Renown - Valdrakken Accord - Rank 18,0,0,4,0,0,0
+137251,,137250,18,0,54605,0,0
+137252,10.0 Renown - Valdrakken Accord - Rank 19,0,0,4,0,0,0
+137253,,137252,19,0,54605,0,0
+137254,10.0 Renown - Valdrakken Accord - Rank 20,0,0,4,0,0,0
+137255,,137254,20,0,54605,0,0
+137256,10.0 Renown - Valdrakken Accord - Rank 21,0,0,4,0,0,0
+137257,,137256,21,0,54605,0,0
+137258,10.0 Renown - Valdrakken Accord - Rank 22,0,0,4,0,0,0
+137259,,137258,22,0,54605,0,0
+137260,10.0 Renown - Valdrakken Accord - Rank 23,0,0,4,0,0,0
+137261,,137260,23,0,54605,0,0
+137262,10.0 Renown - Valdrakken Accord - Rank 24,0,0,4,0,0,0
+137263,,137262,24,0,54605,0,0
+137264,10.0 Renown - Valdrakken Accord - Rank 25,0,0,4,0,0,0
+137265,,137264,25,0,54605,0,0
+137266,10.0 Renown - Valdrakken Accord - Rank 26,0,0,4,0,0,0
+137267,,137266,26,0,54605,0,0
+137268,10.0 Renown - Valdrakken Accord - Rank 27,0,0,4,0,0,0
+137269,,137268,27,0,54605,0,0
+137270,10.0 Renown - Valdrakken Accord - Rank 28,0,0,4,0,0,0
+137271,,137270,28,0,54605,0,0
+137272,10.0 Renown - Valdrakken Accord - Rank 29,0,0,4,0,0,0
+137273,,137272,29,0,54605,0,0
+137274,10.0 Renown - Valdrakken Accord - Rank 30,0,0,4,0,0,0
+137275,,137274,30,0,54605,0,0
+137276,10.0 Renown - Valdrakken Accord - Rank 31,0,0,4,0,0,0
+137277,,137276,31,0,54605,0,0
+137278,10.0 Renown - Valdrakken Accord - Rank 32,0,0,4,0,0,0
+137279,,137278,32,0,54605,0,0
+137280,10.0 Renown - Valdrakken Accord - Rank 33,0,0,4,0,0,0
+137281,,137280,33,0,54605,0,0
+137282,10.0 Renown - Valdrakken Accord - Rank 34,0,0,4,0,0,0
+137283,,137282,34,0,54605,0,0
+137284,10.0 Renown - Valdrakken Accord - Rank 35,0,0,4,0,0,0
+137285,,137284,35,0,54605,0,0
+137286,10.0 Renown - Maruuk Centaur - Rank 01 (Faction Unlocked),0,0,4,0,0,0
+137287,,137286,1,0,54606,0,0
+137288,10.0 Renown - Maruuk Centaur - Rank 02,0,0,4,0,0,0
+137289,,137288,2,0,54606,0,0
+137290,10.0 Renown - Maruuk Centaur - Rank 03,0,0,4,0,0,0
+137291,,137290,3,0,54606,0,0
+137292,10.0 Renown - Maruuk Centaur - Rank 04,0,0,4,0,0,0
+137293,,137292,4,0,54606,0,0
+137294,10.0 Renown - Maruuk Centaur - Rank 05,0,0,4,0,0,0
+137295,,137294,5,0,54606,0,0
+137296,10.0 Renown - Maruuk Centaur - Rank 06,0,0,4,0,0,0
+137297,,137296,6,0,54606,0,0
+137298,10.0 Renown - Maruuk Centaur - Rank 07,0,0,4,0,0,0
+137299,,137298,7,0,54606,0,0
+137300,10.0 Renown - Maruuk Centaur - Rank 08,0,0,4,0,0,0
+137301,,137300,8,0,54606,0,0
+137302,10.0 Renown - Maruuk Centaur - Rank 09,0,0,4,0,0,0
+137303,,137302,9,0,54606,0,0
+137304,10.0 Renown - Maruuk Centaur - Rank 10,0,0,4,0,0,0
+137305,,137304,10,0,54606,0,0
+137306,10.0 Renown - Maruuk Centaur - Rank 11,0,0,4,0,0,0
+137307,,137306,11,0,54606,0,0
+137308,10.0 Renown - Maruuk Centaur - Rank 12,0,0,4,0,0,0
+137309,,137308,12,0,54606,0,0
+137310,10.0 Renown - Maruuk Centaur - Rank 13,0,0,4,0,0,0
+137311,,137310,13,0,54606,0,0
+137312,10.0 Renown - Maruuk Centaur - Rank 14,0,0,4,0,0,0
+137313,,137312,14,0,54606,0,0
+137314,10.0 Renown - Maruuk Centaur - Rank 15,0,0,4,0,0,0
+137315,,137314,15,0,54606,0,0
+137316,10.0 Renown - Maruuk Centaur - Rank 16,0,0,4,0,0,0
+137317,,137316,16,0,54606,0,0
+137318,10.0 Renown - Maruuk Centaur - Rank 17,0,0,4,0,0,0
+137319,,137318,17,0,54606,0,0
+137320,10.0 Renown - Maruuk Centaur - Rank 18,0,0,4,0,0,0
+137321,,137320,18,0,54606,0,0
+137322,10.0 Renown - Maruuk Centaur - Rank 19,0,0,4,0,0,0
+137323,,137322,19,0,54606,0,0
+137324,10.0 Renown - Maruuk Centaur - Rank 20,0,0,4,0,0,0
+137325,,137324,20,0,54606,0,0
+137326,10.0 Renown - Maruuk Centaur - Rank 21,0,0,4,0,0,0
+137327,,137326,21,0,54606,0,0
+137328,10.0 Renown - Maruuk Centaur - Rank 22,0,0,4,0,0,0
+137329,,137328,22,0,54606,0,0
+137330,10.0 Renown - Maruuk Centaur - Rank 23,0,0,4,0,0,0
+137331,,137330,23,0,54606,0,0
+137332,10.0 Renown - Maruuk Centaur - Rank 24,0,0,4,0,0,0
+137333,,137332,24,0,54606,0,0
+137334,10.0 Renown - Maruuk Centaur - Rank 25,0,0,4,0,0,0
+137335,,137334,25,0,54606,0,0
+137336,,35407,18,0,53732,17,0
+137337,,35407,6,0,54607,18,0
+137338,,94226,9,0,53732,24,0
+137339,,94226,3,0,54607,25,0
+137340,,94234,6,0,54607,16,0
+137341,,94234,18,0,53732,17,0
+137342,,82763,7,0,54607,31,0
+137343,,82763,21,0,53732,32,0
+137344,,82788,3,0,54607,24,0
+137345,,82788,9,0,53732,25,0
+137346,,57794,6,0,54607,18,0
+137347,,57794,18,0,53732,19,0
+137348,,57836,12,0,53732,39,0
+137349,,57836,4,0,54607,38,0
+137366,Salted Fish Scraps,0,0,4,0,0,0
+137367,Throw some Salted Fish Scraps in the pot,137366,1,0,54614,0,0
+137368,Wait for Instructions,0,0,4,0,0,0
+137369,Wait for Instructions,137368,1,0,54615,0,0
+137371,Defeat Decatriarch Wratheye,0,0,4,0,0,0
+137372,,137371,1,0,54023,0,2
+137373,Defeat Decatriarch Wratheye (Heroic+),0,0,4,0,0,0
+137374,,137373,1,0,54619,0,2
+137375,Defeat Decatriarch Wratheye (Mythic+),0,0,4,0,0,0
+137376,,137375,1,0,54620,0,2
+137377,Defeat the Primal Tsunami,0,0,4,0,0,0
+137378,,137377,1,0,54027,0,2
+137379,Defeat the Primal Tsunami (Heroic+),0,0,4,0,0,0
+137380,,137379,1,0,54621,0,2
+137381,Defeat the Primal Tsunami (Mythic+),0,0,4,0,0,0
+137382,,137381,1,0,54622,0,2
+137383,Defeat Warlord Sargha,0,0,4,0,0,0
+137384,,137383,1,0,54031,0,2
+137385,Defeat Warlord Sargha (Heroic+),0,0,4,0,0,0
+137386,,137385,1,0,54623,0,2
+137387,Defeat Warlord Sargha (Mythic+),0,0,4,0,0,0
+137388,,137387,1,0,54624,0,2
+137389,Defeat Kyrakka and Erkhart Stormvein,0,0,4,0,0,0
+137390,,137389,1,0,54034,0,2
+137391,Defeat Kyrakka and Erkhart Stormvein (Heroic+),0,0,4,0,0,0
+137392,,137391,1,0,54625,0,2
+137393,Defeat Kyrakka and Erkhart Stormvein (Mythic+),0,0,4,0,0,0
+137394,,137393,1,0,54626,0,2
+137395,Defeat the Echo of Headteacher Doragosa,0,0,4,0,0,0
+137396,,137395,1,0,54039,0,2
+137397,Defeat the Echo of Headteacher Doragosa (Heroic+),0,0,4,0,0,0
+137398,,137397,1,0,54627,0,2
+137399,Defeat the Echo of Headteacher Doragosa (Mythic+),0,0,4,0,0,0
+137400,,137399,1,0,54628,0,2
+137401,Defeat Umbrelskul,0,0,4,0,0,0
+137402,,137401,1,0,54044,0,2
+137403,Defeat Umbrelskul (Heroic+),0,0,4,0,0,0
+137404,,137403,1,0,54629,0,2
+137405,Defeat Umbrelskul (Mythic+),0,0,4,0,0,0
+137406,,137405,1,0,54630,0,2
+137407,Defeat Balakar Khan,0,0,4,0,0,0
+137408,,137407,1,0,53840,0,2
+137409,Defeat Balakar Khan (Heroic+),0,0,4,0,0,0
+137410,,137409,1,0,54631,0,2
+137411,Defeat Balakar Khan (Mythic+),0,0,4,0,0,0
+137412,,137411,1,0,54632,0,2
+137413,Defeat Chrono-Lord Deios,0,0,4,0,0,0
+137414,,137413,1,0,54049,0,2
+137415,Defeat Chrono-Lord Deios (Heroic+),0,0,4,0,0,0
+137416,,137415,1,0,54633,0,2
+137417,Defeat Chrono-Lord Deios (Mythic+),0,0,4,0,0,0
+137418,,137417,1,0,54634,0,2
+137420,Companion Equipped,0,0,4,0,0,4096
+137421,Bakar or Ohuna,137420,1,8,0,0,0
+137422,,137421,1,0,54637,0,0
+137423,,137421,1,0,54636,1,0
+137424,Travel Network - Node Unlock: Cobalt Assembly,0,0,4,0,0,0
+137425,,137424,1,0,54638,0,2
+137426,Travel Network - Node Unlock: Vakthros,0,0,4,0,0,0
+137427,,137426,1,0,54639,0,2
+137428,Travel Network - Node Unlock: Emerald Gardens,0,0,4,0,0,0
+137429,,137428,1,0,54640,0,2
+137430,Travel Network - Node Unlock: Rusza'thar Reach,0,0,4,0,0,0
+137431,,137430,1,0,54641,0,2
+137432,Travel Network - Node Unlock: Algeth'era,0,0,4,0,0,0
+137433,,137432,1,0,54642,0,2
+137434,Travel Network - Node Unlock: Eon's Fringe,0,0,4,0,0,0
+137435,,137434,1,0,54643,0,2
+137436,Travel Network - Node Unlock: Dragonscale Basecamp,0,0,4,0,0,0
+137437,,137436,1,0,54644,0,2
+137438,Travel Network - Node Unlock: Skytop Observatory,0,0,4,0,0,0
+137439,,137438,1,0,54645,0,2
+137440,Travel Network - Unlocked,0,0,4,0,0,0
+137441,,137440,1,0,54646,0,2
+137442,Mastering the Waygates,0,0,4,0,0,0
+137443,Algeth'era,137442,1,0,54642,0,0
+137444,Cobalt Assembly,137442,1,0,54638,1,0
+137445,Dragonscale Basecamp,137442,1,0,54644,2,0
+137446,Emerald Gardens,137442,1,0,54640,3,0
+137447,Eon's Fringe,137442,1,0,54643,4,0
+137448,Vakthros,137442,1,0,54639,5,0
+137449,Rusza'thar Reach,137442,1,0,54641,6,0
+137450,Skytop Observatory,137442,1,0,54645,7,0
+137451,Travel Network - Account Wide Unlock,0,0,4,0,0,0
+137452,,137451,1,0,54646,0,2
+137453,Peppersmelt,0,0,4,0,0,0
+137454,Throw some Peppersmelt in the pot,137453,1,0,54647,0,0
+137455,Dried Wyldermane Kelp,0,0,4,0,0,0
+137456,Throw some Dried Wyldermane Kelp in the pot,137455,1,0,54648,0,0
+137457,Hunk o' Blubber,0,0,4,0,0,0
+137458,Throw a Hunk o' Blubber in the pot,137457,1,0,54649,0,0
+137459,Nappa's Famous Tea,0,0,4,0,0,0
+137460,Throw Nappa's Famous Tea in the pot,137459,1,0,54650,0,0
+137461,Piping-Hot Orca Milk,0,0,4,0,0,0
+137462,Throw Piping-Hot Orca Milk in the pot,137461,1,0,54651,0,0
+137463,Ancheevies,0,0,4,0,0,0
+137464,Throw Ancheevies in the pot,137463,3,0,54652,0,0
+137465,Tiny Leviathan Bone,0,0,4,0,0,0
+137466,Throw a Tiny Leviathan Bone in the pot,137465,1,0,54653,0,0
+137467,Defeat Sentinel Talondras after simultaneously stunning both Sentinel Talondras and all party members in Uldaman: Legacy of Tyr in Mythic difficulty.,0,0,4,0,0,0
+137468,,137467,1,0,54654,0,2
+137469,10.0 Azure - Cobalt Assembly - Tutorial Intro - (STM),0,1,8,0,0,6144
+137470,,137469,1,0,54655,0,0
+137471,Stand near Big Kinook and wait for instructions,0,0,4,0,0,0
+137472,Get your orders from Big Kinook,137471,1,0,54615,0,0
+137473,Defeat Chrono-Lord Deios after catching every Eternity Orb as it falls to the ground in Uldaman: Legacy of Tyr on Mythic difficulty.,0,0,4,0,0,0
+137474,,137473,1,0,54657,0,2
+137475,Dragonflight Dungeon Hero,0,0,4,0,0,0
+137476,,137475,1,0,54658,1,32
+137477,,137475,1,0,54659,2,32
+137478,,137475,1,0,54660,3,32
+137479,,137475,1,0,54661,4,32
+137480,,137475,1,0,54662,0,32
+137481,,137475,1,0,54663,5,32
+137482,,137475,1,0,54664,6,32
+137483,,137475,1,0,54665,7,32
+137484,Complete Shadowlands Dungeon Achievements,0,0,4,0,0,32
+137507,,137484,1,0,54666,22,32
+137508,,137484,1,0,54667,23,32
+137509,10.0 Plains - Level Up,0,0,4,0,0,0
+137510,Into the Plains,137509,1,8,0,0,8208
+137511,,137510,0,0,54669,0,0
+137512,Maruukai,137509,1,8,0,1,8208
+137513,,137512,0,0,54670,0,0
+137514,Ohn'ahra's Blessing,137509,1,8,0,2,8208
+137515,,137514,0,0,54671,0,0
+137516,Bonds Renewed,137509,1,8,0,3,8208
+137517,,137516,0,0,54672,0,0
+137550,Unique Treasures: The Waking Shores,0,0,4,0,0,0
+137551,Replica Dragon Goblet,137550,1,0,54698,0,0
+137552,Bubble Drifter,137550,1,0,54699,1,0
+137553,Ruby Gem Cluster,137550,1,0,54713,2,0
+137554,Yennu's Kite,137550,1,0,54701,3,0
+137555,Dead Man's Chestplate,137550,1,0,54702,4,0
+137556,Torn Riding Pack,137550,1,0,54703,5,0
+137557,Treasure Hunter of the Dragon Isles.,0,0,4,0,0,0
+137558,,137557,0,0,54704,0,32
+137559,Unique Treasures: The Ohn'ahran Plains,0,0,4,0,0,0
+137560,Nokhud Warspear,137559,1,0,54707,0,0
+137561,Slightly Chewed Duck Egg,137559,1,0,54708,1,0
+137562,Emerald Gem Cluster,137559,1,0,54700,2,0
+137563,Cracked Centaur Horn,137559,1,0,54709,3,0
+137564,Gold Swog Coin,137559,1,0,54710,4,0
+137565,Yennu's Boat,137559,1,0,54711,5,0
+137566,,136114,15,0,53842,1,0
+137589,Clubfish,0,0,4,0,0,0
+137590,Throw a Clubfish in the pot,137589,1,0,54733,0,0
+137591,Grungle,0,0,4,0,0,0
+137592,Throw a Grungle in the pot,137591,1,0,54734,0,0
+137593,Iceback Sculpin,0,0,4,0,0,0
+137594,Throw an Iceback Sculpin in the pot,137593,1,0,54735,0,0
+137595,Lakkamuk Blenny,0,0,4,0,0,0
+137596,Throw a Lakkamuk Blenny in the pot,137595,1,0,54736,0,0
+137597,Manasucker,0,0,4,0,0,0
+137598,Throw a Manasucker in the pot,137597,1,0,54737,0,0
+137599,Rubbery Fish Head,0,0,4,0,0,0
+137600,Tenderize the Rubbery Fish Head,137599,1,0,54738,0,0
+137601,Not-So-Tender Morsel,0,0,4,0,0,0
+137602,Tenderize the Not-So-Tender Morsel,137601,1,0,54739,0,0
+137603,Tough Carp,0,0,4,0,0,0
+137604,Tenderize the Tough Carp,137603,1,0,54740,0,0
+137605,Stir the Pot (1P),0,0,4,0,0,0
+137606,Stir the Pot,137605,40,0,54741,0,1
+137607,Taste the Soup,0,0,4,0,0,0
+137608,Taste the Soup,137607,1,0,54742,0,0
+137609,Supervise,0,0,4,0,0,0
+137610,Help Big Kinook supervise the others,137609,8,0,54743,0,0
+137611,Escaped Fish (1P),0,0,4,0,0,0
+137612,Toss Escaping Fish back into the pot,137611,1,0,54744,0,0
+137613,Bittershell Hermits (1P),0,0,4,0,0,0
+137614,Stomp Bittershell Hermits,137613,1,0,54745,0,0
+137692,Stir the Pot (5P),0,0,4,0,0,0
+137693,Stir the Pot,137692,200,0,54741,0,1
+137694,Escaped Fish (5P),0,0,4,0,0,0
+137695,Toss Escaping Fish back into the pot,137694,1,0,54819,0,0
+137696,Bittershell Hermits (5P),0,0,4,0,0,0
+137697,Stomp Bittershell Hermits,137696,1,0,54820,0,0
+137698,Unique Treasures: The Azure Span,0,0,4,0,0,0
+137699,Forgotten Jewel Box,137698,1,0,54804,0,0
+137700,Gnoll Fiend Flail,137698,1,0,54805,1,0
+137701,Sapphire Gem Cluster,137698,1,0,54806,2,0
+137702,Lost Compass,137698,1,0,54807,3,0
+137703,Rubber Fish,137698,1,0,54808,4,0
+137704,Pepper Hammer,137698,1,0,54809,5,0
+137705,Unique Treasures: Thaldraszus,0,0,4,0,0,0
+137706,Cracked Hourglass,137705,1,0,54810,0,0
+137707,Sandy Wooden Duck,137705,1,0,54811,1,0
+137708,Amber Gem Cluster,137705,1,0,54812,2,0
+137709,Elegant Canvas Brush,137705,1,0,54813,3,0
+137710,Surveyor's Magnifying Glass,137705,1,0,54814,4,0
+137711,Acorn Harvester,137705,1,0,54815,5,0
+137712,,137557,0,0,54816,1,32
+137713,,137557,0,0,54817,2,32
+137714,,137557,0,0,54818,3,32
+137815,,136708,1,0,54905,6,32
+137816,,136715,1,0,54906,6,32
+137817,,136722,1,0,54907,6,32
+137818,,136729,1,0,54908,4,32
+137819,,136734,1,0,54909,4,32
+137820,,136739,1,0,54910,4,32
+137821,10.0 Renown - Iskaara Tuskarr - Rank 26,0,0,4,0,0,0
+137822,,137821,26,0,54604,0,0
+137823,10.0 Renown - Iskaara Tuskarr - Rank 27,0,0,4,0,0,0
+137824,,137823,27,0,54604,0,0
+137825,10.0 Renown - Iskaara Tuskarr - Rank 28,0,0,4,0,0,0
+137826,,137825,28,0,54604,0,0
+137827,10.0 Renown - Iskaara Tuskarr - Rank 29,0,0,4,0,0,0
+137828,,137827,29,0,54604,0,0
+137829,10.0 Renown - Iskaara Tuskarr - Rank 30,0,0,4,0,0,0
+137830,,137829,30,0,54604,0,0
+137868,Tuskarr Fishing Mastery,0,0,4,0,0,0
+137869,Flying Fish Bone Charm,137868,1,0,54944,0,0
+137874,Achievement - Shadowlands Season 3 Cryptic Hero (Top 0.1%),0,0,4,0,0,0
+137875,,137874,1,0,54947,0,2
+137876,Gain reputation with any major faction in the Dragon Isles.,0,1000,9,0,0,4096
+137877,,137876,1,0,54949,0,0
+137878,,137876,1,0,54948,1,0
+137879,,137876,1,0,54950,2,0
+137880,,137876,1,0,54951,3,0

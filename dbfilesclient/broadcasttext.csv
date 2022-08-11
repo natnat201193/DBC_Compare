@@ -5795,7 +5795,7 @@ Let go of me!,Let go of me!,207136,0,0,0,4,0,0,0,0,0,0,0,0,0,0
 Release me!,Release me!,207137,0,0,0,4,0,0,0,0,0,0,0,0,0,0
 Leave me be!,Leave me be!,207138,0,0,0,4,0,0,0,0,0,0,0,0,0,0
 Stanikos cheers you on!,Stanikos cheers you on!,207166,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-,Yeah! Woo!,207479,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+,Yeah! Woo!!,207479,0,0,0,64,0,0,0,0,0,0,0,0,0,0
 ,"Oooh, not fair!",207480,0,0,0,64,0,0,0,0,0,0,0,0,0,0
 ,Get them!,207481,0,0,0,64,0,0,0,0,0,0,0,0,0,0
 ,"You won, but I'm still the best!",207482,0,0,0,64,0,0,0,0,0,0,0,0,0,0
@@ -6092,6 +6092,7 @@ That which sought to bind us will be made anew.,,213554,0,0,0,102,7000,6,187749,
 Our souls are bound as one.,,213744,0,0,0,102,6000,6,189405,0,0,0,0,0,0,0
 We will never be apart.,,213745,0,0,0,102,5000,6,189406,0,0,0,0,0,0,0
 My purpose.,,213746,0,0,0,102,2000,6,189403,0,0,0,0,0,0,0
+Winglord! Over here. Keep up and keep out of sight.,,214082,0,0,0,68,0,0,0,0,0,0,0,0,0,0
 ,"An empty vessel, an absent role. Both must be filled once more.",214130,0,0,0,68,0,0,0,190168,0,0,0,0,0,0
 Open the way.,,214163,0,0,0,102,4662,6,189753,0,0,0,0,0,0,0
 ,Water from the sands...,214235,0,0,1,68,0,0,0,190172,0,0,0,0,0,0
@@ -6145,6 +6146,9 @@ Come.,,215008,0,0,0,102,2859,6,189755,0,0,0,0,0,0,0
 ,May it bring your people happiness and peace.,215213,0,0,0,102,0,6,0,189240,0,0,0,0,0,0
 ,"On behalf of all the kaldorei, I thank you.",215214,0,0,0,102,0,6,0,189217,0,0,0,0,0,0
 ,Andu-falah-dor.,215215,0,0,0,102,0,6,0,189218,0,0,0,0,0,0
+,These children will not be yet another slave to the whims of your Aspects.,215291,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+,"Rendalish, rendalvol, rendalvah!",215292,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+DRACTHYR! Retrieve the Oathmaker by any means! I COMMAND IT!,,215293,0,0,0,70,0,0,0,0,0,0,0,0,0,0
 ,"If it is the will of the First Ones, this waystone will open to you, mortal.",215338,0,0,0,68,0,0,0,190815,0,0,0,0,0,0
 Sylvanas Windrunner...,,215362,0,0,0,102,5000,6,189576,0,0,0,0,0,0,0
 There can be no true justice without compassion...,,215363,0,0,0,70,0,6,189577,0,0,0,0,0,0,0
@@ -6184,6 +6188,8 @@ So be it.,,215371,0,0,0,102,5000,6,189583,0,0,0,0,0,0,0
 ,But there would be no justice that day.,215501,0,0,0,38,0,6,0,190253,0,0,0,0,0,0
 ,For anyone.,215503,0,0,0,38,0,6,0,190254,0,0,0,0,0,0
 ,That... is yet to come.,215504,0,0,0,38,0,6,0,190255,0,0,0,0,0,0
+,Ahahaha! Is this all that remains of Neltharion's flight? Pathetic!,215566,0,0,0,70,0,4,0,202514,0,0,0,0,0,0
+Return to your creche. That is an ORDER! [DNT],,215594,0,0,0,70,0,4,0,0,0,0,0,0,0,0
 Then trust in me.,,215625,0,0,0,102,0,6,190517,0,0,0,0,0,0,0
 ,"Always, Uther.",215626,0,0,0,102,0,6,0,190518,0,0,0,0,0,0
 ,Very well. We will prepare to enter the Sepulcher and save Anduin... together.,215627,0,0,0,102,0,6,0,190519,0,0,0,0,0,0
@@ -6213,6 +6219,11 @@ Every pawn put into play.,,215770,0,0,0,102,5000,6,190836,0,0,0,0,0,0,0
 ,"A worthy soul, pure and unburdened.",215800,0,0,0,70,0,6,0,190921,0,0,0,0,0,0
 ,Vessel.,215807,0,0,0,102,0,6,0,190967,0,0,0,0,0,0
 ,Vessel.,215808,0,0,0,102,0,6,0,190968,0,0,0,0,0,0
+,"If we are not alone, then our priority is discovering what enemy set off the beacon that awakened us.",216021,0,0,1,70,0,0,0,0,0,0,0,0,0,0
+,Leave that amplifier alone. We must keep the enemy in stasis until we have gathered what we need from the ritual site.,216150,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+,"Pace yourselves. Deeper breaths may provide more healing, but you risk losing your ally to excessive damage.",216393,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+,"Remember, the living flame can heal as well as destroy.",216397,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+Leave them. I have all the power we need.,,216774,0,0,0,70,0,4,0,0,0,0,0,0,0,0
 ,"Why are you here, Anduin?",216778,0,0,0,70,0,6,0,194547,0,0,0,0,0,0
 ,"Your kingdom, and your friends, are awaiting your return.",216779,0,0,0,70,0,6,0,194548,0,0,0,0,0,0
 My friends... the ones I almost killed... they believe my hands are clean.,,216780,0,0,0,70,0,6,194530,0,0,0,0,0,0,0
@@ -6241,6 +6252,7 @@ Yes. It does.,,216805,0,0,0,70,0,6,194544,0,0,0,0,0,0,0
 "Farewell, Sylvanas Windrunner.",,216806,0,0,0,70,0,6,194545,0,0,0,0,0,0,0
 Until our paths cross again.,,216807,0,0,0,102,5000,6,194546,0,0,0,0,0,0,0
 ,Farewell... Little Lion.,216808,0,0,0,102,6000,6,0,194557,0,0,0,0,0,0
+What did you just say to me?,What did you just say to me?,216862,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,Within this hall we shared ceremonies. Celebrations.,216906,0,0,0,102,0,6,0,194686,0,0,0,0,0,0
 ,And tragedy.,216907,0,0,0,102,0,6,0,194687,0,0,0,0,0,0
 ,I loved my family.,216908,0,0,0,102,0,6,0,194688,0,0,0,0,0,0
@@ -6259,19 +6271,436 @@ Until our paths cross again.,,216807,0,0,0,102,5000,6,194546,0,0,0,0,0,0,0
 ,"But it's a long road, and we will need your help.",216921,0,0,0,102,0,6,0,194701,0,0,0,0,0,0
 ,Then... let us find our place together.,216922,0,0,0,102,0,6,0,194702,0,0,0,0,0,0
 ,As Forsaken.,216923,0,0,0,102,0,6,0,194703,0,0,0,0,0,0
+"Gleamfisher, please, counsel my brother Ruriq against his foolish idea.",,216968,0,0,669,68,0,4,0,0,0,0,0,0,0,0
+,Aho? What a fine boat! Such thick hides and a sturdy frame!,216972,0,0,669,68,0,4,0,0,0,0,0,0,0,0
+"Thank you, Gleamfisher! I mean to follow in your footsteps-",,216973,0,0,669,68,0,4,0,0,0,0,0,0,0,0
+,"Hmmm... The trouble I am sensing here is not in your idea, Ruriq. It is a noble one.",216974,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"My journey ended in death because I built my boat alone. But if all three of you do it, you may just succeed where I failed!",216975,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+...Harrumph.,,216994,0,0,669,68,0,4,0,0,0,0,0,0,0,0
 DNT test - Batrider,DNT test - Batrider,216995,0,0,0,70,5000,4,0,0,0,0,0,0,0,0
+"Die, dracthyr!",,217159,0,0,0,68,0,4,202426,0,0,0,0,0,0,0
+We have incoming!,,217183,0,0,0,68,0,4,202425,0,0,0,0,0,0,0
+,Emberthal!,217186,0,0,0,68,0,4,0,202427,0,0,0,0,0,0
 ,Anduin...,217206,0,0,0,70,0,4,0,194925,0,0,0,0,0,0
 <Laughs... and sighs>,,217207,0,0,0,70,0,4,194924,0,0,0,0,0,0,0
-"Hello, Jaina.",,217914,0,0,669,38,0,0,179713,0,0,0,0,0,0,0
-,"Khadgar! It's good to see you again. When we last parted, I regret that--",217915,0,0,1,38,0,0,0,179714,0,0,0,0,0,0
-"Those were perilous times. The Legion's attack, then the war... I think we both needed to find our own way through.",,217916,0,0,1,38,0,0,179715,0,0,0,0,0,0,0
-I have no hard feelings. Only friendship.,,217917,0,0,1,38,0,0,179716,0,0,0,0,0,0,0
-,I feel the same. But surely you didn't come all the way to the Shadowlands just to find me.,217918,0,0,1,38,0,0,0,179717,0,0,0,0,0,0
-No. For years I've read about this place in Medivh's books. I stood atop Karazhan and caught glimpses through the veil.,,217919,0,0,274,38,0,0,179718,0,0,0,0,0,0,0
-I suppose I wanted to gaze upon the realms of Death with mine own eyes before...,,217920,0,0,1,38,0,0,179719,0,0,0,0,0,0,0
-,"Is everything alright, Khadgar?",217921,0,0,6,38,0,0,0,179720,0,0,0,0,0,0
-"I feel the weight of years upon me, Jaina. The burdens carried. The choices made.",,217922,0,0,1,38,0,0,179721,0,0,0,0,0,0,0
-Hmph! Forgive the musings of an old man. I think I'll look around and see these Shadowlands a bit. See what wonders I can find.,,217923,0,0,1,38,0,0,179722,0,0,0,0,0,0,0
-"I've heard tales of conniving brokers, a city of secrets, and a land of ancient knowledge. How intriguing!",,217924,0,0,1,38,0,0,179723,0,0,0,0,0,0,0
-,"Sounds like you'll be keeping busy! Just don't leave without saying goodbye. I've missed you, old friend.",217925,0,0,1,38,0,0,0,179724,0,0,0,0,0,0
-"Count on it, Jaina. Be seeing you.",,217926,0,0,1,38,0,0,179725,0,0,0,0,0,0,0
+,"Norukk and I will find a safe location near Brackenhide. Hanu, please guard the caravan the rest of the way to Iskaara.",217280,0,0,669,68,0,4,0,205996,396,0,0,0,0,0
+,You need my protection more.,217281,0,0,669,68,0,4,0,203493,396,0,0,0,0,0
+,"No, your children do. All of Iskaara does, if we are unable to contain this decay. Go home and get yourself a bowl of soup. Rest.",217282,0,0,669,68,0,4,0,205997,396,0,0,0,0,0
+"Give the kids my love, Hanu.",,217283,0,0,669,68,0,4,0,0,396,0,0,0,0,0
+,... Fine. Be safe.,217284,0,0,669,68,0,4,0,203494,396,0,0,0,0,0
+Cross-referencing crystal and saliva compounds. Please stand by.,,217334,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,It's working!,217335,0,0,0,68,0,4,0,0,1,0,0,0,0,0
+Results: Saliva? Mundane. Crystal? Materially worthless. Composition is ninety-nine percent salt.,,217336,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Catastrophic dehydration.,,217337,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Uh oh. Geo, what would happen if someone were to... lick a whole bunch of those crystals?",217338,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Also: Hallucination, increased aggression, delusions of grandeur...",,217339,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+[RESULTS: ONE HUNDRED PERCENT SODIUM],,217340,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Okay Geo, that's enough!",217341,0,0,0,68,0,4,0,0,5,0,0,0,0,0
+This is bad. Very bad.,,217342,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+[TESTING COMPLETE],,217343,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"We'll handle what remains of the Primalists to the east. I'm counting on you to aid Kalecgos, adventurer.",,217436,0,0,0,68,0,4,203584,0,0,0,0,0,0,0
+We'll be back soon enough!,,217437,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Thank the Earth-Warder! Her wisdom is needed.,,217607,0,0,1,68,0,4,202428,0,0,0,0,0,0,0
+"Hello, Jaina.",,217914,0,0,669,102,0,0,179713,0,0,0,0,0,0,0
+,"Khadgar! It's good to see you again. When we last parted, I regret that--",217915,0,0,1,102,0,0,0,179714,0,0,0,0,0,0
+"Those were perilous times. The Legion's attack, then the war... I think we both needed to find our own way through.",,217916,0,0,1,102,0,0,179715,0,0,0,0,0,0,0
+I have no hard feelings. Only friendship.,,217917,0,0,1,102,0,0,179716,0,0,0,0,0,0,0
+,I feel the same. But surely you didn't come all the way to the Shadowlands just to find me.,217918,0,0,1,102,0,0,0,179717,0,0,0,0,0,0
+No. For years I've read about this place in Medivh's books. I stood atop Karazhan and caught glimpses through the veil.,,217919,0,0,274,102,0,0,179718,0,0,0,0,0,0,0
+I suppose I wanted to gaze upon the realms of Death with mine own eyes before...,,217920,0,0,1,102,0,0,179719,0,0,0,0,0,0,0
+,"Is everything alright, Khadgar?",217921,0,0,6,102,0,0,0,179720,0,0,0,0,0,0
+"I feel the weight of years upon me, Jaina. The burdens carried. The choices made.",,217922,0,0,1,102,0,0,179721,0,0,0,0,0,0,0
+Hmph! Forgive the musings of an old man. I think I'll look around and see these Shadowlands a bit. See what wonders I can find.,,217923,0,0,1,102,0,0,179722,0,0,0,0,0,0,0
+"I've heard tales of conniving brokers, a city of secrets, and a land of ancient knowledge. How intriguing!",,217924,0,0,1,102,0,0,179723,0,0,0,0,0,0,0
+,"Sounds like you'll be keeping busy! Just don't leave without saying goodbye. I've missed you, old friend.",217925,0,0,1,102,0,0,0,179724,0,0,0,0,0,0
+"Count on it, Jaina. Be seeing you.",,217926,0,0,1,102,0,0,179725,0,0,0,0,0,0,0
+HUNGY! SCAPS EAT TUSKERS!!,HUNGY! SCAPS EAT TUSKERS!!,217976,0,0,53,68,0,4,0,0,0,0,0,0,0,0
+"No, but Scaps can eat this tasty fish!",,217977,0,0,669,4,0,4,0,0,0,0,0,0,0,0
+FEESH? WHAT'S FEESH?!,FEESH? WHAT'S FEESH?!,217978,0,0,53,68,0,4,0,0,0,0,0,0,0,0
+,So this is where you two ran off to! What are you - oh!,217979,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+"Now kids, we've talked about how dangerous gnolls are. He may look cute now, but when he grows up-",,217980,0,0,669,4,0,4,0,0,0,0,0,0,0,0
+,"No, Ta, look! Scaps loves fish now!",217981,0,0,397,4,0,4,0,0,0,0,0,0,0,0
+FEESH YUMMY! SCAPS EAT FEESH!,FEESH YUMMY! SCAPS EAT FEESH!,217982,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"See, Ta? Scaps just needs fish! If we take care of him, he can be a good gnoll!",217983,0,0,669,4,0,4,0,0,0,0,0,0,0,0
+"... Alright, we'll take him in, for now. But don't be surprised when he runs off or tries to bite you...",,217984,0,0,669,4,0,4,0,0,0,0,0,0,0,0
+,Let's get started!,218312,0,0,0,68,0,4,0,0,1,0,0,0,0,0
+Stay as long as you like.,,218377,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+,"We were hoping you would join us, friends. A chieftain's return to the sea is a celebration for all.",218403,0,0,669,68,0,4,0,206020,0,0,0,0,0,0
+"If... you don't mind me asking, how did he pass? Was it the gnolls?",,218404,0,0,669,68,0,4,201743,0,0,0,0,0,0,0
+,"Oh no, Kalec. It was simply his time. Ponoliak was a stubborn old coot, but even he had to succumb to age eventually.",218407,0,0,669,68,0,4,0,206021,0,0,0,0,0,0
+,"Not all deaths are violent, dear friend.",218408,0,0,669,68,0,4,0,206022,0,0,0,0,0,0
+To be honest... I can't remember a time when they weren't.,,218409,0,0,0,68,0,4,201744,0,0,0,0,0,0,0
+,You're leaving? The celebration has only just begun!,218425,0,0,0,68,0,4,0,206011,0,0,0,0,0,0
+Thank you Brena--and everyone. I have learned more than I imagined in my short time in your company.,,218426,0,0,0,68,0,4,201745,0,0,0,0,0,0,0
+"Despite tragedy, you all remain kind and resolute. Because of your community. Because of family.",,218427,0,0,0,68,0,4,201746,0,0,0,0,0,0,0
+"The power the blue dragonflight is missing is not ley lines, or ancient artifacts... it's family.",,218428,0,0,0,68,0,4,201747,0,0,0,0,0,0,0
+"I must go to them. But if you ever have need of me, simply call. I will hear you. And I'll come as swiftly as my wings can carry me.",,218429,0,0,0,68,0,4,201748,0,0,0,0,0,0,0
+It is time for the blue dragons to once more be the guardians of this land.,,218430,0,0,0,68,0,4,201749,0,0,0,0,0,0,0
+,... I... I see.,218431,0,0,0,68,0,4,0,206012,0,0,0,0,0,0
+,Hmph. You could have said something about being a dragon from the beginning! Seems an important detail to leave out.,218432,0,0,0,68,0,4,0,206009,0,0,0,0,0,0
+,"Well, you'd best be back any time you need a good meal. There will always be a warm bowl of soup for you here, Kalec.",218433,0,0,0,68,0,4,0,206013,0,0,0,0,0,0
+"I look forward to it. Take care, Brena, Norukk... everyone.",,218434,0,0,0,68,0,4,201750,0,0,0,0,0,0,0
+,Child... you cannot show any mercy to Raszageth. She has made her choice.,218584,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+I understand.,,218585,0,0,0,68,0,4,201754,0,0,0,0,0,0,0
+,"No, you do not. You have a kind soul... I know you hesitate at the thought of fighting any more of your own kind.",218586,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"I... showed too much mercy, once. Twice. Many times. Before long... it was too late.",218587,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+You speak of Neltharion's betrayal.,,218588,0,0,0,68,0,4,201755,0,0,0,0,0,0,0
+,"Do not make my mistake, young one. There can be no mercy... without justice. Remember that.",218589,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Thank you, Sindragosa. I will.",,218590,0,0,0,68,0,4,201756,0,0,0,0,0,0,0
+,"... I hope you truly do, my dear.",218591,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Please, return to the Azure Archives. Sindragosa is awaiting our return--and we should be able to reclaim the oathstone.",,218622,0,0,0,68,0,4,201766,0,0,0,0,0,0,0
+Sindragosa? She has returned from the grave?,,218623,0,0,0,68,0,4,203552,0,0,0,0,0,0,0
+I'll explain on the way. Let's go!,,218624,0,0,0,68,0,4,201767,0,0,0,0,0,0,0
+And I thought I had seen it all in my old age...,,218625,0,0,0,68,0,4,203553,0,0,0,0,0,0,0
+,"Looks like I can check off ""get an adventurer te go te Camp Nowhere"" from the list!",218628,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,I better hit the ol' dusty trail te the folks over at Munnin's Station.,218629,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,... or was it Theron's Watch?,218630,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"No, it was Munnin's Station.",218631,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"... ach! Caddy, get it together! Munnin Station's THAT way!",218632,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,It has been ten thousand years since the dragons were last in the Isles. They are invaders upon your land. Join the Primalists. Embrace the storm. We will aid you in the battles to come.,218736,0,0,1,68,0,8,0,205645,0,0,0,0,0,0
+"Are you, too, not invaders? The Khanam Matra welcomes the dragons to our Khural. Take your leave. The storm has no place in the lands of Ohn'ahra.",,218737,0,0,1,68,0,8,205647,0,0,0,0,0,0,0
+,"Your Khanam Matra leads you to servitude. We offer a future of strength. When you see your error, we will be waiting.",218739,0,0,1,68,0,8,0,205648,0,0,0,0,0,0
+,"And you, of course, $n. I cannot thank you enough. I hope you will make yourself at home and know that you always have a family in Iskaara.",218917,0,0,0,68,0,4,0,206010,0,0,0,0,0,0
+,"Let's be off. We will do what we can to aid you, once we uncover the source of this rot.",218968,0,0,0,68,0,4,0,205993,0,0,0,0,0,0
+Judging by the gnoll's sudden aggression... I fear for the inhabitants of the trading outpost.,,218969,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Norukk! Get out of your head and get a move on!,218970,0,0,0,68,0,4,0,203491,0,0,0,0,0,0
+"Yes, yes. Coming!",,218971,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"-And both waste our resources and get himself killed! Please, Gleamfisher, talk sense into him.",,219188,0,0,669,68,0,4,0,0,0,0,0,0,0,0
+,"You will need the blessings of the Spirits of Wind and Water, as well. My children's children, you will need to work together to prove yourselves to them. I am certain you can do it.",219189,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Cindrethresh!,,219355,0,0,0,102,0,4,202380,0,0,0,0,0,0,0
+,Zury!,219356,0,0,0,102,0,4,0,202382,0,0,0,0,0,0
+Have you found the Earth-Warder?,,219357,0,0,0,102,0,4,202384,0,0,0,0,0,0,0
+,No. He is not in this chamber.,219358,0,0,0,102,0,4,0,202385,0,0,0,0,0,0
+,But there is--,219359,0,0,0,102,0,4,0,202386,0,0,0,0,0,0
+...A different dragon.,,219360,0,0,0,102,0,4,202387,0,0,0,0,0,0,0
+"Come forth, loyal servants of Malygos!",,219361,0,0,0,102,0,4,202388,0,0,0,0,0,0,0
+,"Well, this should be fun!",219362,0,0,0,102,0,4,0,202390,0,0,0,0,0,0
+,These vermin sought to disrupt our ritual!,219369,0,0,0,102,0,4,0,202470,0,0,0,0,0,0
+They are unworthy of the dragon blood in their veins!,,219370,0,0,0,102,0,4,202471,0,0,0,0,0,0,0
+They mean nothing. Leave them.,,219371,0,0,0,102,0,4,202472,0,0,0,0,0,0,0
+The elements have granted me the power I need.,,219372,0,0,0,102,0,4,202473,0,0,0,0,0,0,0
+Did you hear?,,219566,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Hear what?,219567,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+A drake that tells me that the Trueborn are on the move. Something important is about to happen!,,219568,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Oh really, what?",219569,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"I do not know the details, but I believe he is close to finding it. Soon he will have the power to put the flights back in their place... as they deserve for letting us care for this city while they were gone so long.",,219570,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Shhhh! Do not let the Scalesworn hear you talk like that!,219571,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+What do you mean? Commander Eranog said it would be here.,,219806,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"I have not seen him. Come to think of it, I have not seen anyone from South Hold come by today. Very strange.",219807,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Greetings, brother. Any news?",219911,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"A delay, unfortunately. They are still looking for it at South Hold Gate.",,219912,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Still?! I would think they would have found it by now?,219913,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+I am sure everything will be handled by the time our benefactors are ready. He will make sure of it.,,219914,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Careful! We speak too casually, there are unfamiliar faces about.",219923,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"My apologies, there is nothing here awaiting you.",221180,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Enough! Take the vault! I will liberate the Storm-Eater!,,221369,0,0,0,68,0,4,202502,0,0,0,0,0,0,0
+Spirits of Azeroth! Gather your strength! Gather your rage! Now is the hour of your vengeance!,,221919,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"What is the meaning of this, Sabellian? Where are the eggs?",222032,0,0,0,68,0,4,0,204012,0,0,0,0,0,0
+"Yes, why don't you explain how your ridiculous plan destroyed the future of an entire flight?",,222034,0,0,0,68,0,4,204013,0,0,0,0,0,0,0
+"I apologize for any misunderstandings, Life-Binder. But any report of our extinction is premature.",,222036,0,0,0,68,0,4,204014,0,0,0,0,0,0,0
+"The eggs were never in danger. The cart, and my presence, were merely to draw the attention of our foes and allow my clutch to move unobserved.",,222037,0,0,0,68,0,4,204015,0,0,0,0,0,0,0
+"I have spent millennia rebuilding my flight. As Neltharion's heir I pledge it, and myself, to you.",,222060,0,0,0,68,0,4,204016,0,0,0,0,0,0,0
+What are you--,,222061,0,0,0,68,0,4,204017,0,0,0,0,0,0,0
+,"These eggs are most welcome here, Sabellian. But your part in your father's twisted legacy has earned you no such privilege.",222062,0,0,0,68,0,4,0,204018,0,0,0,0,0,0
+"I will not argue that I aided my father as my duty demanded of me. But when the enormity of his betrayal became clear, I scorned his evil and turned myself to rebuilding a new black dragonflight, free from his corruption. It is this I put before you now.",,222064,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"I will ensure the eggs are cared for, but I will not be involved in your bickering. That is for the black, not the red, to decide.",222065,0,0,0,68,0,4,0,204019,0,0,0,0,0,0
+"Do you play me for a fool, old man!?",,222070,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"You play yourself, whelp. Have no fear though, you will understand your place in time. Youth makes fools of us all.",,222071,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"You dare bring that outsider here. You insult Ohn'ahra, Balakar Khan! Step away from this path!",,222080,0,0,1,68,0,1,205761,0,0,0,0,0,0,0
+The Nokhud deserve the power of the storm! We will show the Maruuk how far they have fallen.,,222081,0,0,1,68,0,1,205762,0,0,0,0,0,0,0
+,"My khan, this interloper has no place amongst your Nokhud. We must cleanse ourselves of any weakness.",222082,0,0,1,68,0,1,0,205763,0,0,0,0,0,0
+,You treasured us all. May the seas find you as worthy as we do.,222302,0,0,0,38,0,6,0,205975,0,0,0,0,0,0
+,Look...,222303,0,0,0,38,0,6,0,205976,0,0,0,0,0,0
+,Gral himself has chosen Ponoliak! What a life!,222304,0,0,0,38,0,6,0,205977,0,0,0,0,0,0
+"I... forgive me, I don't understand.",,222305,0,0,0,38,0,6,201698,0,0,0,0,0,0,0
+How can you find such joy in the passing of family?,,222307,0,0,0,38,0,6,201699,0,0,0,0,0,0,0
+,"It is not that we are not sad for his passing, Kalec.",222308,0,0,0,38,0,6,0,205978,0,0,0,0,0,0
+,"But in celebrating his life, he shall remain with us forever.",222309,0,0,0,38,0,6,0,205979,0,0,0,0,0,0
+,"What better way to strengthen the bonds of the family that remains, than celebrating all who came before?",222310,0,0,0,38,0,6,0,205980,0,0,0,0,0,0
+"At long last, the Mistress of the Storm shall be free!",,222424,0,0,0,102,0,4,202474,0,0,0,0,0,0,0
+The order is given. Attack!,,222425,0,0,0,102,0,4,202468,0,0,0,0,0,0,0
+Ebon Scales! Strike as one!,,222426,0,0,0,102,0,4,202469,0,0,0,0,0,0,0
+,These cultists speak of unleashing a storm.,222427,0,0,0,102,0,4,0,202480,0,0,0,0,0,0
+"The threat is greater than you know, young ones.",,222428,0,0,0,102,0,4,202481,0,0,0,0,0,0,0
+,Why should we trust you?,222429,0,0,0,102,0,4,0,202483,0,0,0,0,0,0
+Neltharion?,,222430,0,0,0,102,0,4,202486,0,0,0,0,0,0,0
+It seems there is... much you do not know.,,222431,0,0,0,102,0,4,202487,0,0,0,0,0,0,0
+"I am Ebyssian, and this is Wrathion.",,222432,0,0,0,102,0,4,202488,0,0,0,0,0,0,0
+,This is our home.,222433,0,0,0,102,0,4,0,202491,0,0,0,0,0,0
+,"We will fight beside you, but you do not give the orders here, dragons.",222434,0,0,0,102,0,4,0,202493,0,0,0,0,0,0
+So be it.,,222435,0,0,0,102,0,4,202494,0,0,0,0,0,0,0
+Fine.,,222436,0,0,0,102,0,4,202495,0,0,0,0,0,0,0
+,A storm...,222685,0,0,0,102,0,6,0,204995,0,0,0,0,0,0
+,"Ah, Nozdormu. I am pleased that not all the Aspects have met a bitter end. Not yet.",222850,0,0,0,70,0,4,0,202525,0,0,0,0,0,0
+,Tell your queen I am coming for her. The storm's reckoning comes for you all!,222851,0,0,0,70,0,4,0,202526,0,0,0,0,0,0
+The release of Raszageth heralds great danger for this world. Just as your awakening heralds great change.,,222852,0,0,0,70,0,4,202527,0,0,0,0,0,0,0
+"The kingdoms of Azeroth must be warned. Go to them. Along the way, you may discover a new destiny of your own.",,222853,0,0,0,70,0,4,202528,0,0,0,0,0,0,0
+The primalists are attacking! Get our defenses back up and running.,,222915,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"The Azure Archives have a vast collection of magical items. I won't have much control over this, but surely something useful will come out!",,222949,0,0,0,68,0,4,201720,0,0,0,0,0,0,0
+"Nope, not that. Definitely not that.",,222950,0,0,0,68,0,4,201721,0,0,0,0,0,0,0
+Ugh... I'm losing connection! Come on!,,222951,0,0,0,68,0,4,201722,0,0,0,0,0,0,0
+Phew. I think this will do!,,222952,0,0,0,68,0,4,201723,0,0,0,0,0,0,0
+Oh my!,,222982,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"I need to fend off the primalists to the east. It may fall on you to aid Kalecgos, adventurer.",,223037,0,0,0,68,0,4,203592,0,0,0,0,0,0,0
+Fine work. Hold though... more primalists are coming!,,223039,0,0,0,68,0,4,203594,0,0,0,0,0,0,0
+Fall back! We'll set up defensive positions--,,223048,0,0,0,68,0,4,203596,0,0,0,0,0,0,0
+The Kirin Tor shall not fall to these monsters!,,223050,0,0,0,68,0,4,201705,0,0,0,0,0,0,0
+I must return to the archives. Send help when you can... the Azure Oathstone is proving difficult to reclaim.,,223067,0,0,0,68,0,4,201706,0,0,0,0,0,0,0
+Those shamans are tough! Use a charge or a blast to take them out!,,223206,0,0,0,68,0,4,201726,0,0,0,0,0,0,0
+,Just the reinforcements I needed!,223222,0,0,0,102,0,4,0,202383,0,0,0,0,0,0
+Show no mercy to these aberrations!,,223223,0,0,0,102,0,4,202389,0,0,0,0,0,0,0
+Can you bring down this barrier?,,223224,0,0,0,102,0,4,202381,0,0,0,0,0,0,0
+Raszageth!,,223540,0,0,0,70,0,4,202524,0,0,0,0,0,0,0
+,I am glad your daughter could hold onto her father's last gift. No magical research is worth that.,223790,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Last gift?,223791,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Guess who has a nice haul of fish from the gleamlet!,,223792,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,DAD! You've been gone forever!,223793,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+It's only been a few hours! And guess what... Ruriq made you another toy boat!,,223794,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,This one is WAY cooler than my old boat!,223795,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Toolk will be the most spoiled girl in all Iskaara if you keep this up!,223796,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Miva Star-Eye stares into the distance.,223797,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Arcane buildup detected. Source: nearby tauren.,,223798,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Soldiers of Stormwind, allow me to--",,224043,0,0,2,68,0,4,202335,0,0,0,0,0,0,0
+Wrathion! You were warned against making unannounced visits. Especially when you bring company.,,224044,0,0,0,68,0,4,202336,0,0,0,0,0,0,0
+"A thousand pardons, my dear spymaster, but I come bearing the tidings of the Dragon Aspects for Lord Commander Turalyon.",,224045,0,0,1,68,0,4,202337,0,0,0,0,0,0,0
+"As for the dracthyr, you have my word that they will cause no harm. They have come seeking refuge, not conflict.",,224046,0,0,1,68,0,4,202338,0,0,0,0,0,0,0
+"Their conduct will be on your head, Wrathion. The dracthyr have my leave to roam the city. But know this... SI:7 will be watching.",,224047,0,0,1,68,0,4,202339,0,0,0,0,0,0,0
+Let them pass!,,224048,0,0,1,68,0,4,202340,0,0,0,0,0,0,0
+,"Stand down, warriors of the Horde!",224049,0,0,0,68,0,4,0,202329,0,0,0,0,0,0
+,"Spiritwalker Ebonhorn! It is good to meet a familiar face at the city gate, even when accompanied by others that are... less familiar.",224050,0,0,1,68,0,4,0,202330,0,0,0,0,0,0
+"I am glad to find you well, Mayla. But I fear pleasantries will have to wait.",,224051,0,0,1,68,0,4,202331,0,0,0,0,0,0,0
+Events are unfolding that imperil us all. These dracthyr and I must speak with the Horde Council.,,224052,0,0,1,68,0,4,202332,0,0,0,0,0,0,0
+,"Then let us not linger. Follow me. Soldiers, return to your posts.",224053,0,0,0,68,0,4,0,202333,0,0,0,0,0,0
+,"If these newcomers have earned your trust, Spiritwalker, then they will have mine as well. The gates of Orgrimmar stand open to them.",224054,0,0,1,68,0,4,0,202334,0,0,0,0,0,0
+Hmph. Mortals...,,224098,0,0,0,68,0,4,202341,0,0,0,0,0,0,0
+"After that long flight, I need food. Something more filling than our dusty rations from the Reach.","After that long flight, I need food. Something more filling than our dusty rations from the Reach.",224173,0,0,6,68,0,4,0,0,0,0,0,0,0,0
+Let us see what this city holds for us.,Let us see what this city holds for us.,224174,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+We fear these Primalists seek to release something ancient... something terrible.,,224668,0,0,0,102,0,4,202482,0,0,0,0,0,0,0
+We will answer all your questions in time.,,224669,0,0,0,102,0,4,202489,0,0,0,0,0,0,0
+"But we must join forces and strike now, or the enemy will prevail.",,224670,0,0,0,102,0,4,202490,0,0,0,0,0,0,0
+,The dracthyr will defend it.,224671,0,0,0,102,0,4,0,202492,0,0,0,0,0,0
+,Were you sent by the Earth-Warder?,224672,0,0,0,102,0,4,0,202484,0,0,0,0,0,0
+,Where is Neltharion?,224673,0,0,0,102,0,4,0,202485,0,0,0,0,0,0
+But do try not to get in our way.,,224674,0,0,0,102,0,4,202496,0,0,0,0,0,0,0
+"After all, I know a thing or two about vanquishing ancient adversaries.",,224675,0,0,0,102,0,4,202497,0,0,0,0,0,0,0
+"I am well known among the heroes of the Alliance, my dear Azurathel.",,226110,0,0,0,102,0,4,202538,0,0,0,0,0,0,0
+"With my endorsement, I am certain they will welcome you into their ranks.",,226111,0,0,0,102,0,4,202539,0,0,0,0,0,0,0
+"The Obsidian Warders have trained relentlessly to protect our kin, Wrathion.",,226112,0,0,0,102,0,4,202540,0,0,0,0,0,0,0
+Let us see if the Alliance proves worthy of such loyalty.,,226113,0,0,0,102,0,4,202541,0,0,0,0,0,0,0
+Children of Neltharion.,,226114,0,0,0,102,0,4,202546,0,0,0,0,0,0,0
+You have awakened to face a shattered past... and an uncertain future.,,226115,0,0,0,102,0,4,202547,0,0,0,0,0,0,0
+Yet the threads of fate weave a new path to distant shores.,,226116,0,0,0,102,0,4,202548,0,0,0,0,0,0,0
+The Sands of Time will speed your wings along your way.,,226117,0,0,0,102,0,4,202549,0,0,0,0,0,0,0
+Tell the world of what you have witnessed.,,226118,0,0,0,102,0,4,202550,0,0,0,0,0,0,0
+And warn them of the storm to come.,,226119,0,0,0,102,0,4,202551,0,0,0,0,0,0,0
+"The Horde is full of brave, noble souls, Cindrethresh.",,226120,0,0,0,102,0,4,202542,0,0,0,0,0,0,0
+I am certain the dracthyr will find a place among them.,,226121,0,0,0,102,0,4,202543,0,0,0,0,0,0,0
+,"The Dark Talons are the finest fighters ever trained, Ebyssian.",226122,0,0,0,102,0,4,0,202544,0,0,0,0,0,0
+,Perhaps it is the Horde that needs to prove itself to us.,226123,0,0,0,102,0,4,0,202545,0,0,0,0,0,0
+,Woah!,226566,0,0,5,68,0,4,0,0,0,0,0,0,0,0
+,That's very kind of you. I think we have much more to discover here!,226567,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+,Wow! You got that Titan orb functioning! And it had a recording?!,226571,0,0,603,68,0,4,0,0,0,0,0,0,0,0
+And you have a knack for the arcane and mechanical. You're well versed in Titan artifacts.,,226575,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+,Yes! Your notes were invaluable. Thank you.,226578,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+No one takes to the sky like a Wildhammer. HERE COMES THE THUNDER!,,226747,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+For Aerie Peak!,,226748,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+What a race! I could get used to this dragon-ridin'.,,226749,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"I'd have beaten ye if I had my Sharpbeak with me. No offense, Scratchy.",,226750,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"At long last, our absent young are once more among us so that they can be raised together with all the flights.",227050,0,0,0,102,0,6,0,206191,0,0,0,0,0,0
+,"Though these Life Pools were once bereft of eggs, they now contain our future.",227052,0,0,0,102,0,6,0,206192,0,0,0,0,0,0
+,"Truly, the calling of my flight has been fulfilled.",227053,0,0,0,102,0,6,0,206193,0,0,0,0,0,0
+,I will see that these eggs are protected and loved.,227055,0,0,0,102,10000,6,0,206194,0,0,0,0,0,0
+,"So that they may hatch into dragons, strong and wise.",227056,0,0,0,102,10000,6,0,206195,0,0,0,0,0,0
+The Maruuk centaur include many individual clans across the plains.,,227080,0,0,1,68,0,1,205859,0,0,0,0,0,0,0
+"There are four of us who hold the most power: Clans Teerai, Shikaar, Nokhud, and Ohn'ir.",,227081,0,0,0,68,0,1,205907,0,0,0,0,0,0,0
+"Clan Teerai are the keepers of our traditions. Their leader, the Khanam Matra, is the cultural khan of all Maruuk. All khanam matras can trace their bloodlines back to our first matriarch, Teera.",,227082,0,0,0,68,0,1,205908,0,0,0,0,0,0,0
+"We of Clan Shikaar are the strongest hunters. You can find our camps spread throughout the plains, following the patterns of wildlife and game.",,227083,0,0,0,68,0,1,205906,0,0,0,0,0,0,0
+,"Clan Nokhud has recently come to power. A generation ago, Jhakan Khan led his people to defeat Clan Toghus, taking their place of power amongst the plains.",227084,0,0,0,68,0,1,0,205910,0,0,0,0,0,0
+,"His son, Balakar Khan, now leads this clan. His father was a man of honor, but Balakar Khan did not inherit his father's patience or wisdom.",227085,0,0,0,68,0,1,0,205913,0,0,0,0,0,0
+,"My clan, Clan Ohn'ir, is made up of those who feel a direct connection to our god, Ohn'ahra. She guided our founders, Maruuk and Teera, to the Dragon Isles, and she has watched over our people ever since.",227086,0,0,0,68,0,1,0,205914,0,0,0,0,0,0
+,"The mystics of Clan Ohn'ir are initiated from many different clans, but we all followed Ohn'ahra's call to serve her and our people.",227087,0,0,0,68,0,1,0,205915,0,0,0,0,0,0
+"The clans have our differences, but we share one culture. No matter our strengths and weaknesses, we are all Maruuk.",,227088,0,0,0,68,0,1,205916,0,0,0,0,0,0,0
+Sabellian? What is he doing?,,227396,0,0,0,102,0,6,204476,0,0,0,0,0,0,0
+,Okay everyone!,227459,0,0,0,102,0,6,0,206153,0,0,0,0,0,0
+,Get ready!,227460,0,0,0,102,0,6,0,206154,0,0,0,0,0,0
+,<Grunts in surprise.>,227461,0,0,0,102,0,6,0,206753,0,0,0,0,0,0
+,Oh no you don't!,227462,0,0,0,102,0,6,0,206155,0,0,0,0,0,0
+My vision came too  late.,,227463,0,0,0,102,0,6,206754,0,0,0,0,0,0,0
+They have punched a tunnel through time and are tumbling endlessly amongst the infinite possibilities.,,227464,0,0,0,102,0,6,206755,0,0,0,0,0,0,0
+You must find them and correct their course before the entire fabric of reality is torn asunder.,,227465,0,0,0,102,0,6,206756,0,0,0,0,0,0,0
+"We secured the Azure Archives, but Razageth's storm remains enveloped around Vakthros Tower.",,227467,0,0,0,38,0,6,207008,0,0,0,0,0,0,0
+,"She seeks to free her kin, but their prison does not lie within the Azure Span.",227468,0,0,0,38,0,6,0,207009,0,0,0,0,0,0
+,What else could she be after?,227469,0,0,0,38,0,6,0,207010,0,0,0,0,0,0
+My vision... remains clouded.,,227470,0,0,0,38,0,6,207011,0,0,0,0,0,0,0
+"The Primalists could already be moving in our midst, and I fear I would not see it.",,227471,0,0,0,38,0,6,207012,0,0,0,0,0,0,0
+The city must be protected.,,227472,0,0,0,38,0,6,207013,0,0,0,0,0,0,0
+Valdrakken is our people's home.,,227473,0,0,0,38,0,6,207014,0,0,0,0,0,0,0
+,"If the Primalists are here, we must find them and flush them out.",227474,0,0,0,38,0,6,0,207015,0,0,0,0,0,0
+,They cannot be allowed to infiltrate our seat of power.,227475,0,0,0,38,0,6,0,207016,0,0,0,0,0,0
+"Your guards did not join to our ranks as expected, Eranog.",,227477,0,0,0,38,0,6,206174,0,0,0,0,0,0,0
+I am not concerned. Dead soldiers cannot get in your way.,,227478,0,0,0,38,0,6,206175,0,0,0,0,0,0,0
+I see you have unearthed the flame stone.,,227482,0,0,0,38,0,6,206176,0,0,0,0,0,0,0
+I can sense its strength.,,227485,0,0,0,38,0,6,206177,0,0,0,0,0,0,0
+It is now time for your end of this bargain.,,227494,0,0,0,38,0,6,206178,0,0,0,0,0,0,0
+<shouts loudly in pain>,,227497,0,0,0,38,0,6,206179,0,0,0,0,0,0,0
+Arise.,,227501,0,0,0,38,0,6,206180,0,0,0,0,0,0,0
+Primalist Eranog.,,227503,0,0,0,38,0,6,206181,0,0,0,0,0,0,0
+I pledge this power to free my kind from the leash of the Aspects.,,227504,0,0,0,38,0,6,206182,0,0,0,0,0,0,0
+"Then go, while I turn this wretched titan-stained place into ashes.",,227505,0,0,0,38,0,6,206183,0,0,0,0,0,0,0
+,We're almost done!,227639,0,0,0,102,0,6,0,206147,0,0,0,0,0,0
+,We'll be back soon!,227640,0,0,0,102,0,6,0,206148,0,0,0,0,0,0
+,Brace yourselves.,227641,0,0,0,102,0,6,0,207030,0,0,0,0,0,0
+,Whew! Our Oathstone... it's restored!,227642,0,0,0,102,0,6,0,206149,0,0,0,0,0,0
+,I never want to go so far into the past again!,227643,0,0,0,102,0,6,0,206151,0,0,0,0,0,0
+,But I'm glad I had some help getting back!,227644,0,0,0,102,0,6,0,206152,0,0,0,0,0,0
+You have aided Chronormu.,,227645,0,0,0,102,0,6,207031,0,0,0,0,0,0,0
+"For that, I am grateful and will spare you my wrath.",,227646,0,0,0,102,0,6,207032,0,0,0,0,0,0,0
+But leave.,,227647,0,0,0,102,0,6,207033,0,0,0,0,0,0,0
+Quickly.,,227648,0,0,0,102,0,6,207034,0,0,0,0,0,0,0
+,We will bring you to your ultimate fate.,227649,0,0,0,102,0,6,0,207035,0,0,0,0,0,0
+,You cannot deny what is to come.,227650,0,0,0,102,0,6,0,207036,0,0,0,0,0,0
+,"When we meet again, do not expect clemency for what has transpired.",227651,0,0,0,102,0,6,0,207037,0,0,0,0,0,0
+,Ummm... Where are we?,227653,0,0,0,38,0,6,0,206196,0,0,0,0,0,0
+,Is this even Azeroth?,227654,0,0,0,38,0,6,0,206197,0,0,0,0,0,0
+It is Azeroth.,,227655,0,0,0,38,0,6,206200,0,0,0,0,0,0,0
+"Though, an exceptionally long time ago.",,227656,0,0,0,38,0,6,206201,0,0,0,0,0,0,0
+,We should find Chromie and get out of here.,227657,0,0,0,38,0,6,0,206198,0,0,0,0,0,0
+,This place is scary.,227658,0,0,0,38,0,6,0,206199,0,0,0,0,0,0
+"Let the storm envelop you, windsage.",,227880,0,0,1,68,0,1,206956,0,0,0,0,0,0,0
+Mother!,,227973,0,0,0,38,0,4,204133,0,0,0,0,0,0,0
+,"With the oathstones of each flight renewed, I believe we can channel the essence of each into the Mother Oathstone and restore our Aspectral powers.",228402,0,0,0,102,0,6,0,207079,0,0,0,0,0,0
+,"This sacred artifact, and symbol of the unity of dragonkind, lies within Tyrhold.",228403,0,0,0,102,0,6,0,207080,0,0,0,0,0,0
+,"Koranos, what can you tell us of it?",228404,0,0,0,102,0,6,0,207082,0,0,0,0,0,0
+,It has been many centuries since we last walked the halls of Tyr's stronghold.,228405,0,0,0,102,0,6,0,207081,0,0,0,0,0,0
+"When the Isles awakened, so too, did the guardians of Tyrhold.",,228406,0,0,0,102,0,6,207083,0,0,0,0,0,0,0
+"While some of have resumed their duties, others have taken to acting... erratically.",,228407,0,0,0,102,0,6,207084,0,0,0,0,0,0,0
+"Should you go there, I cannot guarantee the greeting you will receive.",,228408,0,0,0,102,0,6,207085,0,0,0,0,0,0,0
+,I understand.,228409,0,0,0,102,0,6,0,207086,0,0,0,0,0,0
+,"However, I have faith that with the help of our champion, we can overcome any danger.",228410,0,0,0,102,0,6,0,207087,0,0,0,0,0,0
+,What has happened to this egg?,228411,0,0,0,70,0,6,0,206762,0,0,0,0,0,0
+,The energies that surround it are...,228412,0,0,0,70,0,6,0,206763,0,0,0,0,0,0
+,This is dire.,228413,0,0,0,70,0,6,0,206764,0,0,0,0,0,0
+,"If the egg can be saved, it will be here, within the sacred waters of the Life Pools.",228414,0,0,0,70,0,6,0,206765,0,0,0,0,0,0
+,Once the young of dragonkind filled this vibrant place.,228415,0,0,0,70,0,6,0,206766,0,0,0,0,0,0
+,"And the Ruby Oathstone, the very symbol of our calling, cast its bright glow high into the air for all to see.",228416,0,0,0,70,0,6,0,206767,0,0,0,0,0,0
+,"Now it lies dormant, as do all the oathstones.",228417,0,0,0,70,0,6,0,206768,0,0,0,0,0,0
+,I suspect they fell quiet when we relinquished our Aspectral power.,228418,0,0,0,70,0,6,0,206769,0,0,0,0,0,0
+,There are so many things we left behind.,228419,0,0,0,70,0,6,0,206770,0,0,0,0,0,0
+,"But now that we have come home, we can fulfill the callings of our flights and renew the five oathstones.",228420,0,0,0,70,0,6,0,206771,0,0,0,0,0,0
+,"And through their unity, our absent power shall be restored.",228422,0,0,0,70,0,6,0,206772,0,0,0,0,0,0
+,"I, the Khanam Matra Sarest, accept this gift to honor the ancient oath made by our most sacred ancestor.",228426,0,0,0,102,0,4,0,206921,0,0,0,0,0,0
+,All centaur under Ohn'ahra's wings will aid the green dragonflight in times of need.,228427,0,0,0,102,0,4,0,206922,0,0,0,0,0,0
+,"And I, Merithra, daughter of Ysera, accept this gift to honor my mother's oath to your ancestor Teera.",228428,0,0,0,102,0,4,0,205427,0,0,0,0,0,0
+,"Together, dragons and centaur will protect the Ohn'ahran Plains.",228429,0,0,0,102,0,4,0,205428,0,0,0,0,0,0
+,The bond that united us in ages past has been renewed.,228430,0,0,0,102,0,4,0,205429,0,0,0,0,0,0
+,"Should the Dream be threatened again, know that the Maruuk will fight beside you.",228431,0,0,0,102,0,4,0,206923,0,0,0,0,0,0
+,Let this oathstone serve as a symbol of our covenant.,228432,0,0,0,102,0,4,0,205430,0,0,0,0,0,0
+,"I vow to protect the Emerald Dream, and the green dragonflight, with my life.",228433,0,0,0,102,0,4,0,205431,0,0,0,0,0,0
+"Behold, Stormwind!",,228436,0,0,0,38,0,4,205046,0,0,0,0,0,0,0
+Capital of the human kingdom and crown jewel of the Alliance.,,228437,0,0,0,38,0,4,205047,0,0,0,0,0,0,0
+"Ruled by a dear, dear friend who is...",,228438,0,0,0,38,0,4,205048,0,0,0,0,0,0,0
+...sadly absent.,,228439,0,0,0,38,0,4,205049,0,0,0,0,0,0,0
+Impressive walls.,,228440,0,0,0,102,0,4,205050,0,0,0,0,0,0,0
+This city could withstand attack by a formidable adversary.,,228441,0,0,0,102,0,4,205051,0,0,0,0,0,0,0
+Perhaps even a dragon.,,228442,0,0,0,102,0,4,205052,0,0,0,0,0,0,0
+You have no idea.,,228443,0,0,0,38,0,4,205053,0,0,0,0,0,0,0
+"Now then, to make a proper entrance, pardon me while I assume a more recognizable form.",,228444,0,0,0,38,0,4,205054,0,0,0,0,0,0,0
+"Ah, yes. The Earth-Warder too had a visage.",,228445,0,0,0,102,0,4,205055,0,0,0,0,0,0,0
+So these... humans know you?,,228446,0,0,0,102,0,4,205056,0,0,0,0,0,0,0
+Indeed! I have no doubt they will welcome me with open...,,228447,0,0,0,38,0,4,205057,0,0,0,0,0,0,0
+...arms.,,228448,0,0,0,38,0,4,205058,0,0,0,0,0,0,0
+Orgrimmar.,,228464,0,0,0,38,0,4,205103,0,0,0,0,0,0,0
+Within these walls gather the noble races of the Horde.,,228465,0,0,0,38,0,4,205104,0,0,0,0,0,0,0
+A city built upon a foundation of strength and honor.,,228466,0,0,0,38,0,4,205105,0,0,0,0,0,0,0
+,Traits my people embody as well.,228467,0,0,0,38,0,4,0,205106,0,0,0,0,0,0
+,Impressive structure.,228468,0,0,0,38,0,4,0,205107,0,0,0,0,0,0
+,But nothing that would hold back the might of the Dark Talons.,228469,0,0,0,38,0,4,0,205108,0,0,0,0,0,0
+I have no doubt your soldiers will be given many chances to prove themselves.,,228470,0,0,0,38,0,4,205109,0,0,0,0,0,0,0
+"Before we enter, I will assume another form.",,228471,0,0,0,38,0,4,205110,0,0,0,0,0,0,0
+One that is more recognizable to the Horde.,,228472,0,0,0,38,0,4,205111,0,0,0,0,0,0,0
+,"A visage. Yes, I remember the Earth-Warder had one too.",228474,0,0,0,38,0,4,0,205112,0,0,0,0,0,0
+,"Well, we have arrived. Where are your allies, Ebyssian?",228475,0,0,0,38,0,4,0,205113,0,0,0,0,0,0
+"Patience, Cindrethresh.",,228476,0,0,0,38,0,4,205114,0,0,0,0,0,0,0
+I am sure we will receive an appropriate...,,228477,0,0,0,38,0,4,205115,0,0,0,0,0,0,0
+...welcome.,,228478,0,0,0,38,0,4,205116,0,0,0,0,0,0,0
+,"Walk with us, $n. We have many stories to share.",228562,0,0,1,68,0,1,0,205862,0,0,0,0,0,0
+,"Two-foot, you've fought many foes in your time, yes? You will have to share some stories.",228563,0,0,1,68,0,1,0,205863,0,0,0,0,0,0
+,"Have I ever shared the tale of Belika, my first kill? A mighty hornstrider with horns as tall as its legs were long! I keep its horn as a trophy.",228571,0,0,0,68,0,1,0,205886,0,0,0,0,0,0
+"It was a good kill, Tomul. My first was a mighty bear of ice and snow, deep in the frozen tundra of the Azure Span. My bakar and I knew no equals then. We were the talk of the following Khural!",,228572,0,0,0,68,0,1,205887,0,0,0,0,0,0,0
+"The Horn of Drusahl will be visible once we cross the bridge. You must see it, two-foot!",,228575,0,0,4,68,0,1,205889,0,0,0,0,0,0,0
+"Ah, yes. The horn represents the ancient pact formed by Teera and a green dragon named Merithra. Their friendship ended a long enmity between dragons and Maruuk.",,228576,0,0,0,68,0,1,205890,0,0,0,0,0,0,0
+"Afterward, the centaur hunted the plains, and the dragons tended the gardens. But they agreed to help one another in times of need. The Horn of Drusahl was built as a physical manifestation of their oath.",,228577,0,0,0,68,0,1,205896,0,0,0,0,0,0,0
+,"But then, the dragons left. And after ten thousand years, they return to these lands! I am interested to hear what the Khanam Matra says about that.",228578,0,0,0,68,0,1,0,205897,0,0,0,0,0,0
+,"We are guided by Ohn'ahra, Tomul. It was she who granted us these lands, who arbitrated with the dragons. She knows the way.",228579,0,0,0,68,0,1,0,205899,0,0,0,0,0,0
+,"Ohn'ahra, the Skymother, ancestor of all ohuna. She who led our founders, Maruuk and Teera, to the plains. My clanmates interpret her songs to advise our people.",228580,0,0,0,68,0,1,0,205898,0,0,0,0,0,0
+,Hold! I hear her call. Ohn'ahra will sing to me here.,228581,0,0,0,68,0,1,0,205901,0,0,0,0,0,0
+Maruukai is just ahead. It is a grand and sacred meeting place. Centaur from all around the plains gather there.,,228582,0,0,0,68,0,1,205902,0,0,0,0,0,0,0
+"Each season we meet for the Khural, a time of truce and communion. Clans large and small come together, sharing our resources and our stories.",,228583,0,0,0,68,0,1,205903,0,0,0,0,0,0,0
+,I do look forward to reconnecting to my peers. Perhaps Tigari Khan can help me decipher this omen from the river.,228584,0,0,0,68,0,1,0,205904,0,0,0,0,0,0
+,I am going to avoid the Nokhud. They antagonize everybody at these things.,228585,0,0,0,68,0,1,0,205905,0,0,0,0,0,0
+The rest of the Shikaar should have already arrived from the other camps. Our rise should be well settled by the time we arrive.,,228586,0,0,0,68,0,1,205711,0,0,0,0,0,0,0
+"It seems the other clans beat us here. Between our outsider and the green dragon emissary, this should be a Khural to remember.",,228587,0,0,0,68,0,1,205710,0,0,0,0,0,0,0
+,"Dark Talons, fall in!",228712,0,0,0,102,0,4,0,205330,0,0,0,0,0,0
+,"Lead the way, Ebyssian.",228713,0,0,0,102,0,4,0,205332,0,0,0,0,0,0
+,The Warders will follow Wrathion.,228715,0,0,0,102,0,4,0,205333,0,0,0,0,0,0
+,Thank goodness.,228725,0,0,0,102,0,6,0,206150,0,0,0,0,0,0
+,We have to leave the Reach.,228736,0,0,0,102,0,4,0,205331,0,0,0,0,0,0
+,Now!,228758,0,0,0,38,0,4,0,206919,0,0,0,0,0,0
+,Let the winds carry us onward! The Emerald Gardens will fall!,228759,0,0,0,38,0,4,0,206920,0,0,0,0,0,0
+"Ah, young Wrathion. I owe you my thanks--",,228936,0,0,0,38,0,6,206247,0,0,0,0,0,0,0
+Your help was invaluable in securing my rightful place on the Obsidian Throne.,,228937,0,0,0,38,0,6,206248,0,0,0,0,0,0,0
+"Oh... I believe you are mistaken--this throne, this legacy--is my birthright.",,228938,0,0,0,38,0,6,206251,0,0,0,0,0,0,0
+No. The mistake is yours. I was anointed caretaker of this flight by Neltharion himself.,,228939,0,0,0,38,0,6,206249,0,0,0,0,0,0,0
+"So let me be clear... when all is said and done, I will be the Aspect of the black dragonflight.",,228940,0,0,0,38,0,6,206250,0,0,0,0,0,0,0
+Is that so? May the worthiest dragon win.,,228943,0,0,0,38,0,6,206252,0,0,0,0,0,0,0
+,Halt!,229009,0,0,0,38,0,4,0,206914,0,0,0,0,0,0
+Get away from... do not...,,229010,0,0,0,38,0,4,206915,0,0,0,0,0,0,0
+,Is this what passes for a mystic of the Maruuk?,229011,0,0,0,38,0,4,0,206916,0,0,0,0,0,0
+,"Ysera, your flight needs you.",229012,0,0,0,38,0,6,0,206324,0,0,0,0,0,0
+,We need you.,229013,0,0,0,38,0,6,0,206325,0,0,0,0,0,0
+,"Whatever the price may be for your return to Azeroth, name it.",229014,0,0,0,38,0,6,0,206326,0,0,0,0,0,0
+Tyrande...,,229015,0,0,0,38,0,6,206327,0,0,0,0,0,0,0
+Ohn...ahra... I am sorry.,,229016,0,0,0,38,0,4,206917,0,0,0,0,0,0,0
+,Tell us!,229017,0,0,0,38,0,6,0,206328,0,0,0,0,0,0
+It's me.,,229018,0,0,0,38,0,6,206329,0,0,0,0,0,0,0
+I must be the one to stay.,,229019,0,0,0,38,0,6,206330,0,0,0,0,0,0,0
+,What?,229020,0,0,0,38,0,6,0,206331,0,0,0,0,0,0
+Ysera knows this -- though she would never ask it of me.,,229021,0,0,0,38,0,6,206332,0,0,0,0,0,0,0
+,No.,229022,0,0,0,38,0,6,0,206333,0,0,0,0,0,0
+,Pathetic.,229023,0,0,0,38,0,4,0,206918,0,0,0,0,0,0
+,We will find another way.,229024,0,0,0,38,0,6,0,206334,0,0,0,0,0,0
+"When she gave her life for mine in Val'sharah, it was not her time.",,229025,0,0,0,38,0,6,206335,0,0,0,0,0,0,0
+And now... the balance may be restored.,,229026,0,0,0,38,0,6,206336,0,0,0,0,0,0,0
+,Then... then I will stay as well.,229027,0,0,0,38,0,6,0,206337,0,0,0,0,0,0
+,Shandris and the others can...,229028,0,0,0,38,0,6,0,206338,0,0,0,0,0,0
+Tyrande...,,229029,0,0,0,38,0,6,206339,0,0,0,0,0,0,0
+"Should everything we hope come to pass, the Kaldorei will need you.",,229030,0,0,0,38,0,6,206340,0,0,0,0,0,0,0
+,"I am so tired, Malfurion.",229031,0,0,0,38,0,6,0,206341,0,0,0,0,0,0
+,Do not ask this of me.,229032,0,0,0,38,0,6,0,206342,0,0,0,0,0,0
+,After everything we have endured...,229033,0,0,0,38,0,6,0,206343,0,0,0,0,0,0
+My love.,,229034,0,0,0,38,0,6,206344,0,0,0,0,0,0,0
+You have always been the strength of our people.,,229035,0,0,0,38,0,6,206345,0,0,0,0,0,0,0
+"They will follow you ever onward, and you will never be alone.",,229037,0,0,0,38,0,6,206346,0,0,0,0,0,0,0
+,Until I see you again...,229038,0,0,0,38,0,6,0,206347,0,0,0,0,0,0
+,I will dream of the night we may truly rest... together.,229039,0,0,0,38,0,6,0,206348,0,0,0,0,0,0
+,"The Maruuk, too, have been plagued by these Primalists.",229043,0,0,0,38,0,4,0,206901,0,0,0,0,0,0
+,"If Ohn...ahra wills it, I will blow the Horn of Drusahl on the morrow to signal our accord with the green dragonflight",229046,0,0,0,38,0,4,0,206903,0,0,0,0,0,0
+,"Merithra, daughter of Ysera, is grateful for your...",229047,0,0,0,38,0,4,0,206905,0,0,0,0,0,0
+Grateful? Ha! Dragons only respect dragons.,,229054,0,0,0,38,0,4,206906,0,0,0,0,0,0,0
+No Maruuk blood will be spilled for them.,,229057,0,0,0,38,0,4,206907,0,0,0,0,0,0,0
+,"You are not the Khanam Matra, Balakar.",229059,0,0,0,38,0,4,0,206908,0,0,0,0,0,0
+A true leader would never surrender this land to outsiders.,,229061,0,0,0,38,0,4,206909,0,0,0,0,0,0,0
+"You desecrate the memory of Maruuk Thousandbones, Sarest.",,229062,0,0,0,38,0,4,206910,0,0,0,0,0,0,0
+,I speak with the voice of our ancestors! The Nokhud will stand down!,229063,0,0,0,38,0,4,0,206911,0,0,0,0,0,0
+No. These plains belong to the Maruuk.,,229065,0,0,0,38,0,4,206912,0,0,0,0,0,0,0
+And Maruukai belongs to the Nokhud!,,229066,0,0,0,38,0,4,206913,0,0,0,0,0,0,0
+I... hope that worked. I need my flight.,,229178,0,0,0,38,0,6,206680,0,0,0,0,0,0,0
+,We will see in due time.,229181,0,0,0,38,0,6,0,206681,0,0,0,0,0,0
+Khadgar--what's happened?,,229184,0,0,0,38,0,6,206682,0,0,0,0,0,0,0
+The Primalists are on the move!,,229185,0,0,0,38,0,6,206683,0,0,0,0,0,0,0
+It seems we did far too well at stymieing their efforts at Vakthros.,,229186,0,0,0,38,0,6,206684,0,0,0,0,0,0,0
+Razageth has renewed the attack herself!,,229187,0,0,0,38,0,6,206685,0,0,0,0,0,0,0
+,"If Vakthros falls, the whole of the Azure Span will fall with it.",229188,0,0,0,38,0,6,0,206686,0,0,0,0,0,0
+"Quickly then! We must stop her, before all is lost!",,229189,0,0,0,38,0,6,206687,0,0,0,0,0,0,0
+Hopefully we won't have to face her alone.,,229190,0,0,0,38,0,6,206688,0,0,0,0,0,0,0
+,Let us face this enemy together.,229358,0,0,0,38,0,4,0,206904,0,0,0,0,0,0

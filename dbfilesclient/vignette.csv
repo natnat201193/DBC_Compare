@@ -3823,7 +3823,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4345,Abandoned Stockpile,85557,61006,88,0,0,0,0,0,0
 4346,Stolen Equipment,0,61044,88,0,0,0,0,0,0
 4347,Greedstone,82060,61045,613,1090,0,0,3,0,0
-4348,Greed's Reward,81861,61045,613,1090,0,0,3,0,0
+4348,Greed's Reward,81861,61045,613,0,0,0,3,0,0
 4349,Xixin the Ravening,86130,61046,89,4,0,0,0,0,0
 4350,Worldfeaster Chronn,86130,61047,92,4,0,0,0,0,0
 4351,Lost Disciple's Notes,0,61048,88,0,0,0,0,0,0
@@ -3953,7 +3953,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4479,Ember Court: Mystery Mirrors,84558,0,716,9794,0,0,0,0,0
 4480,Dredterror Ballista,79250,59612,89,0,0,0,0,0,0
 4481,Horn of Courage,79244,60314,89,0,0,0,0,0,0
-4482,Greed's Desire,81861,61646,613,1090,0,0,3,0,0
+4482,Greed's Desire,81861,61646,613,0,0,0,3,0,0
 4483,Greater Greedstone,84188,61646,613,0,0,0,3,0,0
 4484,Chosen Runecoffer,79257,61647,613,0,0,0,3,0,0
 4485,Penitence of Purity,79245,61688,613,0,0,0,3,0,0
@@ -4057,6 +4057,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4583,Gateway to Hero's Rest,49081,0,744,2,0,0,0,0,0
 4584,Sinstone Fragments,88504,63090,88,0,0,0,0,0,0
 4585,Malevolent Death,87613,0,561,1028,0,0,0,0,0
+4586,Supplies,86834,0,458,1024,0,0,0,0,0
 4590,Zo'Sorg's Hidden Treasure,0,0,613,1024,0,0,3,0,0
 4591,Rendle and Cudgelface,81422,0,747,1602,0,0,0,0,418
 4592,Kleia and Pelagos,81422,0,748,1602,0,0,0,0,421
@@ -4153,7 +4154,14 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4688,Bounding Shroom,82029,0,619,1094,0,0,0,0,487
 4689,Escaped Gormling,89451,0,668,1091,0,0,0,0,487
 4690,Enchanted Crate,82038,0,619,1094,0,0,0,0,487
+4691,Tuskarr Construction Site,89456,0,781,0,0,0,0,0,0
 4692,Adamant Vaults,0,0,588,66,0,0,0,0,0
+4693,Fishing Dock,89456,0,781,0,0,0,0,0,0
+4694,Fishing Dock,89456,0,782,66,0,0,0,0,0
+4695,Wood Bundle,89529,0,783,0,0,0,0,0,0
+4696,Coiled Rope,89530,0,783,0,0,0,0,0,0
+4697,Fishing Gear,89531,0,783,0,0,0,0,0,0
+4705,Prisoner Cages,89456,0,791,0,0,0,0,0,0
 4706,Stygia Convergence,89665,0,792,12,0,0,0,0,0
 4707,Stray Soul,89706,0,794,1036,0,0,0,0,0
 4708,Timealking Vendor,0,0,795,1090,0,0,0,0,0
@@ -4327,14 +4335,25 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4884,Uncorrupted Razorwing Egg,92591,64455,89,0,100,-100,0,0,0
 4885,Devouring Tear,92591,64246,89,1094,200,-200,0,0,0
 4886,Mawsworn Portal,92591,64245,89,1094,200,-200,0,0,0
+4887,Enchanted Surfboard,92658,64580,89,1024,30,-60,0,0,0
+4888,Restless Wave,92659,64580,89,1028,30,-60,0,0,0
+4889,Sunken Treasure Chest,0,64580,613,1028,30,-60,0,0,0
 4890,Protector of the First Ones,95375,64668,853,0,0,0,0,0,0
 4891,Damaged Jiro Stash,0,64667,613,0,50,-50,0,0,0
 4892,Destabilized Core,0,64716,89,0,0,0,0,0,0
 4893,Garudeon,95375,64719,853,0,30,-60,0,0,0
 4894,Overseer's Reserve,0,64721,88,0,0,0,0,0,0
+4895,Obisidian Commander's Tent,89456,0,781,0,0,0,0,0,0
+4896,Obisidian Siege Forge,89456,0,781,0,0,0,0,0,0
+4897,Obisidian Challenge,89456,0,781,0,0,0,0,0,0
+4898,Djaradin Summoning Ritual,89456,0,827,0,0,0,0,0,0
 4899,Colossal Aurelid,0,64740,89,0,0,0,0,0,0
+4900,Rock Climber's Camp,89456,0,781,0,0,0,0,0,0
+4902,Teleport Tether,89456,0,781,0,0,0,0,0,0
 4903,Tethos,0,65550,853,1122,0,0,0,0,0
+4904,Stormspine,93321,64859,89,32,30,-30,0,0,0
 4905,Collected Concordances,0,0,828,0,0,0,0,0,0
+4906,Shimmermaw,93464,64971,89,32,30,-30,0,0,0
 4907,Lost Scroll,0,65043,613,0,30,-30,0,0,0
 4908,Shifting Sand,0,65044,613,0,30,-30,0,0,0
 4909,General Zarathura,0,65583,853,1122,0,0,0,0,0
@@ -4365,6 +4384,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4944,OOX-Fleetfoot/MG,69984,55515,89,1028,30,-60,0,0,0
 4945,Corrupted Architect,95375,65273,853,0,0,0,0,0,0
 4946,Ancient Translocator,0,0,841,0,0,0,0,0,0
+4947,Zip Line Camp,89456,0,781,0,0,0,0,0,0
 4948,Chitali the Eldest,0,65553,853,1122,0,0,0,0,0
 4949,Furidian,0,65544,92,0,0,0,0,0,0
 4950,Helmix,0,65551,89,0,0,0,0,0,0
@@ -4372,10 +4392,14 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 4952,Reanimatrox Marzan,0,65587,853,1090,0,0,0,0,0
 4953,"Rhuv, Gorger of Ruin",0,65706,853,1090,0,0,0,0,0
 4954,Perceptive Pocopoc,94583,0,828,4,30,-60,3,0,0
+4955,Frostwing's Fate,94604,0,93,1090,0,0,0,0,0
 4956,Felbound Enforcer,94665,0,106,5186,0,0,0,0,0
+4957,Wild Water Whirlwind,0,56051,89,1026,0,0,0,0,307
+4958,The Weeping Vilomah,0,65365,89,0,0,0,0,0,0
 4959,Shifting Stargorger,0,65549,853,0,0,0,0,0,0
 4960,Faulty Architect,0,65554,92,0,0,0,0,0,0
 4961,Euv'ouk,0,65555,853,1122,0,0,0,0,0
+4962,Talon-Scarred Satchel,0,65369,88,0,0,0,0,0,0
 4963,Protoform Schematic,0,65440,613,0,30,-30,0,0,0
 4964,Mawsworn Cache,0,65441,613,0,30,-30,0,0,0
 4965,Stolen Relic,0,65447,613,0,60,-60,0,0,0
@@ -4416,11 +4440,15 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5001,Undulating Foliage,0,65572,613,0,30,-70,0,0,0
 5002,Bushel of Progenitor Produce,0,65573,613,0,30,-70,0,0,0
 5003,Rondure Cache,95462,65532,88,0,50,-50,0,0,0
+5004,Merl,95476,65599,89,2,0,0,0,0,0
+5005,Rock Climbing Camp,92647,64768,856,1602,200,-200,0,0,0
 5006,Sandworn Chest,0,65611,766,0,30,-30,0,0,0
 5007,Enhancement Console,95838,0,860,512,0,0,0,0,0
+5011,Fishing Shack,95476,0,781,0,0,0,0,0,0
 5013,Prototype Schematic,95662,65651,613,0,30,-30,0,0,0
 5014,Pulp-Covered Relic,95666,65501,613,0,30,-30,0,0,0
 5015,Pulp-Covered Relic,0,65501,613,16384,30,-30,0,0,0
+5016,Cataloger's Camp,89456,0,781,0,0,0,0,0,0
 5018,Submerged Chest,0,64545,613,0,60,-60,0,0,0
 5019,Torn Ethereal Drape,0,65643,88,0,50,-50,0,0,0
 5020,Enhancement Console,93716,0,863,0,0,0,0,0,0
@@ -4435,4 +4463,333 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5029,"Firim in Exile, Part 6",0,65745,126,0,0,0,3,0,0
 5030,"Firim in Exile, Part 7",0,65746,126,0,0,0,3,0,0
 5031,"Firim in Exile, Epilogue",0,65747,126,0,0,0,3,0,0
+5032,Spiritwalker Vision,0,65786,88,32,30,-30,0,0,0
+5033,Spiritwalker Vision,0,65787,88,32,30,-30,0,0,0
+5034,Supply Stash,0,65797,88,0,0,0,0,0,0
+5035,Bugchewer,0,65799,89,0,0,0,0,0,0
+5036,Dracthyr Treasure,0,65835,88,0,0,0,0,0,0
+5039,Sootscale the Indomitable,0,65843,89,0,0,0,0,0,0
 5040,Portal,96205,0,132,0,0,0,0,0,0
+5041,Suspicious Bottle,0,65908,88,0,30,-30,0,0,0
+5042,Bag of Enchanted Winds,0,65909,88,0,30,-30,0,0,0
+5043,Tripletath the Lost,0,65910,89,32,30,-30,0,0,0
+5044,Harkyn Grymstone,0,70213,902,1090,0,0,0,0,0
+5045,Rockcrush,0,65941,902,1090,0,0,0,0,0
+5046,FullSails Supply Chest,96319,65965,88,0,15,-30,0,0,0
+5047,Galgresh,0,66004,902,1090,0,0,0,0,0
+5048,Locked Library,96343,66010,88,32,30,-30,0,0,0
+5049,Gorbo the Usurper,0,0,0,0,0,0,0,0,0
+5050,Cascade,0,66046,89,0,0,0,0,0,0
+5051,His Fuzziness,0,0,89,0,0,0,0,0,0
+5052,Treasure Chest,0,0,613,0,0,0,0,0,0
+5053,Secret Gorloc Treasure Abalone,0,0,0,0,0,0,0,0,0
+5054,Rock Climbing Camp,96429,66070,856,1602,200,-200,0,0,0
+5055,Primal Scythid Queen,0,66074,89,1060,0,0,0,0,0
+5056,Ga'ree,0,66075,88,0,0,0,0,0,0
+5057,Ancient Hornswog,0,66076,89,1060,0,0,0,0,0
+5058,Little Lost Duckling,0,66092,126,512,30,-60,0,0,0
+5059,,96455,0,268,66,0,0,0,0,0
+5060,,96458,0,268,66,0,0,0,0,0
+5061,,96461,0,268,66,0,0,0,0,0
+5062,Nokhud Warmaster,0,0,92,0,0,0,0,0,0
+5063,[PH] Gorloc Historian,0,66142,89,0,0,0,0,0,0
+5064,Cataloger's Camp,96499,66162,862,1602,200,-200,0,0,0
+5066,Sabertooth Matron,0,0,92,0,0,0,0,0,0
+5067,Locked Chest,0,0,865,8,0,0,3,0,0
+5068,Ravinni,0,66300,92,0,0,0,0,0,0
+5069,[DNT] Anhydros the Tidetaker,0,0,92,0,0,0,0,0,0
+5070,[DNT] Tuskarr Chest,0,0,613,0,0,0,0,0,0
+5071,Odd Mana Infused Crystal,0,66305,88,0,0,0,0,0,0
+5072,[DNT] Fancy Tuskarr Chest,0,0,613,0,0,0,0,0,0
+5073,Aged Chest,96711,0,871,1024,0,0,0,0,0
+5074,Aged Chest,0,0,871,1024,0,0,0,0,0
+5075,Automaton Rare,0,66322,853,0,0,0,0,0,0
+5076,Rare Pineapple Pizza,0,66325,873,0,0,0,0,0,0
+5077,Hunter of Deep,0,0,92,0,0,0,0,0,0
+5078,Irontree,0,66356,763,1122,0,0,0,0,0
+5079,Lost Pillow,0,66357,88,0,0,0,0,0,0
+5080,Testing Rare Vignette,0,0,92,0,0,0,0,0,0
+5081,Next Checkpoint,0,0,874,2,0,0,0,0,0
+5082,Testing Treasure,0,0,88,0,0,0,0,0,0
+5084,Terramaw,0,66407,875,1024,0,0,0,0,0
+5085,Unstable Fumerole,0,66408,92,0,0,0,0,0,0
+5086,Reinforced Hook,96891,0,876,8,0,0,0,0,0
+5087,Zerimek,0,0,92,0,0,0,0,0,0
+5088,,0,0,878,4,0,0,0,0,0
+5089,Scanned Treasure 01,96946,0,879,2,0,0,3,0,0
+5090,Bound Chest,96999,0,766,586,0,0,0,0,0
+5092,Primal Elements,0,0,881,1090,0,0,0,0,0
+5093,,97008,0,882,0,0,0,0,0,0
+5094,Surveying Scope,0,0,883,2,0,0,0,0,0
+5095,Vista 01 Stalker,97013,0,884,2,0,0,0,0,0
+5096,Tombstirrer Khenbish,0,66580,92,0,0,0,0,0,0
+5097,Underwater Bones,0,66581,613,0,0,0,0,0,0
+5099,Tokker,97315,66599,0,0,30,-30,0,0,0
+5100,Ancient Monument,96828,66603,889,0,30,-30,0,0,0
+5103,Hunting Party 001,97844,0,729,1106,0,0,0,0,0
+5104,Bronze Timekeeper,0,0,890,2,0,0,0,0,0
+5107,Penumbrus,0,70212,902,1090,0,0,0,0,0
+5108,Shas'ith,0,0,853,1122,0,0,0,0,0
+5109,Turboris,0,0,89,0,100,-100,0,0,0
+5110,Worldcarver A'tir,0,0,853,1122,0,0,0,0,0
+5111,Azor Anvil Smasher,0,0,89,0,100,-100,0,0,0
+5112,Battlehorn Pyrhus,0,0,89,0,100,-100,0,0,0
+5113,Death's Shadow,0,0,853,1122,100,-100,0,0,0
+5114,Battlehorn Pyrhus,0,0,89,0,100,-100,0,0,0
+5115,Char,0,0,89,0,100,-100,0,0,0
+5116,Magmaton,0,0,853,1122,0,0,0,0,0
+5117,Hessethiash's Poorly Hidden Treasure,0,66876,88,0,30,-30,0,0,0
+5118,Earth- Warden's Vault,0,0,613,1026,30,-60,3,0,0
+5119,Morchock Reformed,0,0,853,1122,0,0,0,0,0
+5120,Stalking Sabertooth,0,0,763,1122,0,0,0,0,0
+5121,Hungry Ravine Vulture,0,0,763,1122,0,0,0,0,0
+5122,Norbett,0,0,763,1122,0,0,0,0,0
+5123,Angry Mammoth Bull,0,0,763,1122,0,0,0,0,0
+5124,Uranto,0,0,763,1122,0,0,0,0,0
+5125,The Great Swog,0,0,92,0,0,0,0,0,0
+5126,Dragonhunter Igordan,0,66956,903,1060,0,0,0,0,0
+5127,Klozicc the Ascended,0,66960,89,1060,0,0,0,0,0
+5128,Abandoned Weapon Rack,0,66965,88,0,30,-30,0,0,0
+5129,Deathrip,98569,66966,89,32,30,-30,0,0,0
+5130,Scytherin,98575,66967,89,32,30,-30,0,0,0
+5131,Ty'foon the Ascended,0,66970,903,0,0,0,0,0,0
+5132,Tazenrath,98579,66973,89,32,30,-30,0,0,0
+5133,Ketess the Pillager,98582,66975,89,32,30,-30,0,0,0
+5134,Lost Draconic Hourglass,0,66974,88,0,30,-30,0,0,0
+5135,Sulfurion,0,0,92,0,0,0,0,0,0
+5136,Porta the Overgrown,0,0,92,0,0,0,0,0,0
+5137,Eviscerated Argali,0,67013,613,0,0,0,0,0,0
+5138,Eaglemaster Niraak,0,0,92,0,0,0,0,0,0
+5139,Hidden Hornswog Hoard,0,67048,88,0,0,0,0,0,0
+5140,Windscale the Stormborn,0,0,92,0,0,0,0,0,0
+5141,Storm Ritual,0,0,92,0,0,0,0,0,0
+5142,Nokhud Warspear,0,67049,613,1090,0,0,0,0,0
+5143,Vaniik the Corrupted,0,0,92,0,0,0,0,0,0
+5144,Quackers the Terrible,0,0,92,0,0,0,0,0,0
+5146,Primal Elements,0,0,894,1090,0,0,0,0,0
+5147,Primal Elements,0,0,895,1090,0,0,0,0,0
+5148,Primal Elements,0,0,896,1090,0,0,0,0,0
+5149,Elemental Storm,0,0,897,1090,0,0,0,0,0
+5150,Large Duck Nest,0,0,92,0,0,0,0,0,0
+5152,Lava Fish School FX,0,0,202,0,0,0,0,0,0
+5153,Frostpaw,0,67148,92,0,0,0,0,0,0
+5157,Primal Elements,0,0,898,1090,0,0,0,0,0
+5158,Thieving Gnolls,0,67173,89,1060,0,0,0,0,0
+5159,Primal Elements,0,0,900,1090,0,0,0,0,0
+5160,Proto-Drake Hangout (NAME WIP),0,67005,108,6,0,0,0,0,0
+5162,Primal Elements,0,0,901,1090,0,0,0,0,0
+5163,Web-Queen Ashkaz,0,67717,89,1060,0,0,0,0,0
+5165,Primal Mantis Queen,0,67744,903,1060,0,0,0,0,0
+5166,Lilac Proto-Mother,0,67749,92,0,0,0,0,0,0
+5167,O'nank Shorescour,0,0,853,1122,0,0,0,0,0
+5168,Steamgill,0,69667,902,1090,0,0,0,0,0
+5169,Smogswog the Firebreather,0,69668,902,1090,0,0,0,0,0
+5170,Sunscale Behemoth,0,69837,902,1090,0,0,0,0,0
+5171,Amethyzar the Glittering,0,69838,902,1090,0,0,0,0,0
+5172,Azra's Prized Peony,0,69839,902,1090,0,0,0,0,0
+5173,Enraged Sapphire,0,69840,902,1090,0,0,0,0,0
+5174,Thunderous Matriarch,0,69841,902,1090,0,0,0,0,0
+5175,Massive Magmashell,0,69848,902,1090,0,0,0,0,0
+5176,Enraged Steamburst Elemental,0,69849,902,1090,0,0,0,0,0
+5177,Woolfang,0,69850,903,1090,0,0,0,0,0
+5178,Ripsaw the Stalker,0,69851,903,1060,0,0,0,0,0
+5179,Territorial Coastling,0,69852,903,1060,0,0,0,0,0
+5180,Razk'vex The Untamed,0,69853,902,1026,0,0,0,0,0
+5181,Solethus' Gravestone,0,69854,902,1090,0,0,0,0,0
+5182,Fulgurb,0,69856,902,1090,0,0,0,0,0
+5183,Mikrin of the Raging Winds,0,69857,902,1090,0,0,0,0,0
+5184,Blightfur,0,69858,902,1090,0,0,0,0,0
+5185,Sandana the Tempest,0,69859,902,1090,0,0,0,0,0
+5186,Trilvarus Loreweaver,0,69861,902,1090,0,0,0,0,0
+5187,Scav Notail,0,69863,902,1090,0,0,0,0,0
+5189,Algeti,0,69292,902,1090,0,0,0,0,0
+5190,Scaleseeker Mezeri,0,69865,89,1090,0,0,0,0,0
+5191,Forgotten Creation,0,69864,89,1060,0,0,0,0,0
+5192,Phleep,0,69866,902,1090,0,0,0,0,0
+5193,Broodweaver Araznae,0,69868,902,1090,0,0,0,0,0
+5194,"Vakril, the Strongest Tuskarr",0,69872,89,1060,0,0,0,0,0
+5195,Malsegan,0,69871,902,1090,0,0,0,0,0
+5196,Henlare,0,69873,903,1060,0,0,0,0,0
+5197,Gorjo the Crab Shackler,0,69874,902,1090,0,0,0,0,0
+5198,Eldoren the Reborn,0,69875,902,1090,0,0,0,0,0
+5199,Oshigol,0,69877,902,1090,0,0,0,0,0
+5200,Spellwrought Snow Golem,0,69879,902,1090,0,0,0,0,0
+5201,Riverwalker Tamopo,0,69880,902,1090,0,0,0,0,0
+5203,Lord Epochbrgl,0,69882,902,1090,0,0,0,0,0
+5204,Matriarch Remalla,0,69883,902,1090,0,0,0,0,0
+5205,Ronsak the Decimator,0,69878,902,1090,0,0,0,0,0
+5206,Gruffy,0,69885,902,1090,0,0,0,0,0
+5207,Tempestrian,0,69886,902,1090,0,0,0,0,0
+5208,Hanmuk,0,69887,902,1090,0,0,0,0,0
+5209,Resplendent Shimmerwing,0,69891,902,1090,0,0,0,0,0
+5210,Grumbletrunk,0,69892,902,1090,0,0,0,0,0
+5211,Dracthyr Secret,0,69881,88,0,30,-30,3,0,0
+5212,Ice Crack,99007,0,904,1026,0,0,0,0,0
+5213,Summoned Destroyer,0,69895,89,1060,0,0,0,0,0
+5214,Dirt Mound,0,67950,613,1090,0,0,0,0,0
+5215,Melkhop,0,0,763,1122,0,0,0,0,0
+5217,Galzuda,0,0,763,1122,0,0,0,0,0
+5218,Angen,0,0,763,1122,0,0,0,0,0
+5219,,99353,0,735,0,0,0,0,0,0
+5220,,99350,0,736,0,0,0,0,0,0
+5221,,99385,0,736,0,0,0,0,0,0
+5222,,99395,0,735,0,0,0,0,0,0
+5224,Wilrive,0,69948,902,1090,0,0,0,0,0
+5225,Bouldron,0,69951,902,1090,0,0,0,0,0
+5226,Crystalus,0,69952,902,1090,0,0,0,0,0
+5227,Karantun,0,69953,902,1090,0,0,0,0,0
+5228,Infernus,0,69954,902,1090,0,0,0,0,0
+5229,Titan Energy Core,99249,0,181,1030,0,0,0,0,0
+5230,Emblazion,0,69955,902,1090,0,0,0,0,0
+5231,Grizzlerock,0,69956,902,1090,0,0,0,0,0
+5232,Gaelzion,0,69959,902,1090,0,0,0,0,0
+5233,Gravlion,0,69960,902,1090,0,0,0,0,0
+5234,Frozion,0,69961,902,1090,0,0,0,0,0
+5235,Corrupted Proto-Dragon,0,69962,902,1090,0,0,0,0,0
+5236,Ancient Protector,0,69963,902,1090,0,0,0,0,0
+5237,Craggravated Elemental,0,69964,902,1090,0,0,0,0,0
+5238,Rokmur,0,69966,902,1090,0,0,0,0,0
+5239,Lookout Mordren,0,69967,903,1060,0,0,0,0,0
+5240,Prozela Galeshot,0,69968,903,1060,0,0,0,0,0
+5241,Voraazka,0,69969,902,1090,0,0,0,0,0
+5242,Kain Firebrand,0,69970,902,1090,0,0,0,0,0
+5243,Iceblade Trio,0,69971,902,1090,0,0,0,0,0
+5244,Zurgaz Corebreaker,0,69972,902,1090,0,0,0,0,0
+5245,Rouen Icewind,0,69973,902,1090,0,0,0,0,0
+5246,Pipspark Thundersnap,0,69974,902,1090,0,0,0,0,0
+5247,Neela Firebane,0,69975,902,1090,0,0,0,0,0
+5248,Phenran,0,69976,902,1090,0,0,0,0,0
+5249,Jareeza,0,69977,902,1090,0,0,0,0,0
+5251,Broken Fishing Pole,0,0,909,1024,0,0,3,0,0
+5252,Frigidpelt Den Mother,0,69985,89,0,0,0,0,0,0
+5253,Honmor,0,0,763,1122,0,0,0,0,0
+5254,Tomnu,0,0,763,1122,0,0,0,0,0
+5255,Uurtus,0,0,763,1122,0,0,0,0,0
+5256,Garbar the Garbler,0,69997,89,0,30,-30,0,0,0
+5257,Lost Obsidian Cache,99477,70018,88,0,15,-30,0,0,0
+5258,Anomaly,99526,0,910,4,0,0,0,0,0
+5259,Galnmor,0,0,763,1122,0,0,0,0,0
+5260,Salkii,0,0,763,1122,0,0,0,0,0
+5261,Borzgas,0,0,763,1122,0,0,0,0,0
+5262,Crystal Collector,0,0,911,16384,0,0,0,0,0
+5263,Displaced Energy,0,0,805,0,0,0,0,0,0
+5264,Muugurv,0,0,763,1122,0,0,0,0,0
+5265,Gamgus,0,0,763,1122,0,0,0,0,0
+5266,Degmakh,0,0,763,1122,0,0,0,0,0
+5267,Arcane Devourer,0,70153,89,0,0,0,0,0,0
+5268,Arcane Tome,0,70153,90,0,0,0,0,0,0
+5269,Brackle,0,70165,89,0,0,0,0,0,0
+5270,Ergburk,0,0,763,1122,0,0,0,0,0
+5271,Khomuur,0,0,763,1122,0,0,0,0,0
+5272,Windmancer Navati,0,0,92,0,0,0,0,0,0
+5273,Expedition Supply Kit,99463,0,912,1032,0,0,0,0,0
+5274,Rokzul,0,0,763,1122,0,0,0,0,0
+5275,Zagdech,0,0,763,1122,0,0,0,0,0
+5276,Kholdeg,0,0,763,1122,0,0,0,0,0
+5277,Zumakh,0,0,763,1122,0,0,0,0,0
+5279,Experimental Decay Cauldron,100251,70208,88,0,30,-30,0,0,0
+5280,Ensorcelled Muck,0,70226,902,1090,0,0,0,0,0
+5281,Uurhilt,0,0,763,1122,0,0,0,0,0
+5282,Khuumog,0,0,763,1122,0,0,0,0,0
+5283,Tenmod,0,0,763,1122,0,0,0,0,0
+5284,Dim Forge,100581,70230,916,0,30,-30,0,0,0
+5285,Broken Beams,100096,0,915,0,0,0,0,0,0
+5286,,0,0,877,0,0,0,0,0,0
+5287,,0,0,916,0,0,0,0,0,0
+5288,,100252,0,877,0,0,0,0,0,0
+5289,Painter's Pretty Jewel,100246,70261,88,0,30,-30,0,0,0
+5290,Forgotten Jewelry Box,100246,70263,88,0,30,-30,0,0,0
+5291,Forgetful Apprentice's Tome,96832,70264,88,0,30,-30,0,0,0
+5292,Decay-Infused Tanning Oil,96827,70266,88,0,30,-30,0,0,0
+5293,Intriguing Bolt of Blue Cloth,100242,70267,88,0,30,-30,0,0,0
+5294,Tuskarr Drum,100245,70269,88,0,30,-30,0,0,0
+5295,Harmonic Chest,100246,70271,917,0,0,0,0,0,0
+5296,,100249,0,918,0,0,0,0,0,0
+5297,Frostforged Potion,100251,70274,88,0,30,-30,0,0,0
+5298,,100250,0,877,0,0,0,0,0,0
+5299,,100247,0,877,0,0,0,0,0,0
+5300,Crystalline Overgrowth,100246,70277,88,0,30,-30,0,0,0
+5301,,0,70271,877,0,0,0,0,0,0
+5302,Igneous Gem,100246,70273,917,0,0,0,0,0,0
+5303,Lava-Infused Seed,100250,70283,88,0,30,-30,0,0,0
+5304,Lofty Kalecite,100246,70282,88,0,30,-30,0,0,0
+5305,How to Train Your Whelpling,100247,70281,88,0,30,-30,0,0,0
+5306,Spare Djaradin Tools,100245,70280,88,0,30,-30,0,0,0
+5307,Decaying Brackenhide Blanket,100242,70284,88,0,30,-30,0,0,0
+5308,Erupted Alexstraszite Cluster,100246,70285,88,0,30,-30,0,0,0
+5309,,100251,0,916,0,0,0,0,0,0
+5310,Crate of Treated Hides,100245,70286,88,0,30,-30,0,0,0
+5311,Miniature Bronze Dragonflight Banner,100242,70284,88,0,30,-30,0,0,0
+5312,Frostforged Potion,100251,70289,88,0,30,-30,0,0,0
+5313,,100278,0,877,0,0,0,0,0,0
+5314,Closely Guarded Shiny,100246,70292,88,0,30,-30,0,0,0
+5315,Stormbound Horn,100250,70291,88,0,30,-30,0,0,0
+5316,Frosted Parchment,100247,70293,88,0,30,-30,0,0,0
+5317,Enriched Earthen Shard,100250,70298,88,0,30,-30,0,0,0
+5318,Mysterious Cauldrons,100251,0,916,0,0,0,0,0,0
+5319,Bag of Decayed Scales,100245,70294,88,0,30,-30,0,0,0
+5320,Battle Hardened Centaur Carpet,100242,70295,88,0,30,-30,0,0,0
+5321,,100282,0,918,0,0,0,0,0,0
+5322,Dusty Darkmoon Card,100247,70297,88,0,30,-30,0,0,0
+5323,Wind-Blessed Hide,100245,70300,88,0,30,-30,0,0,0
+5324,Contraband Concoction,100251,70301,88,0,30,-30,0,0,0
+5325,Mysterious Banner,100242,70302,88,0,30,-30,0,0,0
+5326,Surprise Silkworm,100242,70303,918,0,30,-30,0,0,0
+5327,Itinerant Singed Fabric,100242,70304,88,0,30,-30,0,0,0
+5328,Frostforged Potion,100251,70305,88,0,30,-30,0,0,0
+5329,Sign Language Reference Sheet,100247,70307,88,0,30,-30,0,0,0
+5330,Poacher's Pack,100245,70308,88,0,30,-30,0,0,0
+5331,Small Basket of Firewater Powder,100251,70309,88,0,30,-30,0,0,0
+5332,Qalashi Weapon Diagram,100298,0,918,0,0,0,0,0,0
+5333,Draconic Flux,100299,0,918,0,0,0,0,0,0
+5334,Curious Ingots,100300,0,918,0,0,0,0,0,0
+5335,Ancient Spear Shards,100301,0,918,0,0,0,0,0,0
+5336,Ancient Spear Shards,100302,0,918,0,0,0,0,0,0
+5337,Nokhud Lancemaster,0,0,919,1088,0,0,0,0,0
+5338,Stormsurge Totem,0,0,920,1088,0,0,0,0,0
+5339,Flashfrozen Scroll,100250,70320,88,0,30,-30,0,0,0
+5340,Forgotton Arcane Tome,100250,70336,88,0,30,-30,0,0,0
+5341,Bluefeather Banner,0,0,805,8,0,0,0,0,0
+5342,Fractured Titanic Sphere,100250,70342,88,0,30,-30,0,0,0
+5343,Cataloger's Camp,100378,70079,862,1602,200,-200,0,0,0
+5344,Falconer Gauntlet Plans,100379,0,918,0,0,0,0,0,0
+5345,,0,70273,877,0,0,0,0,0,0
+5346,Moskhoi,0,0,763,1122,0,0,0,0,0
+5347,Yaankhi,0,0,763,1122,0,0,0,0,0
+5348,Goal,0,0,921,0,0,0,0,0,0
+5349,Ancient Dragonweave Loom,100242,70372,88,0,30,-30,0,0,0
+5350,Tevgai,0,0,763,1122,0,0,0,0,0
+5351,Cinta the Forgotten,0,0,92,0,0,0,0,0,0
+5352,The Jolly Giant,0,0,92,0,0,0,0,0,0
+5353,Emerald Gem Cluster,0,70391,613,1090,0,0,0,0,0
+5354,Nimblewing Matriarch,0,0,92,0,0,0,0,0,0
+5355,,100279,0,918,0,0,0,0,0,0
+5356,Alliance Flare Spotted,36470,0,922,68,0,0,0,0,0
+5357,Horde Flare Spotted,36471,0,922,70,0,0,0,0,0
+5358,Amber Gem Cluster,0,70408,613,1090,0,0,0,0,0
+5359,Yamakh,0,0,763,1122,0,0,0,0,0
+5360,Mantai,0,0,763,1122,0,0,0,0,0
+5361,Arkhuu,0,0,763,1122,0,0,0,0,0
+5362,Tsokorg,0,0,763,1122,0,0,0,0,0
+5363,Molkeej,0,0,763,1122,0,0,0,0,0
+5364,Diluu,0,0,763,1122,0,0,0,0,0
+5365,Makhra the Ashtouched,0,0,92,0,0,0,0,0,0
+5367,Knockoff Artifact,0,70600,613,1090,0,0,0,0,0
+5369,Set Fishing Net,101106,0,927,4,0,0,0,0,0
+5370,Hunting Equipment,0,0,180,512,0,0,0,0,0
+5371,Sand Pile,0,70608,613,1090,0,0,0,0,0
+5372,Firava the Rekindler,0,70648,903,1060,0,0,0,0,0
+5373,Forgotten Jewel Box,0,70603,613,1090,0,0,0,0,0
+5374,Ruby Gem Cluster,0,70598,613,1090,0,0,0,0,0
+5375,Sapphire Gem Cluster,0,70605,613,1090,0,0,0,0,0
+5377,Gnoll Fiend Flail,0,70604,613,1090,0,0,0,0,0
+5378,Researcher Sneakwing,0,70698,902,1028,0,0,0,0,0
+5379,Cracked Hourglass,0,70607,613,1090,0,0,0,0,0
+5380,Gushgut the Beaksinker,0,70718,902,1090,0,0,0,0,0
+5381,Shadeslash Trakken,0,70719,902,1090,0,0,0,0,0
+5382,Enkine the Voracious,0,66004,902,1090,0,0,0,0,0
+5383,Forgotten Gryphon,0,66004,902,1090,0,0,0,0,0
+5384,"Slurpo, the Incredible Snail",0,66004,902,1090,0,0,0,0,0
+5385,Captain Lancer,0,66004,902,1090,0,0,0,0,0
+5386,Qalashi War Party,0,70733,902,1060,0,0,0,0,0
+5387,Terillod the Devout,0,70751,903,1060,0,0,0,0,0

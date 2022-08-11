@@ -47,3 +47,6 @@ ID,Name_lang,TypeID,Parent_group_ID,Order_index
 167,Shadowlands Raid (Mythic),2,0,95
 168,Shadowlands Raid (Heroic),2,0,94
 169,Shadowlands Raid (Normal),2,0,93
+170,Dragonflight Mythic,1,0,92
+171,Dragonflight Heroic,1,0,91
+172,Dragonflight Normal,1,0,90

@@ -715,10 +715,13 @@ ID,Name_lang,AreaTableID,Type,Flags,UiTextureKitID
 1969,"Torghast, Tower of the Damned",0,0,2,5281
 1970,"Torghast, Tower of the Damned",0,0,2,5281
 1971,"Torghast, Tower of the Damned",0,0,2,5281
+1972,Test,8006,0,0,0
 1973,The Jailer's Vanguard,0,3,26,0
 1974,The Dark Bastille,0,3,26,0
 1977,Shackles of Fate,0,3,26,0
 1979,The Reckoning,0,3,26,0
+1980,Test Scenario,0,5,2,0
+1981,Assault on Dragonbane Keep,13644,0,2,0
 1982,Automa Site,0,0,2,0
 1983,Automa Site,0,0,2,0
 1984,"Torghast, Tower of the Damned",0,0,2,5281
@@ -768,5 +771,79 @@ ID,Name_lang,AreaTableID,Type,Flags,UiTextureKitID
 2031,Tazavesh: Streets of Wonder,0,1,3,0
 2032,Tazavesh: So'leah's Gambit,0,1,3,0
 2033,"Torghast, Tower of the Damned",0,0,2,5281
+2034,Test,14014,0,0,0
 2035,Tazavesh: Streets of Wonder,0,3,18,0
 2036,Tazavesh: So'leah's Gambit,0,3,18,0
+2037,Siege on Dragonbane Keep,13644,0,0,0
+2039,Flame Bound Chest,0,0,2,0
+2040,Clan Aylaag's Caravan,0,0,0,0
+2041,Outdoor Scenario,0,0,0,0
+2042,Primal Elements in the Badlands,0,0,2,0
+2045,Primal Elements in Un'Goro,0,0,2,0
+2049,Primal Elements in Tirisfal Glades,0,0,2,0
+2050,[DNT][PH] Hunting Stealth,13645,0,2,0
+2051,[DNT][PH] Hunting Collect Meat,13645,0,2,0
+2052,Cull Moose,13645,0,2,0
+2054,Primal Elements in the Barrens,0,0,2,0
+2056,Clan Aylaag's Caravan,0,0,0,0
+2057,Grand Hunt,13645,0,2,0
+2059,The Nokhud Offensive,0,3,18,0
+2061,The Nokhud Offensive,0,3,18,0
+2062,Grand Hunt,13645,0,2,0
+2063,Grand Hunt,0,0,2,0
+2064,Grand Hunt,13644,0,2,0
+2065,Grand Hunt,13644,0,2,0
+2066,Grand Hunt,13644,0,2,0
+2067,Grand Hunt,13646,0,2,0
+2068,Grand Hunt,13646,0,2,0
+2069,Grand Hunt,13646,0,2,0
+2070,Grand Hunt,13647,0,2,0
+2071,Grand Hunt,13647,0,2,0
+2072,Grand Hunt,13647,0,2,0
+2073,The Nokhud Offensive,0,3,18,0
+2074,Brackenhide Hollow,0,3,18,0
+2075,Brackenhide Hollow,0,3,18,0
+2076,Brackenhide Hollow,0,3,18,0
+2077,Halls of Infusion,0,3,18,0
+2078,Halls of Infusion,0,3,18,0
+2079,Halls of Infusion,0,3,18,0
+2080,Neltharus,0,3,18,0
+2081,Neltharus,0,3,18,0
+2082,Neltharus,0,3,18,0
+2083,Ruby Life Pools,0,3,18,0
+2084,Ruby Life Pools,0,3,18,0
+2085,Ruby Life Pools,0,3,18,0
+2086,Algeth'ar Academy,0,3,18,0
+2087,Algeth'ar Academy,0,3,18,0
+2088,Algeth'ar Academy,0,3,18,0
+2089,The Azure Vault,0,3,18,0
+2090,The Azure Vault,0,3,18,0
+2091,The Azure Vault,0,3,18,0
+2092,Uldaman: Legacy of Tyr,0,3,18,0
+2093,Uldaman: Legacy of Tyr,0,3,18,0
+2094,Uldaman: Legacy of Tyr,0,3,18,0
+2095,The Tuskarr Feast,0,0,2,0
+2096,The Tuskarr Feast,0,0,2,0
+2097,The Tuskarr Feast,0,0,2,0
+2098,The Tuskarr Feast,0,0,2,0
+2099,The Tuskarr Feast,0,0,2,0
+2100,The Tuskarr Feast,0,0,2,0
+2101,The Tuskarr Feast,0,0,2,0
+2102,The Tuskarr Feast,0,0,2,0
+2103,The Tuskarr Feast,0,0,2,0
+2106,The Tuskarr Feast,0,0,2,0
+2107,The Tuskarr Feast,0,0,2,0
+2108,The Tuskarr Feast,0,0,2,0
+2109,The Tuskarr Feast,0,0,2,0
+2110,The Tuskarr Feast,0,0,2,0
+2111,The Tuskarr Feast,0,0,2,0
+2112,The Tuskarr Feast,0,0,2,0
+2113,The Tuskarr Feast,0,0,2,0
+2114,The Tuskarr Feast,0,0,2,0
+2115,The Tuskarr Feast,0,0,2,0
+2116,The Tuskarr Feast,0,0,2,0
+2117,The Tuskarr Feast,0,0,2,0
+2118,The Tuskarr Feast,0,0,2,0
+2119,The Tuskarr Feast,0,0,2,0
+2120,The Tuskarr Feast,0,0,2,0
+2121,The Tuskarr Feast,0,0,2,0

@@ -1011,3 +1011,7 @@ ID,SceneScriptFunction,SpellVisualID,CastMilliSeconds,ImpactMilliSeconds,RangeTy
 1224,,113876,700,0,0,0,0
 1225,,114098,250,750,1,0,0
 1226,Undead_DeathGrip( ... ),115301,0,250,2,0,238
+1227,,115747,250,250,2,0,0
+1228,"Dispatcher_Stampede( 5, ...)",118974,250,250,1,0,159
+1229,,118976,250,750,1,0,0
+1230,,118977,250,750,1,0,0

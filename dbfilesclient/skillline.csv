@@ -38,7 +38,7 @@ Daggers,,Higher weapon skill increases your chance to hit.,,,173,6,136243,0,0,0,
 Herbalism,,"Higher herbalism skill allows you to harvest more difficult herbs around the world.  If you cannot harvest a specific herb, then increase your skill by harvesting easier to gather herbs in lower level areas.",,,182,11,136246,0,0,0,4224,2366
 GENERIC (DND),,General skills.,,,183,12,136243,0,0,0,1170,0
 Cooking,,Higher cooking skill allows you to learn higher level cooking recipes.  Recipes can be found on trainers around the world as well as from quests and as drops from monsters.,,,185,9,133971,1,0,0,128,2550
-Mining,,"Higher mining skill allows you to harvest more difficult minerals nodes around the world.  If you cannot harvest a specific mineral, then increase your skill by mining easier to mine minerals in lower level areas.",,,186,11,134708,0,0,0,4224,2575
+Mining,,"Higher mining skill allows you to harvest more difficult minerals nodes around the world.  If you cannot harvest a specific mineral, then increase your skill by mining easier to mine minerals in lower level areas.",,,186,11,4620679,0,0,0,4224,2575
 Pet - Imp,,,,,188,7,136243,0,0,0,0,0
 Pet - Felhunter,,,,,189,7,136243,0,0,0,0,0
 Tailoring,Embroider,Higher tailoring skill allows you to learn higher level tailoring patterns.  Tailoring patterns can be found on trainers around the world as well as from quests and monsters.,,,197,11,136249,1,0,0,4224,3908
@@ -196,7 +196,7 @@ Pandaria Blacksmithing,,,,,2473,11,136241,0,164,8,0,0
 Cataclysm Blacksmithing,,,,,2474,11,136241,0,164,7,0,0
 Northrend Blacksmithing,,,,,2475,11,136241,0,164,6,0,0
 Outland Blacksmithing,,,,,2476,11,136241,0,164,5,0,0
-Blacksmithing,,,,,2477,11,136241,0,164,4,0,0
+Classic Blacksmithing,,,,,2477,11,136241,0,164,4,0,0
 Kul Tiran Alchemy,,,Zandalari Alchemy,Battle for Azeroth Alchemy,2478,11,136240,0,171,11,0,0
 Legion Alchemy,,,,,2479,11,136240,0,171,10,0,0
 Draenor Alchemy,,,,,2480,11,136240,0,171,9,0,0
@@ -204,7 +204,7 @@ Pandaria Alchemy,,,,,2481,11,136240,0,171,8,0,0
 Cataclysm Alchemy,,,,,2482,11,136240,0,171,7,0,0
 Northrend Alchemy,,,,,2483,11,136240,0,171,6,0,0
 Outland Alchemy,,,,,2484,11,136240,0,171,5,0,0
-Alchemy,,,,,2485,11,136240,0,171,4,0,0
+Classic Alchemy,,,,,2485,11,136240,0,171,4,0,0
 Kul Tiran Enchanting,,,Zandalari Enchanting,Battle for Azeroth Enchanting,2486,11,136244,0,333,11,0,0
 Legion Enchanting,,,,,2487,11,136244,0,333,10,0,0
 Draenor Enchanting,,,,,2488,11,136244,0,333,9,0,0
@@ -212,7 +212,7 @@ Pandaria Enchanting,,,,,2489,11,136244,0,333,8,0,0
 Cataclysm Enchanting,,,,,2491,11,136244,0,333,7,0,0
 Northrend Enchanting,,,,,2492,11,136244,0,333,6,0,0
 Outland Enchanting,,,,,2493,11,136244,0,333,5,0,0
-Enchanting,,,,,2494,11,136244,0,333,4,0,0
+Classic Enchanting,,,,,2494,11,136244,0,333,4,0,0
 Kul Tiran Engineering,,,Zandalari Engineering,Battle for Azeroth Engineering,2499,11,136243,0,202,11,0,0
 Legion Engineering,,,,,2500,11,136243,0,202,10,0,0
 Draenor Engineering,,,,,2501,11,136243,0,202,9,0,0
@@ -220,7 +220,7 @@ Pandaria Engineering,,,,,2502,11,136243,0,202,8,0,0
 Cataclysm Engineering,,,,,2503,11,136243,0,202,7,0,0
 Northrend Engineering,,,,,2504,11,136243,0,202,6,0,0
 Outland Engineering,,,,,2505,11,136243,0,202,5,0,0
-Engineering,,,,,2506,11,136243,0,202,4,0,0
+Classic Engineering,,,,,2506,11,136243,0,202,4,0,0
 Kul Tiran Inscription,,,Zandalari Inscription,Battle for Azeroth Inscription,2507,11,237171,0,773,11,0,0
 Legion Inscription,,,,,2508,11,237171,0,773,10,0,0
 Draenor Inscription,,,,,2509,11,237171,0,773,9,0,0
@@ -228,7 +228,7 @@ Pandaria Inscription,,,,,2510,11,237171,0,773,8,0,0
 Cataclysm Inscription,,,,,2511,11,237171,0,773,7,0,0
 Northrend Inscription,,,,,2512,11,237171,0,773,6,0,0
 Outland Inscription,,,,,2513,11,237171,0,773,5,0,0
-Inscription,,,,,2514,11,237171,0,773,4,0,0
+Classic Inscription,,,,,2514,11,237171,0,773,4,0,0
 Kul Tiran Jewelcrafting,,,Zandalari Jewelcrafting,Battle for Azeroth Jewelcrafting,2517,11,134071,0,755,11,0,0
 Legion Jewelcrafting,,,,,2518,11,134071,0,755,10,0,0
 Draenor Jewelcrafting,,,,,2519,11,134071,0,755,9,0,0
@@ -236,7 +236,7 @@ Pandaria Jewelcrafting,,,,,2520,11,134071,0,755,8,0,0
 Cataclysm Jewelcrafting,,,,,2521,11,134071,0,755,7,0,0
 Northrend Jewelcrafting,,,,,2522,11,134071,0,755,6,0,0
 Outland Jewelcrafting,,,,,2523,11,134071,0,755,5,0,0
-Jewelcrafting,,,,,2524,11,134071,0,755,4,0,0
+Classic Jewelcrafting,,,,,2524,11,134071,0,755,4,0,0
 Kul Tiran Leatherworking,,,Zandalari Leatherworking,Battle for Azeroth Leatherworking,2525,11,136247,0,165,11,0,0
 Legion Leatherworking,,,,,2526,11,136247,0,165,10,0,0
 Draenor Leatherworking,,,,,2527,11,136247,0,165,9,0,0
@@ -244,7 +244,7 @@ Pandaria Leatherworking,,,,,2528,11,136247,0,165,8,0,0
 Cataclysm Leatherworking,,,,,2529,11,136247,0,165,7,0,0
 Northrend Leatherworking,,,,,2530,11,136247,0,165,6,0,0
 Outland Leatherworking,,,,,2531,11,136247,0,165,5,0,0
-Leatherworking,,,,,2532,11,136247,0,165,4,0,0
+Classic Leatherworking,,,,,2532,11,136247,0,165,4,0,0
 Kul Tiran Tailoring,,,Zandalari Tailoring,Battle for Azeroth Tailoring,2533,11,136249,0,197,11,0,0
 Legion Tailoring,,,,,2534,11,136249,0,197,10,0,0
 Draenor Tailoring,,,,,2535,11,136249,0,197,9,0,0
@@ -252,7 +252,7 @@ Pandaria Tailoring,,,,,2536,11,136249,0,197,8,0,0
 Cataclysm Tailoring,,,,,2537,11,136249,0,197,7,0,0
 Northrend Tailoring,,,,,2538,11,136249,0,197,6,0,0
 Outland Tailoring,,,,,2539,11,136249,0,197,5,0,0
-Tailoring,,,,,2540,11,136249,0,197,4,0,0
+Classic Tailoring,,,,,2540,11,136249,0,197,4,0,0
 Kul Tiran Cooking,,,Zandalari Cooking,Battle for Azeroth Cooking,2541,9,133971,0,185,11,0,0
 Legion Cooking,,,,,2542,9,133971,0,185,10,0,0
 Draenor Cooking,,,,,2543,9,133971,0,185,9,0,0
@@ -260,7 +260,7 @@ Pandaria Cooking,,,,,2544,9,133971,0,185,8,0,0
 Cataclysm Cooking,,,,,2545,9,133971,0,185,7,0,0
 Northrend Cooking,,,,,2546,9,133971,0,185,6,0,0
 Outland Cooking,,,,,2547,9,133971,0,185,5,0,0
-Cooking,,,,,2548,9,133971,0,185,4,0,0
+Classic Cooking,,,,,2548,9,133971,0,185,4,0,0
 Kul Tiran Herbalism,,,Zandalari Herbalism,Battle for Azeroth Herbalism,2549,11,136246,0,182,11,0,0
 Legion Herbalism,,,,,2550,11,136246,0,182,10,0,0
 Draenor Herbalism,,,,,2551,11,136246,0,182,9,0,0
@@ -268,7 +268,7 @@ Pandaria Herbalism,,,,,2552,11,136246,0,182,8,0,0
 Cataclysm Herbalism,,,,,2553,11,136246,0,182,7,0,0
 Northrend Herbalism,,,,,2554,11,136246,0,182,6,0,0
 Outland Herbalism,,,,,2555,11,136246,0,182,5,0,0
-Herbalism,,,,,2556,11,136246,0,182,4,0,0
+Classic Herbalism,,,,,2556,11,136246,0,182,4,0,0
 Kul Tiran Skinning,,,Zandalari Skinning,Battle for Azeroth Skinning,2557,11,134366,0,393,11,0,0
 Legion Skinning,,,,,2558,11,134366,0,393,10,0,0
 Draenor Skinning,,,,,2559,11,134366,0,393,9,0,0
@@ -276,15 +276,15 @@ Pandaria Skinning,,,,,2560,11,134366,0,393,8,0,0
 Cataclysm Skinning,,,,,2561,11,134366,0,393,7,0,0
 Northrend Skinning,,,,,2562,11,134366,0,393,6,0,0
 Outland Skinning,,,,,2563,11,134366,0,393,5,0,0
-Skinning,,,,,2564,11,134366,0,393,4,0,0
-Kul Tiran Mining,,,Zandalari Mining,Battle for Azeroth Mining,2565,11,134708,0,186,11,0,0
-Legion Mining,,,,,2566,11,134708,0,186,10,0,0
-Draenor Mining,,,,,2567,11,134708,0,186,9,0,0
-Pandaria Mining,,,,,2568,11,134708,0,186,8,0,0
-Cataclysm Mining,,,,,2569,11,134708,0,186,7,0,0
-Northrend Mining,,,,,2570,11,134708,0,186,6,0,0
-Outland Mining,,,,,2571,11,134708,0,186,5,0,0
-Mining,,,,,2572,11,134708,0,186,4,0,0
+Classic Skinning,,,,,2564,11,134366,0,393,4,0,0
+Kul Tiran Mining,,,Zandalari Mining,Battle for Azeroth Mining,2565,11,4620679,0,186,11,0,0
+Legion Mining,,,,,2566,11,4620679,0,186,10,0,0
+Draenor Mining,,,,,2567,11,4620679,0,186,9,0,0
+Pandaria Mining,,,,,2568,11,4620679,0,186,8,0,0
+Cataclysm Mining,,,,,2569,11,4620679,0,186,7,0,0
+Northrend Mining,,,,,2570,11,4620679,0,186,6,0,0
+Outland Mining,,,,,2571,11,4620679,0,186,5,0,0
+Classic Mining,,,,,2572,11,4620679,0,186,4,0,0
 Kul Tiran Fishing,,,Zandalari Fishing,Battle for Azeroth Fishing,2585,9,136245,0,356,11,16384,0
 Legion Fishing,,,,,2586,9,136245,0,356,10,16384,0
 Draenor Fishing,,,,,2587,9,136245,0,356,9,16384,0
@@ -292,7 +292,7 @@ Pandaria Fishing,,,,,2588,9,136245,0,356,8,16384,0
 Cataclysm Fishing,,,,,2589,9,136245,0,356,7,16384,0
 Northrend Fishing,,,,,2590,9,136245,0,356,6,16384,0
 Outland Fishing,,,,,2591,9,136245,0,356,5,16384,0
-Fishing,,,,,2592,9,136245,0,356,4,16384,0
+Classic Fishing,,,,,2592,9,136245,0,356,4,16384,0
 Racial - Dark Iron Dwarf,,Racial - Dark Iron Dwarf,,,2597,9,136243,0,0,0,33938,0
 Racial - Mag'har Orc,,Racial - Mag'har Orc,,,2598,9,136243,0,0,0,33938,0
 Pet - Lizard,,Pet - Lizard,,,2703,7,136243,0,0,0,0,0
@@ -322,7 +322,7 @@ Shadowlands Jewelcrafting,,,,,2757,11,134071,0,755,12,0,0
 Shadowlands Leatherworking,,,,,2758,11,136247,0,165,12,0,0
 Shadowlands Tailoring,,,,,2759,11,136249,0,197,12,0,0
 Shadowlands Herbalism,,,,,2760,11,136246,0,182,12,0,0
-Shadowlands Mining,,,,,2761,11,134708,0,186,12,0,0
+Shadowlands Mining,,,,,2761,11,4620679,0,186,12,0,0
 Shadowlands Skinning,,,,,2762,11,134366,0,393,12,0,0
 Racial - Dark Iron Dwarf,,Racial - Dark Iron Dwarf,,,2773,9,136243,0,0,0,33938,0
 Racial - Mechgnome,,Racial - Mechagnome,,,2774,9,0,0,0,0,33938,0
@@ -334,6 +334,25 @@ Ascension Crafting,Crafting,Recipes can be obtained through the Path of Ascensio
 Pet - Mammoth,,,,,2805,7,136243,0,0,0,0,0
 Pet - Courser,,,,,2806,7,132248,0,0,0,0,0
 Pet - Camel,,,,,2807,7,132248,0,0,0,0,0
+Racial - Dracthyr,,Racial - Dracthyr,,,2808,9,0,0,0,0,33810,0
+Evoker,,Evoker skills.,,,2810,7,4574311,0,0,0,1048,0
 Stygia Crafting,Crafting,Must be in possession of Soulforger's Tools.,,,2811,11,2578727,0,0,0,0,0
 Language: Cypher,,,,,2817,12,136243,0,0,0,144,0
 Protoform Synthesis,Synthesize,"Combine components via schematics, all found in Zereth Mortis, to instantiate new pets and mounts for your collection.",,,2819,11,4287471,1,0,0,0,0
+Arcana Manipulation,Arcanist,Description here,,,2821,11,1041232,1,0,0,0,0
+Dragon Isles Blacksmithing,,,,,2822,11,136241,0,164,13,0,0
+Dragon Isles Alchemy,,,,,2823,11,136240,0,171,13,0,0
+Dragon Isles Cooking,,,,,2824,9,133971,0,185,13,0,0
+Dragon Isles Enchanting,,,,,2825,11,136244,0,333,13,0,0
+Dragon Isles Fishing,,,,,2826,9,136245,0,356,13,16384,0
+Dragon Isles Engineering,,,,,2827,11,136243,0,202,13,0,0
+Dragon Isles Inscription,,,,,2828,11,237171,0,773,13,0,0
+Dragon Isles Jewelcrafting,,,,,2829,11,134071,0,755,13,0,0
+Dragon Isles Leatherworking,,,,,2830,11,136247,0,165,13,0,0
+Dragon Isles Tailoring,,,,,2831,11,136249,0,197,13,0,0
+Dragon Isles Herbalism,,,,,2832,11,136246,0,182,13,0,0
+Dragon Isles Mining,,,,,2833,11,4620679,0,186,13,0,0
+Dragon Isles Skinning,,,,,2834,11,134366,0,393,13,0,0
+Template Character Spells,,Spells we want template characters to know.,,,2843,7,0,0,0,0,0,0
+Crafting,,,,,2846,11,643416,0,98,0,0,0
+Tuskarr Fishing Gear,Crafting,"Obtain and improve Tuskarr Harpoon and Fishing Nets, and get access to new fishing spots.",,,2847,11,4638460,0,0,0,0,0

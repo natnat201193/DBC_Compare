@@ -1,0 +1,1047 @@
+InternalName,ID,Flags,TraitCurrencyID
+10.0 Professions - Blacksmithing - Tab Unlock Cost - Test (HRO),28,0,0
+10.0 Professions - Blacksmithing - Knowledge - Test (HRO),29,0,0
+10.0 Professions - Blacksmithing - Armorsmithing Children Cost - Test (HRO),30,0,0
+Validation Test Sourced Cost (AMK),31,0,0
+10.0 Professions - Blacksmithing - Large Plate Armor Children Cost - Test (HRO),32,0,0
+10.0 Professions - Blacksmithing - Sculpted Armor Children Cost - Test (HRO),33,0,0
+Validation Test Gold Cost (AMK),34,0,0
+Validation Test Currency Cost (AMK),35,0,0
+Group cost,166,0,0
+Group cost,167,0,0
+Group cost,172,0,0
+Group cost,173,0,0
+Group cost,176,0,0
+Group cost,177,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,197,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,198,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,199,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,200,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,201,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,202,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,203,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,204,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,205,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,206,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,207,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,208,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,209,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,210,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,211,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,212,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,213,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,214,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,215,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,216,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,217,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,218,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,219,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,220,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,221,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,222,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,223,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,224,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,225,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,226,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,227,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,228,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,229,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,230,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,231,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,232,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,233,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,234,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,235,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,236,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,237,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,238,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,239,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,240,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,241,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,242,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,243,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,244,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,245,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,246,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,247,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,248,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,249,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,250,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,251,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,252,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,253,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,254,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,255,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,256,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,272,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,273,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,274,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,275,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,276,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,277,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,278,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,279,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,280,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,281,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,282,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,283,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,284,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,285,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,286,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,287,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,288,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,289,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,290,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,291,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,292,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,293,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,294,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,295,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,296,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,297,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,298,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,299,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,300,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,301,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,302,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,303,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,304,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,305,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,306,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,307,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,308,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,309,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,310,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,311,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,312,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,313,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,314,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,315,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,316,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,317,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,318,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,319,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,320,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,321,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,322,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,323,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,324,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,325,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,326,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,327,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,328,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,329,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,330,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,331,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,332,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,333,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,334,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,335,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,336,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,337,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,338,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,339,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,340,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,341,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,342,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,343,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,344,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,345,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,346,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,347,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,348,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,349,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,350,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,351,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,352,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,353,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,354,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,355,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,356,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,357,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,358,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,359,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,360,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,361,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,362,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,363,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,364,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,365,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,366,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,367,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,368,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,369,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,370,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,371,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,372,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,373,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,374,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,375,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,376,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Gauntlets - Child Unlock Cos,512,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Vambraces - Child Unlock Cos,513,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Belts - Child Unlock Cost,514,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Fine Armor - Child Unlock Co,515,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Sabatons - Child Unlock Cost,516,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Pauldrons - Child Unlock Cos,517,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Helms - Child Unlock Cost,518,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Sculpted Armor - Child Unloc,519,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Greaves - Child Unlock Cost,520,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Shields - Child Unlock Cost,521,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Breastplates - Child Unlock ,522,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Large Plate Armor - Child Un,523,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Armorsmithing - Child Unlock,524,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22)- Tab Unlock Cost,525,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/24/22) - Path Spend Cost,526,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Gauntlets - Child Unlock Cos,587,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Vambraces - Child Unlock Cos,588,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Belts - Child Unlock Cost,589,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Fine Armor - Child Unlock Co,590,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sabatons - Child Unlock Cost,591,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Pauldrons - Child Unlock Cos,592,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Helms - Child Unlock Cost,593,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sculpted Armor - Child Unloc,594,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Greaves - Child Unlock Cost,595,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Shields - Child Unlock Cost,596,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Breastplates - Child Unlock ,597,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Large Plate Armor - Child Un,598,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Armorsmithing - Child Unlock,599,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22)- Tab Unlock Cost,600,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Path Spend Cost,601,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Gauntlets - Child Unlock Cos,629,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Vambraces - Child Unlock Cos,630,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Belts - Child Unlock Cost,631,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Fine Armor - Child Unlock Co,632,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sabatons - Child Unlock Cost,633,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Pauldrons - Child Unlock Cos,634,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Helms - Child Unlock Cost,635,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sculpted Armor - Child Unloc,636,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Greaves - Child Unlock Cost,637,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Shields - Child Unlock Cost,638,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Breastplates - Child Unlock ,639,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Large Plate Armor - Child Un,640,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Armorsmithing - Child Unlock,641,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22)- Tab Unlock Cost,642,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Path Spend Cost,643,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Gauntlets - Child Unlock Cos,644,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Vambraces - Child Unlock Cos,645,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Belts - Child Unlock Cost,646,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Fine Armor - Child Unlock Co,647,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sabatons - Child Unlock Cost,648,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Pauldrons - Child Unlock Cos,649,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Helms - Child Unlock Cost,650,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Sculpted Armor - Child Unloc,651,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Greaves - Child Unlock Cost,652,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Shields - Child Unlock Cost,653,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Breastplates - Child Unlock ,654,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Large Plate Armor - Child Un,655,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Armorsmithing - Child Unlock,656,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22)- Tab Unlock Cost,657,0,0
+10.0 Professions - Blacksmithing - Armorsmithing (Imported 06/27/22) - Path Spend Cost,658,0,0
+"10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Axes, Picks & Polearms - Ch",659,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Maces & Hammers - Child Unl,660,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Hafted - Child Unlock Cost,661,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Long Blades - Child Unlock ,662,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Short Blades - Child Unlock,663,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Blades - Child Unlock Cost,664,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Weaponsmithing - Child Unlo,665,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22)- Tab Unlock Cost,666,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/27/22) - Path Spend Cost,667,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Smelting - Child Unlock,668,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Stonework - Child Unloc,669,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Adventuring Gear - Chil,670,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Toolsmithing - Child Un,671,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Specialty Smithing - Ch,672,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22)- Tab Unlock Cost,673,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/27/22) - Path Spend Cost,674,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Poignant Plans - Child Unloc,675,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Spartan Smithing - Child Unl,676,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Anvil Mastery - Child Unlock,677,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22)- Tab Unlock Cost,678,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Path Spend Cost,679,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Poignant Plans - Child Unloc,680,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Spartan Smithing - Child Unl,681,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Anvil Mastery - Child Unlock,682,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Path Spend Cost,683,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Poignant Plans - Child Unloc,684,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Spartan Smithing - Child Unl,685,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Anvil Mastery - Child Unlock,686,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery (Imported 06/27/22) - Path Spend Cost,687,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Batch Production - Child Unlock Co,692,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Phial Experimentation - Child Unlo,693,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Phial Lore - Child Unlock Cost,694,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Air Formulated Phials - Child Unlo,695,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Frost Formulated Phials - Child Un,696,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Phial Mastery - Child Unlock Cost,697,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22)- Tab Unlock Cost,698,0,0
+10.0 Professions - Alchemy - Phial Mastery (Imported 06/28/22) - Path Spend Cost,699,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Batch Production - Child Unlock C,700,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Potion Experimentation - Child Un,701,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Potion Lore - Child Unlock Cost,702,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Air Formulated Potions - Child Un,703,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Frost Formulated Potions - Child ,704,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Potion Mastery - Child Unlock Cos,705,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22)- Tab Unlock Cost,706,0,0
+10.0 Professions - Alchemy - Potion Mastery (Imported 06/28/22) - Path Spend Cost,707,0,0
+,710,0,0
+,711,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Inspiring Ambience - Child Unl,712,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Resourceful Routines - Child U,713,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Decayology - Child Unlock Cost,714,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Chemical Synthesis - Child Unl,715,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Transmutation - Child Unlock C,716,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Alchemical Theory - Child Unlo,717,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22)- Tab Unlock Cost,718,0,0
+10.0 Professions - Alchemy - Alchemical Theory (Imported 06/28/22) - Path Spend Cost,719,0,0
+Group cost,722,0,0
+,723,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Smelting - Child Unlock,743,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Stonework - Child Unloc,744,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Adventuring Gear - Chil,745,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Toolsmithing - Child Un,746,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Specialty Smithing - Ch,747,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22)- Tab Unlock Cost,748,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing (Imported 06/30/22) - Path Spend Cost,749,0,0
+"10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Axes, Picks & Polearms - Ch",750,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Maces & Hammers - Child Unl,751,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Hafted - Child Unlock Cost,752,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Long Blades - Child Unlock ,753,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Short Blades - Child Unlock,754,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Blades - Child Unlock Cost,755,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Weaponsmithing - Child Unlo,756,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22)- Tab Unlock Cost,757,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing (Imported 06/30/22) - Path Spend Cost,758,0,0
+Group cost,785,0,0
+Group cost,786,0,0
+10.0 Professions - Alchemy - Potion Mastery - Batch Production - Child Unlock Cost,787,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Experimentation - Child Unlock Cost,788,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Lore - Child Unlock Cost,789,0,0
+10.0 Professions - Alchemy - Potion Mastery - Air Formulated Potions - Child Unlock Cost,790,0,0
+10.0 Professions - Alchemy - Potion Mastery - Frost Formulated Potions - Child Unlock Cost,791,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Mastery - Child Unlock Cost,792,0,0
+10.0 Professions - Alchemy - Potion Mastery- Tab Unlock Cost,793,0,0
+10.0 Professions - Alchemy - Potion Mastery - Path Spend Cost,794,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,795,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,796,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,797,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,798,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,799,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,800,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,801,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,802,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,803,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,804,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,805,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,806,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,807,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,808,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,809,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,810,0,0
+Group cost,813,0,0
+Group cost,814,0,0
+Group cost,817,0,0
+Group cost,818,0,0
+Group cost,869,0,0
+Group cost,870,0,0
+Group cost,873,0,0
+Group cost,874,0,0
+Group cost,877,0,0
+Group cost,878,0,0
+Group cost,881,0,0
+Group cost,882,0,0
+Group cost,885,0,0
+Group cost,886,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,887,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,888,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,889,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,890,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,891,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,892,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,893,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,894,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Poignant Plans - Child Unlock Cost,895,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Spartan Smithing - Child Unlock Cost,896,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Anvil Mastery - Child Unlock Cost,897,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Path Spend Cost,898,0,0
+10.0 Professions - Alchemy - Potion Mastery - Batch Production - Child Unlock Cost,899,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Experimentation - Child Unlock Cost,900,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Lore - Child Unlock Cost,901,0,0
+10.0 Professions - Alchemy - Potion Mastery - Air Formulated Potions - Child Unlock Cost,902,0,0
+10.0 Professions - Alchemy - Potion Mastery - Frost Formulated Potions - Child Unlock Cost,903,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Mastery - Child Unlock Cost,904,0,0
+10.0 Professions - Alchemy - Potion Mastery- Tab Unlock Cost,905,0,0
+10.0 Professions - Alchemy - Potion Mastery - Path Spend Cost,906,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Inspiring Ambience - Child Unlock Cost,907,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Resourceful Routines - Child Unlock Cost,908,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Decayology - Child Unlock Cost,909,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Chemical Synthesis - Child Unlock Cost,910,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Transmutation - Child Unlock Cost,911,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Alchemical Theory - Child Unlock Cost,912,0,0
+10.0 Professions - Alchemy - Alchemical Theory- Tab Unlock Cost,913,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Path Spend Cost,914,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,915,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,916,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,917,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,918,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,919,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,920,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,921,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,922,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,923,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,924,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,925,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,926,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,927,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,928,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,929,0,0
+10.0 Professions - Leatherworking - Leatherworking Discipline - Awl Inspiring Works - Child Unlock ,930,0,0
+10.0 Professions - Leatherworking - Leatherworking Discipline - Shear Mastery of Leather - Child Un,931,0,0
+10.0 Professions - Leatherworking - Leatherworking Discipline - Leatherworking Discipline - Child U,932,0,0
+10.0 Professions - Leatherworking - Leatherworking Discipline- Tab Unlock Cost,933,0,0
+10.0 Professions - Leatherworking - Leatherworking Discipline - Path Spend Cost,934,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Boots - Child Unlock Cost,935,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Belts - Child Unlock Cost,936,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Gloves - Child Unlock Cost,937,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Legguards - Child Unlock Cost,938,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Embroidered Leather Armor - Child Unlo,939,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Wristwraps - Child Unlock Cost,940,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shoulderpads - Child Unlock Cost,941,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Helms - Child Unlock Cost,942,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Chestpieces - Child Unlock Cost,943,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shaped Leather Armor - Child Unlock Co,944,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Leather Armor Crafting - Child Unlock ,945,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting- Tab Unlock Cost,946,0,0
+10.0 Professions - Leatherworking - Leather Armor Crafting - Path Spend Cost,947,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Belts - Child Unlock Cost,948,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Shoulderguards - Child Unlock Cost,949,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Boots - Child Unlock Cost,950,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Gauntlets - Child Unlock Cost,951,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Intricate Chain - Child Unlock Cost,952,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Cuffs - Child Unlock Cost,953,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Cowls - Child Unlock Cost,954,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Greaves - Child Unlock Cost,955,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Shirts - Child Unlock Cost,956,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Large Chainmail - Child Unlock Cost,957,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Armor Crafting - Child Unlock Cost,958,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting- Tab Unlock Cost,959,0,0
+10.0 Professions - Leatherworking - Mail Armor Crafting - Path Spend Cost,960,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,969,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,970,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,971,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,972,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,973,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,974,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,975,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,976,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,977,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,978,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,979,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,980,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,981,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,982,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,983,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,992,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,993,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,994,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,995,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,996,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,997,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,998,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,999,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,1000,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,1001,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,1002,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,1003,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,1004,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,1005,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,1006,0,0
+Group cost,1134,0,0
+Group cost,1135,0,0
+Group cost,1142,0,0
+Group cost,1143,0,0
+Group cost,1148,0,0
+Group cost,1149,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,1158,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,1159,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,1160,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,1161,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,1162,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,1163,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,1164,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,1165,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,1166,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,1167,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,1168,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,1169,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,1170,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,1171,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,1172,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,1173,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,1174,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,1175,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,1176,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,1177,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,1178,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,1179,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,1180,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,1181,0,0
+10.0 Professions - Alchemy - Phial Mastery - Batch Production - Child Unlock Cost,1182,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Experimentation - Child Unlock Cost,1183,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Lore - Child Unlock Cost,1184,0,0
+10.0 Professions - Alchemy - Phial Mastery - Air Formulated Phials - Child Unlock Cost,1185,0,0
+10.0 Professions - Alchemy - Phial Mastery - Frost Formulated Phials - Child Unlock Cost,1186,0,0
+10.0 Professions - Alchemy - Phial Mastery - Phial Mastery - Child Unlock Cost,1187,0,0
+10.0 Professions - Alchemy - Phial Mastery- Tab Unlock Cost,1188,0,0
+10.0 Professions - Alchemy - Phial Mastery - Path Spend Cost,1189,0,0
+10.0 Professions - Alchemy - Potion Mastery - Batch Production - Child Unlock Cost,1190,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Experimentation - Child Unlock Cost,1191,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Lore - Child Unlock Cost,1192,0,0
+10.0 Professions - Alchemy - Potion Mastery - Air Formulated Potions - Child Unlock Cost,1193,0,0
+10.0 Professions - Alchemy - Potion Mastery - Frost Formulated Potions - Child Unlock Cost,1194,0,0
+10.0 Professions - Alchemy - Potion Mastery - Potion Mastery - Child Unlock Cost,1195,0,0
+10.0 Professions - Alchemy - Potion Mastery- Tab Unlock Cost,1196,0,0
+10.0 Professions - Alchemy - Potion Mastery - Path Spend Cost,1197,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Inspiring Ambience - Child Unlock Cost,1198,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Resourceful Routines - Child Unlock Cost,1199,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Decayology - Child Unlock Cost,1200,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Chemical Synthesis - Child Unlock Cost,1201,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Transmutation - Child Unlock Cost,1202,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Alchemical Theory - Child Unlock Cost,1203,0,0
+10.0 Professions - Alchemy - Alchemical Theory- Tab Unlock Cost,1204,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Path Spend Cost,1205,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Inspiring Ambience - Child Unlock Cost,1206,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Resourceful Routines - Child Unlock Cost,1207,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Decayology - Child Unlock Cost,1208,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Chemical Synthesis - Child Unlock Cost,1209,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Transmutation - Child Unlock Cost,1210,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Alchemical Theory - Child Unlock Cost,1211,0,0
+10.0 Professions - Alchemy - Alchemical Theory- Tab Unlock Cost,1212,0,0
+10.0 Professions - Alchemy - Alchemical Theory - Path Spend Cost,1213,0,0
+Group cost,1216,0,0
+Group cost,1217,0,0
+"10.0 Professions - Blacksmithing - Weaponsmithing - Axes, Picks & Polearms - Child Unlock Cost",1314,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Maces & Hammers - Child Unlock Cost,1315,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Hafted - Child Unlock Cost,1316,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Long Blades - Child Unlock Cost,1317,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Short Blades - Child Unlock Cost,1318,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Blades - Child Unlock Cost,1319,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Weaponsmithing - Child Unlock Cost,1320,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing- Tab Unlock Cost,1321,0,0
+10.0 Professions - Blacksmithing - Weaponsmithing - Path Spend Cost,1322,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Smelting - Child Unlock Cost,1323,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Stonework - Child Unlock Cost,1324,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Adventuring Gear - Child Unlock Cost,1325,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Toolsmithing - Child Unlock Cost,1326,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Specialty Smithing - Child Unlock Cost,1327,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing- Tab Unlock Cost,1328,0,0
+10.0 Professions - Blacksmithing - Specialty Smithing - Path Spend Cost,1329,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Gauntlets - Child Unlock Cost,1338,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Vambraces - Child Unlock Cost,1339,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Belts - Child Unlock Cost,1340,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Fine Armor - Child Unlock Cost,1341,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sabatons - Child Unlock Cost,1342,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Pauldrons - Child Unlock Cost,1343,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Helms - Child Unlock Cost,1344,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Sculpted Armor - Child Unlock Cost,1345,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Greaves - Child Unlock Cost,1346,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Shields - Child Unlock Cost,1347,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Breastplates - Child Unlock Cost,1348,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Large Plate Armor - Child Unlock Cost,1349,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Armorsmithing - Child Unlock Cost,1350,0,0
+10.0 Professions - Blacksmithing - Armorsmithing- Tab Unlock Cost,1351,0,0
+10.0 Professions - Blacksmithing - Armorsmithing - Path Spend Cost,1352,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Poignant Plans - Child Unlock Cost,1353,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Spartan Smithing - Child Unlock Cost,1354,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Anvil Mastery - Child Unlock Cost,1355,0,0
+10.0 Professions - Blacksmithing - Anvil Mastery - Path Spend Cost,1356,0,0
+Group cost,1385,0,0
+Group cost,1386,0,0
+Group cost,1393,0,0
+Group cost,1394,0,0
+Group cost,1397,0,0
+Group cost,1398,0,0
+Group cost,1407,0,0
+Group cost,1408,0,0
+Group cost,1410,0,0
+"10.0 Professions - Blacksmithing - Weaponsmithing - Axes, Picks & Polearms - Child Unlock Cost",1471,1,1368
+10.0 Professions - Blacksmithing - Weaponsmithing - Maces & Hammers - Child Unlock Cost,1472,1,1369
+10.0 Professions - Blacksmithing - Weaponsmithing - Hafted - Child Unlock Cost,1473,1,1370
+10.0 Professions - Blacksmithing - Weaponsmithing - Long Blades - Child Unlock Cost,1474,1,1371
+10.0 Professions - Blacksmithing - Weaponsmithing - Short Blades - Child Unlock Cost,1475,1,1372
+10.0 Professions - Blacksmithing - Weaponsmithing - Blades - Child Unlock Cost,1476,1,1373
+10.0 Professions - Blacksmithing - Weaponsmithing - Weaponsmithing - Child Unlock Cost,1477,1,1374
+10.0 Professions - Blacksmithing - Weaponsmithing- Tab Unlock Cost,1478,1,3
+10.0 Professions - Blacksmithing - Weaponsmithing - Path Spend Cost,1479,1,1
+10.0 Professions - Leatherworking - Primordial Leatherworking - Decaying Grasp - Child Unlock Cost,1486,1,1383
+10.0 Professions - Leatherworking - Primordial Leatherworking - Bestial Primacy - Child Unlock Cost,1487,1,1384
+10.0 Professions - Leatherworking - Primordial Leatherworking - Elemental Mastery - Child Unlock Co,1488,1,1385
+10.0 Professions - Leatherworking - Primordial Leatherworking - Primordial Leatherworking - Child U,1489,1,1386
+10.0 Professions - Leatherworking - Primordial Leatherworking- Tab Unlock Cost,1490,1,19
+10.0 Professions - Leatherworking - Primordial Leatherworking - Path Spend Cost,1491,1,9
+10.0 Professions - Leatherworking - Leatherworking Discipline - Curing and Tanning - Child Unlock C,1492,1,1387
+10.0 Professions - Leatherworking - Leatherworking Discipline - Bonding and Stitching - Child Unloc,1493,1,1388
+10.0 Professions - Leatherworking - Leatherworking Discipline - Awl Inspiring Works - Child Unlock ,1494,1,1389
+10.0 Professions - Leatherworking - Leatherworking Discipline - Shear Mastery of Leather - Child Un,1495,1,1390
+10.0 Professions - Leatherworking - Leatherworking Discipline - Leatherworking Discipline - Child U,1496,1,1391
+10.0 Professions - Leatherworking - Leatherworking Discipline- Tab Unlock Cost,1497,1,19
+10.0 Professions - Leatherworking - Leatherworking Discipline - Path Spend Cost,1498,1,9
+10.0 Professions - Leatherworking - Leather Armor Crafting - Boots - Child Unlock Cost,1499,1,1392
+10.0 Professions - Leatherworking - Leather Armor Crafting - Belts - Child Unlock Cost,1500,1,1393
+10.0 Professions - Leatherworking - Leather Armor Crafting - Gloves - Child Unlock Cost,1501,1,1394
+10.0 Professions - Leatherworking - Leather Armor Crafting - Legguards - Child Unlock Cost,1502,1,1395
+10.0 Professions - Leatherworking - Leather Armor Crafting - Embroidered Leather Armor - Child Unlo,1503,1,1396
+10.0 Professions - Leatherworking - Leather Armor Crafting - Wristwraps - Child Unlock Cost,1504,1,1397
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shoulderpads - Child Unlock Cost,1505,1,1398
+10.0 Professions - Leatherworking - Leather Armor Crafting - Helms - Child Unlock Cost,1506,1,1399
+10.0 Professions - Leatherworking - Leather Armor Crafting - Chestpieces - Child Unlock Cost,1507,1,1400
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shaped Leather Armor - Child Unlock Co,1508,1,1401
+10.0 Professions - Leatherworking - Leather Armor Crafting - Leather Armor Crafting - Child Unlock ,1509,1,1402
+10.0 Professions - Leatherworking - Leather Armor Crafting- Tab Unlock Cost,1510,1,19
+10.0 Professions - Leatherworking - Leather Armor Crafting - Path Spend Cost,1511,1,9
+10.0 Professions - Leatherworking - Mail Armor Crafting - Belts - Child Unlock Cost,1512,1,1403
+10.0 Professions - Leatherworking - Mail Armor Crafting - Shoulderguards - Child Unlock Cost,1513,1,1404
+10.0 Professions - Leatherworking - Mail Armor Crafting - Boots - Child Unlock Cost,1514,1,1405
+10.0 Professions - Leatherworking - Mail Armor Crafting - Gauntlets - Child Unlock Cost,1515,1,1406
+10.0 Professions - Leatherworking - Mail Armor Crafting - Intricate Chain - Child Unlock Cost,1516,1,1407
+10.0 Professions - Leatherworking - Mail Armor Crafting - Cuffs - Child Unlock Cost,1517,1,1408
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Cowls - Child Unlock Cost,1518,1,1409
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Greaves - Child Unlock Cost,1519,1,1410
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Shirts - Child Unlock Cost,1520,1,1411
+10.0 Professions - Leatherworking - Mail Armor Crafting - Large Chainmail - Child Unlock Cost,1521,1,1412
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Armor Crafting - Child Unlock Cost,1522,1,1413
+10.0 Professions - Leatherworking - Mail Armor Crafting- Tab Unlock Cost,1523,1,19
+10.0 Professions - Leatherworking - Mail Armor Crafting - Path Spend Cost,1524,1,9
+10.0 Professions - Jewelcrafting - Enterprising - Glassware - Child Unlock Cost,1525,1,1414
+10.0 Professions - Jewelcrafting - Enterprising - Extravagancies - Child Unlock Cost,1526,1,1415
+10.0 Professions - Jewelcrafting - Enterprising - Prospecting - Child Unlock Cost,1527,1,1416
+10.0 Professions - Jewelcrafting - Enterprising - Enterprising - Child Unlock Cost,1528,1,1417
+10.0 Professions - Jewelcrafting - Enterprising- Tab Unlock Cost,1529,1,18
+10.0 Professions - Jewelcrafting - Enterprising - Path Spend Cost,1530,1,8
+10.0 Professions - Jewelcrafting - Faceting - Frost - Child Unlock Cost,1531,1,1418
+10.0 Professions - Jewelcrafting - Faceting - Fire - Child Unlock Cost,1532,1,1419
+10.0 Professions - Jewelcrafting - Faceting - Earth - Child Unlock Cost,1533,1,1420
+10.0 Professions - Jewelcrafting - Faceting - Air - Child Unlock Cost,1534,1,1421
+10.0 Professions - Jewelcrafting - Faceting - Faceting - Child Unlock Cost,1535,1,1422
+10.0 Professions - Jewelcrafting - Faceting- Tab Unlock Cost,1536,1,18
+10.0 Professions - Jewelcrafting - Faceting - Path Spend Cost,1537,1,8
+10.0 Professions - Jewelcrafting - Jeweler's Kit Mastery - Jeweler's Kit Mastery - Child Unlock Cos,1538,1,1423
+10.0 Professions - Jewelcrafting - Jeweler's Kit Mastery - Path Spend Cost,1539,1,8
+10.0 Professions - Jewelcrafting - Setting - Stone - Child Unlock Cost,1540,1,1424
+10.0 Professions - Jewelcrafting - Setting - Idols - Child Unlock Cost,1541,1,1425
+10.0 Professions - Jewelcrafting - Setting - Carving - Child Unlock Cost,1542,1,1426
+10.0 Professions - Jewelcrafting - Setting - Rings - Child Unlock Cost,1543,1,1427
+10.0 Professions - Jewelcrafting - Setting - Necklaces - Child Unlock Cost,1544,1,1428
+10.0 Professions - Jewelcrafting - Setting - Jewelry - Child Unlock Cost,1545,1,1429
+10.0 Professions - Jewelcrafting - Setting - Setting - Child Unlock Cost,1546,1,1430
+10.0 Professions - Jewelcrafting - Setting- Tab Unlock Cost,1547,1,18
+10.0 Professions - Jewelcrafting - Setting - Path Spend Cost,1548,1,8
+10.0 Professions - Leatherworking - Mail Armor Crafting - Belts - Child Unlock Cost,1549,1,1431
+10.0 Professions - Leatherworking - Mail Armor Crafting - Shoulderguards - Child Unlock Cost,1550,1,1432
+10.0 Professions - Leatherworking - Mail Armor Crafting - Boots - Child Unlock Cost,1551,1,1433
+10.0 Professions - Leatherworking - Mail Armor Crafting - Gauntlets - Child Unlock Cost,1552,1,1434
+10.0 Professions - Leatherworking - Mail Armor Crafting - Intricate Chain - Child Unlock Cost,1553,1,1435
+10.0 Professions - Leatherworking - Mail Armor Crafting - Cuffs - Child Unlock Cost,1554,1,1436
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Cowls - Child Unlock Cost,1555,1,1437
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Greaves - Child Unlock Cost,1556,1,1438
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Shirts - Child Unlock Cost,1557,1,1439
+10.0 Professions - Leatherworking - Mail Armor Crafting - Large Chainmail - Child Unlock Cost,1558,1,1440
+10.0 Professions - Leatherworking - Mail Armor Crafting - Chain Armor Crafting - Child Unlock Cost,1559,1,1441
+10.0 Professions - Leatherworking - Mail Armor Crafting- Tab Unlock Cost,1560,1,19
+10.0 Professions - Leatherworking - Mail Armor Crafting - Path Spend Cost,1561,1,9
+10.0 Professions - Leatherworking - Leatherworking Discipline - Curing and Tanning - Child Unlock C,1562,1,1442
+10.0 Professions - Leatherworking - Leatherworking Discipline - Bonding and Stitching - Child Unloc,1563,1,1443
+10.0 Professions - Leatherworking - Leatherworking Discipline - Awl Inspiring Works - Child Unlock ,1564,1,1444
+10.0 Professions - Leatherworking - Leatherworking Discipline - Shear Mastery of Leather - Child Un,1565,1,1445
+10.0 Professions - Leatherworking - Leatherworking Discipline - Leatherworking Discipline - Child U,1566,1,1446
+10.0 Professions - Leatherworking - Leatherworking Discipline- Tab Unlock Cost,1567,1,19
+10.0 Professions - Leatherworking - Leatherworking Discipline - Path Spend Cost,1568,1,9
+10.0 Professions - Leatherworking - Leather Armor Crafting - Boots - Child Unlock Cost,1569,1,1447
+10.0 Professions - Leatherworking - Leather Armor Crafting - Belts - Child Unlock Cost,1570,1,1448
+10.0 Professions - Leatherworking - Leather Armor Crafting - Gloves - Child Unlock Cost,1571,1,1449
+10.0 Professions - Leatherworking - Leather Armor Crafting - Legguards - Child Unlock Cost,1572,1,1450
+10.0 Professions - Leatherworking - Leather Armor Crafting - Embroidered Leather Armor - Child Unlo,1573,1,1451
+10.0 Professions - Leatherworking - Leather Armor Crafting - Wristwraps - Child Unlock Cost,1574,1,1452
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shoulderpads - Child Unlock Cost,1575,1,1453
+10.0 Professions - Leatherworking - Leather Armor Crafting - Helms - Child Unlock Cost,1576,1,1454
+10.0 Professions - Leatherworking - Leather Armor Crafting - Chestpieces - Child Unlock Cost,1577,1,1455
+10.0 Professions - Leatherworking - Leather Armor Crafting - Shaped Leather Armor - Child Unlock Co,1578,1,1456
+10.0 Professions - Leatherworking - Leather Armor Crafting - Leather Armor Crafting - Child Unlock ,1579,1,1457
+10.0 Professions - Leatherworking - Leather Armor Crafting- Tab Unlock Cost,1580,1,19
+10.0 Professions - Leatherworking - Leather Armor Crafting - Path Spend Cost,1581,1,9
+10.0 Professions - Leatherworking - Primordial Leatherworking - Decaying Grasp - Child Unlock Cost,1582,1,1458
+10.0 Professions - Leatherworking - Primordial Leatherworking - Bestial Primacy - Child Unlock Cost,1583,1,1459
+10.0 Professions - Leatherworking - Primordial Leatherworking - Elemental Mastery - Child Unlock Co,1584,1,1460
+10.0 Professions - Leatherworking - Primordial Leatherworking - Primordial Leatherworking - Child U,1585,1,1461
+10.0 Professions - Leatherworking - Primordial Leatherworking- Tab Unlock Cost,1586,1,19
+10.0 Professions - Leatherworking - Primordial Leatherworking - Path Spend Cost,1587,1,9
+10.0 Professions - Jewelcrafting - Enterprising - Glassware - Child Unlock Cost,1588,1,1462
+10.0 Professions - Jewelcrafting - Enterprising - Extravagancies - Child Unlock Cost,1589,1,1463
+10.0 Professions - Jewelcrafting - Enterprising - Prospecting - Child Unlock Cost,1590,1,1464
+10.0 Professions - Jewelcrafting - Enterprising - Enterprising - Child Unlock Cost,1591,1,1465
+10.0 Professions - Jewelcrafting - Enterprising- Tab Unlock Cost,1592,1,18
+10.0 Professions - Jewelcrafting - Enterprising - Path Spend Cost,1593,1,8
+10.0 Professions - Jewelcrafting - Faceting - Frost - Child Unlock Cost,1594,1,1466
+10.0 Professions - Jewelcrafting - Faceting - Fire - Child Unlock Cost,1595,1,1467
+10.0 Professions - Jewelcrafting - Faceting - Earth - Child Unlock Cost,1596,1,1468
+10.0 Professions - Jewelcrafting - Faceting - Air - Child Unlock Cost,1597,1,1469
+10.0 Professions - Jewelcrafting - Faceting - Faceting - Child Unlock Cost,1598,1,1470
+10.0 Professions - Jewelcrafting - Faceting- Tab Unlock Cost,1599,1,18
+10.0 Professions - Jewelcrafting - Faceting - Path Spend Cost,1600,1,8
+10.0 Professions - Jewelcrafting - Jeweler's Kit Mastery - Jeweler's Kit Mastery - Child Unlock Cos,1601,1,1471
+10.0 Professions - Jewelcrafting - Jeweler's Kit Mastery - Path Spend Cost,1602,1,8
+10.0 Professions - Jewelcrafting - Setting - Stone - Child Unlock Cost,1603,1,1472
+10.0 Professions - Jewelcrafting - Setting - Idols - Child Unlock Cost,1604,1,1473
+10.0 Professions - Jewelcrafting - Setting - Carving - Child Unlock Cost,1605,1,1474
+10.0 Professions - Jewelcrafting - Setting - Rings - Child Unlock Cost,1606,1,1475
+10.0 Professions - Jewelcrafting - Setting - Necklaces - Child Unlock Cost,1607,1,1476
+10.0 Professions - Jewelcrafting - Setting - Jewelry - Child Unlock Cost,1608,1,1477
+10.0 Professions - Jewelcrafting - Setting - Setting - Child Unlock Cost,1609,1,1478
+10.0 Professions - Jewelcrafting - Setting- Tab Unlock Cost,1610,1,18
+10.0 Professions - Jewelcrafting - Setting - Path Spend Cost,1611,1,8
+Group cost,1614,1,1481
+Group cost,1615,1,1482
+,1619,3,1486
+Group cost,1622,1,1492
+Group cost,1623,1,1491
+Group cost,1634,1,1513
+Group cost,1635,1,1514
+Group cost,1638,1,1518
+Group cost,1639,1,1517
+10.0 Professions - Leatherworking - Primordial Leatherworking - Decaying Grasp - Child Unlock Cost,1640,1,1519
+10.0 Professions - Leatherworking - Primordial Leatherworking - Bestial Primacy - Child Unlock Cost,1641,1,1520
+10.0 Professions - Leatherworking - Primordial Leatherworking - Elemental Mastery - Child Unlock Co,1642,1,1521
+10.0 Professions - Leatherworking - Primordial Leatherworking - Primordial Leatherworking - Child U,1643,1,1522
+10.0 Professions - Leatherworking - Primordial Leatherworking- Tab Unlock Cost,1644,1,19
+10.0 Professions - Leatherworking - Primordial Leatherworking - Path Spend Cost,1645,1,9
+Group cost,1648,1,1525
+Group cost,1649,1,1526
+Group cost,1652,1,1529
+Group cost,1653,1,1530
+Group cost,1656,1,1533
+Group cost,1657,1,1534
+10.0 Professions - Leatherworking - Primordial Leatherworking - Decaying Grasp - Child Unlock Cost,1658,1,1535
+10.0 Professions - Leatherworking - Primordial Leatherworking - Bestial Primacy - Child Unlock Cost,1659,1,1536
+10.0 Professions - Leatherworking - Primordial Leatherworking - Elemental Mastery - Child Unlock Co,1660,1,1537
+10.0 Professions - Leatherworking - Primordial Leatherworking - Primordial Leatherworking - Child U,1661,1,1538
+10.0 Professions - Leatherworking - Primordial Leatherworking- Tab Unlock Cost,1662,1,19
+10.0 Professions - Leatherworking - Primordial Leatherworking - Path Spend Cost,1663,1,9
+10.0 Professions - Leatherworking - Leatherworking Discipline - Curing and Tanning - Child Unlock C,1664,1,1539
+10.0 Professions - Leatherworking - Leatherworking Discipline - Bonding and Stitching - Child Unloc,1665,1,1540
+10.0 Professions - Leatherworking - Leatherworking Discipline - Awl Inspiring Works - Child Unlock ,1666,1,1541
+10.0 Professions - Leatherworking - Leatherworking Discipline - Shear Mastery of Leather - Child Un,1667,1,1542
+10.0 Professions - Leatherworking - Leatherworking Discipline - Leatherworking Discipline - Child U,1668,1,1543
+10.0 Professions - Leatherworking - Leatherworking Discipline- Tab Unlock Cost,1669,1,19
+10.0 Professions - Leatherworking - Leatherworking Discipline - Path Spend Cost,1670,1,9
+,1673,1,1552
+Group cost,1674,1,1553
+Group cost,1677,1,1556
+Group cost,1678,1,1557
+Group cost,1680,1,1561
+Group cost,1683,1,1564
+Group cost,1684,1,1565
+10.0 Professions - Inscription - Rune Mastery - Flawless Inks - Child Unlock Cost,1685,1,1566
+10.0 Professions - Inscription - Rune Mastery - Understanding Flora - Child Unlock Cost,1686,1,1567
+10.0 Professions - Inscription - Rune Mastery - Infinite Discovery - Child Unlock Cost,1687,1,1568
+10.0 Professions - Inscription - Rune Mastery - Perfect Practice - Child Unlock Cost,1688,1,1569
+10.0 Professions - Inscription - Rune Mastery - Rune Mastery - Child Unlock Cost,1689,1,1570
+10.0 Professions - Inscription - Rune Mastery - Path Spend Cost,1690,1,7
+Group cost,1694,1,1574
+Group cost,1695,1,1573
+Tree cost,1696,1,1574
+10.0 Professions - Inscription - Rune Mastery - Flawless Inks - Child Unlock Cost,1697,1,1575
+10.0 Professions - Inscription - Rune Mastery - Understanding Flora - Child Unlock Cost,1698,1,1576
+10.0 Professions - Inscription - Rune Mastery - Infinite Discovery - Child Unlock Cost,1699,1,1577
+10.0 Professions - Inscription - Rune Mastery - Perfect Practice - Child Unlock Cost,1700,1,1578
+10.0 Professions - Inscription - Rune Mastery - Rune Mastery - Child Unlock Cost,1701,1,1579
+10.0 Professions - Inscription - Rune Mastery- Tab Unlock Cost,1702,1,17
+10.0 Professions - Inscription - Rune Mastery - Path Spend Cost,1703,1,7
+Group cost,1706,1,1582
+Group cost,1707,1,1583
+Group cost,1710,1,1587
+Group cost,1711,1,1586
+10.0 Professions - Inscription - Archiving - Bronzescale Sigil - Child Unlock Cost,1712,1,1588
+10.0 Professions - Inscription - Archiving - Sagescale Sigil - Child Unlock Cost,1713,1,1589
+10.0 Professions - Inscription - Archiving - Emberscale Sigil - Child Unlock Cost,1714,1,1590
+10.0 Professions - Inscription - Archiving - Azurescale Sigil - Child Unlock Cost,1715,1,1591
+10.0 Professions - Inscription - Archiving - Scale Sigils - Child Unlock Cost,1716,1,1592
+10.0 Professions - Inscription - Archiving - Earth - Child Unlock Cost,1717,1,1593
+10.0 Professions - Inscription - Archiving - Air - Child Unlock Cost,1718,1,1594
+10.0 Professions - Inscription - Archiving - Frost - Child Unlock Cost,1719,1,1595
+10.0 Professions - Inscription - Archiving - Fire - Child Unlock Cost,1720,1,1596
+10.0 Professions - Inscription - Archiving - Darkmoon Mysteries - Child Unlock Cost,1721,1,1597
+10.0 Professions - Inscription - Archiving - Draconic Treatises - Child Unlock Cost,1722,1,1598
+10.0 Professions - Inscription - Archiving - Missives - Child Unlock Cost,1723,1,1599
+10.0 Professions - Inscription - Archiving - Shared Knowledge - Child Unlock Cost,1724,1,1600
+10.0 Professions - Inscription - Archiving - Archiving - Child Unlock Cost,1725,1,1601
+10.0 Professions - Inscription - Archiving- Tab Unlock Cost,1726,1,17
+10.0 Professions - Inscription - Archiving - Path Spend Cost,1727,1,7
+10.0 Professions - Inscription - Runebinding - Fauna Runes - Child Unlock Cost,1728,1,1602
+10.0 Professions - Inscription - Runebinding - Vantus Runes - Child Unlock Cost,1729,1,1603
+10.0 Professions - Inscription - Runebinding - Codexes - Child Unlock Cost,1730,1,1604
+10.0 Professions - Inscription - Runebinding - Runic Scripture - Child Unlock Cost,1731,1,1605
+10.0 Professions - Inscription - Runebinding - Staves - Child Unlock Cost,1732,1,1606
+10.0 Professions - Inscription - Runebinding - Profession Tools - Child Unlock Cost,1733,1,1607
+10.0 Professions - Inscription - Runebinding - Woodcarving - Child Unlock Cost,1734,1,1608
+10.0 Professions - Inscription - Runebinding - Runebinding - Child Unlock Cost,1735,1,1609
+10.0 Professions - Inscription - Runebinding- Tab Unlock Cost,1736,1,17
+10.0 Professions - Inscription - Runebinding - Path Spend Cost,1737,1,7
+10.0 Professions - Inscription - Archiving - Jetscale Sigil - Child Unlock Cost,1738,1,1610
+10.0 Professions - Inscription - Archiving - Bronzescale Sigil - Child Unlock Cost,1739,1,1611
+10.0 Professions - Inscription - Archiving - Sagescale Sigil - Child Unlock Cost,1740,1,1612
+10.0 Professions - Inscription - Archiving - Emberscale Sigil - Child Unlock Cost,1741,1,1613
+10.0 Professions - Inscription - Archiving - Azurescale Sigil - Child Unlock Cost,1742,1,1614
+10.0 Professions - Inscription - Archiving - Scale Sigils - Child Unlock Cost,1743,1,1615
+10.0 Professions - Inscription - Archiving - Earth - Child Unlock Cost,1744,1,1616
+10.0 Professions - Inscription - Archiving - Air - Child Unlock Cost,1745,1,1617
+10.0 Professions - Inscription - Archiving - Frost - Child Unlock Cost,1746,1,1618
+10.0 Professions - Inscription - Archiving - Fire - Child Unlock Cost,1747,1,1619
+10.0 Professions - Inscription - Archiving - Darkmoon Mysteries - Child Unlock Cost,1748,1,1620
+10.0 Professions - Inscription - Archiving - Draconic Treatises - Child Unlock Cost,1749,1,1621
+10.0 Professions - Inscription - Archiving - Missives - Child Unlock Cost,1750,1,1622
+10.0 Professions - Inscription - Archiving - Shared Knowledge - Child Unlock Cost,1751,1,1623
+10.0 Professions - Inscription - Archiving - Archiving - Child Unlock Cost,1752,1,1624
+10.0 Professions - Inscription - Archiving- Tab Unlock Cost,1753,1,17
+10.0 Professions - Inscription - Archiving - Path Spend Cost,1754,1,7
+10.0 Professions - Inscription - Archiving - Jetscale Sigil - Child Unlock Cost,1755,1,1625
+10.0 Professions - Inscription - Archiving - Bronzescale Sigil - Child Unlock Cost,1756,1,1626
+10.0 Professions - Inscription - Archiving - Sagescale Sigil - Child Unlock Cost,1757,1,1627
+10.0 Professions - Inscription - Archiving - Emberscale Sigil - Child Unlock Cost,1758,1,1628
+10.0 Professions - Inscription - Archiving - Azurescale Sigil - Child Unlock Cost,1759,1,1629
+10.0 Professions - Inscription - Archiving - Scale Sigils - Child Unlock Cost,1760,1,1630
+10.0 Professions - Inscription - Archiving - Earth - Child Unlock Cost,1761,1,1631
+10.0 Professions - Inscription - Archiving - Air - Child Unlock Cost,1762,1,1632
+10.0 Professions - Inscription - Archiving - Frost - Child Unlock Cost,1763,1,1633
+10.0 Professions - Inscription - Archiving - Fire - Child Unlock Cost,1764,1,1634
+10.0 Professions - Inscription - Archiving - Darkmoon Mysteries - Child Unlock Cost,1765,1,1635
+10.0 Professions - Inscription - Archiving - Draconic Treatises - Child Unlock Cost,1766,1,1636
+10.0 Professions - Inscription - Archiving - Missives - Child Unlock Cost,1767,1,1637
+10.0 Professions - Inscription - Archiving - Shared Knowledge - Child Unlock Cost,1768,1,1638
+10.0 Professions - Inscription - Archiving - Archiving - Child Unlock Cost,1769,1,1639
+10.0 Professions - Inscription - Archiving- Tab Unlock Cost,1770,1,17
+10.0 Professions - Inscription - Archiving - Path Spend Cost,1771,1,7
+10.0 Professions - Inscription - Archiving - Jetscale Sigil - Child Unlock Cost,1772,1,1640
+10.0 Professions - Inscription - Archiving - Bronzescale Sigil - Child Unlock Cost,1773,1,1641
+10.0 Professions - Inscription - Archiving - Sagescale Sigil - Child Unlock Cost,1774,1,1642
+10.0 Professions - Inscription - Archiving - Emberscale Sigil - Child Unlock Cost,1775,1,1643
+10.0 Professions - Inscription - Archiving - Azurescale Sigil - Child Unlock Cost,1776,1,1644
+10.0 Professions - Inscription - Archiving - Scale Sigils - Child Unlock Cost,1777,1,1645
+10.0 Professions - Inscription - Archiving - Earth - Child Unlock Cost,1778,1,1646
+10.0 Professions - Inscription - Archiving - Air - Child Unlock Cost,1779,1,1647
+10.0 Professions - Inscription - Archiving - Frost - Child Unlock Cost,1780,1,1648
+10.0 Professions - Inscription - Archiving - Fire - Child Unlock Cost,1781,1,1649
+10.0 Professions - Inscription - Archiving - Darkmoon Mysteries - Child Unlock Cost,1782,1,1650
+10.0 Professions - Inscription - Archiving - Draconic Treatises - Child Unlock Cost,1783,1,1651
+10.0 Professions - Inscription - Archiving - Missives - Child Unlock Cost,1784,1,1652
+10.0 Professions - Inscription - Archiving - Shared Knowledge - Child Unlock Cost,1785,1,1653
+10.0 Professions - Inscription - Archiving - Archiving - Child Unlock Cost,1786,1,1654
+10.0 Professions - Inscription - Archiving- Tab Unlock Cost,1787,1,17
+10.0 Professions - Inscription - Archiving - Path Spend Cost,1788,1,7
+Group cost,1793,1,1659
+Group cost,1794,1,1660
+Group cost,1797,1,1663
+Group cost,1798,1,1664
+10.0 Professions - Skinning - Tanning - Scale Mastery - Child Unlock Cost,1799,1,1665
+10.0 Professions - Skinning - Tanning - Leather Mastery - Child Unlock Cost,1800,1,1666
+10.0 Professions - Skinning - Tanning - Tanning - Child Unlock Cost,1801,1,1667
+10.0 Professions - Skinning - Tanning- Tab Unlock Cost,1802,1,21
+10.0 Professions - Skinning - Tanning - Path Spend Cost,1803,1,11
+10.0 Professions - Skinning - Harvesting - Trophy Collector - Child Unlock Cost,1804,1,1668
+10.0 Professions - Skinning - Harvesting - Meat Carver - Child Unlock Cost,1805,1,1669
+10.0 Professions - Skinning - Harvesting - Lure Crafter - Child Unlock Cost,1806,1,1670
+10.0 Professions - Skinning - Harvesting - Harvesting - Child Unlock Cost,1807,1,1671
+10.0 Professions - Skinning - Harvesting- Tab Unlock Cost,1808,1,21
+10.0 Professions - Skinning - Harvesting - Path Spend Cost,1809,1,11
+10.0 Professions - Skinning - Bait Crafter - Elemental Infusion - Child Unlock Cost,1810,1,1672
+10.0 Professions - Skinning - Bait Crafter - Mastery - Child Unlock Cost,1811,1,1673
+10.0 Professions - Skinning - Bait Crafter - Bait Crafter - Child Unlock Cost,1812,1,1674
+10.0 Professions - Skinning - Bait Crafter- Tab Unlock Cost,1813,1,21
+10.0 Professions - Skinning - Bait Crafter - Path Spend Cost,1814,1,11
+10.0 Professions - Inscription - Rune Mastery - Flawless Inks - Child Unlock Cost,1815,1,1675
+10.0 Professions - Inscription - Rune Mastery - Understanding Flora - Child Unlock Cost,1816,1,1676
+10.0 Professions - Inscription - Rune Mastery - Infinite Discovery - Child Unlock Cost,1817,1,1677
+10.0 Professions - Inscription - Rune Mastery - Perfect Practice - Child Unlock Cost,1818,1,1678
+10.0 Professions - Inscription - Rune Mastery - Rune Mastery - Child Unlock Cost,1819,1,1679
+10.0 Professions - Inscription - Rune Mastery- Tab Unlock Cost,1820,1,17
+10.0 Professions - Inscription - Rune Mastery - Path Spend Cost,1821,1,7
+10.0 Professions - Inscription - Rune Mastery - Flawless Inks - Child Unlock Cost,1822,1,1680
+10.0 Professions - Inscription - Rune Mastery - Understanding Flora - Child Unlock Cost,1823,1,1681
+10.0 Professions - Inscription - Rune Mastery - Infinite Discovery - Child Unlock Cost,1824,1,1682
+10.0 Professions - Inscription - Rune Mastery - Perfect Practice - Child Unlock Cost,1825,1,1683
+10.0 Professions - Inscription - Rune Mastery - Rune Mastery - Child Unlock Cost,1826,1,1684
+10.0 Professions - Inscription - Rune Mastery- Tab Unlock Cost,1827,1,17
+10.0 Professions - Inscription - Rune Mastery - Path Spend Cost,1828,1,7
+10.0 Professions - Inscription - Runebinding - Fauna Runes - Child Unlock Cost,1829,1,1685
+10.0 Professions - Inscription - Runebinding - Vantus Runes - Child Unlock Cost,1830,1,1686
+10.0 Professions - Inscription - Runebinding - Codexes - Child Unlock Cost,1831,1,1687
+10.0 Professions - Inscription - Runebinding - Runic Scripture - Child Unlock Cost,1832,1,1688
+10.0 Professions - Inscription - Runebinding - Staves - Child Unlock Cost,1833,1,1689
+10.0 Professions - Inscription - Runebinding - Profession Tools - Child Unlock Cost,1834,1,1690
+10.0 Professions - Inscription - Runebinding - Woodcarving - Child Unlock Cost,1835,1,1691
+10.0 Professions - Inscription - Runebinding - Runebinding - Child Unlock Cost,1836,1,1692
+10.0 Professions - Inscription - Runebinding- Tab Unlock Cost,1837,1,17
+10.0 Professions - Inscription - Runebinding - Path Spend Cost,1838,1,7
+Group cost,1841,1,1695
+Group cost,1842,1,1696
+Group cost,1845,1,1699
+Group cost,1846,1,1700
+Group cost,1849,1,1704
+Group cost,1850,1,1703
+Group cost,1853,1,1707
+Group cost,1854,1,1708
+Group cost,1857,1,1711
+Group cost,1858,1,1712
+Group cost,1861,1,1716
+Group cost,1862,1,1715
+Group cost,1865,1,1720
+Group cost,1866,1,1719
+Group cost,1869,1,1723
+Group cost,1870,1,1724
+Group cost,1873,1,1727
+Group cost,1874,1,1728
+Group cost,1877,1,1731
+Group cost,1878,1,1732
+10.0 Professions - Engineering - Explosives - Ez-Thro - Child Unlock Cost,1891,1,1741
+10.0 Professions - Engineering - Explosives - Short Fuse - Child Unlock Cost,1892,1,1742
+10.0 Professions - Engineering - Explosives - Creation - Child Unlock Cost,1893,1,1743
+10.0 Professions - Engineering - Explosives - Explosives - Child Unlock Cost,1894,1,1744
+10.0 Professions - Engineering - Explosives- Tab Unlock Cost,1895,1,15
+10.0 Professions - Engineering - Explosives - Path Spend Cost,1896,1,5
+10.0 Professions - Engineering - Function Over Form - Utility - Child Unlock Cost,1897,1,1745
+10.0 Professions - Engineering - Function Over Form - Gears for Gear - Child Unlock Cost,1898,1,1746
+10.0 Professions - Engineering - Function Over Form - Gear - Child Unlock Cost,1899,1,1747
+10.0 Professions - Engineering - Function Over Form - Function Over Form - Child Unlock Cost,1900,1,1748
+10.0 Professions - Engineering - Function Over Form- Tab Unlock Cost,1901,1,15
+10.0 Professions - Engineering - Function Over Form - Path Spend Cost,1902,1,5
+10.0 Professions - Engineering - Mechanical Mind - Novelties - Child Unlock Cost,1903,1,1749
+10.0 Professions - Engineering - Mechanical Mind - Inventions - Child Unlock Cost,1904,1,1750
+10.0 Professions - Engineering - Mechanical Mind - Mechanical Mind - Child Unlock Cost,1905,1,1751
+10.0 Professions - Engineering - Mechanical Mind- Tab Unlock Cost,1906,1,15
+10.0 Professions - Engineering - Mechanical Mind - Path Spend Cost,1907,1,5
+10.0 Professions - Engineering - Optimized Efficiency - Generalist - Child Unlock Cost,1908,1,1752
+10.0 Professions - Engineering - Optimized Efficiency - Scrapper - Child Unlock Cost,1909,1,1753
+10.0 Professions - Engineering - Optimized Efficiency - Pieces Parts - Child Unlock Cost,1910,1,1754
+10.0 Professions - Engineering - Optimized Efficiency - Optimized Efficiency - Child Unlock Cost,1911,1,1755
+10.0 Professions - Engineering - Optimized Efficiency- Tab Unlock Cost,1912,1,15
+10.0 Professions - Engineering - Optimized Efficiency - Path Spend Cost,1913,1,5
+Group cost,1916,1,1758
+Group cost,1917,1,1759
+10.0 Professions - Engineering - Explosives - Ez-Thro - Child Unlock Cost,1918,1,1760
+10.0 Professions - Engineering - Explosives - Short Fuse - Child Unlock Cost,1919,1,1761
+10.0 Professions - Engineering - Explosives - Creation - Child Unlock Cost,1920,1,1762
+10.0 Professions - Engineering - Explosives - Explosives - Child Unlock Cost,1921,1,1763
+10.0 Professions - Engineering - Explosives- Tab Unlock Cost,1922,1,15
+10.0 Professions - Engineering - Explosives - Path Spend Cost,1923,1,5
+Group cost,1926,1,1766
+Group cost,1927,1,1767
+10.0 Professions - Engineering - Function Over Form - Utility - Child Unlock Cost,1928,1,1768
+10.0 Professions - Engineering - Function Over Form - Gears for Gear - Child Unlock Cost,1929,1,1769
+10.0 Professions - Engineering - Function Over Form - Gear - Child Unlock Cost,1930,1,1770
+10.0 Professions - Engineering - Function Over Form - Function Over Form - Child Unlock Cost,1931,1,1771
+10.0 Professions - Engineering - Function Over Form- Tab Unlock Cost,1932,1,15
+10.0 Professions - Engineering - Function Over Form - Path Spend Cost,1933,1,5
+10.0 Professions - Engineering - Mechanical Mind - Novelties - Child Unlock Cost,1934,1,1772
+10.0 Professions - Engineering - Mechanical Mind - Inventions - Child Unlock Cost,1935,1,1773
+10.0 Professions - Engineering - Mechanical Mind - Mechanical Mind - Child Unlock Cost,1936,1,1774
+10.0 Professions - Engineering - Mechanical Mind- Tab Unlock Cost,1937,1,15
+10.0 Professions - Engineering - Mechanical Mind - Path Spend Cost,1938,1,5
+10.0 Professions - Engineering - Optimized Efficiency - Generalist - Child Unlock Cost,1939,1,1775
+10.0 Professions - Engineering - Optimized Efficiency - Scrapper - Child Unlock Cost,1940,1,1776
+10.0 Professions - Engineering - Optimized Efficiency - Pieces Parts - Child Unlock Cost,1941,1,1777
+10.0 Professions - Engineering - Optimized Efficiency - Optimized Efficiency - Child Unlock Cost,1942,1,1778
+10.0 Professions - Engineering - Optimized Efficiency - Path Spend Cost,1943,1,5
+10.0 Professions - Tailoring - Tailoring Mastery - Shrewd Stitchery - Child Unlock Cost,1944,1,1779
+10.0 Professions - Tailoring - Tailoring Mastery - Sparing Sewing - Child Unlock Cost,1945,1,1780
+10.0 Professions - Tailoring - Tailoring Mastery - Cloth Collection - Child Unlock Cost,1946,1,1781
+10.0 Professions - Tailoring - Tailoring Mastery - Tailoring Mastery - Child Unlock Cost,1947,1,1782
+10.0 Professions - Tailoring - Tailoring Mastery - Path Spend Cost,1948,1,12
+10.0 Professions - Tailoring - Tailoring Mastery - Shrewd Stitchery - Child Unlock Cost,1949,1,1783
+10.0 Professions - Tailoring - Tailoring Mastery - Sparing Sewing - Child Unlock Cost,1950,1,1784
+10.0 Professions - Tailoring - Tailoring Mastery - Cloth Collection - Child Unlock Cost,1951,1,1785
+10.0 Professions - Tailoring - Tailoring Mastery - Tailoring Mastery - Child Unlock Cost,1952,1,1786
+10.0 Professions - Tailoring - Tailoring Mastery - Path Spend Cost,1953,1,12
+10.0 Professions - Tailoring - Textiles - Embroidery - Child Unlock Cost,1954,1,1787
+10.0 Professions - Tailoring - Textiles - Weaving - Child Unlock Cost,1955,1,1788
+10.0 Professions - Tailoring - Textiles - Spinning - Child Unlock Cost,1956,1,1789
+10.0 Professions - Tailoring - Textiles - Textiles - Child Unlock Cost,1957,1,1790
+10.0 Professions - Tailoring - Textiles- Tab Unlock Cost,1958,1,22
+10.0 Professions - Tailoring - Textiles - Path Spend Cost,1959,1,12
+10.0 Professions - Tailoring - Draconic Needlework - Timeweaving - Child Unlock Cost,1960,1,1791
+10.0 Professions - Tailoring - Draconic Needlework - Chronocloth Tailoring - Child Unlock Cost,1961,1,1792
+10.0 Professions - Tailoring - Draconic Needlework - Azureweaving - Child Unlock Cost,1962,1,1793
+10.0 Professions - Tailoring - Draconic Needlework - Azureweave Tailoring - Child Unlock Cost,1963,1,1794
+10.0 Professions - Tailoring - Draconic Needlework - Draconic Needlework - Child Unlock Cost,1964,1,1795
+10.0 Professions - Tailoring - Draconic Needlework- Tab Unlock Cost,1965,1,22
+10.0 Professions - Tailoring - Draconic Needlework - Path Spend Cost,1966,1,12
+10.0 Professions - Tailoring - Garmentcrafting - Belts - Child Unlock Cost,1967,1,1796
+10.0 Professions - Tailoring - Garmentcrafting - Armbands - Child Unlock Cost,1968,1,1797
+10.0 Professions - Tailoring - Garmentcrafting - Mantles - Child Unlock Cost,1969,1,1798
+10.0 Professions - Tailoring - Garmentcrafting - Embellishments - Child Unlock Cost,1970,1,1799
+10.0 Professions - Tailoring - Garmentcrafting - Cloaks - Child Unlock Cost,1971,1,1800
+10.0 Professions - Tailoring - Garmentcrafting - Hats - Child Unlock Cost,1972,1,1801
+10.0 Professions - Tailoring - Garmentcrafting - Footwear - Child Unlock Cost,1973,1,1802
+10.0 Professions - Tailoring - Garmentcrafting - Gloves - Child Unlock Cost,1974,1,1803
+10.0 Professions - Tailoring - Garmentcrafting - Outerwear - Child Unlock Cost,1975,1,1804
+10.0 Professions - Tailoring - Garmentcrafting - Leggings - Child Unlock Cost,1976,1,1805
+10.0 Professions - Tailoring - Garmentcrafting - Robes - Child Unlock Cost,1977,1,1806
+10.0 Professions - Tailoring - Garmentcrafting - Outfits - Child Unlock Cost,1978,1,1807
+10.0 Professions - Tailoring - Garmentcrafting - Garmentcrafting - Child Unlock Cost,1979,1,1808
+10.0 Professions - Tailoring - Garmentcrafting- Tab Unlock Cost,1980,1,22
+10.0 Professions - Tailoring - Garmentcrafting - Path Spend Cost,1981,1,12
+10.0 Professions - Tailoring - Garmentcrafting - Belts - Child Unlock Cost,1982,1,1809
+10.0 Professions - Tailoring - Garmentcrafting - Armbands - Child Unlock Cost,1983,1,1810
+10.0 Professions - Tailoring - Garmentcrafting - Mantles - Child Unlock Cost,1984,1,1811
+10.0 Professions - Tailoring - Garmentcrafting - Embellishments - Child Unlock Cost,1985,1,1812
+10.0 Professions - Tailoring - Garmentcrafting - Cloaks - Child Unlock Cost,1986,1,1813
+10.0 Professions - Tailoring - Garmentcrafting - Hats - Child Unlock Cost,1987,1,1814
+10.0 Professions - Tailoring - Garmentcrafting - Footwear - Child Unlock Cost,1988,1,1815
+10.0 Professions - Tailoring - Garmentcrafting - Gloves - Child Unlock Cost,1989,1,1816
+10.0 Professions - Tailoring - Garmentcrafting - Outerwear - Child Unlock Cost,1990,1,1817
+10.0 Professions - Tailoring - Garmentcrafting - Leggings - Child Unlock Cost,1991,1,1818
+10.0 Professions - Tailoring - Garmentcrafting - Robes - Child Unlock Cost,1992,1,1819
+10.0 Professions - Tailoring - Garmentcrafting - Outfits - Child Unlock Cost,1993,1,1820
+10.0 Professions - Tailoring - Garmentcrafting - Garmentcrafting - Child Unlock Cost,1994,1,1821
+10.0 Professions - Tailoring - Garmentcrafting- Tab Unlock Cost,1995,1,22
+10.0 Professions - Tailoring - Garmentcrafting - Path Spend Cost,1996,1,12
+Group cost,1999,1,1825
+Group cost,2000,1,1824
+10.0 Professions - Engineering - Optimized Efficiency - Generalist - Child Unlock Cost,2001,1,1826
+10.0 Professions - Engineering - Optimized Efficiency - Scrapper - Child Unlock Cost,2002,1,1827
+10.0 Professions - Engineering - Optimized Efficiency - Pieces Parts - Child Unlock Cost,2003,1,1828
+10.0 Professions - Engineering - Optimized Efficiency - Optimized Efficiency - Child Unlock Cost,2004,1,1829
+10.0 Professions - Engineering - Optimized Efficiency - Path Spend Cost,2005,1,5
+10.0 Professions - Engineering - Explosives - Ez-Thro - Child Unlock Cost,2006,1,1830
+10.0 Professions - Engineering - Explosives - Short Fuse - Child Unlock Cost,2007,1,1831
+10.0 Professions - Engineering - Explosives - Creation - Child Unlock Cost,2008,1,1832
+10.0 Professions - Engineering - Explosives - Explosives - Child Unlock Cost,2009,1,1833
+10.0 Professions - Engineering - Explosives- Tab Unlock Cost,2010,1,15
+10.0 Professions - Engineering - Explosives - Path Spend Cost,2011,1,5
+10.0 Professions - Engineering - Function Over Form - Utility - Child Unlock Cost,2012,1,1834
+10.0 Professions - Engineering - Function Over Form - Gears for Gear - Child Unlock Cost,2013,1,1835
+10.0 Professions - Engineering - Function Over Form - Gear - Child Unlock Cost,2014,1,1836
+10.0 Professions - Engineering - Function Over Form - Function Over Form - Child Unlock Cost,2015,1,1837
+10.0 Professions - Engineering - Function Over Form- Tab Unlock Cost,2016,1,15
+10.0 Professions - Engineering - Function Over Form - Path Spend Cost,2017,1,5
+10.0 Professions - Engineering - Mechanical Mind - Novelties - Child Unlock Cost,2018,1,1838
+10.0 Professions - Engineering - Mechanical Mind - Inventions - Child Unlock Cost,2019,1,1839
+10.0 Professions - Engineering - Mechanical Mind - Mechanical Mind - Child Unlock Cost,2020,1,1840
+10.0 Professions - Engineering - Mechanical Mind- Tab Unlock Cost,2021,1,15
+10.0 Professions - Engineering - Mechanical Mind - Path Spend Cost,2022,1,5
+,2025,1,1843
+,2026,1,1844
+Group cost,2030,1,1847
+Group cost,2031,1,1847
+Group cost,2032,1,1848
+,2035,1,1851
+,2036,1,1852
+Group cost,2039,1,1855
+Group cost,2040,1,1856
+Group cost,2043,1,1859
+Group cost,2044,1,1860
+Group cost,2047,1,1863
+Group cost,2048,1,1864
+Group cost,2051,1,1867
+Group cost,2052,1,1868
+10.0 Professions - Blacksmithing - Anvil Mastery - Poignant Plans - Child Unlock Cost,2053,1,1869
+10.0 Professions - Blacksmithing - Anvil Mastery - Safety Smithing - Child Unlock Cost,2054,1,1870
+10.0 Professions - Blacksmithing - Anvil Mastery - Hammer Control - Child Unlock Cost,2055,1,1871
+10.0 Professions - Blacksmithing - Anvil Mastery - Path Spend Cost,2056,1,1
